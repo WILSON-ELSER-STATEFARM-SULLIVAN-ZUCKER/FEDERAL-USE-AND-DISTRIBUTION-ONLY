@@ -37,17 +37,15 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AgwH2omenQPCvT0OYO
 <br>PROCESSED
 <br>
 https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=SVnk_PLUS_wwn_PLUS_akZLr2HagUrng==&ret=D&docketId=rbJs1u78EZo22UbkaVdrZg==
-<br> CONFIRMATION PROCESSED BY COUNSELORS OF SULLIVAN PROPERTIES, LP
-
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * &nbsp;&nbsp;&nbsp;&nbsp;
-
+<br> CONFIRMATION PROCESSED BY THE EXECUTIVES AND COUNSELORS OF <br><BR>* SULLIVAN PROPERTIES, LP<br>* SULLIVAN GP, LLC<br>* MANHATTAN SKYLINE MANAGEMENT CORP.<br>
 <br> https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=UZsCx4RNLy/6V9gf1BkpTQ==
 
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * THEN DISTRIBUTED BY AND BETWEEN THE MATERIAL PARTIES [ MULE 1 ]<br>
 
 <br> "The NYSCEF website has received an electronic filing on 08/04/2020 02:32 PM"<br>
-<br><br> OR 
-E-mail Notifications: An email regarding this filing has been sent to the following on 08/04/2020 02:32 PM: SHARI LASKOWITZ - slaskowitz@ingramllp.com
+<br><br>
+E-mail Notifications: An email regarding this filing has been sent to the following on 08/04/2020 02:32 PM<br>
+SHARI LASKOWITZ - slaskowitz@ingramllp.com
 
 ---
 <MOV DISTRIBUTION>
