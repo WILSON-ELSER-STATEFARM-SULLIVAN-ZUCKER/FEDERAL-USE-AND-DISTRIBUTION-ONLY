@@ -64,11 +64,10 @@ NYSCEF DOC. NO. 225 RECEIVED NYSCEF: 08/04/2020
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1BkpTQ==
 
 ## FILED: NEW YORK COUNTY CLERK 08/04/2020 09:10 AM INDEX NO. 153974/2020
-RECEIVED NYSCEF: 08/04/2020
 
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JjKiWNUTBeipcESQfFiwVQ=
 
-	
+
 E-mail Notifications An email regarding this filing has been sent to the following on 08/04/2020 02:32 PM:
     SHARI LASKOWITZ - slaskowitz@ingramllp.com
 	
@@ -84,6 +83,7 @@ Phone: (646) 386-3033 | Fax: (212) 401-9146 | Website: www.nycourts.gov/efile
 ANNEXED IN THE LOAN DOCKETS AND IN NYSCEF 153974/2020
 	    
 §21. Stolen or counterfeit nature of property for certain crimes defined
+
 (a) Wherever in this title it is an element of an offense that-
   (1) any property was embezzled, robbed, stolen, converted, taken, altered, counterfeited, falsely made, forged, or obliterated; and
   (2) the defendant knew that the property was of such character;
@@ -229,6 +229,8 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1B
 (1) if the officer or employee first advises the Government official responsible for appointment to his or her position of the nature and circumstances of the judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter and makes full disclosure of the financial interest and receives in advance a written determination made by such official that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the Government may expect from such officer or employee;
 (2) if, by regulation issued by the Director of the Office of Government Ethics, applicable to all or a portion of all officers and employees covered by this section, and published in the Federal Register, the financial interest has been exempted from the requirements of subsection (a) as being too remote or too inconsequential to affect the integrity of the services of the Government officers or employees to which such regulation applies;
 (3) in the case of a special Government employee serving on an advisory committee within the meaning of the Federal Advisory Committee Act (including an individual being considered for an appointment to such a position), the official responsible for the employee's appointment, after review of the financial disclosure report filed by the individual pursuant to the Ethics in Government Act of 1978, certifies in writing that the need for the individual's services outweighs the potential for a conflict of interest created by the financial interest involved...
+
+
 ---
 ALL FILES FOLLOWED THE FOLLOWING PROCEDURE / UPON BEING ADMITTED OF DENIED.
 STEP 1: COMMUNICATIONS BETWEEN LOCATION 1 & LOCATION 2 [ LOGGED] EX-POST IN 2021
