@@ -251,14 +251,15 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Oioy2FAQ_PLUS_uuEa
 ## FAXED THE PRIOR MSG TO NY SUPREME COURTS, CIVIL BRANCH.
 https://faxzero.com/status/31316917/6b34c3ad9620003256df358c638765fc2ae387cc
 	*** 	***	***
-Your fax (ID: #31316917) to VARIOUS at 212-401-9146 
-	has been delivered successfully at 12:12 AM 
-	Eastern Daylight Time on June 26th, 2022
+Your fax (ID: #31316917) to VARIOUS at 212-401-9146 has been delivered successfully at 12:12 AM EST on June 26th, 2022
 	[ 50074 EAST ++ ]
 
-The content of your fax included 1 page of coversheet with your text and 3 pages of attached documents.
 
-Be sure to follow up with the recipient to make sure that the fax is legible and is delivered to the right person in the office. Thank you for using FaxZero.com
+https://faxzero.com/status/30246810/5331540dcefa70818b47fb597bf6a69acfd106be
+	*** 	***	***
+Your fax (ID: #30246810) to DONALD ZUCKER at 2125869867 has been delivered successfully at 9:50 PM EST on December 1st, 2021.
+	
+---
 	
 # CASE FILE INFORMATION DISTRIBUTED - BY AND BETWEEN ALL RELEVANT PARTIES
 *** FDIC-01413744, LOCATION 1
