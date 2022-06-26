@@ -1,4 +1,4 @@
-USC 18. VIOLATIONS ANNEXED IN NYSCEF 153974/2020 [ LOAN 50074 ] 
+## USC 18. VIOLATIONS ANNEXED IN NYSCEF 153974/2020 [ LOAN 50074 ] 
 
 §2. - Principals
 		(a) Whoever commits an offense against the United States or aids, abets, counsels, commands, induces or procures its commission, is punishable as a principal.
@@ -330,51 +330,6 @@ LOAN DOCKETS, ASSIGNMENT OF UNLAWFULLY REPRESENTED INCOME (USC 18.21)
 
 [LOCATION 1]  @COLUMBIA.EDU<br>
 * Lewisohn Hall, 2970 Broadway, 4TH FLOOR, New York, NY 10027
-
-![image](https://user-images.githubusercontent.com/108204659/175803674-dc85ce47-c834-4024-bc60-8ded1a893555.png)
-	
-
-![PERMIT NONE](https://user-images.githubusercontent.com/70865813/166412249-b4f53181-4497-4e23-b1f7-7482261497e2.PNG)
-	
-	
-SEC FILINGS
-PERIOD_ 2020-11-30 FILER_ 000009371
-PERIOD_ 2021-11-30 FILER_ 000009371
-
-![image](https://user-images.githubusercontent.com/108204659/175807385-7fddaa44-5d5b-4b7e-84be-0b16234ef629.png)
-	
-	
-	GOODNIGHT@
-
-![image](https://user-images.githubusercontent.com/108204659/175807432-3e95c7fa-a2e5-49a5-b0c9-ee5d9927fddd.png)
-
----
-![image](https://user-images.githubusercontent.com/108204659/175807438-43e539c5-b627-42af-8405-17e521874458.png)
-
----
-	
-![image](https://user-images.githubusercontent.com/108204659/175807450-6f9b62a4-0810-4252-aa9b-4223b24a08e8.png)
-	
----
-US 26... AIDING AND ABETING, AS COUNSELORS AND ACCESSORIES.
-	
-![image](https://user-images.githubusercontent.com/108204659/175807465-884d697f-ee44-4abf-b397-d7618bd013db.png)
-
-![image](https://user-images.githubusercontent.com/108204659/175807473-19f7c9b6-484b-4a5b-8761-853651f6e86d.png)
-
-![image](https://user-images.githubusercontent.com/108204659/175807488-6d0afaaa-7446-47d0-8195-e93e85c3ccb4.png)
-	
-![image](https://user-images.githubusercontent.com/108204659/175807493-c409f891-402b-4beb-9c88-e7a8bd2e8459.png)
-	
-HERE ARE THE LONG-TERM ACCESSORIES OF SULLIVAN PROPERTIES AND CO, WHO ALSO MAY OR MAY NOT BE ACTUAL PEOPLE
-- HOWEVER FILED AFFIDAVITS WHICH DEMONSTRATE THEIR "AWARENESS" TO WHAT IS GOING ON, WHEN ITS CONVENIENT IN 10-MINUTE INTERVALS REPORTED ON MY PERSONAL AFFAIRS AND LIFE, AS PURPORTED - NOTWITHSTANDING HAVING OBSERVED ME "...BANGING ON THE RADIATOR, AND OTHER ACTIVIES..." AS MY DOOR MUST HAVE BEEN TRANSPARENT.
-![image](https://user-images.githubusercontent.com/108204659/175807691-fee966a9-cad9-4016-9195-4bd49c507898.png)
-
-
-MORGAN STANLEY
-SEE ALSO, DECEMBER 18TH, 2021 NOTICE TO THEIR INSITUTIONAL SALES DESK, IMMEDIATELY WAS DISSEMINATED AFTER FILING A TCR REPORT ON NOVEMBER 13, 2021
-	
-![image](https://user-images.githubusercontent.com/108204659/175807519-d2cb273f-43c7-4cc9-a500-e5b8bb2bf9f2.png)
 
 STATE FARM
 FILED THEIR OWN PAYMENTS TO SATISFY THE UMBRELLA OF CHARGES UNDER USC 18.215
