@@ -682,3 +682,67 @@ Subject: Fwd:Fwd:Fwd:Fwd:Fwd:Fwd:STATE FARM - BLOOMINGTON » Northern Trust Comp
 
 
 << HAPPY HOLIDAYS and Merry xmas >>
+
+---
+	
+*** 2021-2022 ANNUAL FILING
+https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml
+ 
+... WITHOUT BEING REGISTERED IN THE STATE OF NEW YORK TO CONDUCT ANY FORM OF INVESTMENT BANKING, THE DIRECTOR OF STATE FARM INSURANCE LLC AS THE MANAGING MEMBER OF STATE FARM MORTGAGE LLC
+    - IS ALSO NOW HOLDING A NOTE "NOT COVERS" AS A FIDUCIARY WHICH HOLDS THE TAX LIABILITY, AND AVOIDANCE TO PROSECUTION WHEREBY THE PREMIUMS AND INSURANCE COLLECTED ON A LETTER OF CREDIT...
+    HOWEVER "INDEMNIFIED...BY "SULLIVAN PROPERTIES LP" WHO HAS ASSURED IN WRITING THAT THEY WILL REIMBURSE "STATE FARM" IN THE EVENT OF A DEFAULT, OR LATE PAYMENT.
+ANNEXED IN NYSCEF 153974/2020
+ 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IY8iDH_PLUS_UpVanEtcRioef3A==
+ 
+ 
++++ I SENT THIS TO THE SUPREME COURT JUSTICES INDEPENDENTLY IN NOVEMBER AS WELL, BTW.
+ 
+NOTICE TO STATE FARM:
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=n_PLUS_CvSQR36fqPKko6L47FFQ==
+ 
+THE FAILED TO DISCLOSE TO NOT GET FINED IN TEXAS?
+    THEY  ALSO FAILED DISCLOSE IT FOR THE NEW INVESTORS OF THE TICKERS BELOW AFTER LOSING THE UPPER BOUND OF $940,000,000.00 WITH RESPECT TO BRK-B IS NOT A JOB WELL DONE, IN-DEED.
+        TO PROTECT TAX EVASION AND THE FINES, PENALTIES AND CERTAIN PRISON TIME...
+    WHILE COLLECTING PREMIUMS AND INTEREST FOR THE PROPERTIES WHICH ARE GOING TO NEED DENTURES ("FINANCIALLY") UPON REALIZING THEY "STATE FARM" IS LIABLE FOR 5 OTHERS UNDER 26 CFR § 1.6662
+- ACCOUNTED FOR, AND BY YOURS TRULY - WAS ANNEXED IN THE MATTER OF 153974/2020 WHICH ANY GENERAL COUNSELOR OF LAW WOULD UNDERSTAND IN THEIR FIDUCIARY ROLES, NOTWITHSTANDING AN INVESTMENT PROFESSIONAL.
+P.S. #GOCARDS...
+ 
+Instructions.
+1. Item G.1.a.i. Legal proceedings.
+    (a) If the Registrant responded "YES" to Item B.11.a., provide a brief description of the proceedings.
+        -- As part of the description, provide the case or docket number (if any), and the full names of the principal parties to the proceeding.
+    (b) If the Registrant responded "YES" to Item B.11.b., identify the proceeding and give its date of termination.
+ 
+2. Item G.1.a.ii.     Provision of financial support.
+If the Registrant responded "YES" to Item B.14., provide the following information (unless the Registrant is a Money Market Fund):
+    (a) Description of nature of support.
+    (b) Person providing support.
+    (c) Brief description of relationship between the person providing support and the Registrant.
+    (d) Date support provided.
+    (e) Amount of support.
+    (f) Security supported (if applicable). Disclose the full name of the issuer, the title of the issue (including coupon or yield, if applicable) and at least two identifiers, if available (e.g., CIK, CUSIP, ISIN, LEI).
+    (g) Value of security supported on date support was initiated (if applicable).
+    (h) Brief description of reason for support.
+    (i) Term of support.
+    (j) Brief description of any contractual restrictions relating to support.
+ 
+3. Item G.1.a.iii.
+ 
+Independent public accountant's report on internal control (management investment companies other than small business investment companies only). Each management investment company shall furnish a report of its independent public accountant on the company's system of internal accounting controls. The accountant's report shall be based on the review, study and evaluation of the accounting system, internal accounting controls, and procedures for safeguarding securities made during the audit of the financial statements for the reporting period. The report should disclose any material weaknesses in: (a) the accounting system; (b) system of internal accounting control; or (c) procedures for safeguarding securities which exist as of the end of the Registrant's fiscal year.
+The accountant's report shall be furnished as an exhibit to the form and shall: (1) be addressed to the Registrant's shareholders and board of directors; (2) be dated; (3) be signed manually; and (4) indicate the city and state where issued.
+Attachments that include a report that discloses a material weakness should include an indication by the Registrant of any corrective action taken or proposed.
+The fact that an accountant's report is attached to this form shall not be regarded as acknowledging any review of this form by the independent public accountant.
+    4. Item G.1.a.iv. Change in accounting principles and practices. If the Registrant responded "YES" to Item B.21, provide an attachment that describes the change in accounting principles or practices, or the change in the method of applying any such accounting principles or practices. State the date of the change and the reasons therefor. A letter from the Registrant's independent accountants, approving or otherwise commenting on the change, shall accompany the description.
+    5. Item G.1.a.v. Information required to be filed pursuant to exemptive orders. File as an attachment any information required to be reported on Form N-CEN or any predecessor form to Form N-CEN (e.g., Form N-SAR) pursuant to exemptive orders issued by the Commission and relied on by the Registrant.
+    6. Item G.1.a.vi. Other information required to be included as an attachment pursuant to Commission rules and regulations. File as an attachment any other information required to be included as an attachment pursuant to Commission rules and regulations.
+    Pursuant to the requirements of the Investment Company Act of 1940, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+Instructions to Item C.16 and Item C.17.
+ 
+ 
+https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml
+ 
+https://www.sec.gov/Archives/edgar/data/0000093715/000119312521278180/d222043dn8f.htm
+ 
