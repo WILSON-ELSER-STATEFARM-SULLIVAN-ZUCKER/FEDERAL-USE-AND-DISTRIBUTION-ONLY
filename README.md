@@ -15,6 +15,8 @@ Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600
 150 East 42nd Street 19th Floor, New York, NY 10017
 Filed: 07/21/2020
     
+![image](https://user-images.githubusercontent.com/108204659/175829742-7d60d6ed-2321-4f24-8727-ac65e2beb682.png)
+
 [NYSCEF INDEX NO. 153974/2020]
 
 # VIOLATION OF PRIVACY AND BREACH OF DUTIES
