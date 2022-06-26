@@ -1,7 +1,5 @@
-👀 Hi
-📫 How to reach me: YOU ALREADY KNOW HOW #50074
-TITLE 18 - CRIMES AND CRIMINAL PROCEDURE
-
+USC 18. VIOLATIONS ANNEXED IN NYSCEF MATTER 153974/2020
+---
 §2. - Principals
 		(a) Whoever commits an offense against the United States or aids, abets, counsels, commands, induces or procures its commission, is punishable as a principal.
 		(b) Whoever willfully causes an act to be done which if directly performed by him or another would be an offense against the United States, is punishable as a principal.
@@ -16,13 +14,13 @@ TITLE 18 - CRIMES AND CRIMINAL PROCEDURE
 Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600
 
 150 East 42nd Street 19th Floor, New York, NY 10017
-
-
 Filed: 07/21/2020
-INDEX NO. 153974/2020
+    
+[NYSCEF INDEX NO. 153974/2020]
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
 # VIOLATION OF PRIVACY AND BREACH OF DUTIES
 *** Filed: 07/21/2020
+   
 https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
 
 # PROCESSED
@@ -55,3 +53,6 @@ E-mail Notifications An email regarding this filing has been sent to the followi
 Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600 150 East 42nd Street 19th Floor, New York, NY 10017
 
 Hon. Milton A. Tingling, New York County Clerk and Clerk of the Supreme Court NYSCEF Resource Center, nyscef@nycourts.gov Phone: 646-386-5956 Website: http://www.nycourts.gov/courts/1jd/supctmanh/county_clerk_operations.shtml Phone: (646) 386-3033 | Fax: (212) 401-9146 | Website: www.nycourts.gov/efile
+	
+property report (see also: Miwa and Teschman) Assignment to Zucker 0526 	Filed: 08/04/2020 	Confirmation Notice
+
