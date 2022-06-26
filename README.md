@@ -27,16 +27,24 @@ https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=E0CKxALt/dD_PLU
 
 [2/16/2022 11:57 PM](https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/files/8608620/000000000000000000000000000000000000000000000.pdf)
 
-*** SOMEONE ALSO HAD A PROBLEM WITH THE EMAIL ADDRESS -- I ASSUME --- AND HAD IT DEACTIVATED.
+*** SOMEONE ALSO HAD A PROBLEM WITH THE EMAIL ADDRESS  --- AND HAD IT DEACTIVATED.
 
 [ASHLEY.HUMPHRIES@WILSONELSER.COM](https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/files/8608609/24.JAN.2022.-.ASHLEY.HUMPHRIES.YUZERS.pdf)
 
 FILED IN NYSCEF MATTER 153974/2020
 
 
+[DOCKET NO. 225](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xBYJ69pjIuDxBegralE8Uw==)<br>
+[DOCKET NO. 231](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Wx2R9sKfno_PLUS_ol5jFakV9g==)<br>
+[DOCKET NO. 232](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=72GIYXnN1f/CSjCYtDxKUw==)<br>
+[DOCKET NO. 233](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=G5D0bfOIy4SeSXS47aSWbw==)<br>
+[DOCKET NO. 234](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AgwH2omenQPCvT0OYOE3Rg==)<br>
+[DOCKET NO. 235](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Oioy2FAQ_PLUS_uuEatGhmc4JnA==)<br>
 
+[GIS TAX-LOT 508, LOT 11](http://gis.nyc.gov/taxmap/map.htm?z=11&p=983515,203704&a=DTM&c=dtm&f=BUILDING,CONDO_RANGE,LOT_FACE_SMALL,PARK_PROPERTY,ZIP_CODE&s=l:MANHATTAN,503,8,EVERY_BBL)
+[DOCKET NO. 308](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==)
 [DOCKET NO. 309](https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/files/8608700/153974_2020_S__309.pdf)
-
+[DOCKET NO. 315](https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=gcMSDaFzm0ynPeXZKSHgLQ==)
 [DOCKET NO. 382](https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/files/8608665/153974_2020_382.6MM.AGREEMENT.pdf)
 
 ## NO CERTIFICATE OF OCCUPANCY IN AUGUST, 2020
