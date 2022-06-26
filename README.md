@@ -347,4 +347,5 @@ FILED THEIR OWN PAYMENTS TO SATISFY THE UMBRELLA OF CHARGES UNDER USC 18.215
 
 ![image](https://user-images.githubusercontent.com/108204659/175807575-0f6343e2-80e8-42d5-9b9b-52bf35010c0f.png)
 
-
+respectfully, FILED [ by yours truly]
+[docket 315](https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=gcMSDaFzm0ynPeXZKSHgLQ==)
