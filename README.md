@@ -10,7 +10,6 @@ USC 18. VIOLATIONS ANNEXED IN NYSCEF 153974/2020 [ LOAN 50074 ]
 §4. Misprision of felony
 		Whoever, having knowledge of the actual commission of a felony cognizable by a court of the United States, conceals and does not as soon as possible make known the same to some judge or other person in civil or military authority under the United States, shall be fined under this title or imprisoned not more than three years, or both.	
 
-
 Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600
 
 150 East 42nd Street 19th Floor, New York, NY 10017
@@ -27,6 +26,8 @@ FILED: NEW YORK COUNTY CLERK 07/21/2020 04:17 AM &nbsp;&nbsp;&nbsp;&nbsp;* * * *
 https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
 
 
+FILED IN NYSCEF MATTER 153974/2020
+[DOCKET NO. 382](https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/files/8608665/153974_2020_382.6MM.AGREEMENT.pdf)
 
 ## NO CERTIFICATE OF OCCUPANCY IN AUGUST, 2020
 FILED: NEW YORK COUNTY CLERK 08/04/2020 09:10 AM &nbsp;&nbsp;&nbsp;&nbsp;* * * * * NYSCEF CASE: 153974/2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * &nbsp;&nbsp;&nbsp;&nbsp; DOC. NO. 230
@@ -321,3 +322,6 @@ LOAN DOCKETS, ASSIGNMENT OF UNLAWFULLY REPRESENTED INCOME (USC 18.21)
 * Lewisohn Hall, 2970 Broadway, 4TH FLOOR, New York, NY 10027
 
 ![image](https://user-images.githubusercontent.com/108204659/175803674-dc85ce47-c834-4024-bc60-8ded1a893555.png)
+	
+
+
