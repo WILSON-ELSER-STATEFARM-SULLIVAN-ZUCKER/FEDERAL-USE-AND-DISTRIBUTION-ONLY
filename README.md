@@ -1156,8 +1156,7 @@ Base Cap Rate: Which is the Department of Finance's estimate of the rate of retu
 INFORMED
 ![zJJdA5K2U8s0Auzo](https://user-images.githubusercontent.com/108204659/175826294-ced29b37-d2de-4fe4-896c-ec6a894c1cd7.png)
 
-HAD TO TRACK MY ASSETS FROM VAPORIZING AS WELL.
-![image](https://user-images.githubusercontent.com/108204659/175826315-2a9fa573-b3aa-4ccb-917e-19c22cd4f54e.png)
+
 
 THEY DID NOT HAVE AN ISSUE FILING AND TALKING ABOUT MATTERS IN 2020...
 https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/11
