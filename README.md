@@ -127,7 +127,8 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Wx2R9sKfno_PLUS_o
 Miwako Messer (AFFIDAVIT) IS REPORTED AS A 25 YEAR AFFILIATE OF THE PLAINTIFF 	
 	Filed: 08/04/2020 	Confirmation Notice
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=72GIYXnN1f/CSjCYtDxKUw== 	
-	Received: 08/04/2020 	 
+	Received: 08/04/2020 	
+
  233  	EXHIBIT(S)  - MW1  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
 Affidavit of Miwako Messer SHOULD BE CONSIDERED AS WELL ORCHESTRATED 	
 	Filed: 08/04/2020 		Confirmation Notice
@@ -145,3 +146,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Oioy2FAQ_PLUS_uuEa
 	Received: 08/04/2020 	 
 
 <MOV DISTRIBUTION WITHOUT CONSENT>
+[Read- [SLASKOWITZINGRAMLLP.COM---WILSONELSER---ZUCKER--SCCS--SGO@COLUMBIA.EDU] CONFIRMED.zip](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8985954/Read-.SLASKOWITZINGRAMLLP.COM---WILSONELSER---ZUCKER--SCCS--SGO%40COLUMBIA.EDU.CONFIRMED.zip)
