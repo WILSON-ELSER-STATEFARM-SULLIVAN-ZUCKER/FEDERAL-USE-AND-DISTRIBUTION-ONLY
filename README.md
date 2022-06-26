@@ -41,7 +41,9 @@ https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=SVnk_PLUS_wwn_PLU
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * THEN DISTRIBUTED BY AND BETWEEN THE MATERIAL PARTIES [ MULE 1 ]<br>
 
 TO SATISFY USC 18.2, 18.225, AND UNDER 18.21 - WILLFULLY AND KNOWINGLY TRIED TO OBSTRUCT THE MATERIAL FACTS FROM BEING KNOWN BY THE PUBLIC
->> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==
+
+DOKCET 399
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==
 
 <br> "The NYSCEF website has received an electronic filing on 08/04/2020 02:32 PM"<br>
 <br><br>
@@ -52,7 +54,7 @@ SHARI LASKOWITZ - slaskowitz@ingramllp.com
 
 <MOV DISTRIBUTION>
 BY AND BETWEEN THE WILSON ELSER LAW FIRM, AND ITS REPRESENTATIVES.
-<br><br> PARITICPATED AND ALSO NOTARIZED SEVERAL AFFIDAVITS THROUGHOUT THE PROCEEDINGS OF NYSCEF 153974/2020<br>
+<br><br> PARTICPATED AND ALSO NOTARIZED SEVERAL AFFIDAVITS THROUGHOUT THE PROCEEDINGS OF NYSCEF 153974/2020<br>
 <br><br>
 
 Counselor: Ashley Humphries | ASHLEY.HUMPHRIES@WILSONELSER.COM | 9084337463
@@ -60,12 +62,13 @@ Counselor: Ashley Humphries | ASHLEY.HUMPHRIES@WILSONELSER.COM | 9084337463
 ## FILED: NEW YORK COUNTY CLERK 08/04/2020 02:32 PM
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xBYJ69pjIuDxBegralE8Uw==
 
-NYSCEF DOC. NO. 225 RECEIVED NYSCEF: 08/04/2020
+NYSCEF DOC. NO. 225
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1BkpTQ==
 
 ## FILED: NEW YORK COUNTY CLERK 08/04/2020 09:10 AM INDEX NO. 153974/2020
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JjKiWNUTBeipcESQfFiwVQ=
+	
+NYSCEF DOC. NO. 230
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JjKiWNUTBeipcESQfFiwVQ==
 
 
 E-mail Notifications An email regarding this filing has been sent to the following on 08/04/2020 02:32 PM:
@@ -210,7 +213,10 @@ FILED: NEW YORK COUNTY CLERK 08/09/2020 02:24 AM INDEX NO. 153974/2020
 NYSCEF DOC. NO. 314 RECEIVED NYSCEF: 08/09/2020
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==
 
-[MULE]
+	
+# VIDEO.MOV DISTRIBUTION BY AND BETWEEN [@INGRAMLLP.COM] AND [@WILSONELSER.COM]
+	
+[ MULE 1 ] [ MULE 2 ]
 FILED: NEW YORK COUNTY CLERK 08/04/2020 02:32 PM INDEX NO. 153974/2020
 NYSCEF DOC. NO. 287 RECEIVED NYSCEF: 08/04/2020
 Sent: Sunday, July 19, 2020 5:49 PM
