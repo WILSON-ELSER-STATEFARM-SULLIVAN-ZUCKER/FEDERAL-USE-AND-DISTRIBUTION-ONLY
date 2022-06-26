@@ -11,3 +11,47 @@ TITLE 18 - CRIMES AND CRIMINAL PROCEDURE
 
 §4. Misprision of felony
 		Whoever, having knowledge of the actual commission of a felony cognizable by a court of the United States, conceals and does not as soon as possible make known the same to some judge or other person in civil or military authority under the United States, shall be fined under this title or imprisoned not more than three years, or both.	
+
+
+Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600
+
+150 East 42nd Street 19th Floor, New York, NY 10017
+
+
+Filed: 07/21/2020
+INDEX NO. 153974/2020
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
+# VIOLATION OF PRIVACY AND BREACH OF DUTIES
+*** Filed: 07/21/2020
+https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
+
+# PROCESSED
+https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=SVnk_PLUS_wwn_PLUS_akZLr2HagUrng==&ret=D&docketId=rbJs1u78EZo22UbkaVdrZg==
+>> Please keep this notice
+https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=UZsCx4RNLy/6V9gf1BkpTQ==
+CONFIRMATION -- PROCESSED
+The NYSCEF website has received an electronic filing on 08/04/2020 02:32 PM.
+<MOV DISTRIBUTION>
+BY AND BETWEEN THE WILSON ELSER LAW FIRM, AND ITS REPRESENTATIVES.
+	ASHLEY.HUMPHRIES@WILSONELSER.COM
+	
+## FILED: NEW YORK COUNTY CLERK 08/04/2020 02:32 PM
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xBYJ69pjIuDxBegralE8Uw==
+
+NYSCEF DOC. NO. 225 RECEIVED NYSCEF: 08/04/2020
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1BkpTQ==
+
+## FILED: NEW YORK COUNTY CLERK 08/04/2020 09:10 AM INDEX NO. 153974/2020
+RECEIVED NYSCEF: 08/04/2020
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JjKiWNUTBeipcESQfFiwVQ=
+
+	
+E-mail Notifications An email regarding this filing has been sent to the following on 08/04/2020 02:32 PM:
+    SHARI LASKOWITZ - slaskowitz@ingramllp.com
+	
+249 AFFIDAVIT OR AFFIRMATION IN REPLY TO ORDER TO SHOW CAUSE, Motion #001 250 EXHIBIT(S) 1, Motion #001 251 EXHIBIT(S) 2, Motion #001 252 EXHIBIT(S) 3, Motion #001 253 EXHIBIT(S) 4, Motion #001 254 EXHIBIT(S) 5, Motion #001 255 EXHIBIT(S) 6, Motion #001 256 EXHIBIT(S) 7, Motion #001 257 EXHIBIT(S) 8, Motion #001 258 EXHIBIT(S) 9, Motion #001 260 EXHIBIT(S) 1, Motion #001 261 EXHIBIT(S) 2, Motion #001 262 EXHIBIT(S) 3, Motion #001 263 EXHIBIT(S) 4, Motion #001 264 EXHIBIT(S) 5, Motion #001 265 EXHIBIT(S) 6, Motion #001 266 EXHIBIT(S) 7, Motion #001 267 EXHIBIT(S) 8, Motion #001 268 EXHIBIT(S) 9, Motion #001 269 EXHIBIT(S) 10, Motion #001 270 EXHIBIT(S) 11, Motion #001 271 EXHIBIT(S) 12, Motion #001 272 EXHIBIT(S) 13, Motion #001 273 EXHIBIT(S) 14, Motion #001 274 EXHIBIT(S) 15, Motion #001 275 EXHIBIT(S) 16, Motion #001 276 EXHIBIT(S) 17, Motion #001 277 EXHIBIT(S) 18, Motion #001 278 EXHIBIT(S) 19, Motion #001 279 EXHIBIT(S) 20, Motion #001 280 EXHIBIT(S) 21, Motion #001 281 EXHIBIT(S) 22, Motion #001 282 EXHIBIT(S) 23, Motion #001 283 EXHIBIT(S) 24, Motion #001 284 EXHIBIT(S) 25, Motion #001 285 EXHIBIT(S) 26, Motion #001 286 EXHIBIT(S) 27, Motion #001 287 EXHIBIT(S) 28, Motion #001 288 EXHIBIT(S) 29, Motion #001 289 EXHIBIT(S) 30, Motion #001 290 EXHIBIT(S) 31, Motion #001 291 EXHIBIT(S) 32, Motion #001 292 EXHIBIT(S) 33, Motion #001 293 EXHIBIT(S) 34, Motion #001 294 EXHIBIT(S) 35, Motion #001
+
+Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600 150 East 42nd Street 19th Floor, New York, NY 10017
+
+Hon. Milton A. Tingling, New York County Clerk and Clerk of the Supreme Court NYSCEF Resource Center, nyscef@nycourts.gov Phone: 646-386-5956 Website: http://www.nycourts.gov/courts/1jd/supctmanh/county_clerk_operations.shtml Phone: (646) 386-3033 | Fax: (212) 401-9146 | Website: www.nycourts.gov/efile
