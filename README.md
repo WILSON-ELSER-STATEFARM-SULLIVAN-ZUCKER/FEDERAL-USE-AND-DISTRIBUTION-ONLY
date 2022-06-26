@@ -1224,6 +1224,8 @@ Because the portions of an underpayment that are attributable to a substantial o
 (g) Property with a value or adjusted basis of zero.
 
 The value or adjusted basis claimed on a return of any property with a correct value or adjusted basis of zero is considered to be 400 percent or more of the correct amount. There is a gross valuation misstatement with respect to such property, therefore, and the applicable penalty rate is 40 percent.
+	
+	peeping toms.
 
 
 
