@@ -137,7 +137,7 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7Ry3LAoVfWOLjSXhyJ
 	Received: 08/09/2020 	 
 
 
-## CERTIFICATES OF OCCUPANCY AT ALL RELEVANT TIMES. FOR THE LOAN 50074 (ALSO FILED IN NYSCEF 153974/2020)
+#### CERTIFICATES OF OCCUPANCY AT ALL RELEVANT TIMES. FOR THE LOAN 50074 (ALSO FILED IN NYSCEF 153974/2020)
 
  230  	EXHIBIT(S)  - COr 	Dincer, B. (Pro Hac / Pro Se) 	Processed
 CERTIFICATE OF OCCUPANCY FOR 111 SULLIVAN STREET REAR, NEW YORK, NEW YORK 10012 	
@@ -223,26 +223,23 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1B
 (2) if, by regulation issued by the Director of the Office of Government Ethics, applicable to all or a portion of all officers and employees covered by this section, and published in the Federal Register, the financial interest has been exempted from the requirements of subsection (a) as being too remote or too inconsequential to affect the integrity of the services of the Government officers or employees to which such regulation applies;
 (3) in the case of a special Government employee serving on an advisory committee within the meaning of the Federal Advisory Committee Act (including an individual being considered for an appointment to such a position), the official responsible for the employee's appointment, after review of the financial disclosure report filed by the individual pursuant to the Ethics in Government Act of 1978, certifies in writing that the need for the individual's services outweighs the potential for a conflict of interest created by the financial interest involved...
 ---
-
-## ALL FILES FOLLOWED THE FOLLOWING PROCEDURE / UPON BEING ADMITTED OF DENIED.
-----
-COMMUNICATIONS BETWEEN LOCATION 1 & LOCATION 2 [ LOGGED] EX-POST IN 2021
-   
+ALL FILES FOLLOWED THE FOLLOWING PROCEDURE / UPON BEING ADMITTED OF DENIED.
+STEP 1: COMMUNICATIONS BETWEEN LOCATION 1 & LOCATION 2 [ LOGGED] EX-POST IN 2021
+---
 *** E-mail Notifications ***
-   
 An email regarding this filing has been sent to the following on 08/09/2020 02:31 AM
-    
-## SHARI LASKOWITZ - slaskowitz@ingramllp.com [ MULE ]
-   
-*** [ MULE ] ***
-   
+#### SHARI LASKOWITZ - slaskowitz@ingramllp.com [ MULE ]
+*** [ MULE NUMBER 1: SLAWKOWITZ@INGRAMLLP.COM] ***
+*** [ MULE NUMBER 2: ASHLEY.HUMPHRIES@WILSONELSER.COM] ***
+*** [ MULE NUMBER 3: CWEISS@INGRAMLLP.COM] ***
+RE: MULE NUMBER 3, I AM NOT POSITIVE IF IT IS A REAL PERSON.
+*** THESE ARE LIST SERV ADDRESSED MONITORED BY WHOEVER MAY OR MAY NOT BE AVAILABLE, DEPENDING ON WHEN AND WHAT IS BEING DEALT WITH.
 ADMINISTRATION@MSKYLINE.COM; LZUCKER@MSKYLINE.COM; ADMINISTRATOR@MSKYLINE.COM; LEGAL@MSKYLINE.COM; LEGALASST@MSKYLINE.COM; SGO@COLUMBIA.EDU; SCCS@COLUMBIA.EDU...
 [ LOCATION 1 - FLOOR 4 ] BOOKS AND RECORDS, EMAILS BY AND BETWEEN THE DOMAINS
-    
+---
 [LOCATION 3] @MSKYLINE.COM
 [LOCATION 2] @WILSONELSER.COM, @INGRAMLLP.COM
 [LOCATION 1] @COLUMBIA.EDU
-    
 ---
 WITHOUT CONSENT, PHOTOGRAPHED AND VIDEOTAPED THE INTERIOR OF MY APARTMENT - THEN HOSTED THEM ON THE INTERNET AS WELL.
 *** NOTWITHSTANDING THE INDETERMINATE NUMBER OF <VIDEO.MOV> FILES BY AND BETWEEN ALL THREE LOCATIONS ABOVE.
