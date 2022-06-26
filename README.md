@@ -342,4 +342,44 @@ PERIOD_ 2020-11-30 FILER_ 000009371
 PERIOD_ 2021-11-30 FILER_ 000009371
 
 ![image](https://user-images.githubusercontent.com/108204659/175807385-7fddaa44-5d5b-4b7e-84be-0b16234ef629.png)
+	
+	
+	GOODNIGHT@
+
+![image](https://user-images.githubusercontent.com/108204659/175807432-3e95c7fa-a2e5-49a5-b0c9-ee5d9927fddd.png)
+
+---
+![image](https://user-images.githubusercontent.com/108204659/175807438-43e539c5-b627-42af-8405-17e521874458.png)
+
+---
+	
+![image](https://user-images.githubusercontent.com/108204659/175807450-6f9b62a4-0810-4252-aa9b-4223b24a08e8.png)
+	
+---
+US 26... AIDING AND ABETING, AS COUNSELORS AND ACCESSORIES.
+	
+![image](https://user-images.githubusercontent.com/108204659/175807465-884d697f-ee44-4abf-b397-d7618bd013db.png)
+
+![image](https://user-images.githubusercontent.com/108204659/175807473-19f7c9b6-484b-4a5b-8761-853651f6e86d.png)
+
+![image](https://user-images.githubusercontent.com/108204659/175807488-6d0afaaa-7446-47d0-8195-e93e85c3ccb4.png)
+	
+![image](https://user-images.githubusercontent.com/108204659/175807493-c409f891-402b-4beb-9c88-e7a8bd2e8459.png)
+	
+HERE ARE THE LONG-TERM ACCESSORIES OF SULLIVAN PROPERTIES AND CO, WHO ALSO MAY OR MAY NOT BE ACTUAL PEOPLE
+- HOWEVER FILED AFFIDAVITS WHICH DEMONSTRATE THEIR "AWARENESS" TO WHAT IS GOING ON, WHEN ITS CONVENIENT IN 10-MINUTE INTERVALS REPORTED ON MY PERSONAL AFFAIRS AND LIFE, AS PURPORTED - NOTWITHSTANDING HAVING OBSERVED ME "...BANGING ON THE RADIATOR, AND OTHER ACTIVIES..." AS MY DOOR MUST HAVE BEEN TRANSPARENT.
+![image](https://user-images.githubusercontent.com/108204659/175807691-fee966a9-cad9-4016-9195-4bd49c507898.png)
+
+
+MORGAN STANLEY
+SEE ALSO, DECEMBER 18TH, 2021 NOTICE TO THEIR INSITUTIONAL SALES DESK, IMMEDIATELY WAS DISSEMINATED AFTER FILING A TCR REPORT ON NOVEMBER 13, 2021
+	
+![image](https://user-images.githubusercontent.com/108204659/175807519-d2cb273f-43c7-4cc9-a500-e5b8bb2bf9f2.png)
+
+STATE FARM
+FILED THEIR OWN PAYMENTS TO SATISFY THE UMBRELLA OF CHARGES UNDER USC 18.215
+![image](https://user-images.githubusercontent.com/108204659/175807560-b27733c2-c934-4c33-b580-43a5b123d300.png)
+
+![image](https://user-images.githubusercontent.com/108204659/175807575-0f6343e2-80e8-42d5-9b9b-52bf35010c0f.png)
+
 
