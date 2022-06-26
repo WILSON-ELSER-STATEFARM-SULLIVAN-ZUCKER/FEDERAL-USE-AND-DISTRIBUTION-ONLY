@@ -1805,3 +1805,122 @@ READ
 	
 CARRIED INTEREST ON BACK TAXES HAS ACCURED THE GREATER OF TWO YEARS SINCE THEY FIRST FILED A FRIVOLOUS LAWSUIT.
 	- TRIED TO KEEP ME OCCUPIED, AND SLOW DOWN THE INEVITABLE (AT THIS POINT)
+
+SORRY, THEY REFUSE TO COME CLEAN, EVEN ABOUT THE 90-DAY WINDOW WHERE STATE FARM WOULD HAVE TERMINATED THE LOAN FOR A BREACH, I PUT THE CLAUSE FROM THEIR LOAN ON THE DOCKET (90-DAY DEFAULT PROVISION WAS SO THAT STATE FARM CAN WAKE UP AND CANCEL THEIR RELATIONSHIP WITH THESE ZZZZUCKERS, IMMEDIATELY) INSTEAD - MORE EMAILS AND VIDEO.MOV FILES ALTERED, PHOTOSHOP, AND CIRCULATED WITHOUT MY CONSENT BY AND BETWEEN THEIR REPRESENTATIVES AS WELL - THE INTERIOR OF MY APARTMENT.
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Xjn0/e1NcBADqRc_PLUS_g11P4g==
+
+- AFTER ALL THOSE FILINGS, AND INVASION... YOU WOULD HAVE TO ASSUME AT LEAST ONE OF THESE IDIOTS WOULD WRITE BACK ?
+
+- THEY MUST BE AT THE COMMUNITY BOARD , MY BAD... I'LL JUST LET THEM STEAL MY MONEY AS WELL, THEY ONLY STOLE ABOUT $500,000,000.00 IN TAX DOLLARS FROM FEDERAL, STATE, AND LOCAL FUNDS..
+
+
+-- CARRIES INTEREST DAILY.
+
+#GOCARDS, I ANNEXED THEIR "OUT" IN THE CHANGE TO CAPTION WITHIN THE 90-DAY WINDOW. - INSTEAD, OBSTRUCTION WAS A PREFERRED METHOD.
+
+- I WAS NOT PERMITTED TO FILE A MOTION, ONLY EXHIBITS.
+ALL SIX PROPERTIES BACK 10-YEARS PLUS.
+- KNOWN BY THEIR REPRESENTATIVES AS WELL... ALL OF THEM WELL VERSED
+
+UNTIL THEY HAVE TO FIGURE OUT HOW TO DEAL WITH THE TRUTH.
+> THAT'S TWO YEARS CARRIED INTEREST... BUT OWED BY STATE FARM IMMEDIATELY AND WILL BE "REIUMBURSED" BY THE ZUCKER FAMILY.
+
+GOOD LUCK
+
+-------- Forwarded Message --------
+Subject: 	Re: Fwd: Read: [EXTERNAL MESSAGE] quash.. - nope. >> 1 investment adviser GONE - AND ONE BANK AT RISK.
+Date: 	Sun, 26 Jun 2022 14:26:14 -0500
+From: 	B D2022 <ms60710444266@yahoo.com>
+To: 	usdoj@public.govdelivery.com <usdoj@public.govdelivery.com>, irs@service.govdelivery.com <irs@service.govdelivery.com>, usttb@public.govdelivery.com <usttb@public.govdelivery.com>, financialeducation@info.consumerfinance.gov <financialeducation@info.consumerfinance.gov>, DHSOIG@public.govdelivery.com <DHSOIG@public.govdelivery.com>, vaoig@messages.va.gov <vaoig@messages.va.gov>, pbgc@subscriptions.pbgc.gov <pbgc@subscriptions.pbgc.gov>, USPSOIG@public.govdelivery.com <USPSOIG@public.govdelivery.com>, cdfifund@service.govdelivery.com <cdfifund@service.govdelivery.com>, subscribe@subscribe.ftc.gov <subscribe@subscribe.ftc.gov>, vatax@public.govdelivery.com <vatax@public.govdelivery.com>, tigta@service.govdelivery.com <tigta@service.govdelivery.com>, news@updates.sba.gov <news@updates.sba.gov>, news@updates.oig.dot.gov <news@updates.oig.dot.gov>, KATHY HOCHUL <governor.hochul@exec.ny.gov>, MSRB <msrbsupport@msrb.org>
+
+
+Your message
+
+   To: Claims Depositor Services
+   Subject: [EXTERNAL MESSAGE] **** RE: TAX RISKS and LETTER OF CREDIT 50074 --- rents and leases transferred to State Farm?
+   Sent: Saturday, May 28, 2022 5:43:33 PM (UTC-06:00) Central Time (US & Canada)
+
+ was read on Tuesday, May 31, 2022 7:45:20 AM (UTC-06:00) Central Time (US & Canada).
+
+Final-recipient: RFC822; DepositorServices@FDIC.gov Disposition: automatic-action/MDN-sent-automatically; displayed X-MSExch-Correlation-Key: QEXDrJDIfkyHCVRwQhDAyA== X-Display-Name: Claims Depositor Services
+On 6/26/2022 2:17 PM, B D2022 wrote:
+
+GTG I HOPE YOU SORT THAT OUT, SERIOUSLY CONCERNED.
+- THE BACK TAXES ON THE SIX PROPERTIES OF INTEREST TRANSFERRED TO STATE FARM
+
+IN FACT PRESENTS A GREATER ACTUAL DOLLAR VALUE (IN US DOLLARS) THAN THE ENTIRE MARKET CAPITALIZATION OF SFITX - A "FRONT-END" TREASURY BOND FUND THAT REPRESENTS A 3-YEAR KEY RATE MATURITY.
+   
+SEE ALSO, 30-DAY LIBOR IN THE FORMER, OR FED-FUNDS-30, FED-FUNDS-60, FED-FUNDS-90
+- THE SHORT-TERM FEDERAL RATES, TO MY UNDERSTANDING.
+
+
+FRIDAY PRICE DAY-ON-DAY, I HAVE SEEN IT AT LEAST A DOZEN TIMES BUT NOT IN THE SAME YEAR AND BY THEIR OTHER MUNICIPAL BOND FUND.
+
+   
+
+THEY ALSO SELF DECLARE THE VALUE OF THEIR TREASURY BOND SECURITIES, IN CASE YOU WERE WAAAANDERING.
+
+
+
+-------- Forwarded Message --------
+Subject: 	THANK YOU FOR REVIEWING THESE TAX EVASION AND INSIDER TRADING DOCUMENTS.
+Date: 	Fri, 24 Jun 2022 11:25:01 -0500
+From: 	B D2022 <ms60710444266@yahoo.com>
+To: 	Stephen O'Connell <sgo2107@columbia.edu>, lzucker@mskyline.com <lzucker@mskyline.com>, Stephen O'Connell <sgo2107@adcu.columbia.edu>, Amber Griffiths <ag2943@adcu.columbia.edu>, Amber Griffiths <ag2943@columbia.edu>
+CC: 	megan.disciullo@pwc.com <megan.disciullo@pwc.com>, larissa.vonlockner@pwc.com <larissa.vonlockner@pwc.com>, ryan.a.cangialosi@pwc.com <ryan.a.cangialosi@pwc.com>, kivalena.starr@pwc.com <kivalena.starr@pwc.com>, jordana.strosberg@pwc.com <jordana.strosberg@pwc.com>, will.b.hodges@pwc.com <will.b.hodges@pwc.com>, jennifer.vanoss@pwc.com <jennifer.vanoss@pwc.com>
+
+
+THANK YOU FOR REVIEWING THESE TAX EVASION AND INSIDER TRADING DOCUMENTS...
+
+- HEY I AM AT THE SPOT IN BK IF YOU WANT TO COME AND ADMINISTER THE STRAWBERRY LATE NIGHT GAME LATER BTW,
+
+*    FRESH ALSO... TOOK A SPONGE BATH.. AND NOOOOO ZUCKERS EITHER.*
+
+***
+*
+
+
+* https://saaze2311prdsra.blob.core.windows.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC.jpeg
+* https://saaze2311prdsra.blob.core.windows.net/clean/8de5f89e10d3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg
+* https://saaze2311prdsra.blob.core.windows.net/clean/a463845010d3ec11a7b5000d3a1326fe/0F6C27D5-69BD-4971-91F6-A5A40317CC63.jpeg
+* https://saaze2311prdsra.blob.core.windows.net/clean/25aff4b997d3ec11a7b500224828654e/[STATE%20FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$CIK%201516523]%20MONK[CRD%201357149].pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/5380dd8997d3ec11a7b5000d3a132789/[STATE%20FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$CIK%201516523]%20MONK[CRD%201357149].pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/[STATE%20FARM%20VP%2043036]$%203487%20$.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/25aff4b997d3ec11a7b500224828654e/[STATE%20FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$CIK%201516523]%20MONK[CRD%201357149].pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/3bb9011795d3ec11a7b5000d3a132789/153974-2020.Docket399.FTC.StateFarmRealtyInsuranceLLC.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/ff91792a95d3ec11a7b50022482864f0/[sfVP43036]%20$2876793%20-%20david.moore%20$3487%20-%20IA%208018184.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/af081f4095d3ec11a7b50022482864f0/[STATE%20FARM%20VP%2043036]%20$3231040-2004555.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/d88e25ae5fd3ec11a7b5002248286997/StateFarmVP%20Management%20Corp-CRD%2343036.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/d88e25ae5fd3ec11a7b5002248286997/StateFarmVP%20Management%20Corp-CRD%2343036.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/d585ccd85fd3ec11a7b5000d3a1326fe/TAX%20EVASION%20%20attachments%20%252F%20Omissions.%20.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC.jpeg
+* https://saaze2311prdsra.blob.core.windows.net/clean/172de37992d3ec11a7b500224828654e/[sfVP%2043036]%204971235-%20$SMITH%20-%20SEMI.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/bee2b76c92d3ec11a7b5002248286997/[SF.VP%2043036]%202876793%20-%20$david%20moore%20$3487%20-%20IA%208018184.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/9194266492d3ec11a7b500224828654e/[sf%20VP%2043036-$3487]%201943922-%20$%20tipsord%20$%20STATE%20FARM%20mutual%20automobile%20insurance%20company-$3487.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/172de37992d3ec11a7b500224828654e/%5BsfVP%2043036%5D%204971235-%20$SMITH%20-%20SEMI.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/bee2b76c92d3ec11a7b5002248286997/[SF.VP%2043036]%202876793%20-%20$david%20moore%20$3487%20-%20IA%208018184.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/9194266492d3ec11a7b500224828654e/[sf%20VP%2043036-$3487]%201943922-%20$%20tipsord%20$%20STATE%20FARM%20mutual%20automobile%20insurance%20company-$3487.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/[STATE%20FARM%20VP%2043036]$%203487%20$.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/[STATE%20FARM%20VP%2043036]$%203487%20$.pdf
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TxAa7cNVIHKtnJU/ni/zvg==
+* https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=2020052000291003
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_TlrEGCsUUcCcvtJ8O/dfg==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TxAa7cNVIHKtnJU/ni/zvg==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LMUE9g_PLUS_k6vCmKgfCSJEzuQ==
+* https://portal.311.nyc.gov/sr-details/?id=4296b0c3-c4a2-ec11-826d-0003ff86900c
+* https://saaze2311prdsra.blob.core.windows.net/clean/d585ccd85fd3ec11a7b5000d3a1326fe/TAX%20EVASION%20%20attachments%20%252F%20Omissions.%20.pdf
+
+
+
+            PROPERTY 1:     111 SULLIVAN STREET REAR, NEW YORK, NY, 10012
+                            IS WHERE I RESIDED.
+            PROPERTY 2:     117 SULLIVAN STREET, NEW YORK, NY, 10012
+                            WAS ALSO TRANSFERRED TO STATE FARM.
+
+
