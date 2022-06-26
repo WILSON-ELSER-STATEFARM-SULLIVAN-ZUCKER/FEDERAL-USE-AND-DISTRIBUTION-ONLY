@@ -249,16 +249,23 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Oioy2FAQ_PLUS_uuEa
 [Read:SLASKOWITZINGRAMLLP.COM---WILSONELSER---ZUCKER--SCCS--XXXX@COLUMBIA.EDU CONFIRMED](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8985954/Read-.SLASKOWITZINGRAMLLP.COM---WILSONELSER---ZUCKER--SCCS--SGO%40COLUMBIA.EDU.CONFIRMED.zip)
 	
 ## FAXED THE PRIOR MSG TO NY SUPREME COURTS, CIVIL BRANCH.
+[ 50074 EAST ++ ]
 https://faxzero.com/status/31316917/6b34c3ad9620003256df358c638765fc2ae387cc
 	*** 	***	***
-Your fax (ID: #31316917) to VARIOUS at 212-401-9146 has been delivered successfully at 12:12 AM EST on June 26th, 2022
-	[ 50074 EAST ++ ]
+Your fax (ID: #31316917) to VARIOUS at 212-401-9146 has been delivered successfully at 12:12 AM EST on June 26th, 2022.
+
 
 
 https://faxzero.com/status/30246810/5331540dcefa70818b47fb597bf6a69acfd106be
 	*** 	***	***
 Your fax (ID: #30246810) to DONALD ZUCKER at 2125869867 has been delivered successfully at 9:50 PM EST on December 1st, 2021.
 	
+https://faxzero.com/status/30666994/5790f17018611119e07814be9e36110d164afaa6
+Your fax (ID: #30666994) to IRS CRIMINAL INVESTIGATIONS at 2674661115 has been delivered successfully at 11:44 PM EST on February 20th, 2022.
+	
+
+Your fax (ID: #30852826) to JOE MONK at 8164714832 has been delivered successfully at 4:42 AM EST on March 26th, 2022.
+
 ---
 	
 # CASE FILE INFORMATION DISTRIBUTED - BY AND BETWEEN ALL RELEVANT PARTIES
@@ -873,3 +880,76 @@ tax receipts (#GOCARDS)
 ![image](https://user-images.githubusercontent.com/108204659/175819787-b77d9f9c-730e-47fd-9cf6-923f5be56e58.png)
 
 LCL BRANCH		
+---
+---------- Forwarded message ---------<br>
+Date: Sun, May 22, 2022, 4:16 PM
+Subject: OBSTRUCTION C16-93715
+
+
+https://faxzero.com/status/30666994/5790f17018611119e07814be9e36110d164afaa6
+Your fax (ID: #30666994) to IRS CRIMINAL INVESTIGATIONS at 2674661115 has been delivered successfully at 11:44 PM Eastern Daylight Time on February 20th, 2022.
+
+DIRECT:  	646-256-3609<br>
+EMAIL:		ms60710444266@yahoo.com
+
+----
+
+
+------- Forwarded Message --------
+Subject: 	Fwd: OBSTRUCTION C16-93715. OMISSIONS—
+Date: 	Sun, 22 May 2022 16:22:06 -0400
+From: 	BO DINCER <bondstrt007@gmail.com>
+To: 	BBO 121 <ms60710444266@yahoo.com>, Ir-operations-team <ir-operations-team@tudor.com>, ir@tigerglobal.com, info@kpmg.com, Ryan Cangialosi (US) <ryan.a.cangialosi@pwc.com>, Dean's Discipline - SCCS <conduct-admin@columbia.edu>, Amber Griffiths <ag2943@columbia.edu>, sgo2107@columbia.edu, endowmentadmin@columbia.edu, jpminvestorrelatioms@jpmchase.com, Pam Olson (US) <pam.olson@us.pwc.com>
+CC: 	TRACE Data Services <tracedataservices@finra.org>, Treasury.operations@cpa.texas.gov, tedhermanson@northmarq.com, Jpetit <jpetit@mccarter.com>, jpminvestorrelations@jpmchase.com, JPMCinvestorrelations@jpmchase.com, JAMES GORMAN [MORGAN STANLEY] <james.gorman@morganstanley.com>, iceglobalnetwork-info@ice.com <iceglobalnetwork-info@ice.com>, Bill Cassese (ICE BONDS SECURITIES) <bcassese19@bloomberg.net>
+
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==
+
+# UNLAWFUL CUSTODY OF SECURITY
+
+
+
+## TAX RECEIPTS
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+
+
+
+##  DISTRIBUTION OF MOV FILES / VIOLATION OF PRIVACY
+# " PEEPING TOMS "
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=c3iexOlBwsgc1lnMJ2_PLUS_AqQ==
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ==
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YvkihzM1cwANtAvbUwWX_PLUS_g==
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1BkpTQ==
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YGRsoOyDJuc93MrOnwh5Jw==
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=84wdx4RhX5LEi0sISXetBw==
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5uMb/ORklCen4NaSEt6oFg==
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ==
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oz2nfEu9a94Y3U5/kpIt5g==
+
+	
+[document index](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8987047/document.index.pdf)
+	
+[DOCKET 385--2020-08-10--EMAIL.TO.LAURIE.ZUCKER.AT.1236AM - NOTICE TO STATE FARM - NON RESPONSIVE - GENERALLY AT ALL TIMES](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8987048/EX69.---.docket.385.--.2020-08-10.--.EMAIL.TO.LAURIE.ZUCKER.AT.1236AM.pdf)
+	
+[firm_43036](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8987049/firm_43036.pdf)
+	
+[merger 431K CONFIRMS  ::  USC 18.215, 18.2 by the DIRECTORS of firm_43036](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8987050/merger.431K.CONFIRMS.USC.18.215.18.2.pdf)
+
+[__2021.12.01.NOTICE.FAX.103W55thSTREET-confirmed](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8987044/__2021.12.01.NOTICE.FAX.103W55thSTREET.DELIVERED.FAX.pdf)
+	
+[---2020--DOCKET 379 :: CONFIRMS USC 18.225, 18.21, 18.4, 18.3, 18.2- LETTER OF CREDIT FILED WITH THE NYC DEPT. OF FINANCE](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8987045/---2020.00379.nyc.department.of.finance.pdf)
+	
+[2020_05_27 - INDEX OF PAPERS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8987046/2020_05_27.-.INDEX.and.PAPERS.pdf)
+	
+![FEMA BARCODE SCANNER - NOT SURE HOW THIS THING WORKS](https://user-images.githubusercontent.com/108204659/175824703-63f7480a-9561-4272-8532-5e56cee0475c.JPG)
