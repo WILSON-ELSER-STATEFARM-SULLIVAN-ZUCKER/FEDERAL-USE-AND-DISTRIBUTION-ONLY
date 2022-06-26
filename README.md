@@ -349,3 +349,94 @@ FILED THEIR OWN PAYMENTS TO SATISFY THE UMBRELLA OF CHARGES UNDER USC 18.215
 
 respectfully, FILED [ by yours truly]
 [docket 315](https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=gcMSDaFzm0ynPeXZKSHgLQ==)
+
+	
+---
+	
+Section 203(f) of the Advisers Act permits the Commission to sanction any person who, at the time of the misconduct, was associated with an investment adviser, if the Commission finds that the sanction is in the public interest and the person has been convicted of any offense specified in Section 203(e)(2) within ten years of the commencement of proceedings. 15 U.S.C. § 80b3(e)(2),(f).
+
+https://www.sec.gov/alj/aljdec/2015/id747ce.pdf
+conspiracy to commit securities fraud, in violation of 18 U.S.C. § 371; 
+conspiracy to commit wire fraud, in violation of 18 U.S.C. § 1349; 
+securities fraud, in violation of 15 U.S.C. §§ 78j(b), 78ff, and 17 CFR § 240.10b-5; 
+wire fraud, in violation of 18 U.S.C. § 1343; 
+and investment adviser fraud, in violation of 15 U.S.C. §§ 80b-6 and 80b-17. OIP at 2; 
+
+On June 23, 2014, Balboa was sentenced to a prison term of fortyeight months, to run concurrently on all counts, followed by three years of supervised release, and ordered to pay restitution of $390,243,873.92 and to forfeit $2,223,000. 
+
+15 U.S.C. § 80b3(e)(2)(A). 
+Ex. C at 1-2; Exs. D, E. The superseding indictment charged Balboa with, among other things, engaging in a scheme to falsely inflate the value of illiquid securities between January 2008 and October 2008 and with committing wire fraud. 
+
+15 U.S. Code § 78r - Liability for misleading statements
+(a)Persons liable; persons entitled to recover; defense of good faith; suit at law or in equity; costs, etc.
+Any person who shall make or cause to be made any statement in any application, report, or document filed pursuant to this chapter or any rule or regulation thereunder or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title, which statement was at the time and in the light of the circumstances under which it was made false or misleading with respect to any material fact, shall be liable to any person (not knowing that such statement was false or misleading) who, in reliance upon such statement, shall have purchased or sold a security at a price which was affected by such statement, for damages caused by such reliance, unless the person sued shall prove that he acted in good faith and had no knowledge that such statement was false or misleading. A person seeking to enforce such liability may sue at law or in equity in any court of competent jurisdiction. In any such suit the court may, in its discretion, require an undertaking for the payment of the costs of such suit, and assess reasonable costs, including reasonable attorneys’ fees, against either party litigant.
+
+(b)Contribution
+Every person who becomes liable to make payment under this section may recover contribution as in cases of contract from any person who, if joined in the original suit, would have been liable to make the same payment.
+
+(c)Period of limitations
+No action shall be maintained to enforce any liability created under this section unless brought within one year after the discovery of the facts constituting the cause of action and within three years after such cause of action accrued.
+
+
+[SFITX]
+15 U.S. Code § 78s - Registration, responsibilities, and oversight of self-regulatory organizations
+(5)The Commission shall consult with and consider the views of the Secretary of the Treasury prior to approving a proposed rule filed by a registered securities association that primarily concerns conduct related to transactions in government securities, except where the Commission determines that an emergency exists requiring expeditious or summary action and publishes its reasons therefor. If the Secretary of the Treasury comments in writing to the Commission on a proposed rule that has been published for comment, the Commission shall respond in writing to such written comment before approving the proposed rule. If the Secretary of the Treasury determines, and notifies the Commission, that such rule, if implemented, would, or as applied does (i) adversely affect the liquidity or efficiency of the market for government securities; or (ii) impose any burden on competition not necessary or appropriate in furtherance of the purposes of this section, the Commission shall, prior to adopting the proposed rule, find that such rule is necessary and appropriate in furtherance of the purposes of this section notwithstanding the Secretary’s determination.
+
+
+
+
+https://www.sec.gov/alj/aljdec/2015/id739ce.pdf
+[t]he proper functioning of the securities industry and markets depends on the
+integrity of industry participants and their commitment to transparent disclosure.
+Securities industry participation by persons with a history of fraudulent conduct is
+antithetical to the protection of investors. . . . We have long held that a history of
+egregious fraudulent conduct demonstrates unfitness for future participation in the
+securities industry even if the disqualifying conduct is not related to the
+professional capacity in which the respondent was acting when he or she engaged
+in the misconduct underlying the proceeding. The industry relies on the fairness
+and integrity of all persons associated with each of the professions covered by the
+collateral bar to forgo opportunities to defraud and abuse other market
+participants.
+
+
+
+TRANSACTIONS OF CERTAIN AFFILIATED PERSONS AND UNDERWRITERS
+-UNLAWFUL TRANSACTIONS
+SEC. 17. (a) 
+It shall be unlawful for any affiliated person or pro- moter of or principal underwriter for a registered investment company (other than a company of the character described in section 12 (d) (3) (A) and (B)), or any affiliated person of such a person, promoter, or principal underwriter, acting as principal- 
+(1) knowingly to sell any security or other property to such registered company or to any company controlled by such regis- tered company, unless such sale involves solely (A) securities of which the buyer is the issuer, (B) securities of which the seller is the issuer and which are part of a general offering to the holders of a class of its securities, or (C) securities deposited with the trustee of a unit investment trust or periodic payment plan by the depositor thereof;
+
+(2) knowingly to purchase from such registered company, or from any company controlled by such registered company, any security or other property (except securities of which the seller is the issuer)
+
+
+Liability of directors, etc., for willful misfeasance.
+SEC. 17. 
+(h) 	After one year from the effective date of this title, neither
+the charter, certificate of incorporation, articles of association, indenture of trust, nor the by-laws of any registered investment company, nor any other instrument pursuant to which such a company is organized or administered, shall contain any provision which protects or purports to protect any director or officer of such company against any liability to the company or to its security holders to which he would otherwise be subject by reason of willful misfeasance, bad faith, gross negligence or reckless disregard of the duties involved in the conduct of his office.
+
+		In the event that any such instrument does not at the effective date of this Act comply with the requirements of this subsection (h) and is not amended to comply therewith prior to the expiration of said one year, such company may nevertheless continue to be a registered investment company and shall not be deemed to violate this subsection if prior to said expiration date each such director or officer shall have filed with the Commission a waiver in writing of any protective provision of the instrument to the extent that it does not comply with this subsection, and each such person subsequently elected or appointed shall before assuming office file a similar waiver.
+
+(i) 	After one year from the effective date of this title no contract or agreement under which any person undertakes to act as investment adviser of, or principal underwriter for, a registered investment company shall contain any provision which protects or purports to protect such person against any liability to such company or its security holders to which he would otherwise be subject by reason of willful misfeasance, bad faith, or gross negligence, in the performance of his duties, or by reason of his reckless disregard of his obligations and duties under such contract or agreement.
+
+Injunctions against gross abuse.
+SEC. 36. 
+The Commission is authorized to bring an action in the proper district court of the United States or United States court of
+any Territory or other place subject to the jurisdiction of the United States, alleging that a person serving or acting in one or more of the following capacities has been guilty, after the enactment of this title and within five years of the commencement of the action, of gross misconduct or gross abuse of trust in respect of any registered investment company for which such person so serves or acts:
+(1) as officer, director, member of an advisory board, investment adviser, or depositor; or
+(2) as principal underwriter, if such registered company is an open-end company, unit investment trust, or face-amount
+certificate company.
+If the Commission's allegations of such gross misconduct or gross abuse of trust are established, the court shall enjoin such person from acting in such capacity or capacities either permanently or for such period of time as it in its discretion shall deem appropriate.
+
+
+SEC. 32. 
+(c) The Commission is authorized, by rules and regulations or order in the public interest or for the protection of investors, to require accountants and auditors to keep reports, work sheets, and other documents and papers relating to registered investment companies for such period or periods as the Commission may prescribe, and to make the same available for inspection by the Commission or any member or representative thereof.
+
+
+DESTRUCTION AND FALSIFICATION OF REPORTS AND RECORDS
+SEC. 34.
+
+(a) It shall be unlawful for any person, except as permitted by rule, regulation, or order of the Commission, willfully to
+destroy, mutilate, or alter any account, book, or other document the preservation of which has been required pursuant to section 31 (a) or 32 (c).
+(b) It shall be unlawful for any person to make any untrue statement of a material fact in any registration statement, application, report, account, record, or other document filed or transmitted pursuant to this title or the keeping of which is required pursuant to section 31 (a). 
+
+It shall be unlawful for any person so filing, transmitting, or keeping any such document to omit to state therein any fact necessary in order to prevent the statements made therein, in the light of the circumstances under which they were made, from being materially misleading. For the purposes of this subsection, any part of any such document which is signed or certified by an accountant or auditor in his capacity as such shall be deemed to be made, filed, transmitted, or kept by such accountant or auditor, as well as by the person filing, transmitting, or keeping the complete document.
