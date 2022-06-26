@@ -82,15 +82,59 @@ Hon. Milton A. Tingling, New York County Clerk and Clerk of the Supreme Court NY
 
 Phone: (646) 386-3033 | Fax: (212) 401-9146 | Website: www.nycourts.gov/efile
 	
-### USC 18.21, UNLAWFUL RENTS AND LEASES TRANSFERRED TO STATE FARM
-ANNEXED IN THE LOAN DOCKETS AND IN NYSCEF 153974/2020
-	    
-§21. Stolen or counterfeit nature of property for certain crimes defined
+### USC 18.21, USC 18.225, USC 18.2 : UNLAWFUL RENTS AND LEASES TRANSFERRED TO STATE FARM
+ANNEXED IN THE LOAN DOCKETS AND IN NYSCEF 153974/2020<br><br>
+[USC 18.§21, USC 18§225,  USC 18§2, USC 18§1962, USC 18§1963 ----<NYC DEPT OF FINANCE - PUBLIC RECORDS>](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8986215/NYC.DEPT.OF.FINANCE.-.PUBLIC.RECORD.pdf)
 
+
+USC 18
+§21. Stolen or counterfeit nature of property for certain crimes defined
+<p>
 (a) Wherever in this title it is an element of an offense that-
   (1) any property was embezzled, robbed, stolen, converted, taken, altered, counterfeited, falsely made, forged, or obliterated; and
   (2) the defendant knew that the property was of such character;
   -such element may be established by proof that the defendant, after or as a result of an official representation as to the nature of the property, believed the property to be embezzled, robbed, stolen, converted, taken, altered, counterfeited, falsely made, forged, or obliterated.
+</p>
+	
+USC 18
+§225. Continuing financial crimes enterprise
+<p>
+	(a) Whoever-
+		(1) organizes, manages, or supervises a continuing financial crimes enterprise; and
+		(2) receives $5,000,000 or more in gross receipts from such enterprise during any 24-month period
+	-shall be fined not more than $10,000,000 if an individual, or $20,000,000 if an organization, and imprisoned for a term of not less than 10 years and which may be life.
+	(b) For purposes of subsection (a), the term "continuing financial crimes enterprise" means a series of violations under section 215, 656, 657, 1005, 1006, 1007, 1014, 1032, or 1344 of this title, or section 1341 or 1343 affecting a financial institution, committed by at least 4 persons acting in concert.
+</p>
+
+USC 18	
+§1962. Prohibited activities
+<p>
+(a) It shall be unlawful for any person who has received any income derived, directly or indirectly, from a pattern of racketeering activity or through collection of an unlawful debt in which such person has participated as a principal within the meaning of section 2, title 18, United States Code, to use or invest, directly or indirectly, any part of such income, or the proceeds of such income, in acquisition of any interest in, or the establishment or operation of, any enterprise which is engaged in, or the activities of which affect, interstate or foreign commerce. A purchase of securities on the open market for purposes of investment, and without the intention of controlling or participating in the control of the issuer, or of assisting another to do so, shall not be unlawful under this subsection if the securities of the issuer held by the purchaser, the members of his immediate family, and his or their accomplices in any pattern or racketeering activity or the collection of an unlawful debt after such purchase do not amount in the aggregate to one percent of the outstanding securities of any one class, and do not confer, either in law or in fact, the power to elect one or more directors of the issuer.
+
+(b) It shall be unlawful for any person through a pattern of racketeering activity or through collection of an unlawful debt to acquire or maintain, directly or indirectly, any interest in or control of any enterprise which is engaged in, or the activities of which affect, interstate or foreign commerce.
+
+(c) It shall be unlawful for any person employed by or associated with any enterprise engaged in, or the activities of which affect, interstate or foreign commerce, to conduct or participate, directly or indirectly, in the conduct of such enterprise's affairs through a pattern of racketeering activity or collection of unlawful debt.
+
+(d) It shall be unlawful for any person to conspire to violate any of the provisions of subsection (a), (b), or (c) of this section.
+</p>
+
+§1963. Criminal penalties
+<p>
+	
+(a) Whoever violates any provision of section 1962 of this chapter shall be fined under this title or imprisoned not more than 20 years (or for life if the violation is based on a racketeering activity for which the maximum penalty includes life imprisonment), or both, and shall forfeit to the United States, irrespective of any provision of State law-
+(1) any interest the person has acquired or maintained in violation of section 1962;
+(2) any-
+(A) interest in;
+(B) security of;
+(C) claim against; or
+(D) property or contractual right of any kind affording a source of influence over;
+any enterprise which the person has established, operated, controlled, conducted, or participated in the conduct of, in violation of section 1962; and
+(3) any property constituting, or derived from, any proceeds which the person obtained, directly or indirectly, from racketeering activity or unlawful debt collection in violation of section 1962.
+The court, in imposing sentence on such person shall order, in addition to any other sentence imposed pursuant to this section, that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by this section, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
+(b) Property subject to criminal forfeiture under this section includes-
+(1) real property, including things growing on, affixed to, and found in land; and
+(2) tangible and intangible personal property, including rights, privileges, interests, claims, and securities.
+</P>
 
 ---
 PROPERTY REPORT (see also: Miwa and Teschman) 	Assignment to Zucker 05/26/2020 	
