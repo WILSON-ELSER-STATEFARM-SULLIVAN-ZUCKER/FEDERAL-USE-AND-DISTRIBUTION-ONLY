@@ -334,4 +334,12 @@ LOAN DOCKETS, ASSIGNMENT OF UNLAWFULLY REPRESENTED INCOME (USC 18.21)
 ![image](https://user-images.githubusercontent.com/108204659/175803674-dc85ce47-c834-4024-bc60-8ded1a893555.png)
 	
 
+![PERMIT NONE](https://user-images.githubusercontent.com/70865813/166412249-b4f53181-4497-4e23-b1f7-7482261497e2.PNG)
+	
+	
+SEC FILINGS
+PERIOD_ 2020-11-30 FILER_ 000009371
+PERIOD_ 2021-11-30 FILER_ 000009371
+
+![image](https://user-images.githubusercontent.com/108204659/175807385-7fddaa44-5d5b-4b7e-84be-0b16234ef629.png)
 
