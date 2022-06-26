@@ -441,3 +441,168 @@ destroy, mutilate, or alter any account, book, or other document the preservatio
 (b) It shall be unlawful for any person to make any untrue statement of a material fact in any registration statement, application, report, account, record, or other document filed or transmitted pursuant to this title or the keeping of which is required pursuant to section 31 (a). 
 
 It shall be unlawful for any person so filing, transmitting, or keeping any such document to omit to state therein any fact necessary in order to prevent the statements made therein, in the light of the circumstances under which they were made, from being materially misleading. For the purposes of this subsection, any part of any such document which is signed or certified by an accountant or auditor in his capacity as such shall be deemed to be made, filed, transmitted, or kept by such accountant or auditor, as well as by the person filing, transmitting, or keeping the complete document.
+
+	
+ty FDIC
+---
+
+From: BD DINCER (COLUMBIA UNIVERSITY) At: 12/18/21 19:13:39 UTC-5:00
+Subject: Fwd:Fwd:Fwd:Fwd:Fwd:Fwd:STATE FARM - BLOOMINGTON » Northern Trust Company. ACRIS 6MM
+
+    From: BD DINCER (COLUMBIA UNIVERSITY) At: 12/18/21 18:37:39 UTC-5:00
+    To: Susan Byrne (WESTWOOD MANAGEMENT ) , Julie Hoyer (STATE FARM MUTUAL AU ) , Greg Shull (STATE FARM MUTUAL AU ) , Jeffrey Attwood (STATE FARM MUTUAL AU ) , John Malito (STATE FARM MUTUAL AU ) , Steven Santiccioli (NORTHERN TRUST COMPA ) , Robert Stephan (STATE FARM MUTUAL AU ) , Lisa Rogers (STATE FARM MUTUAL AU ) , Elena Khoziaeva (BRIDGEWAY CAPITAL MA ) , Bill Trauner (STATE FARM MUTUAL AU ) , Heather Caldwell (STATE FARM MUTUAL AU ) , Theresa Baker (STATE FARM MUTUAL AU ) , Tammy Gipson (STATE FARM MUTUAL AU ) , Brent Reeder (NORTHERN TRUST COMPA ) , Michael Whipple (BRIDGEWAY CAPITAL MA ) , Michael Zaroogian (STATE FARM MUTUAL AU ) , Terence Lynch (GAINSCO SERVICE CORP ) , Rebekah Holt (STATE FARM MUTUAL AU ) , Katie Hubbard (STATE FARM MUTUAL AU ) , Leigh Ann Rogalski (STATE FARM MUTUAL AU ) , Chad Moser (STATE FARM MUTUAL AU ) , Tim Zelgert (STATE FARM MUTUAL AU ) , Ray Renken (STATE FARM MUTUAL AU ) , Kara Olson (STATE FARM MUTUAL AU ) , Jim Chan (BLACKROCK INSTITUTIO ) , Matt Harvey (STATE FARM MUTUAL AU ) , Steve Brucker (STATE FARM MUTUAL AU ) , John Socha (STATE FARM MUTUAL AU ) , Jennifer Hsui (BLACKROCK INSTITUTIO ) , Joe Young (STATE FARM MUTUAL AU ) , Wade Reinthaler (STATE FARM MUTUAL AU ) , Scott Reid (STATE FARM MUTUAL AU ) , Adam Hallman (STATE FARM MUTUAL AU ) , Tyler Smith (STATE FARM MUTUAL AU ) , Wei Hao (STATE FARM MUTUAL AU ) , Chris Minter (STATE FARM MUTUAL AU ) , Shelly Marsh (STATE FARM MUTUAL AU ) , Hollie Marsh (STATE FARM MUTUAL AU ) , Matthew Lockridge (WESTWOOD MANAGEMENT ) , Rich Rebholz (STATE FARM MUTUAL AU ) , Michael Mayberger (STATE FARM MUTUAL AU ) , Ashley Smock (STATE FARM MUTUAL AU ) , Brian Bengtson (STATE FARM MUTUAL AU ) , Cory Swartzlander (STATE FARM MUTUAL AU ) , Scott Lawson (WESTWOOD MANAGEMENT ) , Ayman Bari (STATE FARM MUTUAL AU ) , Adam Vales (STATE FARM MUTUAL AU ) , Robert Middleton (STATE FARM MUTUAL AU ) , Shane Jent (STATE FARM MUTUAL AU ) , Kevin Rock (STATE FARM MUTUAL AU ) , Mark Dunford (STATE FARM MUTUAL AU ) , Jean-Francois Ducrest (DUCREST, JEAN-FRANCO ) , Caroline Dirks (STATE FARM MUTUAL AU ) , Kyle Gilmore (STATE FARM MUTUAL AU ) , Diane Hsiung (GEODE CAPITAL MANAGE ) , Hunter Rose (STATE FARM MUTUAL AU ) , Cameron Kurak (STATE FARM MUTUAL AU ) , Mark Broughton (FIRST REPUBLIC BANK ) , Betsey Euliss (STATE FARM MUTUAL AU ) , Kim Bretz (STATE FARM MUTUAL AU ) , Jon Wilson (STATE FARM MUTUAL AU ) , Numan Ahmed (STATE FARM MUTUAL AU ) , Walter Ruane (STATE FARM MUTUAL AU ) , Shawna Barlow (STATE FARM MUTUAL AU ) , Philip Kroger (STATE FARM MUTUAL AU ) , Gabrielle Poole (STATE FARM MUTUAL AU ) , Ricardo Correa (STATE FARM MUTUAL AU ) , Felipe Castella (STATE FARM MUTUAL AU ) , Matt Krebsbach (STATE FARM MUTUAL AU ) , Gabriel Prado Correa (STATE FARM MUTUAL AU ) , Larnita Gates (STATE FARM MUTUAL AU ) , Ketrick Karsten (STATE FARM MUTUAL AU ) , Sophie Kim (STATE FARM MUTUAL AU ) , Vicki Trimpe (STATE FARM MUTUAL AU ) , Christin Higham (STATE FARM MUTUAL AU ) , BD DINCER (COLUMBIA UNIVERSITY ) , b.dincer@columbia.edu
+    Cc: Kerri Saperstein (MORGAN STANLEY & CO. ) , COLIN.BROOKS@MORGAN.STANLEY.COM
+    Subject: Fwd:Fwd:Fwd:Fwd:Fwd:STATE FARM - BLOOMINGTON » Northern Trust Company. ACRIS 6MM
+
+        From: BD DINCER (COLUMBIA UNIVERSITY) At: 12/18/21 18:34:02 UTC-5:00
+        To: Kerri Saperstein (MORGAN STANLEY & CO. ) , colin.brooks@morgan.stanley.com
+        Cc: james.gorman@morganstanley.com
+        Subject: Fwd:Fwd:Fwd:Fwd:STATE FARM - BLOOMINGTON » Northern Trust Company. ACRIS 6MM
+
+            From: BD DINCER (COLUMBIA UNIVERSITY) At: 12/18/21 18:27:46 UTC-5:00
+            To: james.gorman@morgan.stanley.com
+            Cc: Christina Constantine (FINRA ) , Ms Hy (MORGAN STANLEY INVES ) , Ms Hyld (MORGAN STANLEY ) , Peter Melley (FINRA ) , Susan Byrne (WESTWOOD MANAGEMENT ) , Julie Hoyer (STATE FARM MUTUAL AU ) , Greg Shull (STATE FARM MUTUAL AU ) , Jeffrey Attwood (STATE FARM MUTUAL AU ) , John Malito (STATE FARM MUTUAL AU ) , Steven Santiccioli (NORTHERN TRUST COMPA ) , Robert Stephan (STATE FARM MUTUAL AU ) , Lisa Rogers (STATE FARM MUTUAL AU ) , Elena Khoziaeva (BRIDGEWAY CAPITAL MA ) , Bill Trauner (STATE FARM MUTUAL AU ) , Heather Caldwell (STATE FARM MUTUAL AU ) , Theresa Baker (STATE FARM MUTUAL AU ) , Tammy Gipson (STATE FARM MUTUAL AU ) , Brent Reeder (NORTHERN TRUST COMPA ) , Michael Whipple (BRIDGEWAY CAPITAL MA ) , Michael Zaroogian (STATE FARM MUTUAL AU ) , Terence Lynch (GAINSCO SERVICE CORP ) , Rebekah Holt (STATE FARM MUTUAL AU ) , Katie Hubbard (STATE FARM MUTUAL AU ) , Leigh Ann Rogalski (STATE FARM MUTUAL AU ) , Chad Moser (STATE FARM MUTUAL AU ) , Tim Zelgert (STATE FARM MUTUAL AU ) , Ray Renken (STATE FARM MUTUAL AU ) , Kara Olson (STATE FARM MUTUAL AU ) , Jim Chan (BLACKROCK INSTITUTIO ) , Matt Harvey (STATE FARM MUTUAL AU ) , Steve Brucker (STATE FARM MUTUAL AU ) , John Socha (STATE FARM MUTUAL AU ) , Jennifer Hsui (BLACKROCK INSTITUTIO ) , Joe Young (STATE FARM MUTUAL AU ) , Wade Reinthaler (STATE FARM MUTUAL AU ) , Scott Reid (STATE FARM MUTUAL AU ) , Adam Hallman (STATE FARM MUTUAL AU ) , Tyler Smith (STATE FARM MUTUAL AU ) , Wei Hao (STATE FARM MUTUAL AU ) , Chris Minter (STATE FARM MUTUAL AU ) , Shelly Marsh (STATE FARM MUTUAL AU ) , Hollie Marsh (STATE FARM MUTUAL AU ) , Matthew Lockridge (WESTWOOD MANAGEMENT ) , Rich Rebholz (STATE FARM MUTUAL AU ) , Michael Mayberger (STATE FARM MUTUAL AU ) , Ashley Smock (STATE FARM MUTUAL AU ) , Brian Bengtson (STATE FARM MUTUAL AU ) , Cory Swartzlander (STATE FARM MUTUAL AU ) , Scott Lawson (WESTWOOD MANAGEMENT ) , Ayman Bari (STATE FARM MUTUAL AU ) , Adam Vales (STATE FARM MUTUAL AU ) , Robert Middleton (STATE FARM MUTUAL AU ) , Shane Jent (STATE FARM MUTUAL AU ) , Kevin Rock (STATE FARM MUTUAL AU ) , Mark Dunford (STATE FARM MUTUAL AU ) , Jean-Francois Ducrest (DUCREST, JEAN-FRANCO ) , Caroline Dirks (STATE FARM MUTUAL AU ) , Kyle Gilmore (STATE FARM MUTUAL AU ) , Diane Hsiung (GEODE CAPITAL MANAGE ) , Hunter Rose (STATE FARM MUTUAL AU ) , Cameron Kurak (STATE FARM MUTUAL AU ) , Mark Broughton (FIRST REPUBLIC BANK ) , Betsey Euliss (STATE FARM MUTUAL AU ) , Kim Bretz (STATE FARM MUTUAL AU ) , Jon Wilson (STATE FARM MUTUAL AU ) , Numan Ahmed (STATE FARM MUTUAL AU ) , Walter Ruane (STATE FARM MUTUAL AU ) , Shawna Barlow (STATE FARM MUTUAL AU ) , Philip Kroger (STATE FARM MUTUAL AU ) , Gabrielle Poole (STATE FARM MUTUAL AU ) , Ricardo Correa (STATE FARM MUTUAL AU ) , Felipe Castella (STATE FARM MUTUAL AU ) , Matt Krebsbach (STATE FARM MUTUAL AU ) , Gabriel Prado Correa (STATE FARM MUTUAL AU ) , Larnita Gates (STATE FARM MUTUAL AU ) , Ketrick Karsten (STATE FARM MUTUAL AU ) , Sophie Kim (STATE FARM MUTUAL AU ) , Vicki Trimpe (STATE FARM MUTUAL AU ) , Christin Higham (STATE FARM MUTUAL AU ) , BD DINCER (COLUMBIA UNIVERSITY ) , Donald Rizer (FINRA ) , Paul Aragon (FINRA ) , b.dincer@columbia.edu, chair@sec.gov
+            Subject: Fwd:Fwd:Fwd:STATE FARM - BLOOMINGTON » Northern Trust Company. ACRIS 6MM
+
+                From: BD DINCER (COLUMBIA UNIVERSITY) At: 12/18/21 18:22:33 UTC-5:00
+                To: Kerri Saperstein (MORGAN STANLEY & CO. ) , james.gorman@morganstanley.com
+                Cc: bd2561@columbia.edu
+                Subject: Fwd:Fwd:STATE FARM - BLOOMINGTON » Northern Trust Company. ACRIS 6MM
+
+                    From: BD DINCER (COLUMBIA UNIVERSITY) At: 12/18/21 18:15:44 UTC-5:00
+                    To: Ms. Hayashi (NOMURA SECURITIES CO ) , Morgan32 Stanley (MORGAN STANLEY ADVTG ) , Morgan Stanley154 (MORGAN STANLEY ADVTG ) , Morgan Stanley15 (MORGAN STANLEY ADVTG ) , Ms Hy (MORGAN STANLEY INVES ) , Ms Hyld (MORGAN STANLEY )
+                    Cc: Kerri Saperstein (MORGAN STANLEY & CO. ) , Cmo Citibank (CITIBANK NA ) , Samriddi Abney (FEDERAL HOME LOAN BA ) , Federated Mmktops (FEDERATED INVESTMENT ) , Jesse Aguilar (FEDERAL HOME LOAN BA ) , Shafat Alam (FEDERAL RESERVE BANK ) , Steven Santiccioli (NORTHERN TRUST COMPA ) , bd2561@columbia.edu, colin.brooks@morgan.stanley.com
+                    Subject: Fwd:STATE FARM - BLOOMINGTON » Northern Trust Company. ACRIS 6MM
+
+                        Hey SAPS... Merry Christmas!
+
+                        You think this guy will figure it out???
+                        - THE 6MM? 
+
+
+
+                                          
+                            Brent Reeder
+
+                            Fund Manager  
+                            Northern Trust Company, The
+                                     +1-312-557-0153 (o)                  181 W Madison St
+                                 bdr11@bloomberg.net (w)             Chicago IL 60602-4510, US
+
+                                                         Focus       Large Cap Stocks, Growth Investing, United States, Equities, 
+                                                                        Mid Cap Stocks, Small Cap Stocks, Global, United Kingdom, | More »
+
+                                                         Funds Managed (43 Funds/51.6B Total Assets in USD) | More »
+
+                             » » » » » »   590xxxx   
+
+
+
+                           » » » » » »   ???????
+
+
+
+                        Investment Information Analyst
+                        State Farm Mutual Automobile Ins Co
+                                 +1-309-735-2705 (o)                  1 State Farm Plz
+                            +1-309-530-1865 (m)                  Investment Department E-8
+                           krock5@bloomberg.net (w)            Bloomington IL 61701, US
+
+                        You think this guy will figure it out???
+                        - THE 6MM? 
+
+                                                        Phil Supple            1 Views Today
+                        Spokesperson        Career
+                        State Farm Life Insurance Co                                                                          Current
+                               +1-800-782-8332 (o)                  1 State Farm Plaza                                       State Farm Life Insurance Co
+                               phil.supple.hid9@statefarm.com (w  Bloomington IL 61710, US    
+
+
+                        How funny was Benny .........
+                        I like Benny also... Plus no problems after that. Right?
+
+                        From: BD DINCER (COLUMBIA UNIVERSITY) At: 12/18/21 18:03:41 UTC-5:00
+                        To:  Susan Byrne (WESTWOOD MANAGEMENT ) ,  Julie Hoyer (STATE FARM MUTUAL AU ) ,  Greg Shull (STATE FARM MUTUAL AU ) ,  Jeffrey Attwood (STATE FARM MUTUAL AU ) ,  John Malito (STATE FARM MUTUAL AU ) ,  Steven Santiccioli (NORTHERN TRUST COMPA ) ,  Robert Stephan (STATE FARM MUTUAL AU ) ,  Lisa Rogers (STATE FARM MUTUAL AU ) ,  Elena Khoziaeva (BRIDGEWAY CAPITAL MA ) ,  Bill Trauner (STATE FARM MUTUAL AU ) ,  Heather Caldwell (STATE FARM MUTUAL AU ) ,  Theresa Baker (STATE FARM MUTUAL AU ) ,  Tammy Gipson (STATE FARM MUTUAL AU ) ,  Brent Reeder (NORTHERN TRUST COMPA ) ,  Michael Whipple (BRIDGEWAY CAPITAL MA ) ,  Michael Zaroogian (STATE FARM MUTUAL AU ) ,  Terence Lynch (GAINSCO SERVICE CORP ) ,  Rebekah Holt (STATE FARM MUTUAL AU ) ,  Katie Hubbard (STATE FARM MUTUAL AU ) ,  Leigh Ann Rogalski (STATE FARM MUTUAL AU ) ,  Chad Moser (STATE FARM MUTUAL AU ) ,  Tim Zelgert (STATE FARM MUTUAL AU ) ,  Ray Renken (STATE FARM MUTUAL AU ) ,  Kara Olson (STATE FARM MUTUAL AU ) ,  Jim Chan (BLACKROCK INSTITUTIO ) ,  Matt Harvey (STATE FARM MUTUAL AU ) ,  Steve Brucker (STATE FARM MUTUAL AU ) ,  John Socha (STATE FARM MUTUAL AU ) ,  Jennifer Hsui (BLACKROCK INSTITUTIO ) ,  Joe Young (STATE FARM MUTUAL AU ) ,  Wade Reinthaler (STATE FARM MUTUAL AU ) ,  Scott Reid (STATE FARM MUTUAL AU ) ,  Adam Hallman (STATE FARM MUTUAL AU ) ,  Tyler Smith (STATE FARM MUTUAL AU ) ,  Wei Hao (STATE FARM MUTUAL AU ) ,  Chris Minter (STATE FARM MUTUAL AU ) ,  Shelly Marsh (STATE FARM MUTUAL AU ) ,  Hollie Marsh (STATE FARM MUTUAL AU ) ,  Matthew Lockridge (WESTWOOD MANAGEMENT ) ,  Rich Rebholz (STATE FARM MUTUAL AU ) ,  Michael Mayberger (STATE FARM MUTUAL AU ) ,  Ashley Smock (STATE FARM MUTUAL AU ) ,  Brian Bengtson (STATE FARM MUTUAL AU ) ,  Cory Swartzlander (STATE FARM MUTUAL AU ) ,  Scott Lawson (WESTWOOD MANAGEMENT ) ,  Ayman Bari (STATE FARM MUTUAL AU ) ,  Adam Vales (STATE FARM MUTUAL AU ) ,  Robert Middleton (STATE FARM MUTUAL AU ) ,  Shane Jent (STATE FARM MUTUAL AU ) ,  Kevin Rock (STATE FARM MUTUAL AU ) ,  Mark Dunford (STATE FARM MUTUAL AU ) ,  Jean-Francois Ducrest (DUCREST, JEAN-FRANCO ) ,  Caroline Dirks (STATE FARM MUTUAL AU ) ,  Kyle Gilmore (STATE FARM MUTUAL AU ) ,  Diane Hsiung (GEODE CAPITAL MANAGE ) ,  Hunter Rose (STATE FARM MUTUAL AU ) ,  Cameron Kurak (STATE FARM MUTUAL AU ) ,  Mark Broughton (FIRST REPUBLIC BANK ) ,  Betsey Euliss (STATE FARM MUTUAL AU ) ,  Kim Bretz (STATE FARM MUTUAL AU ) ,  Jon Wilson (STATE FARM MUTUAL AU ) ,  Numan Ahmed (STATE FARM MUTUAL AU ) ,  Walter Ruane (STATE FARM MUTUAL AU ) ,  Shawna Barlow (STATE FARM MUTUAL AU ) ,  Philip Kroger (STATE FARM MUTUAL AU ) ,  Gabrielle Poole (STATE FARM MUTUAL AU ) ,  Ricardo Correa (STATE FARM MUTUAL AU ) ,  Felipe Castella (STATE FARM MUTUAL AU ) ,  Matt Krebsbach (STATE FARM MUTUAL AU ) ,  Gabriel Prado Correa (STATE FARM MUTUAL AU ) ,  Larnita Gates (STATE FARM MUTUAL AU ) ,  Ketrick Karsten (STATE FARM MUTUAL AU ) ,  Sophie Kim (STATE FARM MUTUAL AU ) ,  Vicki Trimpe (STATE FARM MUTUAL AU ) ,  Christin Higham (STATE FARM MUTUAL AU ) ,  BD DINCER (COLUMBIA UNIVERSITY ) ,  b.dincer@columbia.edu
+                        Cc:  Kerri Saperstein (MORGAN STANLEY & CO. ) ,  newyork@sec.gov,  chair@sec.gov,  colin.brooks@morgan.stanley.com
+                        Subject: Fwd:STATE FARM - BLOOMINGTON
+
+                            krock5@bloomberg.net (w) Bloomington IL 61701, US
+
+
+                            See also: TCRReport... 
+
+
+                            Thanks!
+
+
+
+
+                            From: BD DINCER (COLUMBIA UNIVERSITY) At: 12/18/21 16:13:57 UTC-5:00
+                            To:  Greg Shull (STATE FARM MUTUAL AU ) ,  Bill Trauner (STATE FARM MUTUAL AU ) ,  Theresa Baker (STATE FARM MUTUAL AU ) ,  Tammy Gipson (STATE FARM MUTUAL AU ) ,  Leigh Ann Rogalski (STATE FARM MUTUAL AU ) ,  Chad Moser (STATE FARM MUTUAL AU ) ,  Ray Renken (STATE FARM MUTUAL AU ) ,  Matt Harvey (STATE FARM MUTUAL AU ) ,  Steve Brucker (STATE FARM MUTUAL AU ) ,  Wade Reinthaler (STATE FARM MUTUAL AU ) ,  Tyler Smith (STATE FARM MUTUAL AU ) ,  Rich Rebholz (STATE FARM MUTUAL AU ) ,  Brian Bengtson (STATE FARM MUTUAL AU ) ,  Kyle Gilmore (STATE FARM MUTUAL AU ) ,  Numan Ahmed (STATE FARM MUTUAL AU ) ,  Walter Ruane (STATE FARM MUTUAL AU ) ,  Vicki Trimpe (STATE FARM MUTUAL AU ) ,  Brent Reeder (NORTHERN TRUST COMPA ) ,  Steven Santiccioli (NORTHERN TRUST COMPA ) ,  sjs5@ntrs.com,  rebecca.coyle@statefarm.com,  nicole.bowyer@statefarm.com,  phil.supple.hid9@statefarm.com,  dick.luedke.h2hj@statefarm.com,  brian.hodgson.nyz6@statefarm.com
+                            Cc:  Christin Higham (STATE FARM MUTUAL AU ) ,  Sophie Kim (STATE FARM MUTUAL AU ) ,  Ketrick Karsten (STATE FARM MUTUAL AU ) ,  Larnita Gates (STATE FARM MUTUAL AU ) ,  Gabriel Prado Correa (STATE FARM MUTUAL AU ) ,  Matt Krebsbach (STATE FARM MUTUAL AU ) ,  Felipe Castella (STATE FARM MUTUAL AU ) ,  Susan Byrne (WESTWOOD MANAGEMENT ) ,  Julie Hoyer (STATE FARM MUTUAL AU ) ,  Jeffrey Attwood (STATE FARM MUTUAL AU ) ,  John Malito (STATE FARM MUTUAL AU ) ,  Robert Stephan (STATE FARM MUTUAL AU ) ,  Lisa Rogers (STATE FARM MUTUAL AU ) ,  Elena Khoziaeva (BRIDGEWAY CAPITAL MA ) ,  Heather Caldwell (STATE FARM MUTUAL AU ) ,  Michael Whipple (BRIDGEWAY CAPITAL MA ) ,  Michael Zaroogian (STATE FARM MUTUAL AU ) ,  Terence Lynch (GAINSCO SERVICE CORP ) ,  Rebekah Holt (STATE FARM MUTUAL AU ) ,  Katie Hubbard (STATE FARM MUTUAL AU ) ,  Tim Zelgert (STATE FARM MUTUAL AU ) ,  Kara Olson (STATE FARM MUTUAL AU ) ,  Jim Chan (BLACKROCK INSTITUTIO ) ,  John Socha (STATE FARM MUTUAL AU ) ,  Jennifer Hsui (BLACKROCK INSTITUTIO ) ,  Joe Young (STATE FARM MUTUAL AU ) ,  Scott Reid (STATE FARM MUTUAL AU ) ,  Adam Hallman (STATE FARM MUTUAL AU ) ,  Wei Hao (STATE FARM MUTUAL AU ) ,  Chris Minter (STATE FARM MUTUAL AU ) ,  Shelly Marsh (STATE FARM MUTUAL AU ) ,  Hollie Marsh (STATE FARM MUTUAL AU ) ,  Matthew Lockridge (WESTWOOD MANAGEMENT ) ,  Michael Mayberger (STATE FARM MUTUAL AU ) ,  Ashley Smock (STATE FARM MUTUAL AU ) ,  Cory Swartzlander (STATE FARM MUTUAL AU ) ,  Scott Lawson (WESTWOOD MANAGEMENT ) ,  Ayman Bari (STATE FARM MUTUAL AU ) ,  Adam Vales (STATE FARM MUTUAL AU ) ,  Robert Middleton (STATE FARM MUTUAL AU ) ,  Shane Jent (STATE FARM MUTUAL AU ) ,  Kevin Rock (STATE FARM MUTUAL AU ) ,  Mark Dunford (STATE FARM MUTUAL AU ) ,  Jean-Francois Ducrest (DUCREST, JEAN-FRANCO ) ,  Caroline Dirks (STATE FARM MUTUAL AU ) ,  Diane Hsiung (GEODE CAPITAL MANAGE ) ,  Hunter Rose (STATE FARM MUTUAL AU ) ,  Cameron Kurak (STATE FARM MUTUAL AU ) ,  Mark Broughton (FIRST REPUBLIC BANK ) ,  Betsey Euliss (STATE FARM MUTUAL AU ) ,  Kim Bretz (STATE FARM MUTUAL AU ) ,  Jon Wilson (STATE FARM MUTUAL AU ) ,  Shawna Barlow (STATE FARM MUTUAL AU ) ,  Philip Kroger (STATE FARM MUTUAL AU ) ,  Gabrielle Poole (STATE FARM MUTUAL AU ) ,  Ricardo Correa (STATE FARM MUTUAL AU ) ,  BO.DINCER@YAHOO.COM,  bd2561@columbia.edu
+                            Subject: STATE FARM - BLOOMINGTON
+
+                                TY.
+
+
+                                                    Kevin Rock
+
+                                Investment Information Analyst
+                                State Farm Mutual Automobile Ins Co
+                                        +1-309-735-2705 (o)                  1 State Farm Plz
+                                    +1-309-530-1865 (m)                  Investment Department E-8
+                                   krock5@bloomberg.net (w)            Bloomington IL 61701, US
+
+
+                                                                Phil Supple           1 Views Today
+                                Spokesperson        Career
+                                State Farm Life Insurance Co                                                                          Current
+                                       +1-800-782-8332 (o)                  1 State Farm Plaza                                       State Farm Life Insurance Co
+                                        phil.supple.hid9@statefarm.com (w  Bloomington IL 61710, US                               Spokesperson
+
+
+
+                                                                           Nicole Tamilyn Bowyer
+
+                                Attorney
+                                State Farm Insurance
+                                     +1-504-840-4900 (o)                  853 Fincastle Turnpike
+                                      +1-504-840-4941 (f)                   North Tazewell VA 24630
+                                    nicole.bowyer@statefarm.com (w)
+                                                          Focus       Legal
+
+                                     Rebecca Coyle          1 Views Today
+                                Analyst:Public Policy       Career
+                                State Farm Life Insurance Co                                                                          Current
+                                       +1-309-766-2311 (o)                  1900 M Street NW                                          State Farm Life Insurance Co
+                                      rebecca.coyle@statefarm.com (w)   Washington DC 20036, US                                Analyst:Public Policy
+                                                                                                                                                     2012-Present
+
+
+                                                                                  Steven Santiccioli
+
+                                VP:Quantitative Management   
+                                Northern Trust Company, The
+                                        +1-3124444419 (o)                     Addl Contact Info  »
+                                       312-444-5777 (o)                       181 W Madison St
+                                  steve@bloomberg.net (w)             Chicago IL 60602-4510, 
+                                     sjs5@ntrs.com (w)
+                                                                     I would work harder on my marriage if there was a retirement plan.
+                                                                   Focus       Large Cap Stocks, Growth Investing, Global, Equities, 
+                                                                                 Thematic Investing, United States, Developed Markets
+
+                                                                   Funds Managed (7 Funds/7.7B Total Assets in USD) | More »
+                                         Fund Name       Tot Ast YTD Ret 3M Px   Objective       Status
+                                21)        Northern International Equity In        5.5B    7.8             Foreign Blend   ACTV
+                                22)  Northern Global Sustainability In       1.3B    20.5            Thematic Sector ACTV
+                                23)  Green Century Equity Fund       552.1M  25.2            Thematic Sector ACTV
+
+                                                                   Recent News | More »
+                                41)                 Northern Funds: 497 2019/07/02          EDG     07/2019  
+
+                                           
+
+
+
+
+<< HAPPY HOLIDAYS and Merry xmas >>
