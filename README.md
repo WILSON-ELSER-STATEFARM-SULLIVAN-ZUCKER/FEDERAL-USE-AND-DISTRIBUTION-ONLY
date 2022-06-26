@@ -61,19 +61,6 @@ Hon. Milton A. Tingling, New York County Clerk and Clerk of the Supreme Court NY
 
 Phone: (646) 386-3033 | Fax: (212) 401-9146 | Website: www.nycourts.gov/efile
 	
-
-	
----
-LOAN DOCKETS, ASSIGNMENT OF LEASES AND RENTS TO STATE FARM IN EXCHANGE FOR $6,000,000.00
-# [ LOAN DOCKETS FOR 50074 EST ++ ]
-## [LOCATION 3]  @MSKYLINE.COM
-101 WEST 55TH STREET, NEW YORK, NY, 10019
-## [LOCATION 2]  @WILSONELSER.COM
-150 EAST 42ND STREET, NEW YORK, NY, 10017
-## [LOCATION 1]  @COLUMBIA.EDU
-Lewisohn Hall, 2970 Broadway, 4TH FLOOR --
-New York, NY 10027
----	
 ### USC 18.21, UNLAWFUL RENTS AND LEASES TRANSFERRED TO STATE FARM
 ANNEXED IN THE LOAN DOCKETS AND IN NYSCEF 153974/2020
 	    
@@ -215,7 +202,8 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1B
 ** National Center for Consumer and Depositor Assistance
 ** Federal Deposit Insurance Corporation 
 
-# USC 18. §208.	Acts affecting a personal financial interest
+### USC 18. §208. Acts affecting a personal financial interest
+
 
 (a) Except as permitted by subsection (b) hereof, whoever, being an officer or employee of the executive branch of the United States Government, or of any independent agency of the United States, a Federal Reserve bank director, officer, or employee, or an officer or employee of the District of Columbia, including a special Government employee, participates personally and substantially as a Government officer or employee, through decision, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise, in a judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter in which, to his knowledge, he, his spouse, minor child, general partner, organization in which he is serving as officer, director, trustee, general partner or employee, or any person or organization with whom he is negotiating or has any arrangement concerning prospective employment, has a financial interest-Shall be subject to the penalties set forth in section 216 of this title.
 (b) Subsection (a) shall not apply-
@@ -243,3 +231,20 @@ ADMINISTRATION@MSKYLINE.COM; LZUCKER@MSKYLINE.COM; ADMINISTRATOR@MSKYLINE.COM; L
 ---
 WITHOUT CONSENT, PHOTOGRAPHED AND VIDEOTAPED THE INTERIOR OF MY APARTMENT - THEN HOSTED THEM ON THE INTERNET AS WELL.
 *** NOTWITHSTANDING THE INDETERMINATE NUMBER OF <VIDEO.MOV> FILES BY AND BETWEEN ALL THREE LOCATIONS ABOVE.
+	
+---
+### [ LOAN DOCKETS FOR 50074 EST ++ ] $6,000,000.00 AND UNDER USC 18.225
+LOAN DOCKETS, ASSIGNMENT OF UNLAWFULLY REPRESENTED INCOME (USC 18.21)
+* LEASES AND RENTS TO STATE FARM IN EXCHANGE FOR $6,000,000.00
+
+<br><br>
+[LOCATION 3]  @MSKYLINE.COM<br>
+* 101 WEST 55TH STREET, NEW YORK, NY, 10019
+<br><br>
+
+[LOCATION 2]  @WILSONELSER.COM<br>
+* 150 EAST 42ND STREET, NEW YORK, NY, 10017
+<br><br>
+
+[LOCATION 1]  @COLUMBIA.EDU<br>
+* Lewisohn Hall, 2970 Broadway, 4TH FLOOR, New York, NY 10027
