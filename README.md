@@ -1123,10 +1123,9 @@ Because the portions of an underpayment that are attributable to a substantial o
 
 The value or adjusted basis claimed on a return of any property with a correct value or adjusted basis of zero is considered to be 400 percent or more of the correct amount. There is a gross valuation misstatement with respect to such property, therefore, and the applicable penalty rate is 40 percent.
 
- I ANNEXED THESE - JUST IN CASE.
-
+I ANNEXED THESE - JUST IN CASE.
 RECEIVED NYSCEF: 08/01/2020
-
+ 
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2xkNo2v2/wHD14V7b_PLUS_2njQ==
 
 HERE'S THE INVOICE WITH JUNE PAID. INCLUDING LEGAL FEES AND ANY DAMAGES.
@@ -1143,6 +1142,7 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0
 
 
 Base Cap Rate: Which is the Department of Finance's estimate of the rate of return that an ordinary investor would expect on their investment in this type of property. Sullivan Properties, L.P. 101 West 55th Street, New York, NY, 10019.
+
 ![image](https://user-images.githubusercontent.com/108204659/175826227-b7398bf5-2761-43d6-bd73-7382e489f926.png)
 
 
