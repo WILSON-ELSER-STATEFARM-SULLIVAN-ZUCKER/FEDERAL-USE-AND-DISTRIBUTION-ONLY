@@ -1800,4 +1800,8 @@ READ
 ---
  Your message     To: Legal Services and Special Contracts Group    Subject: [EXTERNAL MESSAGE] USC 18 §225. Continuing financial crimes enterprise-    Sent: Monday, June 20, 2022 8:07:28 PM (UTC-05:00) Indiana (East)   was read on Wednesday, June 22, 2022 8:37:55 AM (UTC-05:00) Indiana (East).  Final-recipient: RFC822; LSSCG@FDIC.gov Disposition: automatic-action/MDN-sent-automatically; displayed X-MSExch-Correlation-Key: 6Z3ycX+0OEGLJ27Os94cfg== X-Display-Name: Legal Services and Special Contracts Group
 	
- 
+
+---
+	
+CARRIED INTEREST ON BACK TAXES HAS ACCURED THE GREATER OF TWO YEARS SINCE THEY FIRST FILED A FRIVOLOUS LAWSUIT.
+	- TRIED TO KEEP ME OCCUPIED, AND SLOW DOWN THE INEVITABLE (AT THIS POINT)
