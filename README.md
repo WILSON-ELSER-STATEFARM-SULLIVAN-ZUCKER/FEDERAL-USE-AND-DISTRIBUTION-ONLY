@@ -55,4 +55,60 @@ Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600 150 East 42n
 Hon. Milton A. Tingling, New York County Clerk and Clerk of the Supreme Court NYSCEF Resource Center, nyscef@nycourts.gov Phone: 646-386-5956 Website: http://www.nycourts.gov/courts/1jd/supctmanh/county_clerk_operations.shtml Phone: (646) 386-3033 | Fax: (212) 401-9146 | Website: www.nycourts.gov/efile
 	
 property report (see also: Miwa and Teschman) Assignment to Zucker 0526 	Filed: 08/04/2020 	Confirmation Notice
+	
+---
+LOAN DOCKETS, ASSIGNMENT OF LEASES AND RENTS TO STATE FARM IN EXCHANGE FOR $6,000,000.00
+
+ 307  	EXHIBIT(S)  - OPP  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+PLAINTIFF DOES NOT HAVE A CERTIFICATE OF OCCUPANCY FOR THIS PROPERTY 	Filed: 08/09/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rjL6yoW3Mt2U6UigWCM9XQ== 	Received: 08/09/2020 	 
+ 308  	EXHIBIT(S)  - 503  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+TAX MAP BLOCK 503 - LOT 8 [GIS.NYC.GOV] 	Filed: 08/09/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA== 	Received: 08/09/2020 	 
+ 309  	EXHIBIT(S)  - no1  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH  	Filed: 08/09/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ== 	Received: 08/09/2020 	 
+ 310  	EXHIBIT(S)  - AC0  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+ACRIS Detailed Document Information (2019000021408)2019010800475001 	Filed: 08/09/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ze6a1KA9akRV9TGfXXJT/g== 	Received: 08/09/2020 	 
+ 311  	EXHIBIT(S)  - AC1  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+ACRIS Detailed Document Information (2020000155422)2020052000291003 	Filed: 08/09/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw== 	Received: 08/09/2020 	 
+ 312  	EXHIBIT(S)  - AC2  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+ACRIS Detailed Document Information (2020000155421)2020052000291002 	Filed: 08/09/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw== 	Received: 08/09/2020 	 
+ 313  	EXHIBIT(S)  - AC3  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+ACRIS Detailed Document Information (2020000155422)2020052000291003 	Filed: 08/09/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg== 	Received: 08/09/2020 	 
+ 314  	EXHIBIT(S)  - AC4  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+ACRIS Detailed Document Information (2020000155423)2020052000291004 	Filed: 08/09/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g== 	Received: 08/09/2020 	 
+ 315  	EXHIBIT(S)  - ACR  (Motion #002) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH - https://a836-acris.nyc.gov/ 	Filed: 08/09/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ== 	Received: 08/09/2020 	 
+ 316  	EXHIBIT(S)  - Bu0 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+COMPLAINT #14585819 (7/25/2020) @BBB 	Filed: 08/09/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7Ry3LAoVfWOLjSXhyJZ94A== 	Received: 08/09/2020 	 
+
+
+CERTIFICATES OF OCCUPANCY AT ALL RELEVANT TIMES. FOR THE LOAN 50074 (ALSO FILED IN NYSCEF 153974/2020)
+
+ 230  	EXHIBIT(S)  - COr 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+CERTIFICATE OF OCCUPANCY FOR 111 SULLIVAN STREET REAR, NEW YORK, NEW YORK 10012 	Filed: 08/04/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JjKiWNUTBeipcESQfFiwVQ== 	Received: 08/04/2020 	 
+ 231  	EXHIBIT(S)  - COf 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+CERTIFICATE OF OCCUPANCY FOR 111 SULLIVAN STREET, NEW YORK, NEW YORK 10012 	Filed: 08/04/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Wx2R9sKfno_PLUS_ol5jFakV9g== 	Received: 08/04/2020 	 
+ 232  	EXHIBIT(S)  - MEW  (Motion #002) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+Miwako Messer (AFFIDAVIT) IS REPORTED AS A 25 YEAR AFFILIATE OF THE PLAINTIFF 	Filed: 08/04/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=72GIYXnN1f/CSjCYtDxKUw== 	Received: 08/04/2020 	 
+ 233  	EXHIBIT(S)  - MW1  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+Affidavit of Miwako Messer SHOULD BE CONSIDERED AS WELL ORCHESTRATED 	Filed: 08/04/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=G5D0bfOIy4SeSXS47aSWbw== 	Received: 08/04/2020 	 
+ 234  	EXHIBIT(S)  - VER 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+NO COMPLAINTS HAVE BEEN FILED IN MY BUILDING - PER DEPARTMENT OF BUILDINGS RECORDS. 	Filed: 08/04/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Wx2R9sKfno_PLUS_ol5jFakV9g== 	Received: 08/04/2020 	 
+ 235  	EXHIBIT(S)  - 804  (Motion #002) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+property report (see also: Miwa and Teschman) Assignment to Zucker 0526 	Filed: 08/04/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Oioy2FAQ_PLUS_uuEatGhmc4JnA== 	Received: 08/04/2020 	 
 
