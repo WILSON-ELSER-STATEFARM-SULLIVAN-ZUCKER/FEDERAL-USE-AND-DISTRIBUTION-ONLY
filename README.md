@@ -20,8 +20,13 @@ Filed: 07/21/2020
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
 # VIOLATION OF PRIVACY AND BREACH OF DUTIES
 *** Filed: 07/21/2020
-   
 https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
+
+
+## NO CERTIFICATE OF OCCUPANCY IN AUGUST, 2020
+FILED: NEW YORK COUNTY CLERK 08/04/2020 09:10 AM 
+INDEX NO. 153974/2020 --- NYSCEF DOC. NO. 230 --- RECEIVED NYSCEF: 08/04/2020
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AgwH2omenQPCvT0OYOE3Rg==
 
 # PROCESSED
 https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=SVnk_PLUS_wwn_PLUS_akZLr2HagUrng==&ret=D&docketId=rbJs1u78EZo22UbkaVdrZg==
@@ -63,7 +68,7 @@ LOAN DOCKETS, ASSIGNMENT OF LEASES AND RENTS TO STATE FARM IN EXCHANGE FOR $6,00
 # [ LOAN DOCKETS FOR 50074 EST ++ ]
 ## [LOCATION 3]  @MSKYLINE.COM
 101 WEST 55TH STREET, NEW YORK, NY, 10019
-## [LOCATION 2]  @WILSONSER.COM
+## [LOCATION 2]  @WILSONELSER.COM
 150 EAST 42ND STREET, NEW YORK, NY, 10017
 ## [LOCATION 1]  @COLUMBIA.EDU
 Lewisohn Hall, 2970 Broadway, 4TH FLOOR --
