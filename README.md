@@ -17,23 +17,39 @@ Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600
 Filed: 07/21/2020
     
 [NYSCEF INDEX NO. 153974/2020]
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
+
 # VIOLATION OF PRIVACY AND BREACH OF DUTIES
-*** Filed: 07/21/2020
+FILED: NEW YORK COUNTY CLERK 07/21/2020 04:17 AM &nbsp;&nbsp;&nbsp;&nbsp;* * * * * &nbsp;&nbsp;&nbsp;&nbsp; <br>NYSCEF INDEX NO.: &nbsp;&nbsp;&nbsp;&nbsp; 153974/2020
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * &nbsp;&nbsp;&nbsp;&nbsp; NYSCEF DOC. NO. 77 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * &nbsp;&nbsp;&nbsp;&nbsp; RECEIVED NYSCEF: 07/21/2020
+
+<br> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
+
+<br> NYSCEF Confirmation Notice &nbsp;&nbsp;&nbsp;&nbsp;* * * * * &nbsp;&nbsp;&nbsp;&nbsp; Filed: 07/21/2020
+
 https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
+![image](https://user-images.githubusercontent.com/108204659/175803674-dc85ce47-c834-4024-bc60-8ded1a893555.png)
 
 
 ## NO CERTIFICATE OF OCCUPANCY IN AUGUST, 2020
-FILED: NEW YORK COUNTY CLERK 08/04/2020 09:10 AM 
-INDEX NO. 153974/2020 --- NYSCEF DOC. NO. 230 --- RECEIVED NYSCEF: 08/04/2020
+FILED: NEW YORK COUNTY CLERK 08/04/2020 09:10 AM &nbsp;&nbsp;&nbsp;&nbsp;* * * * * &nbsp;&nbsp;&nbsp;&nbsp; <br>NYSCEF INDEX NO.: &nbsp;&nbsp;&nbsp;&nbsp;  153974/2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * &nbsp;&nbsp;&nbsp;&nbsp; NYSCEF DOC. NO. 230 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * &nbsp;&nbsp;&nbsp;&nbsp; RECEIVED NYSCEF: 08/04/2020<br>
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AgwH2omenQPCvT0OYOE3Rg==
 
-# PROCESSED
+<br>PROCESSED
+<br>
 https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=SVnk_PLUS_wwn_PLUS_akZLr2HagUrng==&ret=D&docketId=rbJs1u78EZo22UbkaVdrZg==
->> Please keep this notice
-https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=UZsCx4RNLy/6V9gf1BkpTQ==
-CONFIRMATION -- PROCESSED
-The NYSCEF website has received an electronic filing on 08/04/2020 02:32 PM.
+<br> CONFIRMATION PROCESSED BY COUNSELORS OF SULLIVAN PROPERTIES, LP
+
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * &nbsp;&nbsp;&nbsp;&nbsp;
+
+<br> https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=UZsCx4RNLy/6V9gf1BkpTQ==
+
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * THEN DISTRIBUTED BY AND BETWEEN THE MATERIAL PARTIES [ MULE 1 ]<br>
+
+<br> "The NYSCEF website has received an electronic filing on 08/04/2020 02:32 PM"<br>
+<br><br> OR 
+E-mail Notifications: An email regarding this filing has been sent to the following on 08/04/2020 02:32 PM: SHARI LASKOWITZ - slaskowitz@ingramllp.com
+
+---
 <MOV DISTRIBUTION>
 BY AND BETWEEN THE WILSON ELSER LAW FIRM, AND ITS REPRESENTATIVES.
 	ASHLEY.HUMPHRIES@WILSONELSER.COM
