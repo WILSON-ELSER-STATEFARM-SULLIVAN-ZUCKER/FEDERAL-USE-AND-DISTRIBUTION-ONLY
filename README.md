@@ -42,10 +42,12 @@ FILED IN NYSCEF MATTER 153974/2020
 [DOCKET NO. 235](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Oioy2FAQ_PLUS_uuEatGhmc4JnA==)<br>
 
 [GIS TAX-LOT 508, LOT 11](http://gis.nyc.gov/taxmap/map.htm?z=11&p=983515,203704&a=DTM&c=dtm&f=BUILDING,CONDO_RANGE,LOT_FACE_SMALL,PARK_PROPERTY,ZIP_CODE&s=l:MANHATTAN,503,8,EVERY_BBL)
-[DOCKET NO. 308](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==)
-[DOCKET NO. 309](https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/files/8608700/153974_2020_S__309.pdf)
-[DOCKET NO. 315](https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=gcMSDaFzm0ynPeXZKSHgLQ==)
-[DOCKET NO. 382](https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/files/8608665/153974_2020_382.6MM.AGREEMENT.pdf)
+
+[DOCKET NO. 307](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rjL6yoW3Mt2U6UigWCM9XQ==)<br>
+[DOCKET NO. 308](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==)<br>
+[DOCKET NO. 309](https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/files/8608700/153974_2020_S__309.pdf)<br>
+[DOCKET NO. 315](https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=gcMSDaFzm0ynPeXZKSHgLQ==)<br>
+[DOCKET NO. 382](https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/files/8608665/153974_2020_382.6MM.AGREEMENT.pdf)<br>
 
 ## NO CERTIFICATE OF OCCUPANCY IN AUGUST, 2020
 FILED: NEW YORK COUNTY CLERK 08/04/2020 09:10 AM &nbsp;&nbsp;&nbsp;&nbsp;* * * * * NYSCEF CASE: 153974/2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * &nbsp;&nbsp;&nbsp;&nbsp; DOC. NO. 230
