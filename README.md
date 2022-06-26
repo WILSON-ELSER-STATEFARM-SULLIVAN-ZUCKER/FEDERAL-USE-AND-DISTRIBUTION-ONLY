@@ -112,3 +112,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Wx2R9sKfno_PLUS_o
 property report (see also: Miwa and Teschman) Assignment to Zucker 0526 	Filed: 08/04/2020 	Confirmation Notice
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Oioy2FAQ_PLUS_uuEatGhmc4JnA== 	Received: 08/04/2020 	 
 
+<MOV DISTRIBUTION WITHOUT CONSENT>
+	VIA DHS/CBP
