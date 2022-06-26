@@ -19,20 +19,18 @@ Filed: 07/21/2020
 [NYSCEF INDEX NO. 153974/2020]
 
 # VIOLATION OF PRIVACY AND BREACH OF DUTIES
-FILED: NEW YORK COUNTY CLERK 07/21/2020 04:17 AM &nbsp;&nbsp;&nbsp;&nbsp;* * * * * &nbsp;&nbsp;&nbsp;&nbsp; <br>NYSCEF INDEX NO.: &nbsp;&nbsp;&nbsp;&nbsp; 153974/2020
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * &nbsp;&nbsp;&nbsp;&nbsp; NYSCEF DOC. NO. 77 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * &nbsp;&nbsp;&nbsp;&nbsp; RECEIVED NYSCEF: 07/21/2020
-
+FILED: NEW YORK COUNTY CLERK 07/21/2020 04:17 AM &nbsp;&nbsp;&nbsp;&nbsp;* * * * * NYSCEF CASE: 153974/2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * &nbsp;&nbsp;&nbsp;&nbsp; DOC. NO. 77
 <br> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
 
-<br> NYSCEF Confirmation Notice &nbsp;&nbsp;&nbsp;&nbsp;* * * * * &nbsp;&nbsp;&nbsp;&nbsp; Filed: 07/21/2020
+<br> Confirmation Notice to all Material Parties ( was redistributed ) by and between the counselors as seen in the circulation of <Video.mov> files without consent.
 
 https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
-![image](https://user-images.githubusercontent.com/108204659/175803674-dc85ce47-c834-4024-bc60-8ded1a893555.png)
+
 
 
 ## NO CERTIFICATE OF OCCUPANCY IN AUGUST, 2020
-FILED: NEW YORK COUNTY CLERK 08/04/2020 09:10 AM &nbsp;&nbsp;&nbsp;&nbsp;* * * * * &nbsp;&nbsp;&nbsp;&nbsp; <br>NYSCEF INDEX NO.: &nbsp;&nbsp;&nbsp;&nbsp;  153974/2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * &nbsp;&nbsp;&nbsp;&nbsp; NYSCEF DOC. NO. 230 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * &nbsp;&nbsp;&nbsp;&nbsp; RECEIVED NYSCEF: 08/04/2020<br>
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AgwH2omenQPCvT0OYOE3Rg==
+FILED: NEW YORK COUNTY CLERK 08/04/2020 09:10 AM &nbsp;&nbsp;&nbsp;&nbsp;* * * * * NYSCEF CASE: 153974/2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * &nbsp;&nbsp;&nbsp;&nbsp; DOC. NO. 230
+<br> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AgwH2omenQPCvT0OYOE3Rg==
 
 <br>PROCESSED
 <br>
@@ -42,16 +40,23 @@ https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=SVnk_PLUS_wwn_PLU
 
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * * * * * THEN DISTRIBUTED BY AND BETWEEN THE MATERIAL PARTIES [ MULE 1 ]<br>
 
+TO SATISFY USC 18.2, 18.225, AND UNDER 18.21 - WILLFULLY AND KNOWINGLY TRIED TO OBSTRUCT THE MATERIAL FACTS FROM BEING KNOWN BY THE PUBLIC
+>> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==
+
 <br> "The NYSCEF website has received an electronic filing on 08/04/2020 02:32 PM"<br>
 <br><br>
 E-mail Notifications: An email regarding this filing has been sent to the following on 08/04/2020 02:32 PM<br>
 SHARI LASKOWITZ - slaskowitz@ingramllp.com
 
 ---
+
 <MOV DISTRIBUTION>
 BY AND BETWEEN THE WILSON ELSER LAW FIRM, AND ITS REPRESENTATIVES.
-	ASHLEY.HUMPHRIES@WILSONELSER.COM
-	
+<br><br> PARITICPATED AND ALSO NOTARIZED SEVERAL AFFIDAVITS THROUGHOUT THE PROCEEDINGS OF NYSCEF 153974/2020<br>
+<br><br>
+
+Counselor: Ashley Humphries | ASHLEY.HUMPHRIES@WILSONELSER.COM | 9084337463
+
 ## FILED: NEW YORK COUNTY CLERK 08/04/2020 02:32 PM
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xBYJ69pjIuDxBegralE8Uw==
 
@@ -262,3 +267,5 @@ LOAN DOCKETS, ASSIGNMENT OF UNLAWFULLY REPRESENTED INCOME (USC 18.21)
 
 [LOCATION 1]  @COLUMBIA.EDU<br>
 * Lewisohn Hall, 2970 Broadway, 4TH FLOOR, New York, NY 10027
+
+![image](https://user-images.githubusercontent.com/108204659/175803674-dc85ce47-c834-4024-bc60-8ded1a893555.png)
