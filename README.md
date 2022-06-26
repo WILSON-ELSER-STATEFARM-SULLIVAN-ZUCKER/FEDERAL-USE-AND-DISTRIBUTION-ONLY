@@ -52,14 +52,27 @@ E-mail Notifications An email regarding this filing has been sent to the followi
 
 Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600 150 East 42nd Street 19th Floor, New York, NY 10017
 
-Hon. Milton A. Tingling, New York County Clerk and Clerk of the Supreme Court NYSCEF Resource Center, nyscef@nycourts.gov Phone: 646-386-5956 Website: http://www.nycourts.gov/courts/1jd/supctmanh/county_clerk_operations.shtml Phone: (646) 386-3033 | Fax: (212) 401-9146 | Website: www.nycourts.gov/efile
+Hon. Milton A. Tingling, New York County Clerk and Clerk of the Supreme Court NYSCEF Resource Center, nyscef@nycourts.gov Phone: 646-386-5956 Website: http://www.nycourts.gov/courts/1jd/supctmanh/county_clerk_operations.shtml 
+
+Phone: (646) 386-3033 | Fax: (212) 401-9146 | Website: www.nycourts.gov/efile
 	
-property report (see also: Miwa and Teschman) Assignment to Zucker 0526 	Filed: 08/04/2020 	
-	Confirmation Notice
+
 	
 ---
 LOAN DOCKETS, ASSIGNMENT OF LEASES AND RENTS TO STATE FARM IN EXCHANGE FOR $6,000,000.00
+	
+### USC 18.21, UNLAWFUL RENTS AND LEASES TRANSFERRED TO STATE FARM
+ANNEXED IN THE LOAN DOCKETS AND IN NYSCEF 153974/2020
+	    
+§21. Stolen or counterfeit nature of property for certain crimes defined
+(a) Wherever in this title it is an element of an offense that-
+  (1) any property was embezzled, robbed, stolen, converted, taken, altered, counterfeited, falsely made, forged, or obliterated; and
+  (2) the defendant knew that the property was of such character;
+  -such element may be established by proof that the defendant, after or as a result of an official representation as to the nature of the property, believed the property to be embezzled, robbed, stolen, converted, taken, altered, counterfeited, falsely made, forged, or obliterated.
 
+---
+PROPERTY REPORT (see also: Miwa and Teschman) 	Assignment to Zucker 05/26/2020 	
+	Filed: 08/04/2020 			Confirmation Notice
  307  	EXHIBIT(S)  - OPP  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
 PLAINTIFF DOES NOT HAVE A CERTIFICATE OF OCCUPANCY FOR THIS PROPERTY 	Filed: 08/09/2020 	
 	Confirmation Notice
