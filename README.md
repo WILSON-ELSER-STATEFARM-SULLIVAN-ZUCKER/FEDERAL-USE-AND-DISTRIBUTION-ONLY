@@ -1182,3 +1182,49 @@ NO DISCLOSURE IN THE SEMI-ANNUAL, ANNUAL REPORT IN STATE FARM FARM
 14.B.: A LOAN AND LETTER OF INDEMNITY.
 FIDELITY: "STATE FARM REALTY MORTGAGE, L.L.C."
 ADDRESS: "ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710"
+
+---
+
+HOW TO VALUE A PROPERTY WITH LEGAL INCOME = $0.00
+	
+(e) Definitions -
+
+(1) Substantial valuation misstatement.
+There is a substantial valuation misstatement if the value or adjusted basis of any property claimed on a
+return of tax imposed under chapter 1 is 200 percent or more of the correct amount.
+
+(2) Gross valuation misstatement.
+There is a gross valuation misstatement if the value or adjusted basis of any property claimed on a return of tax
+imposed under chapter 1 is 400 percent or more of the correct amount.
+
+(3) Property.
+For purposes of this section, the term “property” refers to both tangible and intangible property.
+Tangible property includes property such as land, buildings, fixtures and inventory.
+Intangible property includes property such as goodwill, covenants not to compete, leaseholds, patents,
+contract rights, debts and choses in action.
+
+
+(f) Multiple valuation misstatements on a return -
+
+(1) Determination of whether valuation misstatements are substantial or gross.
+The determination of whether there is a substantial or gross valuation misstatement on a return is
+made on a property-by-property basis. Assume, for example, that property A has a value of 60 but a taxpayer claims a value of 110,
+and that property B has a value of 40 but the taxpayer claims a value of 100.
+
+Because the claimed and correct values are compared on a property-by-property basis,
+there is a substantial valuation misstatement with respect to property B, but not with respect to property A,
+even though the claimed values (210) are 200 percent or more of the correct values (100) when compared on an aggregate basis.
+
+(2) Application of dollar limitation. For purposes of applying the dollar limitation set forth in section 6662(e)(2),
+the determination of the portion of an underpayment that is attributable to a substantial or gross valuation misstatement
+is made by aggregating all portions of the underpayment attributable to substantial or gross valuation misstatements.
+
+Assume, for example, that the value claimed for property C on a return is 250 percent of the correct value, and that the value claimed for property D on the return is 400 percent of the correct value.
+Because the portions of an underpayment that are attributable to a substantial or gross valuation misstatement on a return are aggregated in applying the dollar limitation, the dollar limitation is satisfied if the portion of the underpayment that is attributable to the misstatement of the value of property C, when aggregated with the portion of the underpayment that is attributable to the misstatement of the value of property D, exceeds $5,000 ($10,000 in the case of most corporations).
+
+(g) Property with a value or adjusted basis of zero.
+
+The value or adjusted basis claimed on a return of any property with a correct value or adjusted basis of zero is considered to be 400 percent or more of the correct amount. There is a gross valuation misstatement with respect to such property, therefore, and the applicable penalty rate is 40 percent.
+
+
+
