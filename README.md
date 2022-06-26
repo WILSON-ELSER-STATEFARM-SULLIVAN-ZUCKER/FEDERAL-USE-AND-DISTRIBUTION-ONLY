@@ -216,6 +216,7 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1B
 ** Federal Deposit Insurance Corporation 
 
 # USC 18. §208.	Acts affecting a personal financial interest
+
 (a) Except as permitted by subsection (b) hereof, whoever, being an officer or employee of the executive branch of the United States Government, or of any independent agency of the United States, a Federal Reserve bank director, officer, or employee, or an officer or employee of the District of Columbia, including a special Government employee, participates personally and substantially as a Government officer or employee, through decision, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise, in a judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter in which, to his knowledge, he, his spouse, minor child, general partner, organization in which he is serving as officer, director, trustee, general partner or employee, or any person or organization with whom he is negotiating or has any arrangement concerning prospective employment, has a financial interest-Shall be subject to the penalties set forth in section 216 of this title.
 (b) Subsection (a) shall not apply-
 (1) if the officer or employee first advises the Government official responsible for appointment to his or her position of the nature and circumstances of the judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter and makes full disclosure of the financial interest and receives in advance a written determination made by such official that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the Government may expect from such officer or employee;
@@ -224,21 +225,24 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1B
 ---
 
 ## ALL FILES FOLLOWED THE FOLLOWING PROCEDURE / UPON BEING ADMITTED OF DENIED.
-
 ----
-COMMUNICATIONS BETWEEN LOCATION 1 & LOCATION 2 [ LOGGED] EX-POST IN 2021--
+COMMUNICATIONS BETWEEN LOCATION 1 & LOCATION 2 [ LOGGED] EX-POST IN 2021
+   
 *** E-mail Notifications ***
-An email regarding this filing has been sent to the following on 08/09/2020 02:31 AM:
+   
+An email regarding this filing has been sent to the following on 08/09/2020 02:31 AM
+    
 ## SHARI LASKOWITZ - slaskowitz@ingramllp.com [ MULE ]
----
+   
 *** [ MULE ] ***
+   
 ADMINISTRATION@MSKYLINE.COM; LZUCKER@MSKYLINE.COM; ADMINISTRATOR@MSKYLINE.COM; LEGAL@MSKYLINE.COM; LEGALASST@MSKYLINE.COM; SGO@COLUMBIA.EDU; SCCS@COLUMBIA.EDU...
 [ LOCATION 1 - FLOOR 4 ] BOOKS AND RECORDS, EMAILS BY AND BETWEEN THE DOMAINS
-
+    
 [LOCATION 3] @MSKYLINE.COM
 [LOCATION 2] @WILSONELSER.COM, @INGRAMLLP.COM
 [LOCATION 1] @COLUMBIA.EDU
-
+    
 ---
 WITHOUT CONSENT, PHOTOGRAPHED AND VIDEOTAPED THE INTERIOR OF MY APARTMENT - THEN HOSTED THEM ON THE INTERNET AS WELL.
 *** NOTWITHSTANDING THE INDETERMINATE NUMBER OF <VIDEO.MOV> FILES BY AND BETWEEN ALL THREE LOCATIONS ABOVE.
