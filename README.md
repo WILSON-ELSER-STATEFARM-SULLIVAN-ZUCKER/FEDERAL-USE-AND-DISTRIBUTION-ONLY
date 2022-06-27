@@ -1,6 +1,6 @@
-$6 MILLION DOLLAR LOAN WAS EXECUTED AND NOTARIZED BY ALL RELEVANT PARTIES, ALSO FILED 08/09/2020 02:24 AM -- NYSCEF INDEX NO. 153974/2020<br>
-THE ATTORNEYS, AS ACCESSORIES AND UNDER [USC 18, §2]+[USC 18, §3]+[USC 18, §4] BELIEVED THEY ARE ALSO EXEMPT FROM PROSECUTION<br> 
+$6 MILLION DOLLAR LOAN WAS EXECUTED AND NOTARIZED BY ALL RELEVANT PARTIES, ALSO FILED 08/09/2020 02:24 AM<br>
 -- NYSCEF INDEX NO. 153974/2020<br>
+THE ATTORNEYS, AS ACCESSORIES AND UNDER [USC 18, §2]+[USC 18, §3]+[USC 18, §4] BELIEVED THEY ARE ALSO EXEMPT FROM PROSECUTION<br><br>
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==<br>
 *****     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cve65PXNBCtdxjJFkfwUnw==<br>
 *****     [USC 18, §225]+[USC 18, §21]+[USC 18, §215]+[USC 18, §241]+[USC 18, §373]   <**voicemail attached>*<br>
@@ -57,8 +57,14 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX
 
  (16)    STATE FARM VP MANAGEMENT CORP.<br>
 *****     ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710<br>
+
+ (17)    [RICKI ROER](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8996267/3.RICKI.E.ROAR.pdf)<br>
+ (18)    [AMY HANRAHAN 0009813982](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8996269/1.ELSER.-.0009813982.-.Annual.Report.1.pdf)<br> 
+ (19)    [ALAN RUBIN 0006974529](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8996268/1.ELSER.-.0006974529.-.Annual.Report-1.pdf)<br> 
+*****     150 EAST 42ND STREET, NEW YORK, NY, 10017<br>
     <br>
-     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****
+     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****<br><br><br>
+
 
 Subject: 1320 EST: Voicemail from Mr. PAUL REGAN [USC 18, §241]<br>
 From:B D2022 <ms60710444266@yahoo.com><br>
@@ -3046,3 +3052,5 @@ Thats actually a compound, in the scope of avoidance to prosecution.
 
 Truly a delusional group, never met them. 
 
+
+![ZUCKERS NOTARIZED IN COUNTY OF NEW YORK - donald and some old lady](https://user-images.githubusercontent.com/108204659/176054442-07cc5545-794e-4b73-bc33-b69ee3505846.PNG)
