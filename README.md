@@ -12,6 +12,8 @@
 *****    - WITHOUT THE ABILITY TO ENVOKE A TRADE RESTRICTION OR EFFECTIVELY, AN "ESTOPPEL"
 *****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cve65PXNBCtdxjJFkfwUnw==
 *****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
+*****    UNLAWFUL ASSETS IN CUSTODY AT JP MORGAN CHASE BANK, NA
+*****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==
 *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****
 
 (1)    STATE FARM ASSURANCES FUNDS TRUST.
