@@ -1,4 +1,4 @@
-$6 MILLION DOLLAR LOAN WAS EXECUTED AND NOTARIZED BY ALL RELEVANT PARTIES, ALSO FILED 08/09/2020 02:24 AM<br>
+[$6 MILLION DOLLAR LOAN](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==) EXECUTED AND NOTARIZED BY ALL RELEVANT PARTIES, WHICH I PERSONALLY FILED ON 08/09/2020 02:24 AM AFTER PROVIDING [NOTICE TO STATE FARM](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Xjn0/e1NcBADqRc_PLUS_g11P4g==)<br>
 -- NYSCEF INDEX NO. 153974/2020<br>
 THE ATTORNEYS, AS ACCESSORIES AND UNDER [USC 18, §2]+[USC 18, §3]+[USC 18, §4] BELIEVED THEY ARE ALSO EXEMPT FROM PROSECUTION<br><br>
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==<br>
@@ -47,7 +47,10 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX
 
 (11)    MANHATTAN SKYLINE MANAGEMENT CORP.<br>
           of counsel in NYSCF matter 153974/2020 [ annexed ] obo of "Plaintiffs"<br>
-(12)    SHARI LASKOWITZ<br>
+(12)    [SHARI LASKOWITZ](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cve65PXNBCtdxjJFkfwUnw==) <br>
+
+<br><br>
+
 (13)    ASHLEY HUMPHRIES<br>
 (14)    CORY WEISS<br>
 *****     150 EAST 42ND STREET, NEW YORK, NY, 10017<br>
