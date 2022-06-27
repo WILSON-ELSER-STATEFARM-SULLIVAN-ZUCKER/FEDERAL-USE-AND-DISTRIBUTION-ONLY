@@ -2,7 +2,7 @@
 *****     [USC 18, §241]+[USC 18, §216][USC 18, §218]+[USC 18, §229B]
 *****     [USC 18, §1962]+[USC 18, §1963]
 *****     [USC 18, §2]+[USC 18, §3]+[USC 18, §4]
-*****    
+*****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=c3iexOlBwsgc1lnMJ2_PLUS_AqQ==
 *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****
 
 (1)    STATE FARM ASSURANCES FUNDS TRUST.
@@ -48,9 +48,6 @@ CC:"MSHY1 [ DEC 18 - 2021]" <mshy1@bloomberg.net>, "Ashley V. Humphries" <ashley
 BCC:"10pctyco@nypd.org" <10pctyco@nypd.org>, "23pctyco@nypd.org" <23pctyco@nypd.org>, "1pctdvo@nypd.org" <1pctdvo@nypd.org>, "1pctyco@nypd.org" <1pctyco@nypd.org>
 
 *USC 18. VIOLATIONS ANNEXED IN NYSCEF 153974/2020 [ LOAN 50074 ], also filed with the Financial Industry Regulatory Authority, and the Securities and Exchange Commission - Notwithstanding the New York State Supreme Court, the New York Department of Finance, and the NYC Finance Register - as referenced below.
-*
-
-*
 *
 
 *§21. Stolen or counterfeit nature of property for certain crimes defined
@@ -516,7 +513,7 @@ https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=SVnk_PLUS_wwn_PLU
 
 TO SATISFY USC 18.2, 18.225, AND UNDER 18.21 - WILLFULLY AND KNOWINGLY TRIED TO OBSTRUCT THE MATERIAL FACTS FROM BEING KNOWN BY THE PUBLIC
 
-DOKCET 399
+DOCKET 399
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==
 
 <br> "The NYSCEF website has received an electronic filing on 08/04/2020 02:32 PM"<br>
@@ -580,8 +577,7 @@ USC 18
 	(b) For purposes of subsection (a), the term "continuing financial crimes enterprise" means a series of violations under section 215, 656, 657, 1005, 1006, 1007, 1014, 1032, or 1344 of this title, or section 1341 or 1343 affecting a financial institution, committed by at least 4 persons acting in concert.
 </p>
 
-USC 18	
-§1962. Prohibited activities
+USC 18	§1962. Prohibited activities
 <p>
 (a) It shall be unlawful for any person who has received any income derived, directly or indirectly, from a pattern of racketeering activity or through collection of an unlawful debt in which such person has participated as a principal within the meaning of section 2, title 18, United States Code, to use or invest, directly or indirectly, any part of such income, or the proceeds of such income, in acquisition of any interest in, or the establishment or operation of, any enterprise which is engaged in, or the activities of which affect, interstate or foreign commerce. A purchase of securities on the open market for purposes of investment, and without the intention of controlling or participating in the control of the issuer, or of assisting another to do so, shall not be unlawful under this subsection if the securities of the issuer held by the purchaser, the members of his immediate family, and his or their accomplices in any pattern or racketeering activity or the collection of an unlawful debt after such purchase do not amount in the aggregate to one percent of the outstanding securities of any one class, and do not confer, either in law or in fact, the power to elect one or more directors of the issuer.
 
