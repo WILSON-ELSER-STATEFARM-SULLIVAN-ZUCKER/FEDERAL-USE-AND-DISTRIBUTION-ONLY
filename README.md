@@ -1928,6 +1928,22 @@ THANK YOU FOR REVIEWING THESE TAX EVASION AND INSIDER TRADING DOCUMENTS...
 
 	
 
+USC 18. VIOLATIONS ANNEXED IN NYSCEF 153974/2020 [ LOAN 50074 ]
+
+§21. Stolen or counterfeit nature of property for certain crimes defined
+    (a) Wherever in this title it is an element of an offense that-
+        (1) any property was embezzled, robbed, stolen, converted, taken, altered, counterfeited, falsely made, forged, or obliterated; and
+        (2) the defendant knew that the property was of such character;
+            -such element may be established by proof that the defendant, after or as a result of an official representation as to the nature of the property, believed the property to be embezzled, robbed, stolen, converted, taken, altered, counterfeited, falsely made, forged, or obliterated.
+            -(b) For purposes of this section, the term "official representation" means any representation made by a Federal law enforcement officer (as defined in section 115) or by another person at the direction or with the approval of such an officer.
+
+
+    §2. - Principals (a) Whoever commits an offense against the United States or aids, abets, counsels, commands, induces or procures its commission, is punishable as a principal. (b) Whoever willfully causes an act to be done which if directly performed by him or another would be an offense against the United States, is punishable as a principal.
+
+    §3. - Accessory after the fact Whoever, knowing that an offense against the United States has been committed, receives, relieves, comforts or assists the offender in order to hinder or prevent his apprehension, trial or punishment, is an accessory after the fact. Except as otherwise expressly provided by any Act of Congress, an accessory after the fact shall be imprisoned not more than one-half the maximum term of imprisonment or (notwithstanding section 3571) fined not more than one-half the maximum fine prescribed for the punishment of the principal, or both; or if the principal is punishable by life imprisonment or death, the accessory shall be imprisoned not more than 15 years.
+
+    §4. Misprision of felony Whoever, having knowledge of the actual commission of a felony cognizable by a court of the United States, conceals and does not as soon as possible make known the same to some judge or other person in civil or military authority under the United States, shall be fined under this title or imprisoned not more than three years, or both.
+
 USC 18,§215. Receipt of commissions or gifts for procuring loans
 
     (a) Whoever-
@@ -1961,7 +1977,7 @@ USC 18, §241. Conspiracy against rights.
 
             EXHIBITS FILED AND ANNEXED IN THE DOCKETS IN NY SUPREME COURT CIVIL MATTER
 
-            NYSCEF 153974/2020
+                    NYSCEF 153974/2020
 
 USC 18,§225. Continuing financial crimes enterprise
     (a) Whoever-
@@ -1972,10 +1988,14 @@ USC 18,§225. Continuing financial crimes enterprise
               [ LOAN 50074: $6,000,000 ] ANNEXED IN DOCKETS 309-315 IN NYSCEF MATTER 153974/2020
 
                     ANNEXED IN NY SUPREME COURT MATTER 153974/2020
-                    REPRESENTATIVES OF (9) SULLIVAN PROPERTIES LP, (10) SULLIVAN GP LLC, (11) MANHATTAN SKYLINE MANAGEMENT CORP.
+                    REPRESENTATIVES OF
+
+                    (9) SULLIVAN PROPERTIES LP, (10) SULLIVAN GP LLC, (11) MANHATTAN SKYLINE MANAGEMENT CORP.
                    
 
-                    BY:     (12) SHARI LASKOWITZ, (13) ASHLEY HUMPHRIES, (14) CORY WEISS, AND (15) PAUL REGAN
+                    BY:     COUNSELORS FOR PLAINTIFFS IN NYSCEF 153974/2020 [ ANNEXED THEREIN ] THE VIOLATION OF PRIVACY, AS SUPPLEMENT...
+
+                    (12) SHARI LASKOWITZ, (13) ASHLEY HUMPHRIES, (14) CORY WEISS, AND (15) PAUL REGAN
 
                         DOCKETS ANNEXED IN NYSCEF 153974/2020 AND ALSO FILED WITH THE NY DEPT OF FINANCE.
 
@@ -1991,7 +2011,7 @@ USC 18, § 373 - Solicitation to commit a crime of violence
 
 (a) Whoever, with intent that another person engage in conduct constituting a felony that has as an element the use, attempted use, or threatened use of physical force against property or against the person of another in violation of the laws of the United States, and under circumstances strongly corroborative of that intent, solicits, commands, induces, or otherwise endeavours to persuade such other person to engage in such conduct, shall be imprisoned not more than one-half the maximum term of imprisonment or (notwithstanding section 3571) fined not more than one-half of the maximum fine prescribed for the punishment of the crime solicited, or both; or if the crime solicited is punishable by life imprisonment or death, shall be imprisoned for not more than twenty years.
 
-                (15)<voicemail attached>
+                (15)    <voicemail attached>
 
 (b) It is an affirmative defence to a prosecution under this section that, under circumstances manifesting a voluntary and complete renunciation of his criminal intent, the defendant prevented the commission of the crime solicited. A renunciation is not "voluntary and complete" if it is motivated in whole or in part by a decision to postpone the commission of the crime until another time or to substitute another victim or another but similar objective. If the defendant raises the affirmative defence at trial, the defendant has the burden of proving the defence by a preponderance of the evidence.
     (c) It is not a defence to a prosecution under this section that the person solicited could not be convicted of the crime because he lacked the state of mind required for its commission, because he was incompetent or irresponsible, or because he is immune from prosecution or is not subject to prosecution.
@@ -2027,10 +2047,9 @@ USC 18, §218. Voiding transactions in violation of chapter; recovery by the Uni
     In addition to any other remedies provided by law the President or, under regulations prescribed by him, the head of any department or agency involved, may declare void and rescind any contract, loan, grant, subsidy, license, right, permit, franchise, use, authority, privilege, benefit, certificate, ruling, decision, opinion, or rate schedule awarded, granted, paid, furnished, or published, or the performance of any service or transfer or delivery of any thing to, by or for any agency of the United States or officer or employee of the United States or person acting on behalf thereof, in relation to which there has been a final conviction for any violation of this chapter, and the United States shall be entitled to recover in addition to any penalty prescribed by law or in a contract the amount expended or the thing transferred or delivered on its behalf, or the reasonable value thereof.
 
 
-NOTE: I OFFERED THE DEFAULT CLAUSE OF THE LOAN SO THAT STATE FARM CAN CANCEL THE LOAN, EXECUTED AND FILED THE SAME AS EXHIBIT 420 IN NYSCEF MATTER 153974/2020. NONE OF THE INDIVUALS FROM STATE FARM HAVE RESPONDED TO THIS EFFECT SINCE THEN, AND MOST RECENTLY, MR. DAVID MOORE ATTEMPTED TO PLACE A CO-WORKER IN HIS PLACE, MISS JANNA UNDERWOOD WHO I UNDERSTAND IS NOT A DIRECTOR OF STATE FARM, ON THE BASIS OF FILINGS AND DOCUMENTS THAT ARE AVAILABLE, PER THE FINANCIAL INDUSTRY REGULATORY AUTHORITY AND THE SECURITIES AND EXCHANGE COMMISSION UNDER CIK FILER 93715, AND CIK FILER 1516523.
-
-
+NOTE.     I OFFERED THE DEFAULT CLAUSE OF THE LOAN SO THAT STATE FARM CAN CANCEL THE LOAN, EXECUTED AND FILED THE SAME AS EXHIBIT 420 IN NYSCEF MATTER 153974/2020. NONE OF THE INDIVUALS FROM STATE FARM HAVE RESPONDED TO THIS EFFECT SINCE THEN, AND MOST RECENTLY, MR. DAVID MOORE ATTEMPTED TO PLACE A CO-WORKER IN HIS PLACE, MISS JANNA UNDERWOOD WHO I UNDERSTAND IS NOT A DIRECTOR OF STATE FARM, ON THE BASIS OF FILINGS AND DOCUMENTS THAT ARE AVAILABLE, PER THE FINANCIAL INDUSTRY REGULATORY AUTHORITY AND THE SECURITIES AND EXCHANGE COMMISSION UNDER CIK FILER 93715, AND CIK FILER 1516523.
 USC 18, §216. Penalties and injunctions
+
     (a) The punishment for an offense under section 203, 204, 205, 207, 208, or 209 of this title is the following:
         (1) Whoever engages in the conduct constituting the offense shall be imprisoned for not more than one year or fined in the amount set forth in this title, or both.
         (2) Whoever willfully engages in the conduct constituting the offense shall be imprisoned for not more than five years or fined in the amount set forth in this title, or both.
@@ -2038,13 +2057,46 @@ USC 18, §216. Penalties and injunctions
     (c) If the Attorney General has reason to believe that a person is engaging in conduct constituting an offense under section 203, 204, 205, 207, 208, or 209 of this title, the Attorney General may petition an appropriate United States district court for an order prohibiting that person from engaging in such conduct. The court may issue an order prohibiting that person from engaging in such conduct if the court finds that the conduct constitutes such an offense. The filing of a petition under this section does not preclude any other remedy which is available by law to the United States or any other person.
 
 
-A LITTLE WIGGLE ROOM HERE IN THIS GREY AREA.
+*****    *****    *****    *****    *****     *****    *****    *****
+
+GREY AREA
+
+
+HERE IN THIS GREY AREA, WITH THE PROPER RESOURCES TO FURTHER THE CHARGES THAT WERE FILED WITH THE NEW YORK SUPREME COURT, CIVIL PART AND THE SECURITIES AND EXCHANGE COMMISSION ARE PROBABLE FOR CAUSE.
+
+§25. Use of minors in crimes of violence
+    (a) Definitions.-In this section, the following definitions shall apply:
+        (1) Crime of violence.-The term "crime of violence" has the meaning set forth in section 16.
+        (2) Minor.-The term "minor" means a person who has not reached 18 years of age.
+        (3) Uses.-The term "uses" means employs, hires, persuades, induces, entices, or coerces.
+
+    (b) Penalties.
+    -Any person who is 18 years of age or older, who intentionally uses a minor to commit a crime of violence for which such person may be prosecuted in a court of the United States, or to assist in avoiding detection or apprehension for such an offense, shall-
+        (1) for the first conviction, be subject to twice the maximum term of imprisonment and twice the maximum fine that would otherwise be authorized for the offense; and
+        (2) for each subsequent conviction, be subject to 3 times the maximum term of imprisonment and 3 times the maximum fine that would otherwise be authorized for the offense.
+
+§151. Definition
+
+    As used in this chapter, the term "debtor" means a debtor concerning whom a petition has been filed under title 11.
+
+    §152. Concealment of assets; false oaths and claims; bribery
+    A person who-
+        (1) knowingly and fraudulently conceals from a custodian, trustee, marshal, or other officer of the court charged with the control or custody of property, or, in connection with a case under title 11, from creditors or the United States Trustee, any property belonging to the estate of a debtor;
+        (2) knowingly and fraudulently makes a false oath or account in or in relation to any case under title 11;
+        (3) knowingly and fraudulently makes a false declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28, in or in relation to any case under title 11;
+        (4) knowingly and fraudulently presents any false claim for proof against the estate of a debtor, or uses any such claim in any case under title 11, in a personal capacity or as or through an agent, proxy, or attorney;
+        (5) knowingly and fraudulently receives any material amount of property from a debtor after the filing of a case under title 11, with intent to defeat the provisions of title 11;
+        (6) knowingly and fraudulently gives, offers, receives, or attempts to obtain any money or property, remuneration, compensation, reward, advantage, or promise thereof for acting or forbearing to act in any case under title 11;
+        (7) in a personal capacity or as an agent or officer of any person or corporation, in contemplation of a case under title 11 by or against the person or any other person or corporation, or with intent to defeat the provisions of title 11, knowingly and fraudulently transfers or conceals any of his property or the property of such other person or corporation;
+        (8) after the filing of a case under title 11 or in contemplation thereof, knowingly and fraudulently conceals, destroys, mutilates, falsifies, or makes a false entry in any recorded information (including books, documents, records, and papers) relating to the property or financial affairs of a debtor; or
+        (9) after the filing of a case under title 11, knowingly and fraudulently withholds from a custodian, trustee, marshal, or other officer of the court or a United States Trustee entitled to its possession, any recorded information (including books, documents, records, and papers) relating to the property or financial affairs of a debtor,
+    -shall be fined under this title, imprisoned not more than 5 years, or both.
 
 §246. Deprivation of relief benefits
+
     Whoever directly or indirectly deprives, attempts to deprive, or threatens to deprive any person of any employment, position, work, compensation, or other benefit provided for or made possible in whole or in part by any Act of Congress appropriating funds for work relief or relief purposes, on account of political affiliation, race, color, sex, religion, or national origin, shall be fined under this title, or imprisoned not more than one year, or both.
-
-
 §220. Illegal remunerations for referrals to recovery homes, clinical treatment facilities, and laboratories
+
 (a) Offense.-Except as provided in subsection (b), whoever, with respect to services covered by a health care benefit program, in or affecting interstate or foreign commerce, knowingly and willfully-
     (1) solicits or receives any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind, in return for referring a patient or patronage to a recovery home, clinical treatment facility, or laboratory; or
     (2) pays or offers any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind-
@@ -2079,9 +2131,104 @@ A LITTLE WIGGLE ROOM HERE IN THIS GREY AREA.
         (3) the term "health care benefit program" has the meaning given the term in section 24(b);
         (4) the term "laboratory" has the meaning given the term in section 353 of the Public Health Service Act (42 U.S.C. 263a); and
         (5) the term "recovery home" means a shared living environment that is, or purports to be, free from alcohol and illicit drug use and centered on peer support and connection to services that promote sustained recovery from substance use disorders.
+USC 18, §214. Offer for procurement of Federal Reserve bank loan and discount of commercial paper
 
- – SO I HOPE YOU UNDERSTAND WHERE THIS ALSO PRESENTS A CONFLICT, AS HE BELIEVES THIS TO BE TRUE.
-1_u.s._v._brian_benjamin_indictment (1).pdf
+    Whoever stipulates for or gives or receives, or consents or agrees to give or receive, any fee, commission, bonus, or thing of value for procuring or endeavoring to procure from any Federal Reserve bank any advance, loan, or extension of credit or discount or purchase of any obligation or commitment with respect thereto, either directly from such Federal Reserve bank or indirectly through any financing institution, unless such fee, commission, bonus, or thing of value and all material facts with respect to the arrangement or understanding therefor shall be disclosed in writing in the application or request for such advance, loan, extension of credit, discount, purchase, or commitment, shall be fined under this title or imprisoned not more than one year, or both.
+
+
+*****    *****    *****    *****    *****     *****    *****    *****
+
+
+*****    *****    *****    *****    *****     *****    *****    *****
+
+
+**** YOU'LL HAVE TO ASK THE FBI/NSA TO SEE IF THEY WILL VERIFY THIS *****
+
+*****    USC 18, §208. Acts affecting a personal financial interest
+    (a) Except as permitted by subsection (b) hereof, whoever, being an officer or employee of the executive branch of the United States Government, or of any independent agency of the United States, a Federal Reserve bank director, officer, or employee, or an officer or employee of the District of Columbia, including a special Government employee, participates personally and substantially as a Government officer or employee, through decision, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise, in a judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter in which, to his knowledge, he, his spouse, minor child, general partner, organization in which he is serving as officer, director, trustee, general partner or employee, or any person or organization with whom he is negotiating or has any arrangement concerning prospective employment, has a financial interest-
+    -Shall be subject to the penalties set forth in section 216 of this title.
+    (b) Subsection (a) shall not apply-
+        (1) if the officer or employee first advises the Government official responsible for appointment to his or her position of the nature and circumstances of the judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter and makes full disclosure of the financial interest and receives in advance a written determination made by such official that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the Government may expect from such officer or employee;
+        (2) if, by regulation issued by the Director of the Office of Government Ethics, applicable to all or a portion of all officers and employees covered by this section, and published in the Federal Register, the financial interest has been exempted from the requirements of subsection (a) as being too remote or too inconsequential to affect the integrity of the services of the Government officers or employees to which such regulation applies;
+        (3) in the case of a special Government employee serving on an advisory committee within the meaning of the Federal Advisory Committee Act (including an individual being considered for an appointment to such a position), the official responsible for the employee's appointment, after review of the financial disclosure report filed by the individual pursuant to the Ethics in Government Act of 1978, certifies in writing that the need for the individual's services outweighs the potential for a conflict of interest created by the financial interest involved; or
+        (4) if the financial interest that would be affected by the particular matter involved is that resulting solely from the interest of the officer or employee, or his or her spouse or minor child, in birthrights-
+            (A) in an Indian tribe, band, nation, or other organized group or community, including any Alaska Native village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians,
+            (B) in an Indian allotment the title to which is held in trust by the United States or which is inalienable by the allottee without the consent of the United States, or
+            (C) in an Indian claims fund held in trust or administered by the United States,
+        -if the particular matter does not involve the Indian allotment or claims fund or the Indian tribe, band, nation, organized group or community, or Alaska Native village corporation as a specific party or parties.
+    (c)(1) For the purpose of paragraph (1) of subsection (b), in the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be deemed to be the Government official responsible for appointment.
+    (2) The potential availability of an exemption under any particular paragraph of subsection (b) does not preclude an exemption being granted pursuant to another paragraph of subsection (b).
+    (d)(1) Upon request, a copy of any determination granting an exemption under subsection (b)(1) or (b)(3) shall be made available to the public by the agency granting the exemption pursuant to the procedures set forth in section 105 of the Ethics in Government Act of 1978. In making such determination available, the agency may withhold from disclosure any information contained in the determination that would be exempt from disclosure under section 552 of title 5. For purposes of determinations under subsection (b)(3), the information describing each financial interest shall be no more extensive than that required of the individual in his or her financial disclosure report under the Ethics in Government Act of 1978.
+    (2) The Office of Government Ethics, after consultation with the Attorney General, shall issue uniform regulations for the issuance of waivers and exemptions under subsection (b) which shall-
+        (A) list and describe exemptions; and
+        (B) provide guidance with respect to the types of interests that are not so substantial as to be deemed likely to affect the integrity of the services the Government may expect from the employee.
+
+*****    §118. Interference with certain protective functions
+    Any person who knowingly and willfully obstructs, resists, or interferes with a Federal law enforcement agent engaged, within the United States or the special maritime territorial jurisdiction of the United States, in the performance of the protective functions authorized under section 37 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2709) or section 103 of the Diplomatic Security Act (22 U.S.C. 4802) shall be fined under this title, imprisoned not more than 1 year, or both.
+
+*****    §119. Protection of individuals performing certain official duties
+    (a) In General.
+        -Whoever knowingly makes restricted personal information about a covered person, or a member of the immediate family of that covered person, publicly available-
+            (1) with the intent to threaten, intimidate, or incite the commission of a crime of violence against that covered person, or a member of the immediate family of that covered person; or
+            (2) with the intent and knowledge that the restricted personal information will be used to threaten, intimidate, or facilitate the commission of a crime of violence against that covered person, or a member of the immediate family of that covered person,
+        -shall be fined under this title, imprisoned not more than 5 years, or both.
+        (b) Definitions.-In this section-
+            (1) the term "restricted personal information" means, with respect to an individual, the Social Security number, the home address, home phone number, mobile phone number, personal email, or home fax number of, and identifiable to, that individual;
+            (2) the term "covered person" means-
+                (A) an individual designated in section 1114;
+                (B) a grand or petit juror, witness, or other officer in or of, any court of the United States, or an officer who may be, or was, serving at any examination or other proceeding before any United States magistrate judge or other committing magistrate;
+                (C) an informant or witness in a Federal criminal investigation or prosecution; or
+                (D) a State or local officer or employee whose restricted personal information is made publicly available because of the participation in, or assistance provided to, a Federal criminal investigation by that officer or employee;
+            (3) the term "crime of violence" has the meaning given the term in section 16; and
+            (4) the term "immediate family" has the meaning given the term in section 115(c)(2).
+
+
+*****    §115. Influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member
+    (a)(1) Whoever-
+        (A) assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder, or threatens to assault, kidnap or murder a member of the immediate family of a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under section 1114 of this title; or
+        (B) threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under such section,
+    -with intent to impede, intimidate, or interfere with such official, judge, or law enforcement officer while engaged in the performance of official duties, or with intent to retaliate against such official, judge, or law enforcement officer on account of the performance of official duties, shall be punished as provided in subsection (b).
+
+    (2) Whoever assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder, or threatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or a member of the immediate family of any person who formerly served as a person designated in paragraph (1), with intent to retaliate against such person on account of the performance of official duties during the term of service of such person, shall be punished as provided in subsection (b).
+
+    §(b)
+    (1)     The punishment for an assault in violation of this section is-
+            (A) a fine under this title; and
+            (B)
+                (i)     if the assault consists of a simple assault, a term of imprisonment for not more than 1 year;
+                (ii)     if the assault involved physical contact with the victim of that assault or the intent to commit another felony, a term of imprisonment for not more than 10 years;
+                (iii)     if the assault resulted in bodily injury, a term of imprisonment for not more than 20 years; or
+                (iv)     if the assault resulted in serious bodily injury (as that term is defined in section 1365 of this title, and including any conduct that, if the conduct occurred in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242 of this title) or a dangerous weapon was used during and in relation to the offense, a term of imprisonment for not more than 30 years.
+    (2)        A kidnapping, attempted kidnapping, or conspiracy to kidnap in violation of this section shall be punished as provided in section 1201 of this title for the kidnapping or attempted kidnapping of, or a conspiracy to kidnap, a person described in section 1201(a)(5) of this title.
+        (3) A murder, attempted murder, or conspiracy to murder in violation of this section shall be punished as provided in sections 1111, 1113, and 1117 of this title.
+        (4) A threat made in violation of this section shall be punished by a fine under this title or imprisonment for a term of not more than 10 years, or both, except that imprisonment for a threatened assault shall not exceed 6 years.
+        (c) As used in this section, the term-
+            (1) "Federal law enforcement officer" means any officer, agent, or employee of the United States authorized by law or by a Government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of Federal criminal law;
+            (2) "immediate family member" of an individual means-
+                (A) his spouse, parent, brother or sister, child or person to whom he stands in loco parentis; or
+                (B) any other person living in his household and related to him by blood or marriage;
+            (3) "United States judge" means any judicial officer of the United States, and includes a justice of the Supreme Court and a United States magistrate judge; and
+            (4) "United States official" means the President, President-elect, Vice President, Vice President-elect, a Member of Congress, a member-elect of Congress, a member of the executive branch who is the head of a department listed in 5 U.S.C. 101, or the Director of the Central Intelligence Agency.
+        (d) This section shall not interfere with the investigative authority of the United States Secret Service, as provided under sections 3056, 871, and 879 of this title.
+        (e) There is extraterritorial jurisdiction over the conduct prohibited by this section.
+§116. Female genital mutilation
+
+***** YOU'LL HAVE TO ASK THE FBI/NSA TO SEE IF THEY WILL VERIFY THIS *****
+
+
+
+ 
+
+– I HOPE YOU UNDERSTAND WHERE THIS ALSO PRESENTS A CONFLICT, AS HE BELIEVES THIS TO BE TRUE.
+                                                    1_u.s._v._brian_benjamin_indictment (1).pdf
+
+    NYSCEF MATTER 153974/2020
+    - SHARED ADDRESS WITH THE WILSON ELSER LAW FIRM, BELOW.
+
+    Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600
+
+    150 East 42nd Street 19th Floor, New York, NY 10017 Filed: 07/21/2020
+
 -------- Forwarded Message --------
 Subject: 	Voicemail from Mr. PAUL regan
 Date: 	Sun, 26 Jun 2022 16:51:47 -0400
