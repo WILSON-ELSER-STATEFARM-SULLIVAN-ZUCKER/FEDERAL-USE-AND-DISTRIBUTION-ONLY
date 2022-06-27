@@ -7,7 +7,8 @@
 *****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=COy_PLUS_fGGrxcNqhj5mZodapA==<br>
 *****    GOOD LUCK EXPLAINING THAT TO HIDE 1 BILLION IN LOSSES TO AVOID PROSECUTION IN A VIOLATION OF PRIVACY CASE<br>
 *****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LMUE9g_PLUS_k6vCmKgfCSJEzuQ==<br>
-*****    ABUSE OF THE NY SUPREME COURT DURING THE COVID-19 PANDEMIC - SEE ALSO LOSSES SUFFERED IN ONE UPON DISCOVERY OF THE MATERIAL FACTS<br>
+*****    ABUSE OF THE NY SUPREME COURT, CIVIL PART IN 2020 <br>
+*****    DURING THE COVID-19 PANDEMIC - SEE ALSO LOSSES SUFFERED IN ONE UPON DISCOVERY OF THE MATERIAL FACTS<br>
 *****    TICKERS: STFGX, SFITX, SFBDX, STFBX<br>
 *****    - WITHOUT THE ABILITY TO ENVOKE A TRADE RESTRICTION OR EFFECTIVELY, AN "ESTOPPEL"<br>
 *****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cve65PXNBCtdxjJFkfwUnw==<br>
@@ -15,52 +16,51 @@
 *****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LMUE9g_PLUS_k6vCmKgfCSJEzuQ==<br>
 *****    UNLAWFUL ASSETS IN CUSTODY AT JP MORGAN CHASE BANK, NA<br>
 *****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==<br>
-*****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****
+     	&nbsp;&nbsp;&nbsp;*****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****
 
-(1)    STATE FARM ASSURANCES FUNDS TRUST.
-(2)    STATE FARM LIFE INSURANCE COMPANY
-*****     ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710
+(1)    STATE FARM ASSURANCES FUNDS TRUST.<br>
+(2)    STATE FARM LIFE INSURANCE COMPANY<br>
+*****     ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710<br>
 
-(3)    DONALD ZUCKER 
-(4)    SULLIVAN PROPERTIES LP
-*****     101 WEST 55TH STREET, NEW YORK, NY, 10019
+(3)    DONALD ZUCKER <br>
+(4)    SULLIVAN PROPERTIES LP<br>
+*****     101 WEST 55TH STREET, NEW YORK, NY, 10019<br>
 
-(5)    DAVID MOORE
-(6)    JOSEPH MONK, JR. 
-(7)    PAUL J SMITH
-(8)    TERRENCE LUDWIG
-*****     ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710
+(5)    DAVID MOORE<br>
+(6)    JOSEPH MONK, JR. <br>
+(7)    PAUL J SMITH<br>
+(8)    TERRENCE LUDWIG<br>
+*****     ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710<br>
 
-(9)    SULLIVAN PROPERTIES LP
-*****     101 WEST 55TH STREET, NEW YORK, NY, 10019
+(9)    SULLIVAN PROPERTIES LP<br>
+*****     101 WEST 55TH STREET, NEW YORK, NY, 10019<br>
 
-(10)    SULLIVAN GP LLC
-*****     101 WEST 55TH STREET, NEW YORK, NY, 10019
+(10)    SULLIVAN GP LLC<br>
+*****     101 WEST 55TH STREET, NEW YORK, NY, 10019<br>
 
-(11)    MANHATTAN SKYLINE MANAGEMENT CORP.
-          of counsel in NYSCF matter 153974/2020 [ annexed ] obo of "Plaintiffs"
-(12)    SHARI LASKOWITZ
-(13)    ASHLEY HUMPHRIES
-(14)    CORY WEISS
-*****     150 EAST 42ND STREET, NEW YORK, NY, 10017
+(11)    MANHATTAN SKYLINE MANAGEMENT CORP.<br>
+          of counsel in NYSCF matter 153974/2020 [ annexed ] obo of "Plaintiffs"<br>
+(12)    SHARI LASKOWITZ<br>
+(13)    ASHLEY HUMPHRIES<br>
+(14)    CORY WEISS<br>
+*****     150 EAST 42ND STREET, NEW YORK, NY, 10017<br>
     
-(15)    PAUL REGAN
-*****     101 WEST 55TH STREET, NEW YORK, NY, 10019
+(15)    PAUL REGAN<br>
+*****     101 WEST 55TH STREET, NEW YORK, NY, 10019<br>
 
- (16)    STATE FARM VP MANAGEMENT CORP.
-*****     ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710
-    
-*****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****
+ (16)    STATE FARM VP MANAGEMENT CORP.<br>
+*****     ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710<br>
+    <br>
+     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****
 
-Subject: 1320 EST: Voicemail from Mr. PAUL REGAN [USC 18, §241]
-From:B D2022 <ms60710444266@yahoo.com>
-Date:6/27/2022, 2:32 PM
-To:"usdoj@public.govdelivery.com" <usdoj@public.govdelivery.com>, "irs@service.govdelivery.com" <irs@service.govdelivery.com>, "usttb@public.govdelivery.com" <usttb@public.govdelivery.com>, "financialeducation@info.consumerfinance.gov" <financialeducation@info.consumerfinance.gov>, "DHSOIG@public.govdelivery.com" <DHSOIG@public.govdelivery.com>, "vaoig@messages.va.gov" <vaoig@messages.va.gov>, "pbgc@subscriptions.pbgc.gov" <pbgc@subscriptions.pbgc.gov>, "USPSOIG@public.govdelivery.com" <USPSOIG@public.govdelivery.com>, "cdfifund@service.govdelivery.com" <cdfifund@service.govdelivery.com>, "subscribe@subscribe.ftc.gov" <subscribe@subscribe.ftc.gov>, "vatax@public.govdelivery.com" <vatax@public.govdelivery.com>, "tigta@service.govdelivery.com" <tigta@service.govdelivery.com>, "news@updates.sba.gov" <news@updates.sba.gov>, "news@updates.oig.dot.gov" <news@updates.oig.dot.gov>, KATHY HOCHUL <governor.hochul@exec.ny.gov>, "ms60710444266@yahoo.com" <MS60710444266@YAHOO.COM>, "bdincer66@icloud.com" <bdincer66@icloud.com>
+Subject: 1320 EST: Voicemail from Mr. PAUL REGAN [USC 18, §241]<br>
+From:B D2022 <ms60710444266@yahoo.com><br>
+Date:6/27/2022, 2:32 PM<br>
+To:"usdoj@public.govdelivery.com" <usdoj@public.govdelivery.com>, "irs@service.govdelivery.com" <irs@service.govdelivery.com>, "usttb@public.govdelivery.com" <usttb@public.govdelivery.com>, "financialeducation@info.consumerfinance.gov" <financialeducation@info.consumerfinance.gov>, "DHSOIG@public.govdelivery.com" <DHSOIG@public.govdelivery.com>, "vaoig@messages.va.gov" <vaoig@messages.va.gov>, "pbgc@subscriptions.pbgc.gov" <pbgc@subscriptions.pbgc.gov>, "USPSOIG@public.govdelivery.com" <USPSOIG@public.govdelivery.com>, "cdfifund@service.govdelivery.com" <cdfifund@service.govdelivery.com>, "subscribe@subscribe.ftc.gov" <subscribe@subscribe.ftc.gov>, "vatax@public.govdelivery.com" <vatax@public.govdelivery.com>, "tigta@service.govdelivery.com" <tigta@service.govdelivery.com>, "news@updates.sba.gov" <news@updates.sba.gov>, "news@updates.oig.dot.gov" <news@updates.oig.dot.gov>, KATHY HOCHUL <governor.hochul@exec.ny.gov>, "ms60710444266@yahoo.com" <MS60710444266@YAHOO.COM>, "bdincer66@icloud.com" <bdincer66@icloud.com><br>
 CC:"MSHY1 [ DEC 18 - 2021]" <mshy1@bloomberg.net>, "Ashley V. Humphries" <ashley.humphries@wilsonelser.com>, "slaskowitz@ingramllp.com" <slaskowitz@ingramllp.com>, "lzucker@mskyline.com" <lzucker@mskyline.com>, "administrator@mskyline.com" <administrator@mskyline.com>, "administration@mskyline.com" <ADMINISTRATION@MSKYLINE.COM>
-BCC:"10pctyco@nypd.org" <10pctyco@nypd.org>, "23pctyco@nypd.org" <23pctyco@nypd.org>, "1pctdvo@nypd.org" <1pctdvo@nypd.org>, "1pctyco@nypd.org" <1pctyco@nypd.org>
+<br>BCC:"10pctyco@nypd.org" <10pctyco@nypd.org>, "23pctyco@nypd.org" <23pctyco@nypd.org>, "1pctdvo@nypd.org" <1pctdvo@nypd.org>, "1pctyco@nypd.org" <1pctyco@nypd.org>
 
-*USC 18. VIOLATIONS ANNEXED IN NYSCEF 153974/2020 [ LOAN 50074 ], also filed with the Financial Industry Regulatory Authority, and the Securities and Exchange Commission - Notwithstanding the New York State Supreme Court, the New York Department of Finance, and the NYC Finance Register - as referenced below.
-*
+*USC 18. VIOLATIONS ANNEXED IN NYSCEF 153974/2020 [ LOAN 50074 ], also filed with the Financial Industry Regulatory Authority, and the Securities and Exchange Commission - Notwithstanding the New York State Supreme Court, the New York Department of Finance, and the NYC Finance Register - as referenced below.<br>
 
 *§21. Stolen or counterfeit nature of property for certain crimes defined
     (a) Wherever in this title it is an element of an offense that-
