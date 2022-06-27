@@ -1,8 +1,10 @@
-*****     [USC 18, §225]+[USC 18, §21]+[USC 18, §215][USC 18, §241][USC 18, §373]   <**voicemail attached>*<br>
+*****     [USC 18, §225]+[USC 18, §21]+[USC 18, §215]+[USC 18, §241]+[USC 18, §373]   <**voicemail attached>*<br>
 *****     [USC 18, §241]+[USC 18, §216][USC 18, §218]+[USC 18, §229B]<br>
 *****     [USC 18, §1962]+[USC 18, §1963]<br>
 *****     [USC 18, §2]+[USC 18, §3]+[USC 18, §4]<br>
 *****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=c3iexOlBwsgc1lnMJ2_PLUS_AqQ==<br>
+*****    under  [USC 18, §225]+[USC 18, §21]+[USC 18, §1962]+[USC 18, §1963]+[USC 18, §241]+[USC 18, §4]+the desperation of [USC 18, §3] = priceless<br>
+*****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
 *****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PWFQc/WFihoyIKwEunaalQ==<br>
 *****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=COy_PLUS_fGGrxcNqhj5mZodapA==<br>
 *****    GOOD LUCK EXPLAINING THAT TO HIDE 1 BILLION IN LOSSES TO AVOID PROSECUTION IN A VIOLATION OF PRIVACY CASE<br>
