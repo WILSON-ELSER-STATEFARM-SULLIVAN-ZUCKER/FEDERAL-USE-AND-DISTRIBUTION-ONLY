@@ -3,6 +3,8 @@
 *****     [USC 18, §1962]+[USC 18, §1963]
 *****     [USC 18, §2]+[USC 18, §3]+[USC 18, §4]
 *****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=c3iexOlBwsgc1lnMJ2_PLUS_AqQ==
+*****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PWFQc/WFihoyIKwEunaalQ==
+*****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=COy_PLUS_fGGrxcNqhj5mZodapA==
 *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****
 
 (1)    STATE FARM ASSURANCES FUNDS TRUST.
