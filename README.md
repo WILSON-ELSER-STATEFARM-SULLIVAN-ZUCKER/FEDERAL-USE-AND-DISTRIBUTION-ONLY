@@ -5,6 +5,13 @@
 *****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=c3iexOlBwsgc1lnMJ2_PLUS_AqQ==
 *****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PWFQc/WFihoyIKwEunaalQ==
 *****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=COy_PLUS_fGGrxcNqhj5mZodapA==
+*****    GOOD LUCK EXPLAINING THAT TO HIDE 1 BILLION IN LOSSES TO AVOID PROSECURTION OF A VIOLATION OF PRIVACY CASE
+*****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LMUE9g_PLUS_k6vCmKgfCSJEzuQ==
+*****    ABUSE OF THE NY SUPREME COURT DURING THE COVID-19 PANDEMIC - SEE ALSO LOSSES SUFFERED IN ONE UPON DISCOVERY OF THE MATERIAL FACTS
+*****    TICKERS: STFGX, SFITX, SFBDX, STFBX
+*****    - WITHOUT THE ABILITY TO ENVOKE A TRADE RESTRICTION OR EFFECTIVELY, AN "ESTOPPEL"
+*****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cve65PXNBCtdxjJFkfwUnw==
+*****    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
 *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****
 
 (1)    STATE FARM ASSURANCES FUNDS TRUST.
