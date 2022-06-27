@@ -1925,3 +1925,173 @@ THANK YOU FOR REVIEWING THESE TAX EVASION AND INSIDER TRADING DOCUMENTS...
 
 
 -- GTG BACK TO MY STUDIES, AGAIN
+
+	
+
+USC 18,§215. Receipt of commissions or gifts for procuring loans
+
+    (a) Whoever-
+        (1) corruptly gives, offers, or promises anything of value to any person, with intent to influence or reward an officer, director, employee, agent, or attorney of a financial institution in connection with any business or transaction of such institution; or
+        (2) as an officer, director, employee, agent, or attorney of a financial institution, corruptly solicits or demands for the benefit of any person, or corruptly accepts or agrees to accept, anything of value from any person, intending to be influenced or rewarded in connection with any business or transaction of such institution;
+        -shall be fined not more than $1,000,000 or three times the value of the thing given, offered, promised, solicited, demanded, accepted, or agreed to be accepted, whichever is greater, or imprisoned not more than 30 years, or both, but if the value of the thing given, offered, promised, solicited, demanded, accepted, or agreed to be accepted does not exceed $1,000, shall be fined under this title or imprisoned not more than one year, or both.
+    (c) This section shall not apply to bona fide salary, wages, fees, or other compensation paid, or expenses paid or reimbursed, in the usual course of business.
+    (d) Federal agencies with responsibility for regulating a financial institution shall jointly establish such guidelines as are appropriate to assist an officer, director, employee, agent, or attorney of a financial institution to comply with this section. Such agencies shall make such guidelines available to the public.
+
+        FILED WITH THE SECURITIES AND EXCHANGE COMMISSION IN 2021,
+
+            UNDER CIK FILER 93715, (1) STATE FARM ASSURANCES FUNDS TRUST.
+            - DISCLOSE (2) STATE FARM LIFE INSURANCE COMPANY AS AN OUTSIDE BUSINESS IN THEIR FIRMS CRD FILINGS WITH FINRA, THE SAME ENTITY THAT NOTARIZED AND COUNTERSIGNED ON LOAN 50074, DUALLY BY (3) DONALD ZUCKER WAS EXECUTED ON MAY 13, 2020 - REPRESENTED BY THE ATTORNEYS ON BEHALF OF (4) SULLIVAN PROPERTIES, LP, BELOW FOR CONVENIENCE.
+
+        THE DIRECTORS OF STATE FARM, WHO FILED WITH THE SECURITIES AND EXCHANGE COMISSION.
+
+            BY:     (5) DAVID MOORE, (6) JOESEPH MONK, (7)PAUL J SMITH, AND UNDER (8)TERRENCE LUDWIG [AND OTHER DIRECTORS OF STATE FARM]
+
+        THE DIRECTORS OF STATE FARM, WHO FILED WITH THE FINANCIAL INDUSTRY REGULATORY AUTHORITY ON BEHALF OF (16) STATE FARM VP MANAGEMENT CORP.
+
+            BY: (8) TERRENCE LUDWIG
+
+                        A TOTAL AMOUNT WAS ACCEPTED FOR A "SUCCESSFUL MERGER",
+
+                        APPROXIMATELY $412,500 USD IN COMPENSATION WAS FILED WITH THE SEC.
+
+USC 18, §241. Conspiracy against rights.
+    - If two or more persons conspire to injure, oppress, threaten, or intimidate any person in any State, Territory, Commonwealth, Possession, or District in the free exercise or enjoyment of any right or privilege secured to him by the Constitution or laws of the United States, or because of his having so exercised the same; or
+    - If two or more persons go in disguise on the highway, or on the premises of another, with intent to prevent or hinder his free exercise or enjoyment of any right or privilege so secured—
+
+
+            EXHIBITS FILED AND ANNEXED IN THE DOCKETS IN NY SUPREME COURT CIVIL MATTER
+
+            NYSCEF 153974/2020
+
+USC 18,§225. Continuing financial crimes enterprise
+    (a) Whoever-
+        (1) organizes, manages, or supervises a continuing financial crimes enterprise; and
+        (2) receives $5,000,000 or more in gross receipts from such enterprise during any 24-month period
+    -shall be fined not more than $10,000,000 if an individual, or $20,000,000 if an organization, and imprisoned for a term of not less than 10 years and which may be life.
+    (b) For purposes of subsection (a), the term "continuing financial crimes enterprise" means a series of violations under section 215, 656, 657, 1005, 1006, 1007, 1014, 1032, or 1344 of this title, or section 1341 or 1343 affecting a financial institution, committed by at least 4 persons acting in concert.        
+              [ LOAN 50074: $6,000,000 ] ANNEXED IN DOCKETS 309-315 IN NYSCEF MATTER 153974/2020
+
+                    ANNEXED IN NY SUPREME COURT MATTER 153974/2020
+                    REPRESENTATIVES OF (9) SULLIVAN PROPERTIES LP, (10) SULLIVAN GP LLC, (11) MANHATTAN SKYLINE MANAGEMENT CORP.
+                   
+
+                    BY:     (12) SHARI LASKOWITZ, (13) ASHLEY HUMPHRIES, (14) CORY WEISS, AND (15) PAUL REGAN
+
+                        DOCKETS ANNEXED IN NYSCEF 153974/2020 AND ALSO FILED WITH THE NY DEPT OF FINANCE.
+
+                    OBO:     (3) DONALD ZUCKER, (17) LAURIE ZUCKER, AND OTHERS WHO I AM UNFAMILIAR TO THEIR RESPECTIVE SHARES HELD AS LIMITED PARTNERS OF SULLIVAN PROPERTIES LP.
+
+                    UNLAWFULLY (USC 18.21) PRESENTED THE IMPLIED RETURNS FOR 6 PROPERTIES WHICH WERE ALSO FILED, AND
+                    >PUBLICLY AVAILABLE TO ALL REGULAR /COMPETENT PERSONS.
+
+                    USED TO PROCURE AND OBTAIN A LOAN FOR $6,000,000.00 ( SIX MILLION US DOLLARS) AND USED THE FOLLOWING ENTITY ON THE COVER PAGE:
+
+                    (18) THE ZUCKER ORGANIZATION LLC
+USC 18, § 373 - Solicitation to commit a crime of violence
+
+(a) Whoever, with intent that another person engage in conduct constituting a felony that has as an element the use, attempted use, or threatened use of physical force against property or against the person of another in violation of the laws of the United States, and under circumstances strongly corroborative of that intent, solicits, commands, induces, or otherwise endeavours to persuade such other person to engage in such conduct, shall be imprisoned not more than one-half the maximum term of imprisonment or (notwithstanding section 3571) fined not more than one-half of the maximum fine prescribed for the punishment of the crime solicited, or both; or if the crime solicited is punishable by life imprisonment or death, shall be imprisoned for not more than twenty years.
+
+                (15)<voicemail attached>
+
+(b) It is an affirmative defence to a prosecution under this section that, under circumstances manifesting a voluntary and complete renunciation of his criminal intent, the defendant prevented the commission of the crime solicited. A renunciation is not "voluntary and complete" if it is motivated in whole or in part by a decision to postpone the commission of the crime until another time or to substitute another victim or another but similar objective. If the defendant raises the affirmative defence at trial, the defendant has the burden of proving the defence by a preponderance of the evidence.
+    (c) It is not a defence to a prosecution under this section that the person solicited could not be convicted of the crime because he lacked the state of mind required for its commission, because he was incompetent or irresponsible, or because he is immune from prosecution or is not subject to prosecution.
+USC 18 [ FORFEITURES ] >> RISKS HELD UNDER STATE FARM AT THE OBSTRUCTION OF THE COUNSELORS IN NYSCEF 153974/2020
+
+§229B. Criminal forfeitures; destruction of weapons
+    (a) Property Subject to Criminal Forfeiture.
+    -Any person convicted under section 229A(a) shall forfeit to the United States irrespective of any provision of State law-
+        (1) any property, real or personal, owned, possessed, or used by a person involved in the offense;
+        (2) any property constituting, or derived from, and proceeds the person obtained, directly or indirectly, as the result of such violation; and
+        (3) any of the property used in any manner or part, to commit, or to facilitate the commission of, such violation.
+
+    The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to section 229A(a), that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by section 229A(a), a defendant who derived profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
+    (b) Procedures.-
+        (1) General.
+        -Property subject to forfeiture under this section, any seizure and disposition thereof, and any administrative or judicial proceeding in relation thereto, shall be governed by subsections (b) through (p) of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), except that any reference under those subsections to-
+            (A) "this subchapter or subchapter II" shall be deemed to be a reference to section 229A(a); and
+            (B) "subsection (a)" shall be deemed to be a reference to subsection (a) of this section.
+        (2) Temporary restraining orders.-
+            (A)     In general.-For the purposes of forfeiture proceedings under this section, a temporary restraining order may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if, in addition to the circumstances described in section 413(e)(2) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853(e)(2)), the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and exigent circumstances exist that place the life or health of any person in danger.
+            (B)     Warrant of seizure.-If the court enters a temporary restraining order under this paragraph, it shall also issue a warrant authorizing the seizure of such property.
+            (C)     Applicable procedures.-The procedures and time limits applicable to temporary restraining orders under section 413(e)(2) and (3) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853(e)(2) and (3)) shall apply to temporary restraining orders under this paragraph.   
+    (c) Affirmative Defense.
+        -It is an affirmative defense against a forfeiture under subsection (b) that the property-
+        (1) is for a purpose not prohibited under the Chemical Weapons Convention; and
+        (2) is of a type and quantity that under the circumstances is consistent with that purpose.
+    (d) Destruction or Other Disposition.-The Attorney General shall provide for the destruction or other appropriate disposition of any chemical weapon seized and forfeited pursuant to this section.
+    (e) Assistance.
+    (f) Owner Liability.
+        -The owner or possessor of any property seized under this section shall be liable to the United States for any expenses incurred incident to the seizure, including any expenses relating to the handling, storage, transportation, and destruction or other disposition of the seized property
+USC 18, §218. Voiding transactions in violation of chapter; recovery by the United States
+
+    In addition to any other remedies provided by law the President or, under regulations prescribed by him, the head of any department or agency involved, may declare void and rescind any contract, loan, grant, subsidy, license, right, permit, franchise, use, authority, privilege, benefit, certificate, ruling, decision, opinion, or rate schedule awarded, granted, paid, furnished, or published, or the performance of any service or transfer or delivery of any thing to, by or for any agency of the United States or officer or employee of the United States or person acting on behalf thereof, in relation to which there has been a final conviction for any violation of this chapter, and the United States shall be entitled to recover in addition to any penalty prescribed by law or in a contract the amount expended or the thing transferred or delivered on its behalf, or the reasonable value thereof.
+
+
+NOTE: I OFFERED THE DEFAULT CLAUSE OF THE LOAN SO THAT STATE FARM CAN CANCEL THE LOAN, EXECUTED AND FILED THE SAME AS EXHIBIT 420 IN NYSCEF MATTER 153974/2020. NONE OF THE INDIVUALS FROM STATE FARM HAVE RESPONDED TO THIS EFFECT SINCE THEN, AND MOST RECENTLY, MR. DAVID MOORE ATTEMPTED TO PLACE A CO-WORKER IN HIS PLACE, MISS JANNA UNDERWOOD WHO I UNDERSTAND IS NOT A DIRECTOR OF STATE FARM, ON THE BASIS OF FILINGS AND DOCUMENTS THAT ARE AVAILABLE, PER THE FINANCIAL INDUSTRY REGULATORY AUTHORITY AND THE SECURITIES AND EXCHANGE COMMISSION UNDER CIK FILER 93715, AND CIK FILER 1516523.
+
+
+USC 18, §216. Penalties and injunctions
+    (a) The punishment for an offense under section 203, 204, 205, 207, 208, or 209 of this title is the following:
+        (1) Whoever engages in the conduct constituting the offense shall be imprisoned for not more than one year or fined in the amount set forth in this title, or both.
+        (2) Whoever willfully engages in the conduct constituting the offense shall be imprisoned for not more than five years or fined in the amount set forth in this title, or both.
+    (b)     The Attorney General may bring a civil action in the appropriate United States district court against any person who engages in conduct constituting an offense under section 203, 204, 205, 207, 208, or 209 of this title and, upon proof of such conduct by a preponderance of the evidence, such person shall be subject to a civil penalty of not more than $50,000 for each violation or the amount of compensation which the person received or offered for the prohibited conduct, whichever amount is greater. The imposition of a civil penalty under this subsection does not preclude any other criminal or civil statutory, common law, or administrative remedy, which is available by law to the United States or any other person.
+    (c) If the Attorney General has reason to believe that a person is engaging in conduct constituting an offense under section 203, 204, 205, 207, 208, or 209 of this title, the Attorney General may petition an appropriate United States district court for an order prohibiting that person from engaging in such conduct. The court may issue an order prohibiting that person from engaging in such conduct if the court finds that the conduct constitutes such an offense. The filing of a petition under this section does not preclude any other remedy which is available by law to the United States or any other person.
+
+
+A LITTLE WIGGLE ROOM HERE IN THIS GREY AREA.
+
+§246. Deprivation of relief benefits
+    Whoever directly or indirectly deprives, attempts to deprive, or threatens to deprive any person of any employment, position, work, compensation, or other benefit provided for or made possible in whole or in part by any Act of Congress appropriating funds for work relief or relief purposes, on account of political affiliation, race, color, sex, religion, or national origin, shall be fined under this title, or imprisoned not more than one year, or both.
+
+
+§220. Illegal remunerations for referrals to recovery homes, clinical treatment facilities, and laboratories
+(a) Offense.-Except as provided in subsection (b), whoever, with respect to services covered by a health care benefit program, in or affecting interstate or foreign commerce, knowingly and willfully-
+    (1) solicits or receives any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind, in return for referring a patient or patronage to a recovery home, clinical treatment facility, or laboratory; or
+    (2) pays or offers any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind-
+        (A) to induce a referral of an individual to a recovery home, clinical treatment facility, or laboratory; or
+        (B) in exchange for an individual using the services of that recovery home, clinical treatment facility, or laboratory,
+    -shall be fined not more than $200,000, imprisoned not more than 10 years, or both, for each occurrence.
+
+(b) Applicability.-Subsection (a) shall not apply to-
+    (1) a discount or other reduction in price obtained by a provider of services or other entity under a health care benefit program if the reduction in price is properly disclosed and appropriately reflected in the costs claimed or charges made by the provider or entity;
+    (2) a payment made by an employer to an employee or independent contractor (who has a bona fide employment or contractual relationship with such employer) for employment, if the employee's payment is not determined by or does not vary by-
+        (A) the number of individuals referred to a particular recovery home, clinical treatment facility, or laboratory;
+        (B) the number of tests or procedures performed; or
+        (C) the amount billed to or received from, in part or in whole, the health care benefit program from the individuals referred to a particular recovery home, clinical treatment facility, or laboratory;
+    (3) a discount in the price of an applicable drug of a manufacturer that is furnished to an applicable beneficiary under the Medicare coverage gap discount program under section 1860D–14A(g) of the Social Security Act (42 U.S.C. 1395w–114a(g));
+    (4) a payment made by a principal to an agent as compensation for the services of the agent under a personal services and management contract that meets the requirements of section 1001.952(d) of title 42, Code of Federal Regulations, as in effect on the date of enactment of this section;
+    (5) a waiver or discount (as defined in section 1001.952(h)(5) of title 42, Code of Federal Regulations, or any successor regulation) of any coinsurance or copayment by a health care benefit program if-
+        (A) the waiver or discount is not routinely provided; and
+        (B) the waiver or discount is provided in good faith;
+    (6) a remuneration described in section 1128B(b)(3)(I) of the Social Security Act (42 U.S.C. 1320a–7b(b)(3)(I));
+    (7) a remuneration made pursuant to an alternative payment model (as defined in section 1833(z)(3)(C) of the Social Security Act) or pursuant to a payment arrangement used by a State, health insurance issuer, or group health plan if the Secretary of Health and Human Services has determined that such arrangement is necessary for care coordination or value-based care; or
+    (8) any other payment, remuneration, discount, or reduction as determined by the Attorney General, in consultation with the Secretary of Health and Human Services, by regulation.
+    
+    (c) Regulations.
+    -The Attorney General, in consultation with the Secretary of Health and Human Services, may promulgate regulations to clarify the exceptions described in subsection (b).
+    (d) Preemption.-
+        (1) Federal law.-This section shall not apply to conduct that is prohibited under section 1128B of the Social Security Act (42 U.S.C. 1320a–7b).
+        (2) State law.-Nothing in this section shall be construed to occupy the field in which any provisions of this section operate to the exclusion of State laws on the same subject matter.
+
+    (e) Definitions.-In this section-
+        (1) the terms "applicable beneficiary" and "applicable drug" have the meanings given those terms in section 1860D–14A(g) of the Social Security Act (42 U.S.C. 1395w–114a(g));
+        (2) the term "clinical treatment facility" means a medical setting, other than a hospital, that provides detoxification, risk reduction, outpatient treatment and care, residential treatment, or rehabilitation for substance use, pursuant to licensure or certification under State law;
+        (3) the term "health care benefit program" has the meaning given the term in section 24(b);
+        (4) the term "laboratory" has the meaning given the term in section 353 of the Public Health Service Act (42 U.S.C. 263a); and
+        (5) the term "recovery home" means a shared living environment that is, or purports to be, free from alcohol and illicit drug use and centered on peer support and connection to services that promote sustained recovery from substance use disorders.
+
+ – SO I HOPE YOU UNDERSTAND WHERE THIS ALSO PRESENTS A CONFLICT, AS HE BELIEVES THIS TO BE TRUE.
+1_u.s._v._brian_benjamin_indictment (1).pdf
+-------- Forwarded Message --------
+Subject: 	Voicemail from Mr. PAUL regan
+Date: 	Sun, 26 Jun 2022 16:51:47 -0400
+From: 	BO DINCER <bondstrt007@gmail.com>
+To: 	customerservice@nypost.com, espnfrontrow@espn.com, teschmann@mskyline.com, Joseph Giamboi, ESQ <joseph.giamboi@brooklaw.edu>, LZUCKER@mskyline.com, sgo2107@columbia.edu, letters@nypost.com, Laskowitz, Shari <slaskowitz@ingramllp.com>, dallas-reserve-mgmt@dal.frb.org, 23pctdvo@nypd.com, 23pctyco@nypd.org, 1pctdvo@nypd.org, 1pctyco@nypd.org, praghuram2@bloomberg.net, PRIYA.RAGHURAM@MORGANSTANLEY.COM <PRIYA.RAGHURAM@morganstanley.com>, JAMES GORMAN [MORGAN STANLEY] <james.gorman@morganstanley.com>, Dow Jones <wsjprosupport@dowjones.com>, paul.jones@tudor.com, Paul Regan <LEGAL@mskyline.com>, LEGALASST@mskyline.com, MSKYLINE <anne@thehighlandpartners.com>, cweiss@ingramllp.com, info@statefarm.com, State Farm <mutualfunds@statefarm.com>, David Moore <david.moore.ct95@statefarm.com>, hillary.davis@latimes.com, Scott Holcomb <scott@holcombward.com>, SOHO HOUSE <membership@sohohouse.com>
+CC: 	KATHY HOCHUL <governor.hochul@exec.ny.gov>, BBO 121 <ms60710444266@yahoo.com>, MIT Sloan Executive Education <executive_education@mailsvc.sloan.mit.edu>, Marc Lavigne <tessier3@stanford.edu>, NYSCEF PROCESS HD <oca_hd_processor@nycourts.gov>, The New York Times <help@nytimes.com>, administration@mskyline.com, MANHATTAN SKYLINE, LLC. <ADMINISTRATOR@mskyline.com>
+
+
+I am terrified, where is he ? Touching himself or making videos with my Glamour shots.
+
+Thats actually a compound, in the scope of avoidance to prosecution. 
+
+Truly a delusional group, never met them.
