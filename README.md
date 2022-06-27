@@ -34,7 +34,7 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX
 *****     101 WEST 55TH STREET, NEW YORK, NY, 10019<br>
 
 (5)    DAVID MOORE<br>
-(6)    JOSEPH MONK, JR. <br>
+(6)    [MONK, JOSEPH RILEY JR (CRD#:1357149)](https://brokercheck.finra.org/individual/summary/1357149)<br>
 (7)    PAUL J SMITH<br>
 (8)    TERRENCE LUDWIG<br>
 *****     ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710<br>
@@ -58,7 +58,7 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX
 (15)    PAUL REGAN<br>
 *****     101 WEST 55TH STREET, NEW YORK, NY, 10019<br>
 
- (16)    STATE FARM VP MANAGEMENT CORP.<br>
+ (16)    [STATE FARM VP MANAGEMENT CORP](https://brokercheck.finra.org/firm/summary/43036)<br>
 *****     ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710<br>
 
  (17)    [RICKI ROER](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8996267/3.RICKI.E.ROAR.pdf)<br>
