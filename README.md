@@ -57,7 +57,7 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX
 *****     101 WEST 55TH STREET, NEW YORK, NY, 10019<br>
 
  (16)    [STATE FARM VP MANAGEMENT CORP](https://brokercheck.finra.org/firm/summary/43036)<br>
-*****     ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710<br>
+*****     ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710<br>  
 
  (17)    [RICKI ROER](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8996267/3.RICKI.E.ROAR.pdf)<br>
  (18)    [AMY HANRAHAN 0009813982](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8996269/1.ELSER.-.0009813982.-.Annual.Report.1.pdf)<br> 
