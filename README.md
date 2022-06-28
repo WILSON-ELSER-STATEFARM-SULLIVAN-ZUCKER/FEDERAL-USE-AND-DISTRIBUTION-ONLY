@@ -62,9 +62,10 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX
  (18)    [AMY HANRAHAN 0009813982](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8996269/1.ELSER.-.0009813982.-.Annual.Report.1.pdf)<br> 
  (19)    [ALAN RUBIN 0006974529](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8996268/1.ELSER.-.0006974529.-.Annual.Report-1.pdf)<br> 
 *****     150 EAST 42ND STREET, NEW YORK, NY, 10017<br>
+ (20) [STATE FARM REALTY MORTGAGE LLC](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=2020052000291003)<br>
     <br>
      *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****     *****<br><br><br>
-
+(20) was de-referenced as another attempt to mislead and obstruct justice by one of the counselors who represented the common interests of obtaining an unlawful Loan 50074 as referenced below, at all times was present and participated as a "plaintiff" [- Shari Laskowitz](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==) requested that I "not" contact state farm realty insurance llc - which is a corporation [I AM NOT FAMILIAR WITH](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Xjn0/e1NcBADqRc_PLUS_g11P4g==)<br><br><br> THE CORRECT ENTITY THAT OFFERED AND NOTARIZED THE LETTER OF CREDIT TO SULLIVAN PROPERTIES LP IS IN FACT [(20) STATE FARM REALTY MORTGAGE LLC](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Xjn0/e1NcBADqRc_PLUS_g11P4g==), as notarized by the representatives under [STATE FARM LIFE INSURANCE ---- PAGE 42 of 67](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw==)<br><br><br>  an outside business which is of interest as it is disclosed by [STATE FARM VP MANAGEMENT CORP](https://brokercheck.finra.org/firm/summary/43036)<br> <br> <br> <br> and also by the named Directors (5)-(6)-(7)-(8) and Corporations (1)-(2)-(16)-(20) of STATE FARM, WHO ARE ALL COMMUNALLY LOCATED AT ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710
 
 Subject: 1320 EST: Voicemail from Mr. PAUL REGAN [USC 18, §241]<br>
 From:B D2022 <ms60710444266@yahoo.com><br>
