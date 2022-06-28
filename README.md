@@ -1,4 +1,55 @@
 ## USC 18. VIOLATIONS ANNEXED IN NYSCEF 153974/2020 [ LOAN 50074 ] 
+PROPERTY REPORT (see also: Miwa and Teschman) 	Assignment to Zucker 05/26/2020 	
+	Filed: 08/04/2020 			Confirmation Notice
+ 307  	EXHIBIT(S)  - OPP  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+PLAINTIFF DOES NOT HAVE A CERTIFICATE OF OCCUPANCY FOR THIS PROPERTY 	Filed: 08/09/2020 	
+	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rjL6yoW3Mt2U6UigWCM9XQ== 	
+	Received: 08/09/2020 	 
+ 308  	EXHIBIT(S)  - 503  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+TAX MAP BLOCK 503 - LOT 8 [GIS.NYC.GOV] 	Filed: 08/09/2020 	
+	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA== 	
+	Received: 08/09/2020 	 
+ 309  	EXHIBIT(S)  - no1  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH  	Filed: 08/09/2020 	
+	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ== 	
+	Received: 08/09/2020 	 
+ 310  	EXHIBIT(S)  - AC0  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+ACRIS Detailed Document Information (2019000021408)2019010800475001 	Filed: 08/09/2020 	
+	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ze6a1KA9akRV9TGfXXJT/g== 	
+	Received: 08/09/2020 	 
+ 311  	EXHIBIT(S)  - AC1  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+ACRIS Detailed Document Information (2020000155422)2020052000291003 	Filed: 08/09/2020 	
+	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw== 	
+	Received: 08/09/2020 	 
+ 312  	EXHIBIT(S)  - AC2  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+ACRIS Detailed Document Information (2020000155421)2020052000291002 	Filed: 08/09/2020 	
+	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw== 	
+	Received: 08/09/2020 	 
+ 313  	EXHIBIT(S)  - AC3  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+ACRIS Detailed Document Information (2020000155422)2020052000291003 	Filed: 08/09/2020 	
+	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg== 	
+	Received: 08/09/2020 	 
+ 314  	EXHIBIT(S)  - AC4  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+ACRIS Detailed Document Information (2020000155423)2020052000291004 	Filed: 08/09/2020 	
+	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g== 	
+	Received: 08/09/2020 	 
+ 315  	EXHIBIT(S)  - ACR  (Motion #002) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH - https://a836-acris.nyc.gov/ 	
+	Filed: 08/09/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ== 	
+	Received: 08/09/2020 	 
+ 316  	EXHIBIT(S)  - Bu0 	Dincer, B. (Pro Hac / Pro Se) 	Processed
+COMPLAINT #14585819 (7/25/2020) @BBB 	Filed: 08/09/2020 	Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7Ry3LAoVfWOLjSXhyJZ94A== 	
+	Received: 08/09/2020 	 
 
 §2. - Principals
 		(a) Whoever commits an offense against the United States or aids, abets, counsels, commands, induces or procures its commission, is punishable as a principal.
