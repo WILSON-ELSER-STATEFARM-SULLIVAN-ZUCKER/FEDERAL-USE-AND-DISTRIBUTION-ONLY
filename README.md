@@ -710,64 +710,62 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7Ry3LAoVfWOLjSXhyJ
 
 #### CERTIFICATES OF OCCUPANCY AT ALL RELEVANT TIMES. FOR THE LOAN 50074 (ALSO FILED IN NYSCEF 153974/2020)
 
- 230  	EXHIBIT(S)  - COr 	Dincer, B. (Pro Hac / Pro Se) 	Processed
-CERTIFICATE OF OCCUPANCY FOR 111 SULLIVAN STREET REAR, NEW YORK, NEW YORK 10012 	
-	Filed: 08/04/2020 	Confirmation Notice
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JjKiWNUTBeipcESQfFiwVQ== 	
+ 230  	EXHIBIT(S)  - COr 	Dincer, B. (Pro Hac / Pro Se) Filed: 08/04/2020	Processed<br>
+CERTIFICATE OF OCCUPANCY FOR 111 SULLIVAN STREET REAR, NEW YORK, NEW YORK 10012<br> 	
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JjKiWNUTBeipcESQfFiwVQ==<br> 	
 	Received: 08/04/2020 	 
  231  	EXHIBIT(S)  - COf 	Dincer, B. (Pro Hac / Pro Se) 	Processed
 CERTIFICATE OF OCCUPANCY FOR 111 SULLIVAN STREET, NEW YORK, NEW YORK 10012 	
 	Filed: 08/04/2020 	Confirmation Notice
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Wx2R9sKfno_PLUS_ol5jFakV9g== 	
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Wx2R9sKfno_PLUS_ol5jFakV9g==<br> 	
 	Received: 08/04/2020 	 
  232  	EXHIBIT(S)  - MEW  (Motion #002) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
 Miwako Messer (AFFIDAVIT) IS REPORTED AS A 25 YEAR AFFILIATE OF THE PLAINTIFF 	
 	Filed: 08/04/2020 	Confirmation Notice
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=72GIYXnN1f/CSjCYtDxKUw== 	
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=72GIYXnN1f/CSjCYtDxKUw==<br> 	
 	Received: 08/04/2020 	
 
  233  	EXHIBIT(S)  - MW1  (Motion #001) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
 Affidavit of Miwako Messer SHOULD BE CONSIDERED AS WELL ORCHESTRATED 	
 	Filed: 08/04/2020 		Confirmation Notice
-<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=G5D0bfOIy4SeSXS47aSWbw==>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=G5D0bfOIy4SeSXS47aSWbw==<br>
 	Received: 08/04/2020 	 
  234  	EXHIBIT(S)  - VER 	Dincer, B. (Pro Hac / Pro Se) 	Processed
 NO COMPLAINTS HAVE BEEN FILED IN MY BUILDING - PER DEPARTMENT OF BUILDINGS RECORDS. 	
 	Filed: 08/04/2020 	Confirmation Notice
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Wx2R9sKfno_PLUS_ol5jFakV9g== 	
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Wx2R9sKfno_PLUS_ol5jFakV9g==<br> 	
 	Received: 08/04/2020 	 
  235  	EXHIBIT(S)  - 804  (Motion #002) 	Dincer, B. (Pro Hac / Pro Se) 	Processed
 property report (see also: Miwa and Teschman) Assignment to Zucker 0526 	
 	Filed: 08/04/2020 	Confirmation Notice
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Oioy2FAQ_PLUS_uuEatGhmc4JnA== 	
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Oioy2FAQ_PLUS_uuEatGhmc4JnA==<br> 	
 	Received: 08/04/2020 	 
 
 <MOV DISTRIBUTION WITHOUT CONSENT>
 [Read:SLASKOWITZINGRAMLLP.COM---WILSONELSER---ZUCKER--SCCS--XXXX@COLUMBIA.EDU CONFIRMED](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8985954/Read-.SLASKOWITZINGRAMLLP.COM---WILSONELSER---ZUCKER--SCCS--SGO%40COLUMBIA.EDU.CONFIRMED.zip)
 	
-## FAXED THE PRIOR MSG TO NY SUPREME COURTS, CIVIL BRANCH.
-[ 50074 EAST ++ ]
+## FAXED THE PRIOR MSG TO NY SUPREME COURTS, CIVIL BRANCH.<br>
+[ 50074 EAST ++ ]<br>
 	*** 	***	***
-Your fax (ID: #31316917) to VARIOUS at 212-401-9146 has been delivered successfully at 12:12 AM EST on June 26th, 2022.
-https://faxzero.com/status/31316917/6b34c3ad9620003256df358c638765fc2ae387cc
+Your fax (ID: #31316917) to VARIOUS at 212-401-9146 has been delivered successfully at 12:12 AM EST on June 26th, 2022<br>
+https://faxzero.com/status/31316917/6b34c3ad9620003256df358c638765fc2ae387cc<br>
 	*** 	***	***
-Your fax (ID: #30246810) to DONALD ZUCKER at 2125869867 has been delivered successfully at 9:50 PM EST on December 1st, 2021.
-https://faxzero.com/status/30246810/5331540dcefa70818b47fb597bf6a69acfd106be
+Your fax (ID: #30246810) to DONALD ZUCKER at 2125869867 has been delivered successfully at 9:50 PM EST on December 1st, 2021<br>
+https://faxzero.com/status/30246810/5331540dcefa70818b47fb597bf6a69acfd106be<br>
 	*** 	***	***
-Your fax (ID: #30316981) to Milton A. Tingling at 2124019146 has been delivered successfully at 9:36 AM EST on December 15th, 2021
-https://faxzero.com/status/30316981/ea144aa1981e04bc4c8bc2489a2e93037b2e711b
+Your fax (ID: #30316981) to Milton A. Tingling at 2124019146 has been delivered successfully at 9:36 AM EST on December 15th, 2021<br>
+https://faxzero.com/status/30316981/ea144aa1981e04bc4c8bc2489a2e93037b2e711b<br>
 	*** 	***	***
-
-https://faxzero.com/status/30666994/5790f17018611119e07814be9e36110d164afaa6
-Your fax (ID: #30666994) to IRS CRIMINAL INVESTIGATIONS at 2674661115 has been delivered successfully at 11:44 PM EST on February 20th, 2022.
+Your fax (ID: #30666994) to IRS CRIMINAL INVESTIGATIONS at 2674661115 has been delivered successfully at 11:44 PM EST on February 20th, 2022<br>
+https://faxzero.com/status/30666994/5790f17018611119e07814be9e36110d164afaa6<br>
 	*** 	***	***
-
-https://faxzero.com/status/30852826/92a1a0570d178d0311eb3764f01842d3ceb65513
-Your fax (ID: #30852826) to JOE MONK at 8164714832 has been delivered successfully at 4:42 AM EST on March 26th, 2022.
----
+Your fax (ID: #30852826) to JOE MONK at 8164714832 has been delivered successfully at 4:42 AM EST on March 26th 2022.<br>
+https://faxzero.com/status/30852826/92a1a0570d178d0311eb3764f01842d3ceb65513<br>
+<br>
+---<br>
 	
-# CASE FILE INFORMATION DISTRIBUTED - BY AND BETWEEN ALL RELEVANT PARTIES
-*** FDIC-01413744, LOCATION 1
+# CASE FILE INFORMATION DISTRIBUTED - BY AND BETWEEN ALL RELEVANT PARTIES<br>
+*** FDIC-01413744, LOCATION 1<br>
 	
 FILE 1: [_30--FDIC-01413744 [ 50074 EST ++ ].pdf](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8985964/_30--FDIC-01413744.50074.EST.%2B%2B.pdf)
     
