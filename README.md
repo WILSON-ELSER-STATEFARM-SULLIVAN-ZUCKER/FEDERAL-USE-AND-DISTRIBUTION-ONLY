@@ -1,6 +1,9 @@
 #### THIS IS CARRIED INTEREST WHICH IS IN ESCROW AS CASH - HELD ON DEPOSIT AT JP MORGAN
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==
-**** WHICH MEANS IT CAN BE USED TO SUPPORT THEIR TIER 1 REPORTS TO THE TREASURY AND TO MAINTAIN COMPLIANCE WITH THE RESERVE REQUIREMENT.
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==<br>
+**** WHICH MEANS IT CAN BE USED TO SUPPORT THEIR TIER 1 REPORTS TO THE TREASURY AND TO MAINTAIN COMPLIANCE WITH THE RESERVE REQUIREMENT.<br>
+
+*** This was known by the Plaintiffs and all of their representatives at all times - who did not disclosee this to any Bank Regulator.
+*** I annexed it with the NY SUPREME COURT - where those dockets were processed, reviewed and evaluated by the attorneys and all of the Zuckers Enterprises.
 
 ## USC 18. VIOLATIONS ANNEXED IN NYSCEF 153974/2020 [ LOAN 50074 ] 
 
