@@ -1,6 +1,56 @@
 #### THIS IS CARRIED INTEREST WHICH IS IN ESCROW AS CASH - HELD ON DEPOSIT AT JP MORGAN
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==<br>
+
 **** WHICH MEANS IT CAN BE USED TO SUPPORT THEIR TIER 1 REPORTS TO THE TREASURY AND TO MAINTAIN COMPLIANCE WITH THE RESERVE REQUIREMENT.<br>
+
+---
+>> Claim Value: $600,000.00
+      Block 2679, Lot 43.
+      840-46 Lorimer Street
+      Zucker Enterprises LLC.
+
+While dealing with their business in Brooklyn, New York. 
+— Kept me pre-occupied without cause to take care of their other business without my opinion or any reveal as to what they really do for a living.
+
+For example:
+
+>> Hon. Nancy T. Sunshine, Kings County Clerk 
+         and Clerk of the Supreme Court 
+
+<https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=HD6/wXvlOxflJUlQyXqedQ==>
+
+     case number:          400842/2020
+     Filed:                        09/23/2020
+     *** KINGS COUNTY *** 
+
+Zucker Enterprises LLC 
+             - v. - 
+THE TAX COMMISSION OF THE CITY OF NEW YORK, AND 
+THE COMMISSIONER OF FINANCE OF THE CITY OF NEW YORK
+
+
+***********************************************************
+—  illegal rents collected, tax matters, outstanding debts.
+—  Block 503, lot 11 
+—  BIN CODE:  1077252, 111 Sullivan Rear ( also no CO )
+**** Annexed in NYSCEF 153974/2020
+      
+OBO:  Zucker Enterprises LLC  
+              <isaac@shermantax.com> | 212-302-3600
+
+OBO:  
+THE TAX COMMISSION OF THE CITY OF NEW YORK, AND 
+THE COMMISSIONER OF FINANCE OF THE CITY OF NEW YORK
+
+<kcco-efile@nycourts.gov>
+    Phone: 347-404-9766 or 347-404-9762
+    NYSCEF Resource Center ,EFile@nycourts.gov,
+	Phone: (646) 386-3033
+    Fax: (212) 401-9146
+    
+---
+
+
 
 *** This was known by the Plaintiffs and all of their representatives at all times - who did not disclosee this to any Bank Regulator.
 *** I annexed it with the NY SUPREME COURT - where those dockets were processed, reviewed and evaluated by the attorneys and all of the Zuckers Enterprises.
