@@ -2642,3 +2642,4 @@ CC: 	KATHY HOCHUL <governor.hochul@exec.ny.gov>, BBO 121 <ms60710444266@yahoo.co
 I am terrified, where is he ? Touching himself or making videos with my Glamour shots.
 
 Thats actually a compound, in the scope of avoidance to prosecution. 
+another internet issue - 39th street and 4th avenue in brooklyn, NY [ see also 1608 EST] TRANSMISSION.
