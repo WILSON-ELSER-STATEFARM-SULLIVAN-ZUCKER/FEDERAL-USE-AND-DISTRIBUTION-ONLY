@@ -1,174 +1,172 @@
 #### THIS PAGE IS BEING MONITORED BY SEVERAL DEPARTMENTS AS PART OF A FEDERAL INVESTIGATION.
 
->> LOOK THEY JUST WANT TO ASK TO ASK SOME QUESTIONS.... 
-HERES CAUSE FOR THE DELAY - THEY ARE CLEANING OUT THEIR CLOSETS.
-Were and are aware of their breach of USC 18.2, 18.3, 18.21, 18.215, etc..
-I.     THEY MONITORED MY LAPTOP FROM OUTSIDE OF MY APARTMENT.
-- ON A 24 HOUR BASIS, RECORDED MY EVERY STEP AND MOTION.
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=c3iexOlBwsgc1lnMJ2_PLUS_AqQ==       
+LOOK THEY JUST WANT TO ASK TO ASK SOME QUESTIONS.... <br>
+HERES CAUSE FOR THE DELAY - THEY ARE CLEANING OUT THEIR CLOSETS.<br>
+Were and are aware of their breach of USC 18.2, 18.3, 18.21, 18.215, etc..<br>
+I.     THEY MONITORED MY LAPTOP FROM OUTSIDE OF MY APARTMENT.<br>
+- ON A 24 HOUR BASIS, RECORDED MY EVERY STEP AND MOTION.<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=c3iexOlBwsgc1lnMJ2_PLUS_AqQ==<br>       
+<br>
+--- ASHLEY HUMPHRIES, OF WILSON , ELSER & DICKER.<br>
 
---- ASHLEY HUMPHRIES, OF WILSON , ELSER & DICKER.
+" ... PLEASE CHECK THE SECURITY TAPES ... "<br>
+At will, didn’t know a JD came with that privilege without a court order or consent.<br> 
 
-" ... PLEASE CHECK THE SECURITY TAPES ... "
-At will, didn’t know a JD came with that privilege without a court order or consent. 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HbnFLHB3tyjhEWAYb6mOPw==<br>
 
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HbnFLHB3tyjhEWAYb6mOPw==
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YvkihzM1cwANtAvbUwWX_PLUS_g==
-
-
-II.     VIDEOTAPED ME "INSIDE OF MY APARTMENT".
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1BkpTQ==
-
-III.     DISTRIBUTED VIDEOS OF MYSELF IN MY APARTMENT -- THE INTERIOR.
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YGRsoOyDJuc93MrOnwh5Jw==
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=84wdx4RhX5LEi0sISXetBw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YvkihzM1cwANtAvbUwWX_PLUS_g==<br>
 
 
-IV.     ATTACHED VIDEO OF MYSELF DRILLING INSIDE OF MY APARTMENT.
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5uMb/ORklCen4NaSEt6oFg==
+II.     VIDEOTAPED ME "INSIDE OF MY APARTMENT".<br><br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1BkpTQ==<br>
 
-V.     ATTACHED VIDEO OF MYSELF HAMMERING INSIDE OF MY APARTMENT.
+III.     DISTRIBUTED VIDEOS OF MYSELF IN MY APARTMENT -- THE INTERIOR.<br><br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YGRsoOyDJuc93MrOnwh5Jw==<br>
 
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ==
-
-VI.     THEY ALSO ANNEX MY RECEIPT TO HELP BUY THEMSELVES MORE TIME AND TO DISTRACT
-
-THE JUDGE, CLERK AND INSTEAD OF DEALING WITH THEIR TAX-EVASIONS AND ILLEGAL CONDUCT. HTF DID THEY EVEN GET AN IMAGE OF MY RECEIPT?
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Uavl5NRQV4YHKqWUf8fyVQ==
-
-VII.     ALSO WILL SWEAR THAT THEY HAVE NO INVOLVEMENT, IN ANYTHING...
-
-    - HAVE ALSO MONITORED ME FROM THE CORRIDOR, AND THROUGH MY DOOR.
-
-    - BY ALL OF THE ATTORNEYS, COUNSELORS, AND STAFF OF SULLIVAN PROPERTIES, LP.
-
-VIII.     HAVE ALSO ANNEXED AND SWORE UNDER OATH THEY SAW ME
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PWFQc/WFihoyIKwEunaalQ==
-
-"... BANGING ON A RADIATOR ... "
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oz2nfEu9a94Y3U5/kpIt5g==
-
-IX.     ALSO HAVE ANNEXED THEY "HOSTED" MY VIDEOS ON THE INTERNET --
-
-                    
-
--- USING ONE OF THEIR OWN TENANTS AS THE VIDEOGRAPHER.
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PWFQc/WFihoyIKwEunaalQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=84wdx4RhX5LEi0sISXetBw==<br>
 
 
+IV.     ATTACHED VIDEO OF MYSELF DRILLING INSIDE OF MY APARTMENT.<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5uMb/ORklCen4NaSEt6oFg==<br>
 
+V.     ATTACHED VIDEO OF MYSELF HAMMERING INSIDE OF MY APARTMENT.<br><br>
 
-            
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ==<br>
 
-TRANSFERRED THE LEASES AND RENTS TO STATE FARM.
+VI.     THEY ALSO ANNEX MY RECEIPT TO HELP BUY THEMSELVES MORE TIME AND TO DISTRACT<br>
 
- - HERE ARE SOME OF THE PROVISIONS FOR AIDING AND ABETTING TAX EVASION. BY WAY OF OBSTRUCTION, OMISSIONS, AND UNFAIR DEALINGS.
+THE JUDGE, CLERK AND INSTEAD OF DEALING WITH THEIR TAX-EVASIONS AND ILLEGAL CONDUCT. HTF DID THEY EVEN GET AN IMAGE OF MY RECEIPT?<br><br>
 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Uavl5NRQV4YHKqWUf8fyVQ==<br>
 
-- COSTED THE INVESTORS OF STATE FARM THE GREATER OF 1.5 BILLION DOLLARS AND ALSO ONE INVESTMENT ADVISER: 
+VII.     ALSO WILL SWEAR THAT THEY HAVE NO INVOLVEMENT, IN ANYTHING...<br><br>
 
+    - HAVE ALSO MONITORED ME FROM THE CORRIDOR, AND THROUGH MY DOOR.<br><br>
 
-- FILER 93715 - AFTER 27 YEARS RANDOMLY DECIDED TO " CEASE TO EXIST "
+    - BY ALL OF THE ATTORNEYS, COUNSELORS, AND STAFF OF SULLIVAN PROPERTIES, LP.<br><br>
 
+VIII.     HAVE ALSO ANNEXED AND SWORE UNDER OATH THEY SAW ME<br>
 
-RE: 153974 - VIOLATION OF PRIVACY...
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PWFQc/WFihoyIKwEunaalQ==<br>
 
-/S/ BO DINCER
+"... BANGING ON A RADIATOR ... "<br>
 
-TEL. 646-256-3609
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oz2nfEu9a94Y3U5/kpIt5g==<br>
 
-TEL. 917-378-3467
+IX.     ALSO HAVE ANNEXED THEY "HOSTED" MY VIDEOS ON THE INTERNET --<br>
 
-BDINCER66@ICLOUD.COM
+-- USING ONE OF THEIR OWN TENANTS AS THE VIDEOGRAPHER.<br>
 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PWFQc/WFihoyIKwEunaalQ==<br><br>
 
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
+TRANSFERRED THE LEASES AND RENTS TO STATE FARM.<br>
 
-https://saaze2311prdsra.blob.core.windows.net/clean/f6d60b925fd3ec11a7b5002248286386/8209-$BROOKS--4776256-6109023[FILED].pdf
+ - HERE ARE SOME OF THE PROVISIONS FOR AIDING AND ABETTING TAX EVASION. BY WAY OF OBSTRUCTION, OMISSIONS, AND UNFAIR DEALINGS.<br>
+
+- COSTED THE INVESTORS OF STATE FARM THE GREATER OF 1.5 BILLION DOLLARS AND ALSO ONE INVESTMENT ADVISER: <br>
+
+- FILER 93715 - AFTER 27 YEARS RANDOMLY DECIDED TO " CEASE TO EXIST "<br>
+
+RE: 153974 - VIOLATION OF PRIVACY...<br><br>
+/S/ BO DINCER<br>
+TEL. 646-256-3609<br>
+TEL. 917-378-3467<br>
+BDINCER66@ICLOUD.COM<br>
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==<br><br>
+
+https://saaze2311prdsra.blob.core.windows.net/clean/f6d60b925fd3ec11a7b5002248286386/8209-$BROOKS--4776256-6109023[FILED].pdf<br>
 
 
 Despite the breach USC code 18.2, 18.3, 18.4, 18.21, 18.215, 18.225 - do the counselors of Sullivan Properties also get charged concurrent sentences like the counselors of Bernie Madoff? How do I go about insuring those assets of mine which have NOT been returned as of current? I will not pursue the FDIC for my money, however other may, as they have reported both vacancies and a growth +/- while considering the 10 years prior did represent YoY changes which do not represent a natural NNN-Lease, as those would be linear. About MY deposit: My Deposit is being held at a bank that is, per FDIC guidelines, holding unlawful assets in custody
 
 
-- as none of the properties in LOAN 50074 to State Farm Bank, FSB
+- as none of the properties in LOAN 50074 to State Farm Bank, FSB<br>
 
 
- have a certificate of occupancy.
+ have NO certificate of occupancy.<br>
 
- Hence, my concern is not only what happens to my rent and security deposit being held on deposit illegally at JP Morgan Chase Bank, but how many other Loans does State Farm have that are undisclosed, notwithstanding the legal matter 
+ Hence, my concern is not only what happens to my rent and security deposit being held on deposit illegally at JP Morgan Chase Bank, but how many other Loans does State Farm have that are undisclosed, notwithstanding the legal matter <br>
 
-of NYSCEF 153974_2020.
+of NYSCEF 153974_2020.<br>
 
- --- SECURITY DEPOSIT(S) ARE HELD IN CUSTODY 
+ --- SECURITY DEPOSIT(S) ARE HELD IN CUSTODY <br><br>
 AT JP MORGAN CHASE BANK, N/A
 
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==<br>
 
-SULLIVAN PROPERTIES LP 101 WEST 55TH STREET, NEW YORK NY 10019 DOES NOT HAVE A CERTIFICATE OF OCCUPANCY 111 SULLIVAN STREET, 113 SULLIVAN STREET OR 115 SULLIVAN STREET (REAR) https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==
+SULLIVAN PROPERTIES LP 101 WEST 55TH STREET, NEW YORK NY 10019 DOES NOT HAVE A CERTIFICATE OF OCCUPANCY 111 SULLIVAN STREET, 113 SULLIVAN STREET OR 115 SULLIVAN STREET (REAR)<br>
 
-THERE WERE NO CERTIFICATES OF OCCUPANCY ON FILE FOR MY APARTMENT. 111 REAR SULLIVAN STREET NEW YORK NY 10012 AT ANY POINT IN TIME. https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IJ47OvVzsLObNsXt0u8trg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==<br>
 
-2020-08-04 111 SULLIVAN STREET [ REAR ] https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zXega0sLahw5fVuBTVtpnw==
+THERE WERE NO CERTIFICATES OF OCCUPANCY ON FILE FOR MY APARTMENT. 111 REAR SULLIVAN STREET NEW YORK NY 10012 AT ANY POINT IN TIME.<br><br> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IJ47OvVzsLObNsXt0u8trg==<br>
 
-111 REAR SULLIVAN STREET LEGAL ADULT USE: NO https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9zQd7Hu3cy9vp6I960WGNQ==
+2020-08-04 111 SULLIVAN STREET [ REAR ] https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zXega0sLahw5fVuBTVtpnw==<br>
 
-Additionally… RENT PAYMENTS 2020_07_25 -HAVE NOT BEEN REFUNDED AS OF CURRENT. NOTWITHSTANDING MY DEMANDS, A DEFAULT or " NON-JOINDER " IN THE MATTER OF 153974/2020
+111 REAR SULLIVAN STREET LEGAL ADULT USE: NO https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9zQd7Hu3cy9vp6I960WGNQ==<br>
 
- MY SECURITY DEPOSIT ALSO WAS NOT RETURNED AND THE GREATER AMOUNTS OF RENTS AND SECURITY ARE 
+Additionally… RENT PAYMENTS 2020_07_25 -HAVE NOT BEEN REFUNDED AS OF CURRENT. NOTWITHSTANDING MY DEMANDS, A DEFAULT or " NON-JOINDER " IN THE MATTER OF 153974/2020<br>
 
-"presented to State Farm" as lawful RENT PAYMENT(S) 
+ MY SECURITY DEPOSIT ALSO WAS NOT RETURNED AND THE GREATER AMOUNTS OF RENTS AND SECURITY ARE <br><br>
 
-HELD IN CUSTODY AT JP MORGAN CHASE, N/A 
+"presented to State Farm" as lawful RENT PAYMENT(S) <br><br>
 
-and the YoY return on all six properties is conveniently double-digits THE INITIAL FINANCING / MORTGAGE TO PURCHASE THE PROPERTIES IN QUESTION WERE FROM JP MORGAN CHASE IN 1989. Continuing Financial Crimes 18.225? 18.215 is filed as payments received by the directors of  State Farm.
+HELD IN CUSTODY AT JP MORGAN CHASE, N/A <br><br>
 
-TCR5 Index Attached. 
+and the YoY return on all six properties is conveniently double-digits THE INITIAL FINANCING / MORTGAGE TO PURCHASE THE PROPERTIES IN QUESTION WERE FROM JP MORGAN CHASE IN 1989. Continuing Financial Crimes 18.225? 18.215 is filed as payments received by the directors of  State Farm.<br>
 
-Subject: GFY
-From: B D2022 <ms60710444266@yahoo.com>
-Date: 7/3/2022, 3:28 PM
-To: "Sara E. Ede" <see2119@columbia.edu>
+TCR5 Index Attached. <br>
 
-
--------- Forwarded Message --------
-Subject: 	—01413744 [ 50074 EST ++ ] Violation of Privacy, Bank Fraud, Securities Fraud.
-Date: 	Sun, 3 Jul 2022 15:06:27 -0500
-From: 	B D2022 <ms60710444266@yahoo.com>
-REDACTED
-CC: 	+15163667582@tmomail.net, +1-347-880-1899 <+13478801899@tmomail.net>, administration@mskyline.com <ADMINISTRATION@MSKYLINE.COM>, administrator@mskyline.com <administrator@mskyline.com>, AREYNOSO@mskyline.com <AREYNOSO@mskyline.com>, askLaurie@mskyline.com <askLaurie@mskyline.com>, cbloom@mskyline.com, DZUCKER@MSKYLINE.COM <DZUCKER@MSKYLINE.COM>, EDevine@mskyline.com, jgiamboi@mskyline.com <jgiamboi@mskyline.com>, joseph.giamboi@brooklaw.edu <joseph.giamboi@brooklaw.edu>, LBRITTON@MSKYLINE.COM <LBRITTON@MSKYLINE.COM>, leftbank@mskylinerentals.com <leftbank@mskylinerentals.com>, Paul Regan <legal@mskyline.com>, legalasst@mskyline.com <legalasst@mskyline.com>, lzucker@mskyline.com <lzucker@mskyline.com>, MGMTADMIN@mskyline.com <MGMTADMIN@mskyline.com>, MVredjian@mskyline.com, pregan@mskyline.com <PREGAN@MSKYLINE.COM>, slaskowitz@mskyline.com <slaskowitz@mskyline.com>, SHIKENA MELTON <smelton@mskyline.com>, SULLIVANMEWS@MSKYLINERENTALS.COM, Super@sullivanmews.com <Super@sullivanmews.com>, TEschmann@mskyline.com, +15163224896@tmomail.net, FILER 400842/2020 isaac@shermantax.com <isaac@shermantax.com>, Stephen O'Connell <sgo2107@columbia.edu>, Amber Griffiths <ag2943@columbia.edu>, Marlyn Delva <mmt22@columbia.edu>, Alan J. Morrison <ajm157@columbia.edu>, wmckenzie@nycourts.gov <wmckenzie@nycourts.gov>, JLewis@ap.org <JLewis@ap.org>
+Subject: GFY<br>
+From: B D2022 <ms60710444266@yahoo.com><br><br>
+Date: 7/3/2022, 3:28 PM<br><br>
+To: "Sara E. Ede" <see2119@columbia.edu><br><br>
 
 
-THERE YOU GO. YOU WANTED TO KNOW WHO IS INVESTIGATING YOU,  A
-
-AS VIOLATORS OF FEDERAL LAWS OF BANKING, FINANCE, AND CONTINUING FINANCIAL CRIMES.
-
-    INTEREST BEARS A DAILY ACCRUAL ON TAXES THAT ARE NOT IMAGINARY.
-    THE BANKS CARRY IMAGINARY INTEREST ON DEPOSITS
-         MADE BY THE ZUCKERS, WHICH HAVE NOT BEEN RETURNED, I ASKED FOR THE PRINCIPAL BALANCE, WITHOUT INTEREST TO KEEP MATTERS OFFICIAL - WANT NO PART OF THEIR BUSINESS DEALINGS, INCLUDING THEIR CONTRIBUTION TO THE DAMAGES OF
-            SEC CIK FILER 93715;
-            SEC CIK FILER 1516523;
-            HSBC BANK; AND
-            JP MORGAN CHASE BANK
-
-THOSE TICKERS HAVEN'T CHANGED:    STFGX, SFITX, SFBDX, AND STFBX
-
-THE INTEREST THEY OW IN BACK TAXES IS PEGGED TO THE THE FED-30,
-
-WHICH HAS CHANGED DRASTICALLY AND IS ALSO SUPPORTIVE OF GROSS NEGLIGENCE IN THOSE OMISSIONS AND OBSTRUCTIONS AS OBSERVED IN THE PROCEEDINGS IN
-
-NYSCEF MATTER 153974/2020
+-------- Forwarded Message --------<br><br>
+Subject: 	—01413744 [ 50074 EST ++ ] Violation of Privacy, Bank Fraud, Securities Fraud.<br>
+Date: 	Sun, 3 Jul 2022 15:06:27 -0500<br>
+From: 	B D2022 <ms60710444266@yahoo.com><br>
+REDACTED<br>
+CC: 	+15163667582@tmomail.net, +1-347-880-1899 <+13478801899@tmomail.net>, <br>
+administration@mskyline.com <ADMINISTRATION@MSKYLINE.COM>, administrator@mskyline.com <administrator@mskyline.com>,<br>
+AREYNOSO@mskyline.com <AREYNOSO@mskyline.com>, askLaurie@mskyline.com <askLaurie@mskyline.com>, cbloom@mskyline.com, <br>
+DZUCKER@MSKYLINE.COM <DZUCKER@MSKYLINE.COM>, EDevine@mskyline.com, jgiamboi@mskyline.com <jgiamboi@mskyline.com>, <br>
+joseph.giamboi@brooklaw.edu <joseph.giamboi@brooklaw.edu>, LBRITTON@MSKYLINE.COM <LBRITTON@MSKYLINE.COM>, <br>
+leftbank@mskylinerentals.com <leftbank@mskylinerentals.com>, Paul Regan <legal@mskyline.com>, <br>
+legalasst@mskyline.com <legalasst@mskyline.com>, lzucker@mskyline.com <lzucker@mskyline.com>, <br>
+MGMTADMIN@mskyline.com <MGMTADMIN@mskyline.com>, MVredjian@mskyline.com, pregan@mskyline.com <PREGAN@MSKYLINE.COM>, <br>
+slaskowitz@mskyline.com <slaskowitz@mskyline.com>, SHIKENA MELTON <smelton@mskyline.com>, SULLIVANMEWS@MSKYLINERENTALS.COM, <br>
+Super@sullivanmews.com <Super@sullivanmews.com>, TEschmann@mskyline.com, +15163224896@tmomail.net, FILER 400842/2020 isaac@shermantax.com <isaac@shermantax.com>,<br> Stephen O'Connell <sgo2107@columbia.edu>, Amber Griffiths <ag2943@columbia.edu>, Marlyn Delva <mmt22@columbia.edu>, Alan J. Morrison <ajm157@columbia.edu>, <br>
+wmckenzie@nycourts.gov <wmckenzie@nycourts.gov>, JLewis@ap.org <JLewis@ap.org><br>
 
 
--------- Forwarded Message --------
-Subject: 	clear—01413744 [ 50074 EST ++ ] Violation of Privacy papers
-Date: 	Sun, 3 Jul 2022 17:48:54 +0000 (UTC)
-From: 	pinkbookswap@yahoo.com <pinkbookswap@yahoo.com>
+THERE YOU GO. YOU WANTED TO KNOW WHO IS INVESTIGATING YOU? <br><br><br>
+
+AS VIOLATORS OF FEDERAL LAWS OF BANKING, FINANCE, AND CONTINUING FINANCIAL CRIMES.<br><br><br><br>
+
+    INTEREST BEARS A DAILY ACCRUAL ON TAXES THAT ARE NOT IMAGINARY.<br>
+    THE BANKS CARRY IMAGINARY INTEREST ON DEPOSITS<br>
+         MADE BY THE ZUCKERS, WHICH HAVE NOT BEEN RETURNED, I ASKED FOR THE PRINCIPAL BALANCE, WITHOUT INTEREST TO KEEP MATTERS OFFICIAL -<br><br>
+	 WANT NO PART OF THEIR BUSINESS DEALINGS, INCLUDING THEIR CONTRIBUTION TO THE DAMAGES OF<br><br>
+            SEC CIK FILER 93715;<br>
+            SEC CIK FILER 1516523;<br>
+            HSBC BANK; AND<br>
+            JP MORGAN CHASE BANK<br>
+
+THOSE TICKERS HAVEN'T CHANGED:    STFGX, SFITX, SFBDX, AND STFBX<br><br>
+
+THE INTEREST THEY OW IN BACK TAXES IS PEGGED TO THE THE FED-30,<br><br>
+
+WHICH HAS CHANGED DRASTICALLY AND IS ALSO SUPPORTIVE OF GROSS NEGLIGENCE IN THOSE OMISSIONS AND OBSTRUCTIONS AS OBSERVED IN THE PROCEEDINGS IN<br>
+
+NYSCEF MATTER 153974/2020<br>
+
+<br>
+-------- Forwarded Message --------<br>
+Subject: 	clear—01413744 [ 50074 EST ++ ] Violation of Privacy papers<br>
+Date: 	Sun, 3 Jul 2022 17:48:54 +0000 (UTC)<br>
+From: 	pinkbookswap@yahoo.com <pinkbookswap@yahoo.com><br>
 To: 	<REDACTED>FREEDOM OF INFORMATION ACT <foia@eeoc.gov>, Us Umusic Online Info <info@us.umusic-online.com>, espnfrontrow@espn.com <espnfrontrow@espn.com>, Seahawks Customerservice <customerservice@seahawks.com>, cuit-communications@columbia.edu <cuit-communications@columbia.edu>, emdowmentadmin@columbia.edu <emdowmentadmin@columbia.edu>, emaildeliverysystem@wilsonelser.com <emaildeliverysystem@wilsonelser.com>, American Bar Association <abanews@americanbar.org>, cdfifund@service.govdelivery.com <cdfifund@service.govdelivery.com>, Rule-Comments <rule-comments@sec.gov>, IMshareholderproposals <imshareholderproposals@sec.gov>, Greco Amanda [GMD] <imceaex-_o=exchangelabs_ou=exchange+20administrative+20group+20+28fydibohf23spdlt+29_cn=recipients_cn=c190de3e029d4091b8fd14015f12e672-grecoa@namprd20.prod.outlook.com>
 CC: 	Lee Bollinger <officeofthepresident@columbia.edu>, Newyork <newyork@sec.gov>, newyork@cravath.com <newyork@cravath.com>, Bressler Info <info@bressler.com>, Sara Ede <see2119@columbia.edu>, Amber Griffiths <ag2943@columbia.edu>, Steve O’Connell <sgo2107@columbia.edu>, slaskowitz@mskyline.com <slaskowitz@mskyline.com>, Ricki Roer <ricki.roer@wilsonelser.com>, ashley.humphries@wilsonelser.com, endowmentadmin@columbia.edu <endowmentadmin@columbia.edu>, Stephen O'Connell <sgo2107@adcu.columbia.edu>, Marlyn Delva <mmt22@cumc.columbia.edu>, Marlyn Delva <mmt22@columbia.edu>, The Bureau of Engraving and Printing <usbep@service.govdelivery.com>, Entertainment Weekly <entertainmentweekly@mail.entertainmentweekly.com>, Jeffrey Sears <js@gc.columbia.edu>, ds@gc.columbia.edu <ds@gc.columbia.edu>, psc@gc.columbia.edu <psc@gc.columbia.edu>, Gregory Cho <gcho@doi.nyc.gov>, cmelton@mskyline.com <cmelton@mskyline.com>, lzucker@mskyline.com <lzucker@mskyline.com>, Marc Lavigne <tessier3@stanford.edu>, David Moore <david.moore.ct95@statefarm.com>, Dean's Discipline - SCCS <conduct-admin@columbia.edu>, Malia D. Chatman <malia.d.chatman@chase.com>, kevin.kilkenny@chase.com <kevin.kilkenny@chase.com>
 
