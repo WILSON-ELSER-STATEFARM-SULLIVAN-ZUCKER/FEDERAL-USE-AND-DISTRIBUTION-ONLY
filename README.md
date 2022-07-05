@@ -36,9 +36,12 @@
 *** FILE K<br>
 [111 REAR SULLIVAN STREET - NO C of O - BIN CODE 1077252](https://p19.zdusercontent.com/attachment/2434074/8o9gRnWwvw6J4bW5mRgkEiEtq?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..0p1xbbqUdu2AmX3BNS2E5Q.dBojSZIl27-IvjHLY1jd6Ica5uOMITZTTtanb7qqJEp3iE82saU7b4L5NDAGrFZUVB73oLsfcZV2PTChVIUlvWjgKVmzn65nYqxxO82HB1HfVXA8fQLiSXDu9lMHuhhYE7xLneZPKFbB7mc08l0iDNybPwlqONj-ZawqePx3feuEEDNyjoUpBeq6GKdzUG_-Bqk5R8rphdtbY4SUPLquTxejFAXx3cbkVp1Bjb9A0jhzapV_UN2wrDkVvjA3J6KXwsQkqV6QKLhgRLwXd2y0XOiFEZ2XtRDBFTOmmM7iRLQ.e5fmGdFyGLOUE0ZiV22p3w)<br>
 *** FILE L<br>
-[DOCUMENT CCF_000031 - AUGUST 8TH 2020](https://support.nysba.org/attachments/token/byr918DAb8DI3kBkB0lwyxeTH/?name=CCF_000031.pdf)<br><br>
+[DOCUMENT CCF_000031 - AUGUST 8TH, 2020](https://support.nysba.org/attachments/token/byr918DAb8DI3kBkB0lwyxeTH/?name=CCF_000031.pdf)<br><br>
 *** FILE M<br>
 [2022.02.23 USPS_DEMAND_LETTER_PROOF_OF_DELIVERY_CONFIRM](https://support.nysba.org/attachments/token/nq18wovfJMwvK4Wk7KL4nfgqi/?name=2022.02.23+USPS_DEMAND_LETTER_PROOF_OF_DELIVERY_CONFIRM.pdf)<br>
+
+*** NEW YORK DEPARTMENT OF FINANCE RECORDS - FOR RETURNS AND SUPPORT USC TITLE 18 VIOLATION OF 18.225, 18.21 FOR ALL CORPORATIONS THEREIN<br>
+[FOR THE PREVIOUS 10-YEARS REPORTS DOUBLE DIGIT RETURNS - FILED WITH THE NY DEPT. OF FINANCE](https://support.nysba.org/attachments/token/GjhI7f9tFdLUwGPhqbSx7K8Ad/?name=NYC+DEPT+OF+FINANCE+-+PUBLIC+RECORD.pdf)<br>
 
 [STATE FARM LIFE INSURANCE COMPANY](https://support.nysba.org/attachments/token/JNeqX20uxvlUxfbayL8icO5St/?name=STATE+FARM+LIFE+INSURANCE+COMPANY.pdf)<br>
 *** KNOWN BY THE COUNSELORS OF SULLIVAN PROPERTIES AND THEIR DIRECTORS AT ALL TIMES<br>
@@ -52,18 +55,16 @@
 [deed - 117 FT_1350000324035 - DEED 2](https://support.nysba.org/attachments/token/ISBnq7MUYGlu1HNTjRb1yOvle/?name=deed+-+117+FT_1350000324035+-+DEED+2.pdf)<br><br>
 *** PLEASE ALSO REFER TO THE TCR 5 DOCKET - ABOVE WITH SEQUENTIAL FILINGS AND CERTIFICATIONS WITH THE SEC<br>
 [SECTION B.11 & B.13 WERE BOTH MISREPRESENTED IN THOSE SEC FILINGS BY CIK FILER 93715)(https://support.nysba.org/attachments/token/3xlELsENqLDfsOZovIDLY9irD/?name=image3.png)<br>
-[image0.png](https://support.nysba.org/attachments/token/AYudhpqVy5YzILECrrdqtYsDy/?name=image0.png)<br>
-[image1.jpeg](https://support.nysba.org/attachments/token/uXmPQ38BhOoS81BORcN189epx/?name=image1.jpeg)<br>
-[image1.jpeg](https://support.nysba.org/attachments/token/M2hlv45SVnHpSrWTNDuNYRmxl/?name=image1.jpeg)<br>
-[image2.png](https://support.nysba.org/attachments/token/mlWG3uUj3n19hbg5MKEXJUFgp/?name=image2.png)<br>
-[image0.png](https://support.nysba.org/attachments/token/mREddukmidsYUmBFy8jnNq4mg/?name=image0.png)<br>
-[image2.jpeg](https://support.nysba.org/attachments/token/uwSPB9MeN0sX9yCIpaJ5LMB5q/?name=image2.jpeg)<br>
-[image3.jpeg](https://support.nysba.org/attachments/token/8rbRQgVwJiGq3SGb6uIEsoGtK/?name=image3.jpeg)<br>
-[image4.jpeg](https://support.nysba.org/attachments/token/bRuZFokaqoqfgjc3xm4nD7Kbl/?name=image4.jpeg)<br>
+[SEE ALSO: BLOCK 2679, LOT 43](https://support.nysba.org/attachments/token/AYudhpqVy5YzILECrrdqtYsDy/?name=image0.png)<br>
+[CASE 400842/2020, KINGS COUNTY -- ZUCKER ENTERPRISES LLC](https://support.nysba.org/attachments/token/uXmPQ38BhOoS81BORcN189epx/?name=image1.jpeg)<br>
+[LZCUKER@MSKYLINE.COM, SGO2107@COLUMBIA.EDU, WMCKENZIE@NYSCEF.COM,LEGAL@MSKYLINE.COM](https://support.nysba.org/attachments/token/M2hlv45SVnHpSrWTNDuNYRmxl/?name=image1.jpeg)<br>
+[117 SULLIVAN STREET, MARKET VALUE: 2016-2021](https://support.nysba.org/attachments/token/mlWG3uUj3n19hbg5MKEXJUFgp/?name=image2.png)<br>
+[OBSTRUCTION OF JUSTICE AND OMISSIONS IN A SEC FILING BY CIK FILER 93715](https://support.nysba.org/attachments/token/mREddukmidsYUmBFy8jnNq4mg/?name=image0.png)<br>
+[NOVEMBER 13, 2021 - NOTICE TO SEC OF OBSTRUCTION OF JUSTICE IN NYSCEF MATTER 153974/2020 - OMISSIONS AIDED AND ABETTED BY COUNSELORS & DIRECTORS OF ZUCKER](https://support.nysba.org/attachments/token/uwSPB9MeN0sX9yCIpaJ5LMB5q/?name=image2.jpeg)<br>
+[NEW YORK STATE MULTIPLE DWELLING LAWS WERE FILED IN NYSCEF 153974/2020 AS WELL](https://support.nysba.org/attachments/token/8rbRQgVwJiGq3SGb6uIEsoGtK/?name=image3.jpeg)<br>
+[LOAN 50074 - "TAX RISKS PRESENT NO INDEMNITY TO STATE FARM LIFE INSURANCE COMPANY"](https://support.nysba.org/attachments/token/bRuZFokaqoqfgjc3xm4nD7Kbl/?name=image4.jpeg)<br>
+[FILED: NEW YORK COUNTY CLERK 08/09/2020 02:17 AM INDEX NO. 153974/2020](https://support.nysba.org/attachments/token/3sei2LBGSgTKiG8Lyeagh7HHa/?name=153974_2020_S__309.pdf)<br>
 
-[DOCKET 309](https://support.nysba.org/attachments/token/3sei2LBGSgTKiG8Lyeagh7HHa/?name=153974_2020_S__309.pdf)<br>
-
-[NEW YORK DEPARTMENT OF FINANCE RECORDS](https://support.nysba.org/attachments/token/GjhI7f9tFdLUwGPhqbSx7K8Ad/?name=NYC+DEPT+OF+FINANCE+-+PUBLIC+RECORD.pdf)<br>
 
 [GROSS NEGLIGENCE TO TAX RELATED MATTERS](https://support.nysba.org/attachments/token/mzP7EuwSKQe8XpUoBxV9faHS3/?name=1.6662-2+Accuracy-related+penalty+--+UNDISLOSED+LOAN+AND+LEGAL+MATTERSS.html)<br>
 
