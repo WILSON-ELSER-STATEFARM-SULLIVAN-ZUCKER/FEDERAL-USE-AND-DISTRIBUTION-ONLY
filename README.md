@@ -10,7 +10,7 @@ deposits were unlawful and moved from HSBC to JP MORGAN as referenced in NYSCEF 
 
 re: video.mov distribution and obstruction of justice.<br>
 under 18 U.S. Code § 1512 - Tampering with a witness, victim, or an informant<br>
-[FILED: NEW YORK COUNTY CLERK 06/05/2020 01:58 PM INDEX NO. 153974/2020](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Dh6CccrtpsxJlvBthb8nEA==)
+[FILED: NEW YORK COUNTY CLERK 06/05/2020 01:58 PM INDEX NO. 153974/2020](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Dh6CccrtpsxJlvBthb8nEA==)<br>
 tel: 510-682-9510<br>
 email: legal@mskyline.com<br>
 email: legalasst@mskyline.com<br>
@@ -20,6 +20,8 @@ email: JGiamboi@mskyline.com<br>
 email: LZucker@mskyline.com<br>
 email: CWeiss@ingramllp.com<br>
 email: administrator@mskyline.com<br>
+email: slaskowitz@ingramllp.com<br>
+tel: 212-907-9600<br>
 
 [CONFIRMED BY ALL PARTICIPANTS IN NYSCEF 153074/2020 ON 07/31/2020](https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=R9aac7D6DBJZ1wsiq0b38A==)
 
@@ -3407,19 +3409,16 @@ GREY AREA
         (e) There is extraterritorial jurisdiction over the conduct prohibited by this section.
 §116. Female genital mutilation
 
-***** YOU'LL HAVE TO ASK THE FBI/NSA TO SEE IF THEY WILL VERIFY THIS *****
+***** YOU'LL HAVE TO ASK THE FBI/NSA TO SEE IF THEY WILL VERIFY THIS *****<br>
 
 
 
- 
-
-– I HOPE YOU UNDERSTAND WHERE THIS ALSO PRESENTS A CONFLICT, AS HE BELIEVES THIS TO BE TRUE.
+– I HOPE YOU UNDERSTAND WHERE THIS ALSO PRESENTS A CONFLICT, AS HE BELIEVES THIS TO BE TRUE.<br>
                                                     1_u.s._v._brian_benjamin_indictment (1).pdf
 
-    NYSCEF MATTER 153974/2020
-    - SHARED ADDRESS WITH THE WILSON ELSER LAW FIRM, BELOW.
-
-    Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600
+NYSCEF MATTER 153974/2020<br>
+- SHARED ADDRESS WITH THE WILSON ELSER LAW FIRM, BELOW.<br>
+Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 212-907-9600<br>
 
     150 East 42nd Street 19th Floor, New York, NY 10017 Filed: 07/21/2020
 
@@ -3435,3 +3434,31 @@ I am terrified, where is he ? Touching himself or making videos with my Glamour 
 
 Thats actually a compound, in the scope of avoidance to prosecution. 
 another internet issue - 39th street and 4th avenue in brooklyn, NY [ see also 1608 EST] TRANSMISSION.
+	
+LOAN 50074: BY STATE FARM LIFE INSURANCE COMPANY, USING THE USC 18.21 PAPER FILED WITH NY DEPT OF FINANCE TO OBTAIN A LOAN FOR $6 MILLION DOLLARS.
+![STATE FARM LIFE INSURANCE COMPANY](https://user-images.githubusercontent.com/108204659/177411515-264da7b1-520a-4b7e-85d7-c6f343a7376c.jpeg)
+
+<br>BIN: 1077252    Block: 503    Lot: 8
+[THERE ARE NO CERTIFICATES OF OCCUPANCY ON FILE FOR THIS ADDRESS](https://a810-bisweb.nyc.gov/bisweb/COsByLocationServlet?requestid=3&allbin=1077252)
+	
+Paul Smith, 2010-Present<br>
+— STATE FARM LIFE INSURANCE COMPANY<br>
+You know exactly who executed those CERTIFICATES and INCOME YEAR AFTER YEAR <br>
+and in the semi annual holdings for the public investors of State Farm. <br><br>
+<br><br>  OBSTRUCTED JUSTICE, AND CAUSED FOR THESE OMISSIONS AND MISLEADING STATEMENTS BY CIK FILER 93715, AND CIK FILER 1516523
+EX-99.CERT July 28, 2021<br><br>
+CERTIFICATION. Pursuant to the Investment Company Act of 1940 (as defined in Rule 30a-3(c) and internal control over financial reporting (as defined in Rule 30a-3(d))<br>
+[EX-99.CERT July 28, 2021](https://www.sec.gov/Archives/edgar/data/0000093715/000119312520200810/d913497dex99cert.htm)<br><br>
+
+CERTIFICATION, Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002<br>
+(Subsections (a) and (b) of Section 1350, Chapter 63 of Title 18 <br>
+[EX-99.906 July 28, 2021](https://www.sec.gov/Archives/edgar/data/0000093715/000119312520200810/d913497dex99906cert.htm)<br>
+
+"... as applicable, of the Securities Exchange Act of 1934...<br>
+"... The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the registrant." <br><br>
+
+/s/ Joe R. Monk Jr.<br>
+/s/ Paul J. Smith<br>
+
+
+
