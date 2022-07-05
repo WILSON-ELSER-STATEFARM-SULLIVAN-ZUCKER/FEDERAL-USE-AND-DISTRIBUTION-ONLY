@@ -35,6 +35,18 @@
 *** FILE M<br>
 [2022.02.23 USPS_DEMAND_LETTER_PROOF_OF_DELIVERY_CONFIRM](https://support.nysba.org/attachments/token/nq18wovfJMwvK4Wk7KL4nfgqi/?name=2022.02.23+USPS_DEMAND_LETTER_PROOF_OF_DELIVERY_CONFIRM.pdf)<br>
 
+[STATE FARM LIFE INSURANCE COMPANY](https://support.nysba.org/attachments/token/JNeqX20uxvlUxfbayL8icO5St/?name=STATE+FARM+LIFE+INSURANCE+COMPANY.pdf)<br>
+*** KNOWN BY THE COUNSELORS OF SULLIVAN PROPERTIES AND THEIR DIRECTORS AT ALL TIMES<br>
+[DOCKET 231 - FILED IN NYSCEF 153974/2020 - NO CERTIFICATE OF OCCUPANCY](https://support.nysba.org/attachments/token/m8RR4kteVdSgzAUsbXjeoDnob/?name=image1.jpeg)<br>
+[NOVEMBER 13, 2021 - FILED](https://support.nysba.org/attachments/token/Aq8vF6zkeCYuYnWePFJkmi5qG/?name=image0.jpeg)<br>
+[NOVEMBER 16, 2021 - DISTRIBUTED TO THE PROMOTERS](https://support.nysba.org/attachments/token/o7O8bBiFfRMTeMeuGluhfIGBf/?name=image2.jpeg)<br>
+*** KNOWN BY THE COUNSELORS OF SULLIVAN PROPERTIES AND THEIR DIRECTORS, NOTWITHSTANDING THOSE IN THE DECEMBER 22, 2021 THREAD<br>
+[HSBC BANK WAS INTENTIONALLY PLACED IN THE DESCRIPTION OF SC-50-FILED](https://support.nysba.org/attachments/token/va080yaYma2dE2KCL3o9IJIrp/?name=SC-50-CIV-2021-12.pdf)<br>
+[DECEMBER 22, 2021](https://support.nysba.org/attachments/token/gk7udZhtzjOxaUuU136DXKD8d/?name=image0.jpeg)<br>
+
+[deed - 117 FT_1350000324035 - DEED 2](https://support.nysba.org/attachments/token/ISBnq7MUYGlu1HNTjRb1yOvle/?name=deed+-+117+FT_1350000324035+-+DEED+2.pdf)<br><br>
+*** PLEASE ALSO REFER TO THE TCR 5 DOCKET - ABOVE WITH SEQUENTIAL FILINGS AND CERTIFICATIONS WITH THE SEC<br>
+[SECTION B.11 & B.13 WERE BOTH MISREPRESENTED IN THOSE SEC FILINGS BY CIK FILER 93715)(https://support.nysba.org/attachments/token/3xlELsENqLDfsOZovIDLY9irD/?name=image3.png)<br>
 [image0.png](https://support.nysba.org/attachments/token/AYudhpqVy5YzILECrrdqtYsDy/?name=image0.png)<br>
 [image1.jpeg](https://support.nysba.org/attachments/token/uXmPQ38BhOoS81BORcN189epx/?name=image1.jpeg)<br>
 [image1.jpeg](https://support.nysba.org/attachments/token/M2hlv45SVnHpSrWTNDuNYRmxl/?name=image1.jpeg)<br>
