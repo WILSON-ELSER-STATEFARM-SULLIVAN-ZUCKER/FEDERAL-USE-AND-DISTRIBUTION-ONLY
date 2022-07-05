@@ -4,7 +4,7 @@
 [COPY OF LEASE](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=QU9OxqmVn_PLUS_HmiA5AacTXsA==)
 
 
-deposits were unlawful and moved from HSBC to JP MORGAN as referened in NYSCEF 153974/2020<br>[DOCKET 166[(https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==)<br>
+deposits were unlawful and moved from HSBC to JP MORGAN as referenced in NYSCEF 153974/2020<br>[DOCKET 166[(https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==)<br>
 
 
 re: video.mov distribution and obstruction of justice.<br>
