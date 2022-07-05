@@ -1,4 +1,6 @@
 #### THIS PAGE IS BEING MONITORED BY SEVERAL DEPARTMENTS AS PART OF A FEDERAL BANK INVESTIGATION.
+[Ref.: El Dorado Task Force](https://www.justice.gov/opa/pr/hsbc-holdings-plc-and-hsbc-bank-usa-na-admit-anti-money-laundering-and-sanctions-violations)
+
 *** I WOULD NOT ADVISE THAT YOU NOT CONTACT GITHUB AND HAVE THIS INFORMATION OBSTRUCTED OR DESTROYED --------<br>
 18 U.S. Code § 1512 - Tampering with a witness, victim, or an informant<br>
 ![image](https://user-images.githubusercontent.com/108204659/177089989-edc8dc77-e0f4-4d92-85f0-d9782ece4035.png)
@@ -6,6 +8,9 @@
 
 ##### WARNING: THESE FILES AUTOMATICALLY DOWNLOAD WHEN YOU CLICK ON THE LINKS ****
 [document index TCR5](https://support.nysba.org/attachments/token/QbsG15WuYgWMsWxvAGkh1glW7/?name=document+index+TCR5.pdf)<br>
+
+[docket 403 - FILED 2020 MAY 15 - CRFN 2020000155422  - 6MM LOAN BY STATE FARM][[00403] 2020 MAY 15 - CRFN 2020000155422  - 6MM LOAN BY STATE FARM.pdf](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/9049060/00403.2020.MAY.15.-.CRFN.2020000155422.-.6MM.LOAN.BY.STATE.FARM.pdf)<br>
+
 
 [NOTARIZED on May 11 2020 --- STATE FARM LIFE INSURANCE COMPANY](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/9048948/Fw.NOTARIZED.on.May.11.2020.STATE.FARM.TRUST.FUND.---.58-58.INDENTUR.HQ.1212-58-58.pdf)<br>
 *** FILE A<br>
