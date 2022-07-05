@@ -1,13 +1,13 @@
-#### THIS PAGE IS BEING MONITORED BY SEVERAL DEPARTMENTS AS PART OF A FEDERAL INVESTIGATION.
-*** I WOULD NOT ADVISE THAT YOU CONTACT GITHUB AND HAVE THIS INFORMATION OBSTRUCTED --------<br>
+#### THIS PAGE IS BEING MONITORED BY SEVERAL DEPARTMENTS AS PART OF A FEDERAL BANK INVESTIGATION.
+*** I WOULD NOT ADVISE THAT YOU NOT CONTACT GITHUB AND HAVE THIS INFORMATION OBSTRUCTED OR DESTROYED --------<br>
 18 U.S. Code § 1512 - Tampering with a witness, victim, or an informant<br>
 ![image](https://user-images.githubusercontent.com/108204659/177089989-edc8dc77-e0f4-4d92-85f0-d9782ece4035.png)
 
 
 ##### WARNING: THESE FILES AUTOMATICALLY DOWNLOAD WHEN YOU CLICK ON THE LINKS ****
+[document index TCR5](https://support.nysba.org/attachments/token/QbsG15WuYgWMsWxvAGkh1glW7/?name=document+index+TCR5.pdf)<br>
 
-[NOTARIZED on May 11 2020 --- STATE FARM LIFE INSURANCE COMPANY](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/9048948/Fw.NOTARIZED.on.May.11.2020.STATE.FARM.TRUST.FUND.---.58-58.INDENTUR.HQ.1212-58-58.pdf)
-
+[NOTARIZED on May 11 2020 --- STATE FARM LIFE INSURANCE COMPANY](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/9048948/Fw.NOTARIZED.on.May.11.2020.STATE.FARM.TRUST.FUND.---.58-58.INDENTUR.HQ.1212-58-58.pdf)<br>
 *** FILE A<br>
 [05-10-2022 - 117 sullivan st - Property and Tax Assessment](https://support.nysba.org/attachments/token/54cKo6I0bcg6Zm3XZCRKEajWx/?name=05-10-2022+-+117+sullivan+street+Property+Assessment+%5B+taxable+%5D.pdf)<br>
 *** FILE B<br>
@@ -34,6 +34,25 @@
 [DOCUMENT CCF_000031 - AUGUST 8TH 2020](https://support.nysba.org/attachments/token/byr918DAb8DI3kBkB0lwyxeTH/?name=CCF_000031.pdf)<br><br>
 *** FILE M<br>
 [2022.02.23 USPS_DEMAND_LETTER_PROOF_OF_DELIVERY_CONFIRM](https://support.nysba.org/attachments/token/nq18wovfJMwvK4Wk7KL4nfgqi/?name=2022.02.23+USPS_DEMAND_LETTER_PROOF_OF_DELIVERY_CONFIRM.pdf)<br>
+
+[image0.png](https://support.nysba.org/attachments/token/AYudhpqVy5YzILECrrdqtYsDy/?name=image0.png)<br>
+[image1.jpeg](https://support.nysba.org/attachments/token/uXmPQ38BhOoS81BORcN189epx/?name=image1.jpeg)<br>
+[image1.jpeg](https://support.nysba.org/attachments/token/M2hlv45SVnHpSrWTNDuNYRmxl/?name=image1.jpeg)<br>
+[image2.png](https://support.nysba.org/attachments/token/mlWG3uUj3n19hbg5MKEXJUFgp/?name=image2.png)<br>
+[image0.png](https://support.nysba.org/attachments/token/mREddukmidsYUmBFy8jnNq4mg/?name=image0.png)<br>
+[image2.jpeg](https://support.nysba.org/attachments/token/uwSPB9MeN0sX9yCIpaJ5LMB5q/?name=image2.jpeg)<br>
+[image3.jpeg](https://support.nysba.org/attachments/token/8rbRQgVwJiGq3SGb6uIEsoGtK/?name=image3.jpeg)<br>
+[image4.jpeg](https://support.nysba.org/attachments/token/bRuZFokaqoqfgjc3xm4nD7Kbl/?name=image4.jpeg)<br>
+
+[DOCKET 309](https://support.nysba.org/attachments/token/3sei2LBGSgTKiG8Lyeagh7HHa/?name=153974_2020_S__309.pdf)<br>
+
+[NEW YORK DEPARTMENT OF FINANCE RECORDS](https://support.nysba.org/attachments/token/GjhI7f9tFdLUwGPhqbSx7K8Ad/?name=NYC+DEPT+OF+FINANCE+-+PUBLIC+RECORD.pdf)<br>
+
+[GROSS NEGLIGENCE TO TAX RELATED MATTERS](https://support.nysba.org/attachments/token/mzP7EuwSKQe8XpUoBxV9faHS3/?name=1.6662-2+Accuracy-related+penalty+--+UNDISLOSED+LOAN+AND+LEGAL+MATTERSS.html)<br>
+
+[VIDEO.MOV FILES - DISTRIBUTED WITHOUT CONSENT](https://support.nysba.org/attachments/token/4AgaBSsvgKeucazIELnO8pDwy/?name=MOV+FILES+DISTRIBUTED+-+LVL+7.html)<br>
+
+[IMAGE XYZ](https://support.nysba.org/attachments/token/MJ5xEG1bkHzqj0rY1zESVUgQb/?name=image0.jpeg)<br>
 
 ---
 LOOK THEY JUST WANT TO ASK TO ASK SOME QUESTIONS.... <br>
