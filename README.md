@@ -4,6 +4,23 @@
 
 [COPY OF LEASE](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=QU9OxqmVn_PLUS_HmiA5AacTXsA==)<br>
 
+*** obtained an unlawful Loan for $6,000,000.00 in NYSCEF 153974/2020 as filed to confirm violations under USC 18.21, 18.225, and USC 18.2, 18.3, 18.4<br>
+*** while <br>=
+IN THE COUNTY OF KINGS.<br>
+     case number:          400842/2020<br>
+Hon. Nancy T. Sunshine, Kings County Clerk <br>
+         and Clerk of the Supreme Court <br>
+https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=HD6/wXvlOxflJUlQyXqedQ==<br>
+
+     case number:          400842/2020<br>
+     Filed:                        09/23/2020<br>
+     *** KINGS COUNTY *** <br>
+
+Zucker Enterprises LLC <br>
+             - v. - <br>
+THE TAX COMMISSION OF THE CITY OF NEW YORK, AND <br><br>
+THE COMMISSIONER OF FINANCE OF THE CITY OF NEW YORK
+<br>
 
 deposits were unlawful and moved from HSBC to JP MORGAN as referenced in NYSCEF 153974/2020<br>[DOCKET 166[(https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==)<br>
 
