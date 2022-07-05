@@ -4,6 +4,38 @@
 ![image](https://user-images.githubusercontent.com/108204659/177089989-edc8dc77-e0f4-4d92-85f0-d9782ece4035.png)
 
 
+##### WARNING: THESE FILES AUTOMATICALLY DOWNLOAD WHEN YOU CLICK ON THE LINKS ****
+
+[NOTARIZED on May 11 2020 --- STATE FARM LIFE INSURANCE COMPANY](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/9048948/Fw.NOTARIZED.on.May.11.2020.STATE.FARM.TRUST.FUND.---.58-58.INDENTUR.HQ.1212-58-58.pdf)
+
+*** FILE A<br>
+[05-10-2022 - 117 sullivan st - Property and Tax Assessment](https://support.nysba.org/attachments/token/54cKo6I0bcg6Zm3XZCRKEajWx/?name=05-10-2022+-+117+sullivan+street+Property+Assessment+%5B+taxable+%5D.pdf)<br>
+*** FILE B<br>
+[1.6662-2 Accuracy-related penalty- UNDISLOSED LOAN and LEGAL MATTERS](https://support.nysba.org/attachments/token/mzP7EuwSKQe8XpUoBxV9faHS3/?name=1.6662-2+Accuracy-related+penalty+--+UNDISLOSED+LOAN+AND+LEGAL+MATTERSS.html)<br>
+*** FILE C<br>
+[document index TCR5](https://support.nysba.org/attachments/token/QbsG15WuYgWMsWxvAGkh1glW7/?name=document+index+TCR5.pdf)<br>
+*** FILE D<br>
+[Vacancy-Receipts](https://support.nysba.org/attachments/token/aTk5HhjOqD2LtxfEflB08djVk/?name=Vacancy-Receipts.pdf)<br>
+*** FILE E<br>
+[20MM over 10YRS - Gross negligence - FED30](https://support.nysba.org/attachments/token/8ZFY4EZW6nxemJZIs4tjaiFEP/?name=20MM+over+10YRS.pdf)<br>
+*** FILE F<br>
+[FraudInvocation-Receipts](https://support.nysba.org/attachments/token/unEAUOR5vBsdF9oo30QxFo0sR/?name=FraudInvocation-Receipt.pdf)<br>
+*** FILE G<br>
+[NOTICE TO SECURITIES AND EXCHANGE - NOVEMBER 13TH 2021](https://support.nysba.org/attachments/token/sWoZTvp3jCzQBDpiHj8pRGrhV/?name=NOTICE+TO+SECURITIES+AND+EXCHANGE+-+NOVEMBER+13TH+2021.png)<br>
+*** FILE H<br>
+[MOV FILES DISTRIBUTED - LVL 8](https://support.nysba.org/attachments/token/giXwD6OAvfSWDEcZAlsvDynLg/?name=MOV+FILES+DISTRIBUTED+-+LVL+8.html)<br>
+*** FILE I<br>
+[NOTICE TO AUDITORS - ELECTRONIC read receipts](https://support.nysba.org/attachments/token/FIcMKoTxCbgd6qF7QbC7WF4CN/?name=NOTICE+TO+AUDITORS+-+ELECTRONICALLY+DISTRIBUTED..html)<br>
+*** FILE J<br>
+[111 REAR SULLIVAN ST - CERTIFICATE OF OCCUPANCY - BIN CODE 1077252](https://support.nysba.org/attachments/token/8o9gRnWwvw6J4bW5mRgkEiEtq/?name=1645673230096blob.jpg)<br>
+*** FILE K<br>
+[111 REAR SULLIVAN STREET - NO C of O - BIN CODE 1077252](https://p19.zdusercontent.com/attachment/2434074/8o9gRnWwvw6J4bW5mRgkEiEtq?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..0p1xbbqUdu2AmX3BNS2E5Q.dBojSZIl27-IvjHLY1jd6Ica5uOMITZTTtanb7qqJEp3iE82saU7b4L5NDAGrFZUVB73oLsfcZV2PTChVIUlvWjgKVmzn65nYqxxO82HB1HfVXA8fQLiSXDu9lMHuhhYE7xLneZPKFbB7mc08l0iDNybPwlqONj-ZawqePx3feuEEDNyjoUpBeq6GKdzUG_-Bqk5R8rphdtbY4SUPLquTxejFAXx3cbkVp1Bjb9A0jhzapV_UN2wrDkVvjA3J6KXwsQkqV6QKLhgRLwXd2y0XOiFEZ2XtRDBFTOmmM7iRLQ.e5fmGdFyGLOUE0ZiV22p3w)<br>
+*** FILE L<br>
+[DOCUMENT CCF_000031 - AUGUST 8TH 2020](https://support.nysba.org/attachments/token/byr918DAb8DI3kBkB0lwyxeTH/?name=CCF_000031.pdf)<br><br>
+*** FILE M<br>
+[2022.02.23 USPS_DEMAND_LETTER_PROOF_OF_DELIVERY_CONFIRM](https://support.nysba.org/attachments/token/nq18wovfJMwvK4Wk7KL4nfgqi/?name=2022.02.23+USPS_DEMAND_LETTER_PROOF_OF_DELIVERY_CONFIRM.pdf)<br>
+
+---
 LOOK THEY JUST WANT TO ASK TO ASK SOME QUESTIONS.... <br>
 HERES CAUSE FOR THE DELAY - THEY ARE CLEANING OUT THEIR CLOSETS.<br>
 Were and are aware of their breach of USC 18.2, 18.3, 18.21, 18.215, etc..<br>
@@ -82,7 +114,7 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX
 https://saaze2311prdsra.blob.core.windows.net/clean/f6d60b925fd3ec11a7b5002248286386/8209-$BROOKS--4776256-6109023[FILED].pdf<br>
 
 
-Despite the breach USC code 18.2, 18.3, 18.4, 18.21, 18.215, 18.225 - do the counselors of Sullivan Properties also get charged concurrent sentences like the counselors of Bernie Madoff? How do I go about insuring those assets of mine which have NOT been returned as of current? I will not pursue the FDIC for my money, however other may, as they have reported both vacancies and a growth +/- while considering the 10 years prior did represent YoY changes which do not represent a natural NNN-Lease, as those would be linear. About MY deposit: My Deposit is being held at a bank that is, per FDIC guidelines, holding unlawful assets in custody
+Despite the breach[Fw NOTARIZED on May 11 2020. STATE FARM TRUST FUND --- 58-58 INDENTUR HQ 1212-58-58.pdf](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/9048944/Fw.NOTARIZED.on.May.11.2020.STATE.FARM.TRUST.FUND.---.58-58.INDENTUR.HQ.1212-58-58.pdf)like the counselors of Bernie Madoff? How do I go about insuring those assets of mine which have NOT been returned as of current? I will not pursue the FDIC for my money, however other may, as they have reported both vacancies and a growth +/- while considering the 10 years prior did represent YoY changes which do not represent a natural NNN-Lease, as those would be linear. About MY deposit: My Deposit is being held at a bank that is, per FDIC guidelines, holding unlawful assets in custody
 
 
 - as none of the properties in LOAN 50074 to State Farm Bank, FSB<br>
