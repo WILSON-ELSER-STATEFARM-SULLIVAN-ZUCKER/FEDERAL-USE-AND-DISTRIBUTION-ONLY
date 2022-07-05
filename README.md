@@ -1,6 +1,27 @@
 #### THIS PAGE IS BEING MONITORED BY SEVERAL DEPARTMENTS AS PART OF A FEDERAL BANK INVESTIGATION.
 [Ref.: El Dorado Task Force](https://www.justice.gov/opa/pr/hsbc-holdings-plc-and-hsbc-bank-usa-na-admit-anti-money-laundering-and-sanctions-violations)
 
+[COPY OF LEASE](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=QU9OxqmVn_PLUS_HmiA5AacTXsA==)
+
+
+deposits were unlawful and moved from HSBC to JP MORGAN as referened in NYSCEF 153974/2020<br>[DOCKET 166[(https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==)<br>
+
+
+re: video.mov distribution and obstruction of justice.<br>
+under 18 U.S. Code § 1512 - Tampering with a witness, victim, or an informant<br>
+[FILED: NEW YORK COUNTY CLERK 06/05/2020 01:58 PM INDEX NO. 153974/2020](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Dh6CccrtpsxJlvBthb8nEA==)
+tel: 510-682-9510<br>
+email: legal@mskyline.com<br>
+email: legalasst@mskyline.com<br>
+email: ajbrandon@gmail.com<br>
+email: smelton@mskyline.com<br>
+email: JGiamboi@mskyline.com<br>
+email: LZucker@mskyline.com<br>
+email: CWeiss@ingramllp.com<br>
+email: administrator@mskyline.com<br>
+
+[CONFIRMED BY ALL PARTICIPANTS IN NYSCEF 153074/2020 ON 07/31/2020](https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=R9aac7D6DBJZ1wsiq0b38A==)
+
 *** I WOULD NOT ADVISE THAT YOU NOT CONTACT GITHUB AND HAVE THIS INFORMATION OBSTRUCTED OR DESTROYED --------<br>
 18 U.S. Code § 1512 - Tampering with a witness, victim, or an informant<br>
 ![image](https://user-images.githubusercontent.com/108204659/177089989-edc8dc77-e0f4-4d92-85f0-d9782ece4035.png)
