@@ -327,232 +327,126 @@ Christmas came early for some, but if they sold it in the quarter prior while th
 Like as in, the Jury— I met Johnny, a loooooooomg time ago, and just enough time , as implied.
 
 
-CONFIRMED.
-
-https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=ZOCFS3HH2UeHQe8j2tXJoQ==
-
-
-Were and are aware of their breach of USC 18.2, 18.3, 18.21, 18.215, etc..
-
-in their pleadings in the matter of NYSCEF 153974/2020 , represented by Wilson Elser & Ingram LLP. 
-
-
-I.     THEY MONITORED MY LAPTOP FROM OUTSIDE OF MY APARTMENT.
-
-
-- ON A 24 HOUR BASIS, RECORDED MY EVERY STEP AND MOTION.
-
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=c3iexOlBwsgc1lnMJ2_PLUS_AqQ==
-
-
-        
-
---- ASHLEY HUMPHRIES, OF WILSON , ELSER & DICKER.
-
-
-" ... PLEASE CHECK THE SECURITY TAPES ... "
-
-At will, didn’t know a JD came with that privilege without a court order or consent. 
-
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HbnFLHB3tyjhEWAYb6mOPw==
-
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YvkihzM1cwANtAvbUwWX_PLUS_g==
-
-
-II.     VIDEOTAPED ME "INSIDE OF MY APARTMENT".
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1BkpTQ==
-
-III.     DISTRIBUTED VIDEOS OF MYSELF IN MY APARTMENT -- THE INTERIOR.
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YGRsoOyDJuc93MrOnwh5Jw==
-
-
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=84wdx4RhX5LEi0sISXetBw==
-
-
-
-IV.     ATTACHED VIDEO OF MYSELF DRILLING INSIDE OF MY APARTMENT.
-
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5uMb/ORklCen4NaSEt6oFg==
-
-
-
-V.     ATTACHED VIDEO OF MYSELF HAMMERING INSIDE OF MY APARTMENT.
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ==
-
-
-
-VI.     THEY ALSO ANNEX MY RECEIPT TO HELP BUY THEMSELVES MORE TIME AND TO DISTRACT
-
-THE JUDGE, CLERK AND INSTEAD OF DEALING WITH THEIR TAX-EVASIONS AND ILLEGAL CONDUCT. HTF DID THEY EVEN GET AN IMAGE OF MY RECEIPT?
-
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Uavl5NRQV4YHKqWUf8fyVQ==
-
-
-
-VII.     ALSO WILL SWEAR THAT THEY HAVE NO INVOLVEMENT, IN ANYTHING...
-
-    - HAVE ALSO MONITORED ME FROM THE CORRIDOR, AND THROUGH MY DOOR.
-
-    - BY ALL OF THE ATTORNEYS, COUNSELORS, AND STAFF OF SULLIVAN PROPERTIES, LP.
-
-
-
-VIII.     HAVE ALSO ANNEXED AND SWORE UNDER OATH THEY SAW ME
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PWFQc/WFihoyIKwEunaalQ==
-
-
-
-            
-
-"... BANGING ON A RADIATOR ... "
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oz2nfEu9a94Y3U5/kpIt5g==
-
-
-
-IX.     ALSO HAVE ANNEXED THEY "HOSTED" MY VIDEOS ON THE INTERNET --
-
-                    
-
--- USING ONE OF THEIR OWN TENANTS AS THE VIDEOGRAPHER.
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PWFQc/WFihoyIKwEunaalQ==
-
-
-
-
-            
-
-TRANSFERRED THE LEASES AND RENTS TO STATE FARM.
-
- - HERE ARE SOME OF THE PROVISIONS FOR AIDING AND ABETTING TAX EVASION. BY WAY OF OBSTRUCTION, OMISSIONS, AND UNFAIR DEALINGS.
-
-
-- COSTED THE INVESTORS OF STATE FARM THE GREATER OF 1.5 BILLION DOLLARS AND ALSO ONE INVESTMENT ADVISER: 
-
-
-- FILER 93715 - AFTER 27 YEARS RANDOMLY DECIDED TO " CEASE TO EXIST "
-
-
-RE: 153974 - VIOLATION OF PRIVACY...
-
-/S/ BO DINCER
-
-TEL. 646-256-3609
-
-TEL. 917-378-3467
-
-BDINCER66@ICLOUD.COM
-
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
-
-
-    
-
-https://saaze2311prdsra.blob.core.windows.net/clean/f6d60b925fd3ec11a7b5002248286386/8209-$BROOKS--4776256-6109023[FILED].pdf
-
-
-
+CONFIRMED.<br>
+are aware of their breach of USC 18.2, 18.3, 18.21, 18.215,  18.225, AS FILED WITH THE SEC.<br>
+https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=ZOCFS3HH2UeHQe8j2tXJoQ==<br>
+
+
+
+in their pleadings in the matter of NYSCEF 153974/2020 , represented by Wilson, Elser & Ingram LLP.<br>
+### I.     THEY MONITORED MY LAPTOP FROM OUTSIDE OF MY APARTMENT.<br>
+- ON A 24 HOUR BASIS, RECORDED MY EVERY STEP AND MOTION.<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=c3iexOlBwsgc1lnMJ2_PLUS_AqQ==<br>
+--- ASHLEY HUMPHRIES, OF WILSON , ELSER & DICKER.<br>
+#### " ... PLEASE CHECK THE SECURITY TAPES ... "<br>
+
+At will, didn’t know a JD came with that privilege without a court order or consent. <br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HbnFLHB3tyjhEWAYb6mOPw==<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YvkihzM1cwANtAvbUwWX_PLUS_g==<br><br>
+### II.     VIDEOTAPED ME "INSIDE OF MY APARTMENT".<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1BkpTQ==<br>
+### III.     DISTRIBUTED VIDEOS OF MYSELF IN MY APARTMENT -- THE INTERIOR.
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YGRsoOyDJuc93MrOnwh5Jw==<br>
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=84wdx4RhX5LEi0sISXetBw==<br>
+
+### IV.     ATTACHED VIDEO OF MYSELF DRILLING INSIDE OF MY APARTMENT.
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5uMb/ORklCen4NaSEt6oFg==<br>
+
+### V.     ATTACHED VIDEO OF MYSELF HAMMERING INSIDE OF MY APARTMENT.
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ==<br>
+
+### VI.     THEY ALSO ANNEX MY RECEIPT TO HELP BUY THEMSELVES MORE TIME AND TO DISTRACT
+THE JUDGE, CLERK AND INSTEAD OF DEALING WITH THEIR TAX-EVASIONS AND ILLEGAL CONDUCT. <br>
+HOW EXACTLY DID THEY EVEN GET AN IMAGE OF MY RECEIPT?<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Uavl5NRQV4YHKqWUf8fyVQ==<br>
+### VII.     ALSO WILL SWEAR THAT THEY HAVE NO INVOLVEMENT, IN ANYTHING...<br>
+- HAVE ALSO MONITORED ME FROM THE CORRIDOR, AND THROUGH MY DOOR.<br>
+- BY ALL OF THE ATTORNEYS, COUNSELORS, AND STAFF OF SULLIVAN PROPERTIES, LP.<br>
+### VIII.     HAVE ALSO ANNEXED AND SWORE UNDER OATH THEY SAW ME
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PWFQc/WFihoyIKwEunaalQ==<br>
+#### "... BANGING ON A RADIATOR ... "
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oz2nfEu9a94Y3U5/kpIt5g==<br>
+### IX.     ALSO HAVE ANNEXED THEY "HOSTED" MY VIDEOS ON THE INTERNET --
+-- USING ONE OF THEIR OWN TENANTS AS THE VIDEOGRAPHER.<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PWFQc/WFihoyIKwEunaalQ==<br>
+
+### TRANSFERRED THE LEASES AND RENTS TO STATE FARM.
+- HERE ARE SOME OF THE PROVISIONS FOR AIDING AND ABETTING TAX EVASION. BY WAY OF OBSTRUCTION, OMISSIONS, AND UNFAIR DEALINGS.<br>
+- COSTED THE INVESTORS OF STATE FARM THE GREATER OF 1.5 BILLION DOLLARS AND ALSO ONE INVESTMENT ADVISER: <br>
+- FILER 93715 - AFTER 27 YEARS RANDOMLY DECIDED TO " CEASE TO EXIST "<br>
+RE: 153974 - VIOLATION OF PRIVACY...<br>
+/S/ BO DINCER<br>
+TEL. 646-256-3609<br>
+TEL. 917-378-3467<br>
+BDINCER66@ICLOUD.COM<br><br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==<br><br>
+https://saaze2311prdsra.blob.core.windows.net/clean/f6d60b925fd3ec11a7b5002248286386/8209-$BROOKS--4776256-6109023[FILED].pdf<br>
+<br>
 
 Despite the breach USC code 18.2, 18.3, 18.4, 18.21, 18.215, 18.225 - do the counselors of Sullivan Properties also get charged concurrent sentences like the counselors of Bernie Madoff? How do I go about insuring those assets of mine which have NOT been returned as of current? I will not pursue the FDIC for my money, however other may, as they have reported both vacancies and a growth +/- while considering the 10 years prior did represent YoY changes which do not represent a natural NNN-Lease, as those would be linear. About MY deposit: My Deposit is being held at a bank that is, per FDIC guidelines, holding unlawful assets in custody
 
 
-- as none of the properties in LOAN 50074 to State Farm Bank, FSB
+- as none of the properties in LOAN 50074 to State Farm Bank, FSB<br>
 
 
- have a certificate of occupancy.
+ have a certificate of occupancy.<br>
 
 
- Hence, my concern is not only what happens to my rent and security deposit being held on deposit illegally at JP Morgan Chase Bank, but how many other Loans does State Farm have that are undisclosed, notwithstanding the legal matter 
+ Hence, my concern is not only what happens to my rent and security deposit being held on deposit illegally at JP Morgan Chase Bank, but how many other Loans does State Farm have that are undisclosed, notwithstanding the legal matter <br>
 
 
-of NYSCEF 153974_2020.
+of NYSCEF 153974_2020.<br>
+--- SECURITY DEPOSIT(S) ARE HELD IN CUSTODY <br>
+AT JP MORGAN CHASE BANK, N/A<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==<br>
 
+SULLIVAN PROPERTIES LP 101 WEST 55TH STREET, NEW YORK NY 10019 DOES NOT HAVE A CERTIFICATE OF OCCUPANCY 111 SULLIVAN STREET, 113 SULLIVAN STREET OR 115 SULLIVAN STREET (REAR)<br>https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==<br>
 
- --- SECURITY DEPOSIT(S) ARE HELD IN CUSTODY 
+THERE WERE NO CERTIFICATES OF OCCUPANCY ON FILE FOR MY APARTMENT. 111 REAR SULLIVAN STREET NEW YORK NY 10012 AT ANY POINT IN TIME<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IJ47OvVzsLObNsXt0u8trg==<br>
 
+2020-08-04 111 SULLIVAN STREET [ REAR ]<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zXega0sLahw5fVuBTVtpnw==<br>
 
-AT JP MORGAN CHASE BANK, N/A
+111 REAR SULLIVAN STREET LEGAL ADULT USE: NO<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9zQd7Hu3cy9vp6I960WGNQ==<br>
 
-  
-
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==
-
-SULLIVAN PROPERTIES LP 101 WEST 55TH STREET, NEW YORK NY 10019 DOES NOT HAVE A CERTIFICATE OF OCCUPANCY 111 SULLIVAN STREET, 113 SULLIVAN STREET OR 115 SULLIVAN STREET (REAR) https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==
-
-THERE WERE NO CERTIFICATES OF OCCUPANCY ON FILE FOR MY APARTMENT. 111 REAR SULLIVAN STREET NEW YORK NY 10012 AT ANY POINT IN TIME. https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IJ47OvVzsLObNsXt0u8trg==
-
-2020-08-04 111 SULLIVAN STREET [ REAR ] https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zXega0sLahw5fVuBTVtpnw==
-
-111 REAR SULLIVAN STREET LEGAL ADULT USE: NO https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9zQd7Hu3cy9vp6I960WGNQ==
-
-Additionally… RENT PAYMENTS 2020_07_25 -HAVE NOT BEEN REFUNDED AS OF CURRENT. NOTWITHSTANDING MY DEMANDS, A DEFAULT or " NON-JOINDER " IN THE MATTER OF 153974/2020
-
-
- MY SECURITY DEPOSIT ALSO WAS NOT RETURNED AND THE GREATER AMOUNTS OF RENTS AND SECURITY ARE 
-
-"presented to State Farm" as lawful RENT PAYMENT(S) 
-
-
-HELD IN CUSTODY AT JP MORGAN CHASE, N/A 
-
-
-and the YoY return on all six properties is conveniently double-digits THE INITIAL FINANCING / MORTGAGE TO PURCHASE THE PROPERTIES IN QUESTION WERE FROM JP MORGAN CHASE IN 1989. Continuing Financial Crimes 18.225? 18.215 is filed as payments received by the directors of  State Farm.
-
-TCR5 Index Attached. 
-
-
-USC 18.215 and 18.225 VIOLATED.
-
-Loan 50074 EST ++ 
-
-
- https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=FT_1000000324600
-
-
+Additionally… RENT PAYMENTS 2020_07_25 -HAVE NOT BEEN REFUNDED AS OF CURRENT.<br>
+NOTWITHSTANDING MY DEMANDS, A DEFAULT or " NON-JOINDER " IN THE MATTER OF 153974/2020<br>
+MY SECURITY DEPOSIT ALSO WAS NOT RETURNED AND THE GREATER AMOUNTS OF RENTS AND SECURITY ARE<br>
+"presented to State Farm" as lawful RENT PAYMENT(S) <br>
+- HELD IN CUSTODY AT JP MORGAN CHASE, N/A <br><br><br>
+and the YoY return on all six properties is conveniently double-digits THE INITIAL FINANCING / MORTGAGE TO PURCHASE THE PROPERTIES IN QUESTION WERE FROM JP MORGAN CHASE IN 1989. 
+	
+<br> Continuing Financial Crimes 18.225
+<br> 18.215 is filed as payments received by the directors of State Farm.
+<br> TCR5 Index Attached. 
+<br> USC 18.215 and 18.225 VIOLATED.
+<br>Loan 50074 EST ++ 
+https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=FT_1000000324600
+<br>
 https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=FT_1350000324035
-
-
+<br>
 https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1350000324035
-
-
+<br>
 THE LOAN DOCKETS AND TAX RECEIPTS WERE ANNEXED IN THE MATTER OF 153974/2020. —-THE ACCOUNT ADDRESS:
-
-
- FOR THE ENTITIES BELOW IS, to the best of my knowledge..
-
-
- 101 WEST 55TH STREET, NEW YORK, NY, 10019 
-
+FOR THE ENTITIES BELOW IS, to the best of my knowledge..
+<br>
+101 WEST 55TH STREET, NEW YORK, NY, 10019 
+<br>
 OR 
-
+<br>
 103 WEST 55TH STREET, NEW YORK, NY, 10019
-
-
- UNDER THE CORPORATE NAMES, OR INDIVIDUALS
-
-
- [ DONALD ZUCKER, LAURIE ZUCKER, ANDRES REYNOSO, OR ONE OF THEIR OTHER DIRECTORS UNDER THESE ENTITIES ] 
-
-
-SULLIVAN PROPERTIES LP
-
- SULLIVAN GP LLC 
-
-   MANHATTAN SKYLINE MANAGEMENT CORP.
-
- https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Mjxo9_PLUS_FdCN/p2Jrgw4MkIQ==
+<br>
+UNDER THE CORPORATE NAMES, OR INDIVIDUALS
+<br>
+[ DONALD ZUCKER, LAURIE ZUCKER, ANDRES REYNOSO, OR ONE OF THEIR OTHER DIRECTORS UNDER THESE ENTITIES ] 
+<br>SULLIVAN PROPERTIES LP
+<br>SULLIVAN GP LLC 
+<br>MANHATTAN SKYLINE MANAGEMENT CORP.
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Mjxo9_PLUS_FdCN/p2Jrgw4MkIQ==
 
 
 PER THE NEW YORK SUPREME COURT DOCKETS • CUSTODY OF THOSE ASSETS ARE HELD AT: JP MORGAN CHASE, N/A PER the FDIC are unlawful for custody at any US depository institution, assuming they custody all those imaginary rents at the same bank? https://saaze2311prdsra.blob.core.windows.net/clean/732fabe9acd7ec11a7b50022483079c1/2020-08-09-67PP-50074.png
