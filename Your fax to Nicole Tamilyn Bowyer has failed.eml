@@ -1,0 +1,89 @@
+From - Sat May 28 17:28:00 2022
+X-Account-Key: account1
+X-UIDL: AHjDL8h+msmJYpKgEwWGEOIu7Sk
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.31.94
+ by atlas123.free.mail.gq1.yahoo.com with HTTPS; Sat, 28 May 2022 22:20:02 +0000
+Return-Path: <support@faxzero.com>
+X-Originating-Ip: [67.227.156.183]
+Received-SPF: pass (domain of faxzero.com designates 67.227.156.183 as permitted sender)
+Authentication-Results: atlas123.free.mail.gq1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=faxzero.com;
+ dmarc=unknown header.from=faxzero.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 28 May 2022 22:20:03 +0000
+X-YMailAVSC: Mw2Vii83bBvTNC.ES33LOYP1HePvAVzvfajbgQ96JJ8q64O
+ UqVZ.LFLbwXUQo.1Mew98CiUBGRIDQI9C43ZoaP1ID2cvF8uN1d2wNT5wQ4M
+ 888gmmgVxLWlVmSkO75aexLT9CIXcx4RzZb._aZNrjvirn.wzlcjaXVGlCUv
+ 9Xs3sa26P6VTTkvW3Oc6u9qb07lmx_2Ks_CD8vyr5P_tcBrmVEeOyHV3pi70
+ UvT6DPsCDJeDNDzDJAe6YwgMJ
+X-YMailISG: TrV1m.8WLDuRQd3tJ0pBdL4EH7S6V6xF2HVaQwayc_kmRb2g
+ lkUyXbDIWW4xIzh8WZ8wivFpDEnjsGrPXWN6F8yYlK7i24_x9FpW2gu7q4bm
+ 6v29.8xLOF9xBDAVm2Po.qJtiQT6xT.gsqdsn2L3e3rYpTPp_.lwQ4QPmRIc
+ qD5qOsnd.EtS4zi63vGDcmjw5Mt4JvhRJ02ZD1p1UXnNp4Gq0ddGNMxcBjmi
+ 20t.XkZGLY8j6s4RLJj8QU0k_sV7Xh.LyrQM6sA1zPXjSEJV_zckwIUMhVxN
+ Nw6pOi6JC7vMol4Vu1xUsvyi_tcibXT0WT.wyw8ajZJFBB3EvHazHc2eS2p_
+ 9aElvoEI_5UZaSxBO0_m3qSTtb0lWZueEz6CBc50wpO.i54EJn_onl6VRUZA
+ bJtUo6KoGsXby1JMo5SCB2YpcavR.JLkwRBEbztyO8CAkrIyp0w5av3Jq_et
+ B.vQFV0kO1eVsv58ithYPOuBJv7dU7_jz76UsFkaehY8Vb0K_kQ9DySUMPx4
+ aq0_6VteXBGnNzSXB2WOnUNbhaO71pEPWlX6H5ZA.7LCW8I5Cg0hQtqfXA..
+ FwzUR2SUeTfRjHaUlYWMou6gnMtbId.jKo5kTlM87u4CQ0PzKr1zBqcOZDi7
+ OTOjhBb..Xrg4h5KH7o2qBOdKn7FyCijBK4Xcf36eR.bJyhCnTWYyR_vIOlE
+ Nev8FYoE1nF9aheFKvSOOZAH1AHA29jJevwRJa67DHq2bUq5e5pDtLf4hxXV
+ qpVPPfNfAembmBeW7Yeeuk0Bqp54GeTd.oeuq.H8JRZz5pJkaY.x2iYGK_Vx
+ zl3ebvbyiSB0R2aEUJVOSJzdHGDAzh.kLPMdqsHZi2IXYBUa9L_pqfGPFuuq
+ rED42v8tJQdWdgFQc5Au12Eq7y9OM5Agi3DcR1ZmHvvtSzXWr8yzuSMenSIw
+ ZiX8N0xyNiPJtrkQJObT9LnHxgre5ODTtEyHn6gU7JMgy5dXBLb.wW2ytKGo
+ ao9YEEU1HrSz5EKmOCiEiXNDi2Lub71B5f3nu8ONm5XIcqcCcz01A0xdSo1l
+ pOIvVkUWVg_cfmzjoIvVju0NmCKnVNJq3A--
+Received: from 67.227.156.183 (EHLO hostess.faxzero.com)
+ by 10.253.31.94 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 28 May 2022 22:20:02 +0000
+Received: from faxzero by hostess.faxzero.com with local (Exim 4.95)
+	(envelope-from <support@faxzero.com>)
+	id 1nv4mw-0001ss-GC
+	for MS60710444266@YAHOO.COM;
+	Sat, 28 May 2022 18:20:02 -0400
+To: BARIS DINCER <MS60710444266@YAHOO.COM>
+Subject: Your fax to Nicole Tamilyn Bowyer has failed
+X-PHP-Originating-Script: 1001:status_check_inc.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: FaxZero.com<support@faxzero.com>
+X-IADB-IP: 67.227.156.183
+X-IADB-IP-REVERSE: faxzero.com
+X-IADB-URL: http://www.isipp.com/iadb.php
+Message-Id: <E1nv4mw-0001ss-GC@hostess.faxzero.com>
+Date: Sat, 28 May 2022 18:20:02 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - hostess.faxzero.com
+X-AntiAbuse: Original Domain - yahoo.com
+X-AntiAbuse: Originator/Caller UID/GID - [1001 1001] / [47 12]
+X-AntiAbuse: Sender Address Domain - faxzero.com
+X-Get-Message-Sender-Via: hostess.faxzero.com: authenticated_id: faxzero/from_h
+X-Authenticated-Sender: hostess.faxzero.com: support@faxzero.com
+Content-Length: 716
+
+<br />
+Dear BARIS DINCER,<br />
+<br />
+Your fax to Nicole Tamilyn Bowyer at 5048404941 has failed because the receiver's phone was busy 3 times in a row.<br />
+Thank you,<br />
+FaxZero.com<br />
+<br />
+P.S. Check out https://www.FreePrintable.net: printable business cards,<br />
+certificates, timesheets, calendars, coloring pages, and more.<br />
+<br />
+<br />
+------------------------------------------------------------------------<br />
+   If you want to RECEIVE faxes or send lots of pages<br />
+   each month, try our friends at mFax. Just $10 a month.<br />
+   http://faxzero.com/go/mFax<br />
+------------------------------------------------------------------------<br />
+<br />
+(id#31178204)<br />
+<br />
+

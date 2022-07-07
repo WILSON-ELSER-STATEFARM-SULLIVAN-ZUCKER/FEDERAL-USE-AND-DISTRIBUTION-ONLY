@@ -1,0 +1,88 @@
+From - Sat May 28 16:50:38 2022
+X-Account-Key: account1
+X-UIDL: AEUXNmUZhRh5YpKZGAYx8IRsFbc
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.232.218
+ by atlas214.free.mail.gq1.yahoo.com with HTTPS; Sat, 28 May 2022 21:50:28 +0000
+Return-Path: <support@faxzero.com>
+X-Originating-Ip: [67.227.156.183]
+Received-SPF: pass (domain of faxzero.com designates 67.227.156.183 as permitted sender)
+Authentication-Results: atlas214.free.mail.gq1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=faxzero.com;
+ dmarc=unknown header.from=faxzero.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 28 May 2022 21:50:28 +0000
+X-YMailAVSC: XAwyhu43bBud1FanfZFNVksj4OV0UWthCFQVu29xu9KeVw7
+ sI4UrXQxj_x1dRpMY46BUNKzvNxBV1ucwQQPPWuFQRJOIpP8T79gASdfs9CQ
+ i0URIxCukLKu3sRgpCD_1HtX6vFb03S7FrsljbTZKkBPlWP1Vi_6DAcS7Gyl
+ Uhwcs8_e6ohTwY.Md1ZbYPHRkG_uHnEfCkjL2WXmuVoR1.5QBmQDyWtcRtjl
+ sf5ST4XRjzSK_IO_sIeeoBI8fsy0Xur.r8PjIiPNtyhhbxR9clpMamHb5UEA
+ -
+X-YMailISG: J0iCDRMWLDtyW5fITsXm7LlQXjoToOJ.oIGs0icKU1azzVV4
+ vHyWL5LmqXy_Uy4q5c9GFj5dj5dhsVBrJGvjAopLolRRKv2ebfKB4l9Y7ZHZ
+ LtAFYU2IR.bBsPV0haOYLrjYOf6QapJcXbQci9tdjbmKEe4J8B_yMvP4ulNA
+ he1RCZbIKbalm5jh9qH_vn7C_U3UzgbB8U1fR7HpBoOOQyOQYjaBm_mz3dGj
+ F5ved8plJnzQG2gNbd97i0bhav2AjwtyL8SvisGrss0mI4XS_xKS6IiwGa5d
+ YxBQwv7hVxQZgKynotRJKh_hNmNwQZ4vsvJ_8KFRi88P4cOIMhH7pdwn0Gad
+ ICcq1NsaASY3OiSiwRcPl0fzLUVD8goSo0BW1NsUQMqrn83mK8xGLwaRjFlu
+ mqGH.5V4Og76EZ48sYC_4ELBAxfT8Nlwe0IRRggOi.yEPhzrybYzZuLAoJzm
+ _G65szrrTHPFDdEoeTpTZEbc7IMMLlW_42f8vfvsUvKmAtps1HdVgqe7JVnb
+ A7JqvloyC7Fz9K1fvnW9TBaFlXOebRSyEjuWf3uYfPGSaZxAeB.pr16ynZW1
+ XCYuG0XOuYm1Gr4jo.k6W_eAoxbaQJsV666oe9I_wvYzsjorKPc9nxl4ilzq
+ a9JNvPssL2cCWQIOy.geABdIQ9NncxLOCfT.QZZgN3_e_OkLmmcUihu7wZBm
+ P7k6ifxqmfJn4LR0yHUf1ZOtT381tueHVgNVzPF4fj9r9Z5WsaLsbBNUrMDS
+ kuYagVfci6x9MGN.wKlGjiJ43b_zHab_LD5xvB0eQGZDWEbtP36qmkm2D1v3
+ yLeuDuFbzjejB_sgydMHMxFteu4R1YjzfUw40Hc0rN64c_PrdGrxjKRs8nbm
+ vfuU84wKxTiIA7WPsw1.AjXuAKhpuk1zNc4gUkYHyGxIWSAxmUZeWqEyyv5z
+ 2ZDlFQH4lr9mG6z4loXP2pdhW6kHYySO8Le4azZHg33.oZh9M30gn7CF6EDY
+ z1NelC7QWM_vNmsoTJKxU2t7ce62z9ctJHqCzkfGgkDm6YH0AMyEovG3Tk96
+ d0qdZzWZurB95Q36KQ--
+Received: from 67.227.156.183 (EHLO hostess.faxzero.com)
+ by 10.253.232.218 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 28 May 2022 21:50:28 +0000
+Received: from nobody by hostess.faxzero.com with local (Exim 4.95)
+	(envelope-from <support@faxzero.com>)
+	id 1nv4KJ-0000yQ-Mg
+	for MS60710444266@YAHOO.COM;
+	Sat, 28 May 2022 17:50:27 -0400
+To: BARIS DINCER <MS60710444266@YAHOO.COM>
+Subject: FaxZero.com Action Required - Please Confirm Your Fax
+X-PHP-Script: faxzero.com/index.php for 50.74.77.2, 50.74.77.2, 184.72.143.180
+X-PHP-Originating-Script: 1001:index.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+X-IADB-IP: 67.227.156.183
+X-IADB-IP-REVERSE: faxzero.com
+X-IADB-URL: http://www.isipp.com/iadb.php
+From: FaxZero.com <support@faxzero.com>
+Message-Id: <E1nv4KJ-0000yQ-Mg@hostess.faxzero.com>
+Date: Sat, 28 May 2022 17:50:27 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - hostess.faxzero.com
+X-AntiAbuse: Original Domain - yahoo.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - faxzero.com
+X-Get-Message-Sender-Via: hostess.faxzero.com: uid via acl_c_vhost_owner from authenticated_id: nobody from /only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: hostess.faxzero.com: nobody
+Content-Length: 765
+
+<html>
+<body>
+<p>Dear BARIS DINCER,</p>
+
+<p>Please click on the URL below to send your fax with 1 document to
+<b>IRS CRIMINAL INVESTIGATIONS</b> at <b>2674661115</b>.</p>
+
+<p><a href="https://faxzero.com/confirm/31178177/1653774627">https://faxzero.com/confirm/31178177/1653774627</a></p>
+
+<p>Your fax will not be delivered until you do so.</p>
+
+<p>By clicking the URL, you agree to FaxZero.com's <a href="https://faxzero.com/terms_of_use.php">terms of use</a>.
+Do not use FaxZero to send advertisements, spam, abusive, harassing, defamatory, hateful or offensive material.</p>
+
+<p>The FaxZero people also offer 52,000(!) free printable documents and templates. <a href="https://www.freeprintable.net/popular/">Here are this month's top 20</a>.</p>
+</body>
+</html>

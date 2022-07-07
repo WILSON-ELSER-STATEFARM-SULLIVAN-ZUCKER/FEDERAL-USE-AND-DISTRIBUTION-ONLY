@@ -1,0 +1,89 @@
+From - Sat May 28 17:18:01 2022
+X-Account-Key: account1
+X-UIDL: AMfILLQQMRJXYpKerAJxAHhcMPs
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.135.43
+ by atlas322.free.mail.ne1.yahoo.com with HTTPS; Sat, 28 May 2022 22:14:03 +0000
+Return-Path: <support@faxzero.com>
+X-Originating-Ip: [67.227.156.183]
+Received-SPF: pass (domain of faxzero.com designates 67.227.156.183 as permitted sender)
+Authentication-Results: atlas322.free.mail.ne1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=faxzero.com;
+ dmarc=unknown header.from=faxzero.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 28 May 2022 22:14:04 +0000
+X-YMailISG: KGlwC.MWLDsLsznDYyPAZ9vfmlCu6siwBlGSqZXAUh7ksWqG
+ NAEuvLfwmlHbFLI3iY.3nhnhx8IURPTcTwKmDHZSNFy0RE4Brz279chwn9N_
+ zmo4npVkYcZ3k2K84Qfjd1NPWsRHv9tbUc0Zd7R6t4Ude.sCnnR5Ft9CEtc2
+ fSvB6asMX7qfER4RmcxyNkt6yTvZ_oD3wnHo_m5vrZVpsYdttxxx0.IEt6Ig
+ eIiarj3TMvPPOwWKw4mafgEL3Ig8RSKPsxLk414peWLitGEYxS.a6aV9FcI4
+ CxmrkmrbzwR8Z5QERGP6emlkNo1e0aw0b9_.ZTYv6riCgxbk9S.wx4gl9Tnh
+ A_XF2IXqp5.h1Dnzv.C505UUHf3SNrcKglR8kwMkTQXrpTTzYRQ_Z__PaY.s
+ pwsVBa_vwKrHhSL6nnBk6y9nTC6unySYFd.oweWqbXu5LKeuHPoEwh8D9TWU
+ eO0DeDWzrsro3Cnsuovwv9b3zExq_IZyYkErFFQYFTZuEmFv.8TukoMueahb
+ iXp.YQ8n.gdv0CnT4Q3cAs8V6o36QA_ZRVCHvhZ1mdLcYqmQRNYCzDZS537_
+ Uvw21OjiAOuEDLHHStNmpJy43g0gLTwVNwQMfDaViGTwguo5vwcdxGbQf5Gz
+ ODOXSNvzThOh2.PeqPV55acHj_WES7uJOw3jZcRLcmLe1zdfm.GRHgQ.Y2Tt
+ KTDMpYgCeqVKd1ssNf6LGZOfyZ7_6SxwHW3c5PvFxw4ni0P6tiZv97PcIwNR
+ vBcSD5tFmFvKRx55ojbtcd.IUp_OFi.3ZeZ1wWItXni2TAbMwoy88qe3eIAH
+ 9gzAZMCCTH9rlsmxZkZ_C2Z9Ifzd.q3.KR.tqCZPJb3wej8xpouMur29ju7Q
+ Uwcu_cHwkS5sKrwESdZW1ShughiN7qvZ3qecEMGW6AHlpzYURsFcyyekk1Tp
+ YkYsBm7JPEzwaRQvEVatKGP__GXDlq_dEk7tiHBOtSTcTlJ93.7MM5tB9hCx
+ tILg_I8y6aYRecwFRP.CTHyDUGac8GJDGiW_dgOHQVHpXR_bzHehn.FvmEuw
+ msUMzFL1Ua_XIRtndpfEH8YkwKjSNw--
+Received: from 67.227.156.183 (EHLO hostess.faxzero.com)
+ by 10.217.135.43 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 28 May 2022 22:14:03 +0000
+Received: from faxzero by hostess.faxzero.com with local (Exim 4.95)
+	(envelope-from <support@faxzero.com>)
+	id 1nv4h9-0001hq-Qn
+	for MS60710444266@YAHOO.COM;
+	Sat, 28 May 2022 18:14:03 -0400
+To: UNLAWFUL CUSTODY <MS60710444266@YAHOO.COM>
+Subject: Your fax to JP MORGAN CHASE BANK has succeeded
+X-PHP-Originating-Script: 1001:status_check_inc.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: FaxZero.com<support@faxzero.com>
+X-IADB-IP: 67.227.156.183
+X-IADB-IP-REVERSE: faxzero.com
+X-IADB-URL: http://www.isipp.com/iadb.php
+Message-Id: <E1nv4h9-0001hq-Qn@hostess.faxzero.com>
+Date: Sat, 28 May 2022 18:14:03 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - hostess.faxzero.com
+X-AntiAbuse: Original Domain - yahoo.com
+X-AntiAbuse: Originator/Caller UID/GID - [1001 1001] / [47 12]
+X-AntiAbuse: Sender Address Domain - faxzero.com
+X-Get-Message-Sender-Via: hostess.faxzero.com: authenticated_id: faxzero/from_h
+X-Authenticated-Sender: hostess.faxzero.com: support@faxzero.com
+Content-Length: 1327
+
+<br />
+Dear UNLAWFUL CUSTODY,<br />
+<br />
+Your fax to JP MORGAN CHASE BANK at 8553230545 has been sent successfully!<br />
+Successful delivery of your fax was confirmed at 6:14 PM Eastern Daylight Time on May 28th, 2022<br />
+Your fax included  1 page of coversheet with your text and 2 pages of attached documents.<br />
+<br />
+Be sure to follow up with the recipient to make sure that the fax is legible and is delivered to the right person in the office.<br />
+<a href="https://faxzero.com/status/31178211/8c66bea9f033f17996b69ff065656c0d1803c640">To view or print the status of your fax, click here</a>. You can also <a href="https://faxzero.com/status/31178211/8c66bea9f033f17996b69ff065656c0d1803c640">send FaxZero a "tip"</a> to support this handy service.<br />
+Thank you,<br />
+FaxZero.com<br />
+<br />
+P.S. Check out https://www.FreePrintable.net: printable business cards,<br />
+certificates, timesheets, calendars, coloring pages, and more.<br />
+<br />
+<br />
+------------------------------------------------------------------------<br />
+   If you want to RECEIVE faxes or send lots of pages<br />
+   each month, try our friends at mFax. Just $10 a month.<br />
+   http://faxzero.com/go/mFax<br />
+------------------------------------------------------------------------<br />
+<br />
+(id#31178211)<br />
+<br />
+
