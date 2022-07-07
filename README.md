@@ -1,10 +1,47 @@
 #### THIS PAGE IS BEING MONITORED BY SEVERAL DEPARTMENTS AS PART OF A FEDERAL BANK AND SECURITIES FRAUD INVESTIGATION.
-#### NOTWITHSTANDING THE US. DEPT OF JUSTICE.
+### NOTWITHSTANDING THE US. DEPT OF JUSTICE.
+
+>> 6.24.2020 email - ASHLEY.HUMPHRIES@WILSONELSER.COM
+
+
+>> AFTER THE LEASES WERE TRANSFERRED TO STATE FARM, AND NO I DIDN'T FOLLOW HER.
+- people go to PRISON FOR THAT TYPE OF BEHAVIOR THOUGH.
+
+
+##### PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH TO STATE FARM LIFE INSURANCE COMPANY 
+*** INCLUDING THEIR TAX RISKS AS IMPLIED
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+
+EXHIBIT(S)  - AC0  (Motion #001)
+ACRIS Detailed Document Information (2019000021408)2019010800475001
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ze6a1KA9akRV9TGfXXJT/g==
+
+EXHIBIT(S)  - AC1  (Motion #001)
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw==
+
+EXHIBIT(S)  - AC2  (Motion #001)
+ACRIS Detailed Document Information (2020000155421)2020052000291002
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw==
+
+EXHIBIT(S)  - AC3  (Motion #001)
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
+
+EXHIBIT(S)  - AC4  (Motion #001)
+ACRIS Detailed Document Information (2020000155423)2020052000291004
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==
+
+EXHIBIT(S)  - ACR  (Motion #002)
+ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
+
 
 [Ref.: El Dorado Task Force](https://www.justice.gov/opa/pr/hsbc-holdings-plc-and-hsbc-bank-usa-na-admit-anti-money-laundering-and-sanctions-violations)<br>
 [Ref.: El Dorado Task Force - August 29 2012](https://www.fbi.gov/wanted/wcc/luis-ferreira)<br>
 
-[COPY OF LEASE](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=QU9OxqmVn_PLUS_HmiA5AacTXsA==)<br>
+
+[COPY OF LEASE: FILED BY THE COUNSELORS OF SULLIVAN PROPERTIES LP](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=QU9OxqmVn_PLUS_HmiA5AacTXsA==)<br>
 
 *** obtained an unlawful Loan for $6,000,000.00 in NYSCEF 153974/2020 as filed to confirm violations under USC 18.21, 18.225, and USC 18.2, 18.3, 18.4<br>
 *** while <br>=
@@ -45,6 +82,37 @@ I had to reach out to my old buddies - so be careful with your home and personal
 
 
 [CONFIRMED BY ALL PARTICIPANTS IN NYSCEF 153074/2020 ON 07/31/2020](https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=R9aac7D6DBJZ1wsiq0b38A==)
+
+
+EXHIBIT(S)  - 1  (Motion #001)
+6.24.2020 email - ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ANDSuLFWlbjttGxgjUXGAw==
+EXHIBIT(S)  - 2  (Motion #001)
+6.25.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ph76T77EGjUtofiKDKCOoA==
+EXHIBIT(S)  - 3  (Motion #001)
+6.27.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=x9RFyUAiwcmGbb6y8R306w==
+EXHIBIT(S)  - 4  (Motion #001)
+6.27.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=hxv_PLUS_e1_PLUS_miua_PLUS_MYiCxhv_PLUS_XQ==
+EXHIBIT(S)  - 5  (Motion #001)
+6.27.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=382TNrNKjw28ce0sCmTN9g==
+EXHIBIT(S)  - 6  (Motion #001)
+6.28.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UQzt9l/yhPj2jXV6Xk9JEA==
+EXHIBIT(S)  - 7  (Motion #001)
+6.29.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ZWQqfKHMbUj/LLDfoydj1g==
+EXHIBIT(S)  - 8  (Motion #001)
+6.30.2020 email
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bJO1Rhql6hYHUqwyBXgpGQ==
+
+---
+
+
+
 
 *** I WOULD NOT ADVISE THAT YOU NOT CONTACT GITHUB AND HAVE THIS INFORMATION OBSTRUCTED OR DESTROYED --------<br>
 18 U.S. Code § 1512 - Tampering with a witness, victim, or an informant<br>
