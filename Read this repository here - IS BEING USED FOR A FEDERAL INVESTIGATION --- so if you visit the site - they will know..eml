@@ -1,0 +1,200 @@
+From - Tue Jul  5 13:44:59 2022
+X-Account-Key: account1
+X-UIDL: AL/NnjA73bLxYsNIFQDLIGZq8n0
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.32.140
+ by atlas325.free.mail.bf1.yahoo.com with HTTPS; Mon, 4 Jul 2022 20:05:40 +0000
+Return-Path: <kshadle@tcmfund.com>
+X-Originating-Ip: [40.107.220.110]
+Received-SPF: pass (domain of tcmfund.com designates 40.107.220.110 as permitted sender)
+Authentication-Results: atlas325.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@tcmfund.com header.s=selector2;
+ spf=pass smtp.mailfrom=tcmfund.com;
+ dmarc=pass(p=REJECT,sp=REJECT) header.from=tcmfund.com;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 4 Jul 2022 20:05:40 +0000
+X-YMailAVSC: 6ZFUuT43bBttM_76RwUzsjuTvE3olwa5imMU6mKdt.SQ4o4
+ AjL3SJEO.FyvSDtyeuHfpgCN.K2r8Pt_.8aYREK0sSaF2Dj7do_sS6IbhdSk
+ g3qzvJ0_K9BKwPZgCwvgjKnvA70HXx7BSKVaw3VwHowVXy5cTuke6yf8E_f4
+ YBNQd3V1RgDoosY4h_Rll3HNNaW4pUcKGGAXXLrTaDxbH.UHKRJzlBjwGEHd
+ 0GYBknHLcj82crzqXTwG4CxO0PtznGfYUtX_NX78AmPs5MtZtl3_AUEinpz2
+ nuZPiGWbG0mBE9JFVkQsm2G_qYaXsqRMQoAKs9s9FgZuLEtM_WFGmjYMNQPL
+ bmE4-
+X-YMailISG: cale3u0WLDtDDai9EavSdPElLzmXbddIkTXXlpwtMAXV8sCt
+ ekHIkyz7IlzIEilioFygLoLzzgRt6j6uDagKstpaA8oEfCYEeS9vKyknpuHX
+ y63u1UUasVxLhrFvDxiTrgMgJUdPtrWiwcB.mOfiZQ1KZOc4w_mBTL4m16G5
+ MkhvjL6TpgQHjgDI5kBm8huDUB2IvVp_LSti6KP9BrMUbi_QwYbEMabFLWSN
+ LQ_HCeMPNFwdn.57qvXAFCYBHuJs6X20wRCn9vwwKPn__vf8uDcT0Qk4Poc6
+ lDs1QfZqphldCRyYCtE0x1.hNK_9E9CpsfT6hGE4slf9IeKi_yKqRgDbbTii
+ Lqdk4vaxKqS4J_VSCteZWQG.CGKXFbGyMNDvpERRhSyZ3hWyOR8vNzG1P_Vw
+ ym5Iz30HUfVW8tc5SpmeYXPT1ML9NiMMx_kmw3J5sR8FKIroswqGTwYpdaeA
+ EHP8SFKHHsTno2NzzFQHAo0gGvNB_taN6zPYbddzeujpbLcuhDJ_CBupoqIk
+ iAA7WLHLV7O_ZouyiiFGP8oXE4uUYKkv1RKI6Pzf.pfLrZb.9cukWGmWHUdJ
+ rgyiag1.6cCqQ78sI_Nf4jOavgkNYxiBB6EjDV2ifZJUs5UUVtvQ5lbMJ6zx
+ h4yoUQBJd7C03PWJS7Bo_5fKbufegivNkgHoDSdlFGZZrzH0plfJWzDPHvbA
+ NkE8IdRn68D_S22RhYvRAstvEiDZrrx.fvmjmwOJvHiDuVdzyAOGTO4dTgP9
+ 6ofLEgEcWjE3ACc_WB4va8ThlcJ5Ri2nucV0Iu6mzFVFzCD_tBeDd5H4ESs5
+ 2w6ZVooPHXdk3OBQk5BnLfyFJoWIfZt.s60Wb0tENib25Po.i0pic_rZAkzw
+ Qlt6Xt3r1d1z9cisrYN_zYsN_52b7icoL.COWD6lJ5ttYHWBthXaR_UfgtKI
+ pZIFAEy5Z25tBpGqjlqVgrWrzJXMVWnCG8Wx_BRDQPTq0YLD5hZ55KY2OjEi
+ FsX9W11hCqD1ThmRF3QsgsJbmtHmXnNV08CIgKUUB0i1cxY67ORrJNMp._Un
+ YpViEMeZ9b51m0H9GtV3OuMzPgaegYftmHJdiVHv9R450iMGD6R_rsSPUHgL
+ ZsAkYuum.93HQNX5kACutYXv.nH6hsUQ72Bpu4XVfBDdCk0fCkFCpwnT0tbG
+ doDlqx3UjiqiWGr4HjaEjfdzh3aotRGmNcp7AfUMmzB5eDzCbzst1XNjEi.w
+ SzX3IjgpC.bZ.sW.1LtfCcyoe46Rcnz8YwZAZfXvvEQklhPOGCWJBzJI2IkU
+ qQh5eFhOwMKJaGgj9.VHp0wreZFWpiLooSLVCb1YaZTJ
+Received: from 40.107.220.110 (EHLO NAM11-CO1-obe.outbound.protection.outlook.com)
+ by 10.197.32.140 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Mon, 04 Jul 2022 20:05:40 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=KsVv3lcZRcvTpDtX6edKzf6mWmtGYY/NyUxoRCPRQ4BRFyUbiKLMZphcDPK5g+sCup8nfTM7R7qrvEyfJTn8LI5ILodK9OIJXR7Typ5Hs2vRNYERi0U3dWwJoqCl2MsrC703QTL8EoyjbuvRdr++PSiDU7WxzfFIBjZwzPZBbUMYNAu0vPanNseM/9fcxcsAH0xOsX1IlB0bc1wkGfdFCkRER3kuj35c3pdfAWR6Pr+GbqdaIdg7HOfyoDi97t+V4orfyKQppmKVGPduHcv1gxaGuuCTuTp1a6wvdtQmbScPJEo/jxPKGcFj/dzfegKlyGYdVlSbT15SE+N5vst27Q==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=KKLEPwc0nIZ8PFxmI7vwl+cwV6feEYB48R++bLJiVic=;
+ b=gMWTS8SUdqeIOkPFdGarCczwCxZzwBP2UP+LBTLp0adR5tOAs8B5xEvFcmzxSG5ho9fu1iKsT1bdZJJAV76NffUfh9KziF+4zdn20a5aPJ2XjXJkG+eC+c+uLevvCddbliWuttXrlfO1MqmQMayJ294hJZI3plQmDgi48rvEBvm/k+CuUUSngEDv8keOW1BQJm9VfwN78KyO8G2ko/m75On6rhbW8CUaTPomvE7CbDyVJEy9H9BIOMcvCZUV2LAmIRQ9cKVd80ySKZzOzDdM7midqBNDcrKeucwFhIU/rm3QLgpwWha+5vvVjiQ+17irzPAvrgGgh4ht8R5JQrGnqw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=tcmfund.com; dmarc=pass action=none header.from=tcmfund.com;
+ dkim=pass header.d=tcmfund.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=tcmfund.com;
+ s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=KKLEPwc0nIZ8PFxmI7vwl+cwV6feEYB48R++bLJiVic=;
+ b=ufXEW34Q6l+0+y3xP9mF7fxLGQ2h7T352dR/sI3SrYZiFZwWqURpq+GaRPyLvLyMOu47Y2tzLcZEleOnZhhMrvgvsTzp5cuF0/gmboxJqYwq9vRqeZ13A29OrVY0PzXUgrSFIibCpwWvhcXao9BDQA62reHoPv6R9YTJrYsXsqMThliXBzSWt/MBrk3YOgAHtX0ppUZ98UniiHxGCUoCgjayJj9E6dbc6/OCT44sWBVCWmrgMS+QUUF6o4byATb9E+60+W5yDCKxdlh1ZOIuVzRA8nTqOL4Ct9QH/v4YP9hrR68rd/+Sk0srYGOhNTSyTTEE1IZfZJ1Vt0im54pdgg==
+Received: from DS7PR19MB6120.namprd19.prod.outlook.com (2603:10b6:8:83::20) by
+ DM6PR19MB2377.namprd19.prod.outlook.com (2603:10b6:5:c4::19) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.5395.20; Mon, 4 Jul 2022 20:05:39 +0000
+Received: from DS7PR19MB6120.namprd19.prod.outlook.com
+ ([fe80::6115:a9b8:9ebc:1b89]) by DS7PR19MB6120.namprd19.prod.outlook.com
+ ([fe80::6115:a9b8:9ebc:1b89%5]) with mapi id 15.20.5395.015; Mon, 4 Jul 2022
+ 20:05:39 +0000
+From: Kurt Shadle <kshadle@tcmfund.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: this repository here - IS BEING USED FOR A FEDERAL
+ INVESTIGATION --- so if you visit the site - they will know.
+Thread-Topic: this repository here - IS BEING USED FOR A FEDERAL INVESTIGATION
+ --- so if you visit the site - they will know.
+Thread-Index: AQHYjyOTVor1bO4g1kOPdBN91ul4qw==
+Date: Mon, 4 Jul 2022 20:05:39 +0000
+Message-ID: <fb2629e85a5e4936a0888d62ed0f084f@tcmfund.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 0e7352f7-a0ae-4365-830a-08da5df8911c
+x-ms-traffictypediagnostic: DM6PR19MB2377:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ kZUrHY8c99zeKtXYv+TVdq8JirZIl47+Km6A3pWuZjlrrKyiEMdW+ePFn75TT4kihzlWf9KhyMOuf1ANBZgH/gVA1i6rDydyJh7jT/6rP1yaEcUDP77dF+l8TfKN9AkMiXKAp7aGFppi+gZUfwCT5g3a5hr9HmndS/sjXb8WbF+wOMZB3TADZvDi6Z4QyFsjEhOTP/VVGkseVeRLdZY2glpszB2KoxGhtGspWCcvvq+QWNzAArM2arDuFFc+W0IsPHQtbzpT+7gfXeYuvtKdy+jhqbQNvYMJ1u0ok0DY6QV0D5c6+KK1gnYr+gtmzgNmeP8Z5UUUWGyMcaD/auI8aYN/jtNxxncfqDE99M1Q/JYjDBSdSdWN/2R2KIEr9TH6pljAcd255HB+ck5vuYVKxh/rUHWkmYkmEexgCysLVhdwyMgHBO7uE5zt1083Ctzz1GXHGHNY6RIfGomeo9tl5epGUNxKK8JOl4vQzz6Ywocm2WXSBVeWFSovAL6pjWDM
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:DS7PR19MB6120.namprd19.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(136003)(39830400003)(396003)(366004)(346002)(376002)(2906002)(8936002)(108616005)(66446008)(186003)(122000001)(36756003)(621065003)(88996005)(71200400001)(478600001)(6486002)(316002)(66476007)(6916009)(66556008)(73894004)(6506007)(66946007)(24736004)(41300700001)(6512007)(64756008)(8676002)(86362001)(2616005)(4270600006);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?YhMUM9RwrpvYxjCabfnYP3FGUdcuc5BbFW/ff7osmL+QU+hRh5zi/Iil3rdb?=
+ =?us-ascii?Q?dtUeidUWHdbq0gQzOQdkM9kfOPW9OulswOxcPzv2atigB8JIQ8hjnq/Zel4h?=
+ =?us-ascii?Q?o792eq9MqyoN+XIIhzFBvlINpgkoAcj7FjGrBDgCf1otpCyt/lTxRwhfuP6G?=
+ =?us-ascii?Q?W1hB12gYC+LvgPFM7zu7WDT3oo3253jbC7hCr78+cpQwZLOHc/X4VoP+J2px?=
+ =?us-ascii?Q?aHBibCKPluQS3TnSdl3QzcOHGoaw/jEJV8uTMGLP824iP98S5pwpvcnuzzQV?=
+ =?us-ascii?Q?l9FuYPfRYJ/FWclKK5oM3NwBDGk1d/gOqtJjzpm5fLPp38lSSZZByynVQtGh?=
+ =?us-ascii?Q?dvsw8uydoPicnpJJanfFxRZnxfxfw7tY1vOe2BpHE1Z/fcIcFqKHsNE2e88B?=
+ =?us-ascii?Q?zb5GOwyPUeLscJ24kV68Ss9lE/HqwWut1rA73kOZQSRxdaffWPcZ+nucbDD7?=
+ =?us-ascii?Q?AtnbxH+/BpHwdFqRUWgP1Ao5SixRMTSSw/hoMmKkjb5KQC3Zr65wwe75itfp?=
+ =?us-ascii?Q?IDVsXaucfh5pIcll12L2EP6fZKwbiFd4xL1tqJpRLb/Yxr1kUf/rXXkz+4W7?=
+ =?us-ascii?Q?iUc8XtfK1zjVVrb7p+kEFA0Rq7BS39zhs6qD39rTh3ZdCjZsUXicN/3Bpzxk?=
+ =?us-ascii?Q?7+ocUrsN/VCJV/e32VOQBUY4SpRVTdW38HMqTvbeEGWZGw/xFxYkXtYY2Z7R?=
+ =?us-ascii?Q?JgrfUOL1FIFc7fslCv/xNSy3ZgFgkj+WGfEGGMG/t4tgsD+O2QZcH4s3jKTK?=
+ =?us-ascii?Q?cS230nsfGDKdC8AmD0gM9Ev2NRX9bnL0XjvdzqepSbZGP1Ks8P2zmYoqj66X?=
+ =?us-ascii?Q?4plDB1Cy4eQl4+tUkIqas3SFsPBsS0HknXuYoIgaEcY0t6t79pE8H6aaCSlS?=
+ =?us-ascii?Q?npWme/cxCOKDBm07oUEdbADmCYogfcX44S92C417tdQh4gnuuzArZlCe/2iV?=
+ =?us-ascii?Q?SzSmIKHAzzu0fMRYcTOKo3uui2ZKdcYxYfaGreAGuuV5uEybuye34FoxmvMI?=
+ =?us-ascii?Q?THvlrfmp4TK3FwkI+Gr0m0HN3mZB7r0WkSsK/cVzw8RYMWpyT24uc+dMHDNc?=
+ =?us-ascii?Q?Mn/di00Ir0M18LL3HJb2DX6/iJCmALfCrFopEg9gQt9erH7YLTw3aWNUUpro?=
+ =?us-ascii?Q?zkrm1zXPHM62FUacpaA5nnre5ixwIEJYanASp6B/ji74pgw9C5TfCVOpW88R?=
+ =?us-ascii?Q?J4XVG/YTXsS89VDLzOgAn76SnLoKAkJofySE7vtnTZIJiu4Atf+6nOQ8gj2u?=
+ =?us-ascii?Q?ACrx8Q9Bpz5f9LrJk+rHxRRf1KLO0IemWQkh5LpTAqUnLwe8GM8sIhkIsZX7?=
+ =?us-ascii?Q?XJ746Nf313GKRBJ/11f9Wc7o4vyZ3KCARForqv4z2RywOQtrE+MTeqUhJ8hs?=
+ =?us-ascii?Q?xZshnh+CubGItlWt40Qo3NyH2mZ1woC2YfcI5T7B4i+e8CBw3k0FnM058No7?=
+ =?us-ascii?Q?ADV12hm8TOnfT8m+ODvpVZcpHTr13ya4i/aZYjceQRB88YL2PnKnmQ=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_fb2629e85a5e4936a0888d62ed0f084ftcmfundcom_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: tcmfund.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: DS7PR19MB6120.namprd19.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 0e7352f7-a0ae-4365-830a-08da5df8911c
+X-MS-Exchange-CrossTenant-originalarrivaltime: 04 Jul 2022 20:05:39.3559
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 754a79e2-40e9-41a8-b6c9-a065afcf1762
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: fxIussNek0XoMigdBY1VZVBFXnbJabL85aVHmg18zRp2/N6icWqD+Ib6oYuoP7MWdzEI0nSrPIMh5hqN7Ox5zA==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM6PR19MB2377
+Content-Length: 2048
+
+--_000_fb2629e85a5e4936a0888d62ed0f084ftcmfundcom_
+Content-Type: multipart/alternative;
+	boundary="_002_fb2629e85a5e4936a0888d62ed0f084ftcmfundcom_"
+
+--_002_fb2629e85a5e4936a0888d62ed0f084ftcmfundcom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Kurt Shadle
+   Subject: this repository here - IS BEING USED FOR A FEDERAL INVESTIGATIO=
+N --- so if you visit the site - they will know.
+   Sent: Sunday, July 3, 2022 5:19:29 PM (UTC-05:00) Eastern Time (US & Can=
+ada)
+
+ was read on Monday, July 4, 2022 4:05:39 PM (UTC-05:00) Eastern Time (US &=
+ Canada).
+
+--_002_fb2629e85a5e4936a0888d62ed0f084ftcmfundcom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Kurt Shadle<br>
+&nbsp;&nbsp; Subject: this repository here - IS BEING USED FOR A FEDERAL IN=
+VESTIGATION --- so if you visit the site - they will know.<br>
+&nbsp;&nbsp; Sent: Sunday, July 3, 2022 5:19:29 PM (UTC-05:00) Eastern Time=
+ (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Monday, July 4, 2022 4:05:39 PM (UTC-05:00) Eastern Time =
+(US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_fb2629e85a5e4936a0888d62ed0f084ftcmfundcom_--
+
+--_000_fb2629e85a5e4936a0888d62ed0f084ftcmfundcom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; kshadle@tcmfund.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: fttZ8X5ljkG2+fFHAv33Nw==
+Original-Message-ID: <6c5a04c1-50e2-71d9-96e0-3b6f53b1ca06@yahoo.com>
+X-Display-Name: Kurt Shadle
+
+
+--_000_fb2629e85a5e4936a0888d62ed0f084ftcmfundcom_--

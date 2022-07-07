@@ -1,0 +1,194 @@
+From - Tue Jul  5 13:44:58 2022
+X-Account-Key: account1
+X-UIDL: AKuZ49tc/wxuYsNIEgVXMBbdeoA
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.39.167
+ by atlas207.free.mail.bf1.yahoo.com with HTTPS; Mon, 4 Jul 2022 20:05:38 +0000
+Return-Path: <kshadle@tcmfund.com>
+X-Originating-Ip: [40.107.220.137]
+Received-SPF: pass (domain of tcmfund.com designates 40.107.220.137 as permitted sender)
+Authentication-Results: atlas207.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@tcmfund.com header.s=selector2;
+ spf=pass smtp.mailfrom=tcmfund.com;
+ dmarc=pass(p=REJECT,sp=REJECT) header.from=tcmfund.com;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 4 Jul 2022 20:05:38 +0000
+X-YMailAVSC: wFmfWpY3bBuk4PDBduh5xPFdJvUreExpv4Ha3hYFUXmt2pp
+ dZNsW1QRQpH6vVsoYKBzaANe8fBZ0tc_gFh_qNdaxk9VSGCEsEQB5Pa7C24t
+ OJi3H2r2Nr.rT_B7pXX6sRXBjgQ6a08BHfFMyAx5Vlx91MiWBaIjkXVQldYI
+ dGdlLJKQDOJBXYWSkVhw1yJPvJrVnpf7okK71jDXNeV1pTHGtoUcgpPh5TRs
+ XiIE70O2Y05vsOU3T70Bswx3kDUapdiDrkopSg58Ass6nj3JA3rOt4QLxNn0
+ a9GEEbZiB_fVBsSh.126uUHRIT_31FNS1JTgY4syzAd.NWCzCbXXhBTXNBoJ
+ Fywc-
+X-YMailISG: qLL7EboWLDvcO6flDorSdn2zdXx66YBMx6A3p4xO.6rpOv8k
+ cnAHCqx4A5IAtxZkqJ.DX9eK_XeMhKjvsn1ekXswyXTmEzWSoShb3pvS3r3E
+ oH_4X9ysN4l4Einp3YASCaZTfZoKxVsCpmedJiFnReqHvvZrdQlEDryCFdsW
+ QCd860fPG3H_fGRqLRfmrPg6fcxE7ev6BZBtaM4Cv9wI9fBQi0OMNbzO0CzL
+ JzUWCZhlDVk6M7qdl5HYXw_aUdqOcXqwq48EYG2D.42O4VXc1cMrawhLsphN
+ Iz4wHUlL_x7IUYz871248QGKct_Vuv_jY3A1rYtgQf2RB8SaP.w.pR9MSw0E
+ t110JOsAFTCXvTarXRtVRGB8TCPmTIaGsSyNGFJwwxyrYt89Ih_rDcLJIxWM
+ D5MHNZK_QqycnW8tf2jOme4qthO5wYbkAnFXqvcY3stJYoMAaC3tCnwZQvZ8
+ siJvBysdpC6jFIwC..E66QLFET2RcpQmkeqAqYs9zbgS4TmuaBWzFGAgun9e
+ PzAxkjkEpu51mkXCgApI7yCPaPDVVLBHKukIv9MYKH6Piox_IlN7kCqgi6sH
+ Do8MNY.1daYcHje8MdjecuEzLrikpjjzJBGtjqRe5T1Zdu35Ac3neWCfeqUC
+ 1DkB1KhfufdXvY48a.Twj1jPCnsyrsyyvjgpPKTYgWNh8MRhYBFHIpwJ.pFi
+ jHXwiXhJ642aXJixtVz9_8rpI_8leFG_eJ2Kte7818x80E930T7Z.R1ur2xF
+ 19UjkuPOEMMU.KTinw5_YCXExKgNpxbmLgZfvUZm2FCSK9MaNXHZNnyeD_Ii
+ ZVZAOLk.b_09V8dhdBt.lfG6LMhNioEjdumriZCJeD06zIZfOYz7rkzjoU2j
+ o4QYGtm9Baie6aOsJzGAnOogcX3SDr1JhWlvd_Fil0CTS_8H9Ibt_iq.H76G
+ WfNZpBp.nVoXN0UrtuuUo1EVX0MNFBtZ6myxtfm5tLQ9NMXRlh0IDD0W7XWc
+ 1tSk9Jo38HxMiVvswEA37IdVXcsUqoqVVKlU5KORzAb2GP9ZoglXBx4pVcyr
+ 4.h_puJ6Pb2ywGI6.Dq7SaEukJiT3Uo30nX9LQ7moENjJbvNd8KQmSzrqSCF
+ hLPMrVsu_SrbPPx_4_jbN7.Fx5ylln4CYuUdiUraHUqrlJrIKT1Q0z6iahV9
+ _K_pqFC9kITM2_OOic8VITyY4WepnOAHN3gfH6Mm9vnSTn372RN2PpSmiFmW
+ mWbK4VfK56pCfvLMPB3_thDur8TCff95sSODufcNfB5aX0cbmZpLd32pB7ny
+ Q4.JyTpJ
+Received: from 40.107.220.137 (EHLO NAM11-CO1-obe.outbound.protection.outlook.com)
+ by 10.197.39.167 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Mon, 04 Jul 2022 20:05:38 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=gdpEa6HR3sjK8ul9EbEy2gZRsp3w7DVwH1Wcm1IVrSp2sNIh+B5gtRjKa/FKPm/s793awm2wlrV477IT3hpFezcifPxVbhXIH0l3OSqpWn6zWatUjlikneHZKMw0DVeVb0caSLwzpdwFeTVP7nm1QvLOym0lXQh/BfdV8wsIA6421vgsxwk1AyFrjovErnHmAd8yqoGwI9NVcgvELn4oZ48a++KH8ELa00EfasBVGqeS0fGEHMBhMT9tv1De8F3vk8IrL30AflKUELuhlnhttXjZJql/NFsxlpKEa0vevGp9HMZX4UUfWh/7Lt7ujQU05M2203lOq6cns9Y7cW3vNQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=6DhsbJAXFicMrUrX/47Faj0i+Mf4Qe54fcDBMgjDb74=;
+ b=a3T5BPmr12Ia/jv/L+rfyDisMC78rhLa2jZEC2Mvhkv3KErpWuGtwbg1NCknSnke+uGhPgF3Mw0Zqd+BTASfueYCq0W69xH9VeWE6hDGipLPLsVrg7JJNPsPRf0pvuo/Hdsdtu+P+zPwnP728+WcBOhiyIBirt5Rfz3equYrTNzQT5eBTvygy0DsTLKRb7/neCzYlq6SOCmHruIS3ckzn8mbdqe0bxwG3Pdg7joVt0bDQ1NDYnV6AbBR7+pVuV0Zqm2VmTIpUMzN3TrKKExNnjH+inwDJbWCnVyyLrP4evrDG/8koFCZzI+uTWz2d8M0NjTuRm5el9M1g5foXLFvkg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=tcmfund.com; dmarc=pass action=none header.from=tcmfund.com;
+ dkim=pass header.d=tcmfund.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=tcmfund.com;
+ s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=6DhsbJAXFicMrUrX/47Faj0i+Mf4Qe54fcDBMgjDb74=;
+ b=n1juY9XBaAJAw63ZYTfYynzZjtquKLyyi9ka+eQbtJMjat85/PT6X5b23FBDRX5wzVJHh/lDrdgzo2lgRW4+d831wdHm6vJ5CDiz0r/LeIGjfCkcRuoomqe1od7E8Tny0C4CFUmAMANhKSu60mpPriv2aP/7QFhxlpq5Fa9/PVWEgkyX6bzd3tUFXghb4mKt/jMVJlgE/Mbs5YS7jKmxXnVL/UQxPedevPRRtDjZ/6uFXXAGKaiUwTF89yY0dyuKIzA6AhElEinvOpA+20ZcH1pr1UoTY8fVMKbymRy6QS4N/RvJ6VlF35VhShk1YW+ZKU4slWoirvqobNkQ34vXIA==
+Received: from DS7PR19MB6120.namprd19.prod.outlook.com (2603:10b6:8:83::20) by
+ DM6PR19MB2377.namprd19.prod.outlook.com (2603:10b6:5:c4::19) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.5395.20; Mon, 4 Jul 2022 20:05:37 +0000
+Received: from DS7PR19MB6120.namprd19.prod.outlook.com
+ ([fe80::6115:a9b8:9ebc:1b89]) by DS7PR19MB6120.namprd19.prod.outlook.com
+ ([fe80::6115:a9b8:9ebc:1b89%5]) with mapi id 15.20.5395.015; Mon, 4 Jul 2022
+ 20:05:37 +0000
+From: Kurt Shadle <kshadle@tcmfund.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject:
+ =?utf-8?B?UmVhZDogUmU6IEZ3OiAyNTEyOTUgLzIwMjEgdGhydSAyNTEzMzQgLzIwMjEg?=
+ =?utf-8?B?8J+kqw==?=
+Thread-Topic: =?utf-8?B?Rnc6IDI1MTI5NSAvMjAyMSB0aHJ1IDI1MTMzNCAvMjAyMSDwn6Sr?=
+Thread-Index: AQHYjyhtjLTyYS9Zw0mTLGUGTTjKRw==
+Date: Mon, 4 Jul 2022 20:05:36 +0000
+Message-ID: <70feef5a635f4619ac03a0ee11867cd5@tcmfund.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 98f06842-059b-414e-11bb-08da5df88fa6
+x-ms-traffictypediagnostic: DM6PR19MB2377:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ odP2Ab48+h0idAdScb9VdwpI7U3zmbPyMLRO7VvzCdSP9dSPQEux0fU8K99OaRkq4Cw7uvQU2X88ueKwD4GXsKCXGSS0sD3/UcImcG4QAMVG4oxAlvHIeew4vLaQyh4OFtN436dTXfKcnO2eqjjIk17tkbmMguJivV9Y3UDILyvDg40FM03mcWkCW1+SOtNk9ua0BBg4Xypg8ivao8s6y9BYktAmhZm0ATtY2llkWDjAoLEBeAAPTbZ6uFhtl/Tezn+4ce4AcCHShElxEEs6aAeNGdKeiuirxf92ciyt/LQ8ybqnOqBdNhgT27BR5Vg0VJAdYFF2lmqHrPEAkQlOsCQiVXkZ/e/LMiXHBWGK88I6udC3hzIwdj4gWFg1sfXao2tklj4g21bKyBVSWnk7rQcXgMSzJLWvSOHIQemsCovOb44MnZNiBbIpdCpuIjQV0FN8N5FEC3zAOsjOvN5yO4XgfE5sNBBJpq+To/waAZAfodIEEesr1LvHEjNSpVu3
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:DS7PR19MB6120.namprd19.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(136003)(39830400003)(396003)(366004)(346002)(376002)(2906002)(8936002)(108616005)(66446008)(186003)(122000001)(36756003)(621065003)(88996005)(71200400001)(478600001)(6486002)(316002)(66476007)(6916009)(66556008)(73894004)(6506007)(66946007)(24736004)(41300700001)(6512007)(64756008)(86362001)(2616005)(4270600006);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?utf-8?B?bXBwWU0vcnlFVVF3d3hBZnY3TTY2ZFRHdUVCR2hkSUZ6UzVXOU5BeWRPSzFQ?=
+ =?utf-8?B?VWlGQ2Y0emVUbjQxR0JPRnppdVl0VDlXUDNZZ2c2OCsvSy9ublcvbzlNTWZK?=
+ =?utf-8?B?bGlhT095NWhISWhzOE83ODJYcWxHQmVnUGJ1dElTOVptU3AwcDhzdCsvU3Jz?=
+ =?utf-8?B?dS96SGVlWm12eWUrRFNpYXZFTzRiUlllWDJDanlUWlEybkg4eXVkVGtkZ05Z?=
+ =?utf-8?B?WDNHem1kbFBOR2RrblJNYWlTNW4vUmFSUlBidGFGSnBKRnBoQXMwMFVrWG1F?=
+ =?utf-8?B?YjF2OHRjUGRwbGFNZjEwMEQ1N2JKR0I1a2tTZnY0VVRYNzRyVzZUVnd0NVhZ?=
+ =?utf-8?B?VExBWW9BMnR2MithYjlTQ2E1Q2FGVWs5eXUwNktqcVBMeE1DMGl1Z3RLY3o5?=
+ =?utf-8?B?UVBxb2xCY2VteFNyQ21BdnZGT1NwWFM1aUdJQk54VXlDTlRHazgvN1NITFBt?=
+ =?utf-8?B?UXBKYXZyM3RoYUluVUpIUkV2b0kzMEovdWVVSG1aVFl3U1ZmRzNoV1pjRjRB?=
+ =?utf-8?B?bDBKQjdrbGJhUzZNc2pVK0dpZytIcXpEN3ZBaEtsaGhuK1JKQmxHeDFNb3Ja?=
+ =?utf-8?B?M3ZzK0U2bEZlUjhEVVc5TzdncEplSktQN0xSZVZ1R2xtbXp5dm1QZzh1YlY5?=
+ =?utf-8?B?ZUgwT1dMS0Y4dGlTMTEycklpY1NDSXc4aTBDTjc0ZDdvL1BrS1drUG1ZbGxM?=
+ =?utf-8?B?V0h0Q1o4YlhZS2pWTlpFbytXalU0TEExd0VtWTNOTnNlYTVMSDNRNTJnd1BR?=
+ =?utf-8?B?Y28rMENpSkprc1ZXMzBsS1FFZW0rYVFOYU5Ca2dmT2ZEbzBDOHlNSVMwbENX?=
+ =?utf-8?B?WUp5QXJyeEIzdlVVQ1Z3cGpFSHpJR2VzeXduME5XcnpCNFE0QjZrSGpsU1R4?=
+ =?utf-8?B?b21KaEo1OGllSEh5ZUhEYkZZczFOcUNKeHpiSENwRFVLMWdkVmpKcHVKMHlr?=
+ =?utf-8?B?VEtRK3ZQTTNSbzIvUk14cjBtMDNZUmJRZ2htUGpNYitiL0VHeDZzZU1wVGpE?=
+ =?utf-8?B?clZKMnUxdUhIaHlyRWlDMzQyMXo5RUxIMVQ4dDllMW4vQ0FXQjMyWTg3WUpB?=
+ =?utf-8?B?cmw2WVl0Zk9vRk5yL01nby9LcTAvYm9vN2E0dHlrUnltSUZlbWZ6bzQxRkR5?=
+ =?utf-8?B?Y1Uzc1c0eVBoaE5SV1l1M0cwQTl3UUM5Wm9pQm5TSFRuNS8rNmlkWENpWklz?=
+ =?utf-8?B?SDUzS2ZFODZIY1M1Y3F4UVdqazdPN0lKS3lRYWNaUVpzMklyUURPUVk1Y2kr?=
+ =?utf-8?B?SzlRa2JWL0gyMjNiOVIrb0pzRzJpZDNreHY5NjA0SENhUnhucEIxRG5zQmtz?=
+ =?utf-8?B?VlpYc0tkWUZUNzZ0bE5DcG5Qc2VISnhZU09JcU93VDJnVHN3NHFhMU1uOXZO?=
+ =?utf-8?B?SllTWnIzOVBuWE1vcFdsa2ZISHltby9jdDd5OFJ6aVdsN1d4QTlsdm9BbjVm?=
+ =?utf-8?B?LzVIRk5tdWE0U0I2bVdNL3BkeWtLTjc0YW1sa3RKMmJmWTBFQzMxUExWRU41?=
+ =?utf-8?B?UGRuOGFNQ3NMNGNlUFZKZVZTdERzTjBHTXVUMDR6R21IM2NvUjVMRXdYenhl?=
+ =?utf-8?B?V2JYN2Z2Nkl6MG9hQWtuTXZkZ1dRZ2M5YWpiSExoYXp5cEljT1lGbDh6cFNa?=
+ =?utf-8?B?RWtOUjcybXN2dUdNSTVLTFlpMDZ3Q3NWaDlxUlhiVWhGWGpYR1NkZWRmSEhW?=
+ =?utf-8?B?ZHdlS2dhYlk3RFU4amx6R25kTU9vcWpQbzM3d1JKZ3pZRWw5UzlaMVloRWVX?=
+ =?utf-8?B?Ulp3RVZUd3F1T1h1Vnh6RDZmYU93cXp2SlNZR2RCU0pEd0tXTXJ4UGg1cEJJ?=
+ =?utf-8?B?K3ZXLzZKWlB4UWQ4d0ZlbGlDKzdZQ1RMbUNSUFZPT0hRREFyY3cvZ1JydjZR?=
+ =?utf-8?B?WnZPRHFzTHlLeXE5bVVKbGwrWHJxRlNWM1lvdkhzaGsweVVGcUVoZXhaYXhs?=
+ =?utf-8?B?R3lNYWxKTGFPWVkxcEZnbUVYenpsbk5QaUlNRHk3REVHellaOUdkcGs2b3lN?=
+ =?utf-8?B?cHdaRThoeHFBPT0=?=
+Content-Type: multipart/report;
+	boundary="_000_70feef5a635f4619ac03a0ee11867cd5tcmfundcom_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: tcmfund.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: DS7PR19MB6120.namprd19.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 98f06842-059b-414e-11bb-08da5df88fa6
+X-MS-Exchange-CrossTenant-originalarrivaltime: 04 Jul 2022 20:05:36.9332
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 754a79e2-40e9-41a8-b6c9-a065afcf1762
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: 6Imwo8rvD1zaG0SDMPqIYmnYDsQu7ssHZVtStMx75hJbknWOn39oYQNRqOivo13e9sjUiHKi2D2jlkRo7dNHDg==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM6PR19MB2377
+Content-Length: 2231
+
+--_000_70feef5a635f4619ac03a0ee11867cd5tcmfundcom_
+Content-Type: multipart/alternative;
+	boundary="_002_70feef5a635f4619ac03a0ee11867cd5tcmfundcom_"
+
+--_002_70feef5a635f4619ac03a0ee11867cd5tcmfundcom_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+WW91ciBtZXNzYWdlDQoNCiAgIFRvOiBLdXJ0IFNoYWRsZQ0KICAgU3ViamVjdDogUmU6IEZ3OiAy
+NTEyOTUgLzIwMjEgdGhydSAyNTEzMzQgLzIwMjEg8J+kqw0KICAgU2VudDogU3VuZGF5LCBKdWx5
+IDMsIDIwMjIgNTo1ODo0NSBQTSAoVVRDLTA1OjAwKSBFYXN0ZXJuIFRpbWUgKFVTICYgQ2FuYWRh
+KQ0KDQogd2FzIHJlYWQgb24gTW9uZGF5LCBKdWx5IDQsIDIwMjIgNDowNTozNiBQTSAoVVRDLTA1
+OjAwKSBFYXN0ZXJuIFRpbWUgKFVTICYgQ2FuYWRhKS4NCg==
+
+--_002_70feef5a635f4619ac03a0ee11867cd5tcmfundcom_
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjxtZXRhIG5hbWU9IkdlbmVyYXRvciIgY29udGVu
+dD0iTWljcm9zb2Z0IEV4Y2hhbmdlIFNlcnZlciI+DQo8IS0tIGNvbnZlcnRlZCBmcm9tIHRleHQg
+LS0+PHN0eWxlPjwhLS0gLkVtYWlsUXVvdGUgeyBtYXJnaW4tbGVmdDogMXB0OyBwYWRkaW5nLWxl
+ZnQ6IDRwdDsgYm9yZGVyLWxlZnQ6ICM4MDAwMDAgMnB4IHNvbGlkOyB9IC0tPjwvc3R5bGU+DQo8
+L2hlYWQ+DQo8Ym9keT4NCjxmb250IHNpemU9IjIiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTFw
+dDsiPg0KPGRpdiBjbGFzcz0iUGxhaW5UZXh0Ij5Zb3VyIG1lc3NhZ2UgPGJyPg0KPGJyPg0KJm5i
+c3A7Jm5ic3A7IFRvOiBLdXJ0IFNoYWRsZTxicj4NCiZuYnNwOyZuYnNwOyBTdWJqZWN0OiBSZTog
+Rnc6IDI1MTI5NSAvMjAyMSB0aHJ1IDI1MTMzNCAvMjAyMSDwn6SrPGJyPg0KJm5ic3A7Jm5ic3A7
+IFNlbnQ6IFN1bmRheSwgSnVseSAzLCAyMDIyIDU6NTg6NDUgUE0gKFVUQy0wNTowMCkgRWFzdGVy
+biBUaW1lIChVUyAmYW1wOyBDYW5hZGEpPGJyPg0KPGJyPg0KJm5ic3A7d2FzIHJlYWQgb24gTW9u
+ZGF5LCBKdWx5IDQsIDIwMjIgNDowNTozNiBQTSAoVVRDLTA1OjAwKSBFYXN0ZXJuIFRpbWUgKFVT
+ICZhbXA7IENhbmFkYSkuPC9kaXY+DQo8L3NwYW4+PC9mb250Pg0KPC9ib2R5Pg0KPC9odG1sPg0K
+
+--_002_70feef5a635f4619ac03a0ee11867cd5tcmfundcom_--
+
+--_000_70feef5a635f4619ac03a0ee11867cd5tcmfundcom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; kshadle@tcmfund.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: E1dxS00l2kWUC5gI5k2VNw==
+Original-Message-ID: <87ea1a9e-6dc4-c836-c4e1-02cf9e40b682@yahoo.com>
+X-Display-Name: Kurt Shadle
+
+
+--_000_70feef5a635f4619ac03a0ee11867cd5tcmfundcom_--
