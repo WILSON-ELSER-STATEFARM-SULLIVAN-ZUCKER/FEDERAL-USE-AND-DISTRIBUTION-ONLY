@@ -11,7 +11,31 @@
 ### NOTWITHSTANDING THE US. DEPT OF JUSTICE.
 
 >> 6.24.2020 email - ASHLEY.HUMPHRIES@WILSONELSER.COM
-	
+
+---
+
+-------- Forwarded Message --------
+Subject: 	Read: Fwd: Fwd: [00008] NONCONSENTED DISTRIBUTION OF MY PHTOGRAPHS AND VIDEOS.pdf
+Date: 	Sat, 2 Jul 2022 11:46:44 +0000
+From: 	Charly Shugg <CShugg@sylint.com>
+To: 	B D2022 <ms60710444266@yahoo.com>
+
+
+Your message
+
+   To: Charly Shugg
+   Subject: Fwd: Fwd: [00008] NON-CONSENTED DISTRIBUTION OF MY PHTOGRAPHS AND VIDEOS.pdf
+   Sent: Saturday, July 2, 2022 2:09:08 AM (UTC-05:00) Eastern Time (US & Canada)
+
+ was read on Saturday, July 2, 2022 7:46:44 AM (UTC-05:00) Eastern Time (US & Canada).
+
+www.sylint.com
+FL P.I. A2900240
+
+This message, including any attachments, may contain confidential information intended for a specific individual and purpose, and is protected by law. If you are not the intended recipient, please contact the sender immediately by reply email and destroy all copies. You are hereby notified that any disclosure, copying or distribution of this message, or the taking of any action based on it, is strictly prohibited.
+
+---
+
 <br>[153974_2020_Sullivan_Properties_L_P_v_Baris_Dincer_EXHIBIT_S__373 - MY VIDEOS WERE HOSTED ON THE INTERNET without consent as well.](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/9065071/153974_2020_Sullivan_Properties_L_P_v_Baris_Dincer_EXHIBIT_S__373.-.MY.VIDEOS.WERE.HOSTED.ON.THE.INTERNET.pdf)
 
 
