@@ -1,0 +1,141 @@
+From - Mon May 30 17:16:05 2022
+X-Account-Key: account1
+X-UIDL: AKPX7zYYiy5NYpUsEQbd0BNwoNU
+X-Mozilla-Status: 1001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.31.95
+ by atlas223.free.mail.gq1.yahoo.com with HTTPS; Mon, 30 May 2022 20:41:52 +0000
+Return-Path: <ssampiere@alliant.com>
+X-Originating-Ip: [170.10.133.126]
+Received-SPF: pass (domain of alliant.com designates 170.10.133.126 as permitted sender)
+Authentication-Results: atlas223.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@alliant.com header.s=mimecast20200423;
+ dkim=pass header.i=@dkim.mimecast.org header.s=201912;
+ spf=pass smtp.mailfrom=alliant.com;
+ dmarc=pass(p=REJECT) header.from=alliant.com;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 30 May 2022 20:41:53 +0000
+X-YMailAVSC: rFgnZ3I3bBsl4Mnag0FzXC2_ArSRa0bJRK2JoH.8XQiScCK
+ 3Xtq7qGNHeF5DipMHETMaLuahim88nh43EGOWndQkLcDXtjp2xjiOiHL7xU1
+ Ethvv1uh3hyeMIE1P.U5oITTrBd_cZ36xlspyhbJ2IzGvFEujh5v38H0tTOE
+ blRwJL9jNM4FMj10UH1DPcw5Ov7mkr.8X6F31VNplwewrEwgjsZNcRfIH4zU
+ 2wnxjbnh6FJB.tr8VGqKGutq2fOfil9822odPUzyMgmCIlWkEAwWEcNi9e3V
+ 2xOn2YaJhdIKLQmTjVRcOdJG4PnM6V0wi0gj6M_rYthLzVcNKZPxlw9MYSHF
+ B
+X-YMailISG: TrlZhMMWLDsa2G0nFMMKxs9sBdc1fLe40IddyMKdJQs4r4Mu
+ yhYEDrK1FNI7aNvXuYVsc3DHAhcUn5PFRYgnKuURH8GiETxJVPbXXueeMx8E
+ kR7wraVeyF.zbz0fRjKNUVg79w5zB4ZSgWEvhNNHou7dWI1wepN7bPptZo0U
+ ADcYKeRTsi69SX1zKcd36VaqMu8x.5LqBFfqVEETS3Way4u5O5e.BY4TPdKW
+ eS1BQ8SMvEst4L1MqqXbnUvSOZQQaixTSwsZHYsmJr5krzM1GCoGEZ2JtweM
+ uqXMBXBRTGlq8a3hmSz5gbyTeH2lEoGQT51308BiC5dyK_2l.jHsET0AK173
+ mT4Dqb1gPKMnco7YhhSv8USJTyUdvXwJLJ7GNEVaowAkqJ9d8ynNBhmflqa9
+ qKK4E8GGkxGlk4pG2VS5o0MxyR8jjJSlaAFcFH3TtFIFRpSmdV5JjmDLS_4t
+ 8.ZZWGRZ9kj4U9vebmMy7x60ZUO_Rw7GB.WRsV5QpBgqEtNQwT.BHXzrMP34
+ C35Uen_ePVSytrdEVnCh7E7G_vBdbFg4Oe0TiCtefshn1vfNl_R5nSUyJuG3
+ k44gABC9qQ325MP1MzSV4teTeYNBrMjbZl5tg1DobkrEbQLaRHRHhIMj5giI
+ By0Lw1Gbv8XfWRcFncliLrDWo9GcARQzWWpxf3jmKS64WXbxInUpF.uq_Zz8
+ GL9n9LWoIqRCQkRHZut7gvURKA3qbZevXiZa08bk_m3Lzoji1_4Uz9BpuVsv
+ vOQlXgMqagLwyw4mrFK8JU2aCSPZRKLRIUbgQPm4h4XwPvVCfGX3ipFLfpSZ
+ UJA.7_MFjzwQwi71Tfi9YPOhDm.2J2vZT3kruiV4mVFEPXFHINPZsOHyp3Et
+ J.MWuqCRp8HsgE0SuPA59bGlpv3FKHvDc6Zzxb1ynvC2j702Quk0T4eQmG1N
+ D7mODGkCnteSyTzNsd6KQAr0Nl1zzXJFPW7pAdEDooKjvNnroE4pwGN5ytpM
+ w43ItKEiuUU4ilqIIicxPllcQdQYDCbGsQ08PuPVwK66TL9krQ.1TcjylSXI
+ TP9S6Hd.XvVPXuoC3ayIf3cqzEnvnm1ufWKO70JBwUaq7CU.2Kfh2JPlnFTp
+ I7f3qHrnjOp2qS10GBhWHEvlr_2ycFVePoygXgsiCnAOWJ4KBJa2AzCGWj5i
+ fKH0wnRU4kn3OGf8t_0pZWzo_nvyfHDlfSPf_TG7zJgfbT4VIUJm33rZOtSJ
+ NmlbnNhzt1lLd6.QC0vKqjUGwpaymynCqh0A51gTDZNQd15rOw2uDAIg6u9U
+ HDy7DnNxFTdMDCpNEAYrfSjy1qCY7H0Q6jUhbsezwZgJ0NVH8rE9KzIAGPrE
+ aW2vspZ.bSoQQ9ClR3guKPd_JyFZvFTwkd.5lysUwgMWJeseR_dmbV27kXg-
+Received: from 170.10.133.126 (EHLO us-smtp-delivery-126.mimecast.com)
+ by 10.253.31.95 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Mon, 30 May 2022 20:41:52 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=alliant.com;
+	s=mimecast20200423; t=1653943311;
+	h=from:from:reply-to:subject:subject:date:date:message-id:message-id:
+	 to:to:cc:mime-version:mime-version:content-type:content-type;
+	bh=IpmclMrGCPCW01l14MrMT3P/vz/s1I/RuLG/73e5tqc=;
+	b=aSdwLug0rlMWNlfl7iXcFzRmY4JDKzYH/dK+E4UYtLpK0HhUe1j/84/uZY8jBmwEuwbqjQ
+	i4ELivN70nfsZJ+l5TYFOvvtHqKxrChWOHKI4G4qk11ynO8uDrDFyUvMXGNwH6m0Z1fxwN
+	NrUNefMi+yABDbi1sQaN9HBfhQRE/fU=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=dkim.mimecast.org;
+	s=201912; t=1653943311;
+	h=from:from:reply-to:subject:subject:date:date:message-id:message-id:
+	 to:to:cc:mime-version:mime-version:content-type:content-type;
+	bh=IpmclMrGCPCW01l14MrMT3P/vz/s1I/RuLG/73e5tqc=;
+	b=oqO2C5P7GOsgkxd0f3t065xT2oAOaDW8Aknx0FsARYXQYzAsKhRE7H0fwn/YGyEc+WSkqP
+	WdSg+4UBYdQlxQjfgog6ffkHa6WDuNcfvuGeyYqRFnByv+J8pvVYrLAcnVfRnIk3Ynm4LW
+	Z5eEZK/IBOUFP0nATObj9SnlJnTcyr7pzKVCILmg+dHkB6zPWJ2r1S9bp4YjC6boHeU548
+	CbhTs5eOaInUcQFZXtKGv2mhw+JDT5Pj+xMJpSj7Y+ZMu6TYqGw5h42BqTAORgbWXUQ9tG
+	Lzf2NEwdqq48xgJmxMXxK6xkgtUFiL4qdDLvk5eObK5cU1TJrULrLtQQWFBVqw==
+Received: from mx-out.alliantinsurance.com (8.4.25.26 [8.4.25.26]) by
+ relay.mimecast.com with ESMTP with STARTTLS (version=TLSv1.2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ us-mta-292-XsVE16fvPWGYmIxv8hr0YA-1; Mon, 30 May 2022 16:41:49 -0400
+X-MC-Unique: XsVE16fvPWGYmIxv8hr0YA-1
+Received: from EXCHWEST01.driveralliant.com (10.50.1.207) by
+ EXCHWEST01.driveralliant.com (10.50.1.207) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.1.2242.12; Mon, 30 May 2022 13:41:48 -0700
+Received: from EXCHWEST01.driveralliant.com ([fe80::8087:8927:e344:b505]) by
+ EXCHWEST01.driveralliant.com ([fe80::8087:8927:e344:b505%7]) with mapi id
+ 15.01.2242.012; Mon, 30 May 2022 13:41:48 -0700
+From: Steve Sampiere <ssampiere@alliant.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: THAT'S twelve-twelve, and probably about 58 to be honest.
+Thread-Topic: THAT'S twelve-twelve, and probably about 58 to be honest.
+Thread-Index: AQHYc4moRwN4UXG9nk+Kl1pJCQ9wrQ==
+Date: Mon, 30 May 2022 20:41:48 +0000
+Message-ID: <aecda80e8bf44b72bd51768f0ef4d7f3@alliant.com>
+Accept-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+MIME-Version: 1.0
+X-Mimecast-Spam-Score: 0
+X-Mimecast-Originator: alliant.com
+Content-Language: en-US
+Content-Type: multipart/report;
+	boundary="_000_aecda80e8bf44b72bd51768f0ef4d7f3alliantcom_";
+	report-type=disposition-notification
+Content-Length: 1329
+
+--_000_aecda80e8bf44b72bd51768f0ef4d7f3alliantcom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Steve Sampiere<br>
+&nbsp;&nbsp; Subject: THAT'S twelve-twelve, and probably about 58 to be hon=
+est.<br>
+&nbsp;&nbsp; Sent: Sunday, May 29, 2022 11:24:09 AM (UTC-08:00) Pacific Tim=
+e (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Monday, May 30, 2022 1:41:48 PM (UTC-08:00) Pacific Time =
+(US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_000_aecda80e8bf44b72bd51768f0ef4d7f3alliantcom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; ssampiere@alliant.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: uu4uX3I+EkCH9WnHsU5kgQ==
+Original-Message-ID: <98678f21-ffdb-1a37-991a-87ecf3e2125a@yahoo.com>
+X-Display-Name: Steve Sampiere
+
+
+--_000_aecda80e8bf44b72bd51768f0ef4d7f3alliantcom_--
+

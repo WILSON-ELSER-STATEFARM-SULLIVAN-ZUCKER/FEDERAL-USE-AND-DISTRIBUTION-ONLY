@@ -1,0 +1,134 @@
+From - Sat May 28 23:37:00 2022
+X-Account-Key: account1
+X-UIDL: AMz4IPEyBEkeYpLyOwl9sDk0CDw
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.150.12
+ by atlas215.free.mail.ne1.yahoo.com with HTTPS; Sun, 29 May 2022 04:10:35 +0000
+Return-Path: <ssampiere@alliant.com>
+X-Originating-Ip: [170.10.129.126]
+Received-SPF: pass (domain of alliant.com designates 170.10.129.126 as permitted sender)
+Authentication-Results: atlas215.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@alliant.com header.s=mimecast20200423;
+ dkim=pass header.i=@dkim.mimecast.org header.s=201912;
+ spf=pass smtp.mailfrom=alliant.com;
+ dmarc=pass(p=REJECT) header.from=alliant.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sun, 29 May 2022 04:10:35 +0000
+X-YMailISG: TCX9zrwWLDvisFuLkde4vTu8dq7f_aW.bvM5BBv6B0MJQ0nb
+ 4OOFnQsbh5p74gY572BDSn_R48_fcuet4K66smo9VL17ocHm8nEYYxztya59
+ ZYw7YO4gtyHTJhtEjL1PoJL6EvGLllVfnHUdPK.r44JQswWz7IEUccZc0A_.
+ mVdqwOeKV0VoArUeLa49xohhOPbw1fDFAXXkxd.1chG5UQb3oUVmKsULK2it
+ YTkBz5W.WxVH1.nZfBkVNg71CG_DiI1XWdIkcRf3Y7SRzbVBoT90DZHRREBK
+ dnSz8jTfE9aN6Mar8JCeHr7OUv9_P8J3eTukP56KN.HrQgAWkU.IrHs4PC.f
+ s8NYa6NTv84SeFUALWKoAoLhqOQc5YeIek4FTW_vUwdSGIIuGZW0yffSj8uR
+ Efk9.boi7jFwh7GRJcCXeakmHooTI3Zv.SCWsFStrFVyf94bqau1beKjGUc_
+ G17LrIZgHWxILG0Hf3gECLWMtZ9TWYap7zEWnaKBZ71qbm3sqyseA.emSpGJ
+ _xsMD0GlekN01wGI2XtCY2g0C.7iOt3P3.eHxM0xc9Ik0whLZdwNNj4Nofho
+ eM7gpv6KzsqBa0uhWxONu8bxILZ0aMDAOuJ04s0m8TctoSBGXEnsTisKEV73
+ 4Re3DqiVvhCSVcdp5rkK3NycxEg_i4GGuu7WYUSxYtfeGW5XVjox9u8g6Zyw
+ a13iUMbCwxVoYAgpiPw5iQUpwNWzzpulP1i3_MJaF8MTTBM0vtDHcfCa5.Vk
+ Bs6Pf9u3gwtwsyp2V6zaNXTkyp5jKqwXSeuARJm2JD3mdK94yvvLI7TXEjtD
+ .kTghVJom4wTIgwqUJ4rGdbgAqNUKNYg3uXuf5.GKGD4WTbOqvGFdXfJrC5x
+ V5gDpAjSeXd3MxVjdC660nWSPaW86Hs.50qgnF20g98lAf7_JVDuSDCnqdpG
+ a0vyxBKRjJZkCQpLmGDKSmNahlRBK0Pn.RUzeNLcpXbP7LdBoT3JCHu1ZXEu
+ 2GwHVGKiJhw81PLyP2Sx8DSOiVFRlT6VzvJtkKuOWscvbgZQuWU7qNxHJ12o
+ NGDLwbmcCyCKn5TXbUv1bI8orsvxeDOirzL5PYvMBzsIf35xEM6iF7LDlAdA
+ uBXn_13ZEEpFNamseXdlAa6llJ_1APAwS7rz7eoCfsKJJOOSZQrSpx9Iy9iz
+ dpzK6q75sWSZrpRDzEEps9aqwLaR19.s3Bg_1bL81z.x.fd_9ACIoj6c2Os4
+ GFSbexljUJTiuQjh..nDg.30pgK8Ml8L5Jk0yZe0o7elJXvWt8xeU99SKIIA
+ ac7CfXox9Xw2N.h1Gcmy9g47Xs2K0dN9QAGyR.KDV7z42_LagEmm6Zfeo7db
+ 51DSM4Emy9JAvjd_DDZmVBrtz0X8aLNEXi1SOEVnY.Xkoo4cVpMMlmu.LBF6
+ zZw-
+Received: from 170.10.129.126 (EHLO us-smtp-delivery-126.mimecast.com)
+ by 10.217.150.12 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sun, 29 May 2022 04:10:35 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=alliant.com;
+	s=mimecast20200423; t=1653797434;
+	h=from:from:reply-to:subject:subject:date:date:message-id:message-id:
+	 to:to:cc:mime-version:mime-version:content-type:content-type;
+	bh=veXS8CrLDscFBadx6Kp6ShzwZQMLQF8Gm7SAyEXQ4qE=;
+	b=g1EcK4v3LcbdO+eXOKKn5jBbMsXRFMiD+LwGgvlJ27NyMK7fFOTRGpJ9z1oYFgqW9VXTJ4
+	j5zSXv47skAniuArIsLbVujGg5Fowrp1v1bLXuph//sS6ZOT3El5MXhD2ZfXoF/9EYhGn1
+	edz8qmWI6GLh9TtQznOeTAXI4rRpwuA=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=dkim.mimecast.org;
+	s=201912; t=1653797434;
+	h=from:from:reply-to:subject:subject:date:date:message-id:message-id:
+	 to:to:cc:mime-version:mime-version:content-type:content-type;
+	bh=veXS8CrLDscFBadx6Kp6ShzwZQMLQF8Gm7SAyEXQ4qE=;
+	b=S0TbQFAdKdbL/UUePvibk8pK3fPGGz23vwiq6wNY4Y16fG/vwBuOz3DOi5G+4CfpGjP4aX
+	omtL08n89i5aU2FKfcKaB+4Xd9x/eaKbJe11jclWVxiFHMpKsdVi7g/a3echCadCguBsxI
+	Qb2+mAeyrgwoXRQQ6zfvLr32YiX+tapVTe0jas3E+0Fopuns23ytsAgcFIKIp55wJ+YuHm
+	NI/CMBUEOkHuR0hC428flLXFBSE5WRTrSsqinly/9VTC3Xkc1+EVGr562C7SETATEwpqXC
+	QuagRsj/JXYvSOSP4dJj586yUidsi+fJTVQcUJ7CvPnTUnv386xP2NC8jGDT0A==
+Received: from mx-out.alliantinsurance.com (8.4.25.26 [8.4.25.26]) by
+ relay.mimecast.com with ESMTP with STARTTLS (version=TLSv1.2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ us-mta-597-NtkS9s5TNbi6dkzUa5dhzg-1; Sun, 29 May 2022 00:10:32 -0400
+X-MC-Unique: NtkS9s5TNbi6dkzUa5dhzg-1
+Received: from EXCHWEST01.driveralliant.com (10.50.1.207) by
+ EXCHWEST01.driveralliant.com (10.50.1.207) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.1.2242.12; Sat, 28 May 2022 21:10:23 -0700
+Received: from EXCHWEST01.driveralliant.com ([fe80::8087:8927:e344:b505]) by
+ EXCHWEST01.driveralliant.com ([fe80::8087:8927:e344:b505%7]) with mapi id
+ 15.01.2242.012; Sat, 28 May 2022 21:10:23 -0700
+From: Steve Sampiere <ssampiere@alliant.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: NO MANDATORY ATTENDANCE REQUIRED.
+Thread-Topic: NO MANDATORY ATTENDANCE REQUIRED.
+Thread-Index: AQHYcqCi/Jgzs3p34kaJN634V3ipHA==
+Date: Sun, 29 May 2022 04:10:23 +0000
+Message-ID: <ce25aa19ba634053ab3e4ce9e37e0e90@alliant.com>
+Accept-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+MIME-Version: 1.0
+X-Mimecast-Spam-Score: 0
+X-Mimecast-Originator: alliant.com
+Content-Language: en-US
+Content-Type: multipart/report;
+	boundary="_000_ce25aa19ba634053ab3e4ce9e37e0e90alliantcom_";
+	report-type=disposition-notification
+Content-Length: 1306
+
+--_000_ce25aa19ba634053ab3e4ce9e37e0e90alliantcom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Steve Sampiere<br>
+&nbsp;&nbsp; Subject: NO MANDATORY ATTENDANCE REQUIRED.<br>
+&nbsp;&nbsp; Sent: Saturday, May 28, 2022 7:34:56 AM (UTC-08:00) Pacific Ti=
+me (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Saturday, May 28, 2022 9:10:23 PM (UTC-08:00) Pacific Tim=
+e (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_000_ce25aa19ba634053ab3e4ce9e37e0e90alliantcom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; ssampiere@alliant.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: JgOQkXR/1UOigbR+hM462Q==
+Original-Message-ID: <ec5462a0-6bbf-040f-0a72-fce20afb293a@yahoo.com>
+X-Display-Name: Steve Sampiere
+
+
+--_000_ce25aa19ba634053ab3e4ce9e37e0e90alliantcom_--
+
