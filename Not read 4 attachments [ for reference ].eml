@@ -1,0 +1,238 @@
+From - Fri Jun 24 08:32:06 2022
+X-Account-Key: account1
+X-UIDL: AMEHa3Y76BvIYrW7swEo4PrLmng
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.196.216.85
+ by atlas215.free.mail.bf1.yahoo.com with HTTPS; Fri, 24 Jun 2022 13:27:14 +0000
+Return-Path: <gtmoatp@ntrs.com>
+X-Originating-Ip: [67.231.157.79]
+Received-SPF: pass (domain of ntrs.com designates 67.231.157.79 as permitted sender)
+Authentication-Results: atlas215.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@ntrs.com header.s=2016-07-05-ntrs;
+ dkim=perm_fail header.i=@ntrs.onmicrosoft.com header.s=selector2-ntrs-onmicrosoft-com;
+ spf=pass smtp.mailfrom=ntrs.com;
+ dmarc=pass(p=NONE) header.from=ntrs.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 24 Jun 2022 13:27:14 +0000
+X-YMailAVSC: 7x0SNVk3bBsmKjITdTYpkaevdqq4CvKfa52MJmN0GDfrhXT
+ ZuLYPSEp43XDfyxNs6XYEZMWos8FBe.4BDLAjFIW9_C6qN.kwA98gi3u2TIs
+ 2q2fb0SM0tmzzDVzgsmJxhay5aR6sskcjmu.u6POQDxD_JaNTLuAhrQoZxoZ
+ c47UaN5PWvA73s7.Zrdxk.gGMY50ckpAmOGe8ZMjM8CVJX6Ww6.vm8ETAzx4
+ gecor55R9FhBLbfTFtU2GBJ7HcrYhVhuPVfS5bmUOordJ4Hke6cF_qvGYI4N
+ 2W75EazhVKx4sNKz96eq7v3BAvcN2sX2nFkR6JBTz68AP1BPjprmBDK0YssS
+ g
+X-YMailISG: wI302rkWLDvkFMnqJRxBeNPogt58XEn7vkRz2LQvX1NTwrf1
+ lgpSphq1qvtlkw35KNjyJBcRrTCCgV8YnmQ.NBM.9hpNDPtNTGWNd37r.5R4
+ AaIUDwh1yMa3BUwieqm3Av1JTVkDU7C579xPCG.07k.d.qv.6EcY05fA.s41
+ XAP527.C7Mv_r41bAg__3ydsVS6KujKtwPByuo5VCHUv2My2rWmuSK2NZeI3
+ Xfr3zpSyWpcHgK8z4A_rRACMN183cqZksi5RI.99IX2X5CoLfCUPUJgtCa35
+ 4lCNwD8say7Elqgd.2fGBAbfVTK1xyMSA.9ty5vJGob3jnegbJDoghLX1T.U
+ 3sVcBUddV3dnk6llsA2jIRhCMADhlAUNcEVvoqtkrS0ZuwGo74V2IX_E4Tb9
+ J_fl9IbRUc74j870_UrfFExtgAgCJ78O7YsivJjHknHsBjlCiQecHz8GTRyz
+ 7kNVAI6uIW5ib25gkfj.yOaute8Tr7C09Nz_BLxt1yEMqDEbmvQNME2ODGFQ
+ jJEMGh7Ec9QUIBK080422jEcnrUYWXaIbk313_QOgYNfpuxGWfQLUqFJtGgZ
+ X9s3Mu2FtMpZQeULepgmLLxogFMXGaHzOYh3g2gm4tWwHKt_LeCePSQ0Dcgk
+ gKbaPY18Sxzh4Eru0ppHre0_wNJbNKmuG6wUs.9XePKpRgaFvWtZcmP1FLjL
+ ITKXHZKkv_fouc3N6voeN6H0NOceWL0XUbKN.7_ZXxxaCl4f5Olt.U0JmIAC
+ 3dwbn0GXttFSD_r87SJhfnfOMWKatIkk5jL7Gzh3K0Q4tI.0dmEqT3.wpfD3
+ gCuPHXk3KZGHtSIw7zVb3v4Vioeg_BwM9pInsyLEXqphVLcswXjL_J6qGkHf
+ r3aMCw3rC62fvh0mP7x2_CmWXSUNfhUiWZqUFfqsc.HndHqx96NVfImq6mQX
+ uxxGryx0u5sslWA4nS9_nialfGM_i8Y0EyrfDKnbaPa2mF4cHQTGy_A2cQV6
+ 6.VvVcNRi6X52qz4vZ3Ek251DD6W2_WQ79CuOhjP_HPFx5xhDbk9D4Ca1eyK
+ GtdWCF9yV73uoZSGpGADsWIesXFqf3TWN5kcJFbp3RsjhuNQtiPaHUlEZmqA
+ X6ealikhE53QEHpgrYb6SVFlNWZzc6vUQXMgZaScsfdxaBGp5JPIR1K2XKuY
+ i3NYsrO75G.1lRMPNlvVYTWkUYrF_LlExkR0c_7KZHej89E64jSeND2qRAR.
+ sspqyOQaP3d8WAkzoMuT0CjekpStS4uJAlei3QSNNk6jit2CeDsq0x1WfrB3
+ UF43G9xl4a0PM7Lqd2Sux.6txzooBwuqKGioQYqGX6vcxTuSGiekwhxsQ0IE
+ NMXHon3u4BpP1aKHjGqipBYY4_8z4_o-
+Received: from 67.231.157.79 (EHLO mx0b-00185f01.pphosted.com)
+ by 10.196.216.85 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 24 Jun 2022 13:27:14 +0000
+Received: from pps.filterd (m0290883.ppops.net [127.0.0.1])
+	by mx0b-00185f01.pphosted.com (8.17.1.5/8.17.1.5) with ESMTP id 25OCsSIq022762
+	for <ms60710444266@yahoo.com>; Fri, 24 Jun 2022 08:27:14 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ntrs.com; h=from : to : date :
+ message-id : content-type : mime-version : subject; s=2016-07-05-ntrs;
+ bh=qfSxzTeVFF41e6wPO1DOOHji+MmIxA2OXtAoNmFv4Do=;
+ b=BAlad1VwMQS08bSoN1Nol1osnMrit5x2so57aB+SlFz/E/u+VfXKc5BshcEZpecqQ6as
+ 59QG5lM9QuSykso8ihyf3rneYu2Fmkv6ekcUV3TiK3NlgPjmrJHtWzRfk3a2P9lGewhW
+ HMHvyF3frhC6MICpG8y+KvvuMk0o3/Uxe1EbC+tcQ1pELz74Tv3zdlNsOZbDG3iupEM8
+ bzXygMOAQX4LJJj5idilPOI7BwUWvVIByIkRLoQwDf1p7da8RVUcn+w8P0KCEXq9vv9U
+ g2Wq6y36ElX7ONyXtAU9fZg2TXW60KCPRg22214KuyNuW+j9+UPAyeILKTC0n7TlTCI+ Eg== 
+Received: from appnpcupmta10.ntrs.com (appnpcupmta10.ntrs.com [208.95.144.122])
+	by mx0b-00185f01.pphosted.com (PPS) with ESMTPS id 3gwa57rwgk-1
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <ms60710444266@yahoo.com>; Fri, 24 Jun 2022 08:27:14 -0500
+Received: from appnpcupmta15.ntrs.com ([10.92.65.108])
+	by appnpcupmta10.ntrs.com (8.17.1.5/8.17.1.5) with ESMTP id 25ODRD4P018018
+	for <ms60710444266@yahoo.com>; Fri, 24 Jun 2022 08:27:13 -0500
+Received: from WPCMXSP023.ent.ad.ntrs.com (wpcmxsp023.ent.ad.ntrs.com [10.36.8.13])
+	by appnpcupmta15.ntrs.com (8.17.1.5/8.17.1.5) with ESMTP id 25ODRDl5001760
+	for <ms60710444266@yahoo.com>; Fri, 24 Jun 2022 08:27:13 -0500
+Received: from WPCMXSP002.ent.ad.ntrs.com (10.36.9.12) by
+ WPCMXSP023.ent.ad.ntrs.com (10.36.8.13) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2308.27; Fri, 24 Jun 2022 08:27:13 -0500
+Received: from SDCMXSP056.ent.ad.ntrs.com (10.94.8.7) by
+ WPCMXSP002.ent.ad.ntrs.com (10.36.9.12) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2308.27; Fri, 24 Jun 2022 08:27:12 -0500
+Received: from NAM10-MW2-obe.outbound.protection.outlook.com (104.47.55.108)
+ by SDCMXSP056.ent.ad.ntrs.com (10.94.8.7) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2308.27 via Frontend Transport; Fri, 24 Jun 2022 08:27:12 -0500
+Received: from DM6PR13MB3921.namprd13.prod.outlook.com (2603:10b6:5:2a1::24)
+ by CY4PR13MB1528.namprd13.prod.outlook.com (2603:10b6:903:13a::14) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5373.15; Fri, 24 Jun
+ 2022 13:27:11 +0000
+Received: from DM6PR13MB3921.namprd13.prod.outlook.com
+ ([fe80::c54e:36e4:25ef:3041]) by DM6PR13MB3921.namprd13.prod.outlook.com
+ ([fe80::c54e:36e4:25ef:3041%7]) with mapi id 15.20.5373.017; Fri, 24 Jun 2022
+ 13:27:11 +0000
+From: gtmoatp <gtmoatp@ntrs.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Thread-Topic: [EXT] 4 attachments [ for reference ]
+Thread-Index: AQHYh84LW9+cjxReAku7485f0khFMA==
+Date: Fri, 24 Jun 2022 13:27:10 +0000
+Message-ID: <c732531a12314ea699ec1cfb5bfee223@ntrs.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: fbc0498a-2dc6-4ac8-47aa-08da55e53e63
+x-ms-traffictypediagnostic: CY4PR13MB1528:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info: s4v1KwKCacd0waPGEkJvIwZYrLUtJu00wnE6ivrKVGpQzd8N7Nun1O/0wQsqDoA+AGDHijG2qeM9tmTeMeRA7FKXi1UqPf/HFUDMHnrEKrWENpcchhgDur1FO2tbcoUpMvUrroiDSTLUWv1JLkfBH8DfcyLTi9d6YbZp4xrQdVEG3cb8LSefCnxgFPGb2CcC3C5ZuHU1336YQMRsVIdhkoV0HfWP7jauR81XxWfQ4qBm8jlqS3i/BUcAqI8y+jxgOaxkW++NfBYtfGWa+NU2tlB44xZgRm//Qvy4h4X4fk061L+p6EMMmyStHeIEDLYSnsQli/KlEug4hJVrMcJX4/MRX5K7JEtbDx+qepYbpL6wiYDAuQVhTVLiuoJrhrdnp8+nvslb26915KV2sw6RMp9CN+grzjPofQLJeUjgU6hc2Xrm2VlMOgMWlDUPbQILmddTv1cBoiyDfk4yeskIhTsn210gIjhrntGarroDpvCmocQvd1+iRQt9i7CkX9Xra7On/BQtPZUCCxTVQATbSA==
+x-forefront-antispam-report: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:DM6PR13MB3921.namprd13.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(376002)(366004)(346002)(136003)(39850400004)(396003)(6506007)(6512007)(86362001)(8936002)(36756003)(24736004)(4270600006)(108616005)(2616005)(2906002)(64756008)(186003)(6486002)(621065003)(6916009)(41300700001)(122000001)(66946007)(478600001)(8676002)(316002)(73894004)(66476007)(71200400001)(66556008)(88996005)(66446008)(2490200003);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0: =?us-ascii?Q?k4xjM2NqPnMJu2IciKd6yJtp3VVaGk1FW++d5xiPJcoivH4jvwZPTs552SPy?=
+ =?us-ascii?Q?PkicYonUPqTH8V0LKoIReuU2zMpiI0Mq7qq7aYI+vlYaC6FFOs1RTCvA7PvI?=
+ =?us-ascii?Q?crZAnguZ6Ng0C1ZcjtvA+g4uFWl2wRVE3bGg/BK1HvgIUzryNyT0EqlAoiMc?=
+ =?us-ascii?Q?5iRUJjnwhkKQuCOS5QEtu3vzUj+50zt4C10HieWZSjkSGNPbb/NxLN6UqDPH?=
+ =?us-ascii?Q?phIrsv9XexDrBtCc0FTO6UHbbEQ0Gq9gtl+MNiHPOkyTqhY1yiT1p23GQtzi?=
+ =?us-ascii?Q?TGwf9LrwDtAESzNu2uerNgSnDvXZSHlhhRKUCIKND6vqlGQuBwGOCDmEaQLm?=
+ =?us-ascii?Q?3ma9A6WyU6Gr4/1+3Q+CPCz1cUAEh3dh9TbpTxPFg5u6JuWSEzD6cG7sQLGp?=
+ =?us-ascii?Q?SXkzDaf0irXfL+o/Ztct9/Fb/4hK5ooxuRtQwuJnfa9xBF32nY/lwq9Ow8KU?=
+ =?us-ascii?Q?+6X26/vVEHWG5QC7Yfm0k+4kz0WHNGz/ueXZhs9ak5ji7cllKI1w6Dk2XMz7?=
+ =?us-ascii?Q?BZ7oaOZBAZbS/u86WRwU1imB8KNmCTDg1DauiZAkbivsrMB0yel6gzJBgUas?=
+ =?us-ascii?Q?KHuvq2IF6ozYykAR9Vsij/rrLEErmkQzKlONswiEO8rc+KbiKxZxZyBr3qDv?=
+ =?us-ascii?Q?ocAvX/Xya5kypgg7dkzxaPNLWtavsp2tO70Y7G9KmPRW5DvNlFgE/ha+GPwN?=
+ =?us-ascii?Q?9KgemGjmdkh3nuhxz4ws4NLkw4VLjp6HOsRu+FSdvEfdCUwkIqHjFpAe/tQk?=
+ =?us-ascii?Q?hDecUKEvNQogzNVPK+N2PBzzAdakvD0tMPdDRSDe5Sq826KzERoyZpXgth1A?=
+ =?us-ascii?Q?qf30UGdyiQgy2E7X2FHvrXXximFYPdwfiRVP7gQG1wVEaaxG60t99TyPxlOO?=
+ =?us-ascii?Q?fwqNOr/KgHUjeOnvvkoE6b+Xqi1SEYOqeH/f4wvFiktzPV/MUL7GHuN0NZqt?=
+ =?us-ascii?Q?GStU27wZUuxxRUeQJaOVxc/h3aL5ZykwdcrIgR2+1Ztu/zJDT+8aC8sfkWPp?=
+ =?us-ascii?Q?JoWOflA/oxNjFm08rL88kc7fh/rmymCsUqQfoCA+MzKMvy7BfyUG2sDY3+5W?=
+ =?us-ascii?Q?sTpiw78a6MhL5zlgUmxhHbLLzmMJEcvPjsOyG5ly4MDs3KJl5BJRaRpt2r3J?=
+ =?us-ascii?Q?y0ZCF1CoiQXCwJ2YwJPQcr3eZ0J1mAssZkk2wm8TmKrq/1n+xjdVZoMwxY4G?=
+ =?us-ascii?Q?+rslV9v/L69aJiekcMI8nRDBqw9/sgxk79e2xluG5xN1PPQ4O26Ccwup1uc0?=
+ =?us-ascii?Q?F25F+6AD1xIhT5KwqxVtBEfD3PpI7ldEd0Az8vJFVwiig44BnWUwfHlKegtd?=
+ =?us-ascii?Q?d4UKDUQPrm13au8mgjrEN/TyI2IgSXL6F06MMVRDxcHB8tRULBLOsNRgiA8v?=
+ =?us-ascii?Q?eh9dDGo8Yfo2oqzyLk6sAPnHarCCodIEv20+fpdAgZn8XWHtZwRXX1AfTLkN?=
+ =?us-ascii?Q?8dDTCJwcS4uHfMxD7B8IsM1cJZvTckHV?=
+arc-seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=BkMzk492zrKPcuo3d/EVOeCLMS5PvcUUXaMxZj1WiNhWft5+2ZeelZb84ktFIYQspAZ3hImZ+SvhdjRD9V9EMVqacS0/lk5DHb2ichswtEySemFBzM1V9TDmsfEKzBgAFmaDpbVorFou1CWY7Nskjhu+EiCMmnSz6TEpI8TnHxGJzvdUR0QJ41/icVMqes7Y4tQ1+QXGIp83QcdEgE23tI0cb1dLwcDuo95nzzDgS4HJ+AuWAgFHgND/BpgeSzIUvJHic1QMUIgazkKM84uZnHEDmQXjMvkJM9E5/jej73MKl0bQDuLwlHicsAUgM3P8CIc34VL80KwKbl6H+3fICg==
+arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=4Ygt5iNwPMfhismUFVbu8sZej9BeQX0DxG1ofKRjva4=;
+ b=ec9IjERDTEwO+vXCP5P6jSQZ2etP9xNvbWQ+RcDvUV+fkLCHpt+Pf7VYqX59uWa5owNxS1UK78WUBzHcS1MqHJLv5izLu7ZXD/oLqrHAaxXkQTiU/DNo1BqzUe5GBO3N+opKwVxrgpjjb2GWrPDOYD39IDzbdriOngglNiBva28Z3W7FSkKSsTAewVhW+ax/1W4ty9UV4tIZ4edGhXYlX5mROPSfaJE0Z+FgfAtHUUwZdKobXDawKhYUFaVW7l6QjUsDYH5ekz3ruiQb0h4GlIqXgS6O0T0ObKVTntDUAW1ciBBxZxbtCE7WeuAnMstX+Fb//KynYwPaFGnbfN44xw==
+arc-authentication-results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=ntrs.com; dmarc=pass action=none header.from=ntrs.com;
+ dkim=pass header.d=ntrs.com; arc=none
+dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ntrs.onmicrosoft.com;
+ s=selector2-ntrs-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=4Ygt5iNwPMfhismUFVbu8sZej9BeQX0DxG1ofKRjva4=;
+ b=Lx0o9aeu3Z+3pXhZtFBJ1/2aNMaZOIM8JnlK9f8WoXO+KUjEMzwbTVZOS+FeyiuvpwARrFgwD/mucxLXqZXOc9djy7n647TwtChpJaU3skb8nzlcJBuuOyYUQsXI/hJSCzn+Hi8bX7zy266wfAYXDH1dCNaXqKQ5hWPfKOTapm4=
+x-ms-exchange-crosstenant-authas: Internal
+x-ms-exchange-crosstenant-authsource: DM6PR13MB3921.namprd13.prod.outlook.com
+x-ms-exchange-crosstenant-network-message-id: fbc0498a-2dc6-4ac8-47aa-08da55e53e63
+x-ms-exchange-crosstenant-originalarrivaltime: 24 Jun 2022 13:27:10.8443 (UTC)
+x-ms-exchange-crosstenant-fromentityheader: Hosted
+x-ms-exchange-crosstenant-id: 2434528d-4270-4977-81dd-a6308c1761a3
+x-ms-exchange-crosstenant-mailboxtype: HOSTED
+x-ms-exchange-crosstenant-userprincipalname: rGJ/o0S+QfRIcmKf8AzDNLMGpoxhMcSuCok21EYrtQhXz5AkM8QeJABxXf5bxAUfmR/fwLrM6gHstbV7y6ufng==
+x-ms-exchange-transport-crosstenantheadersstamped: CY4PR13MB1528
+Content-Type: multipart/report;
+	boundary="_000_c732531a12314ea699ec1cfb5bfee223ntrscom_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: ntrs.com
+X-CFilter-Loop: Reflected - sdcilpp007
+X-Proofpoint-GUID: PM-fm7UJs-MTzmYHCK6km1dxit39AKEE
+X-Proofpoint-ORIG-GUID: PM-fm7UJs-MTzmYHCK6km1dxit39AKEE
+Subject: Not read: 4 attachments [ for reference ]
+X-Proofpoint-Virus-Version: vendor=baseguard
+ engine=ICAP:2.0.205,Aquarius:18.0.883,Hydra:6.0.517,FMLib:17.11.122.1
+ definitions=2022-06-24_07,2022-06-23_01,2022-06-22_01
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 clxscore=1031 suspectscore=0
+ bulkscore=0 priorityscore=1501 phishscore=0 mlxscore=0 spamscore=0
+ lowpriorityscore=0 impostorscore=0 mlxlogscore=434 adultscore=0
+ malwarescore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2204290000 definitions=main-2206240052
+Content-Length: 1876
+
+--_000_c732531a12314ea699ec1cfb5bfee223ntrscom_
+Content-Type: multipart/alternative;
+	boundary="_002_c732531a12314ea699ec1cfb5bfee223ntrscom_"
+
+--_002_c732531a12314ea699ec1cfb5bfee223ntrscom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: gtmoatp
+   Subject: [EXT] 4 attachments [ for reference ]
+   Sent: Friday, June 24, 2022 1:19:55 PM (UTC+00:00) Monrovia, Reykjavik
+
+ was deleted without being read on Friday, June 24, 2022 1:27:10 PM (UTC+00=
+:00) Monrovia, Reykjavik.
+
+--_002_c732531a12314ea699ec1cfb5bfee223ntrscom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: gtmoatp<br>
+&nbsp;&nbsp; Subject: [EXT] 4 attachments [ for reference ]<br>
+&nbsp;&nbsp; Sent: Friday, June 24, 2022 1:19:55 PM (UTC&#43;00:00) Monrovi=
+a, Reykjavik<br>
+<br>
+&nbsp;was deleted without being read on Friday, June 24, 2022 1:27:10 PM (U=
+TC&#43;00:00) Monrovia, Reykjavik.</div>
+</span></font>
+</body>
+</html>
+
+--_002_c732531a12314ea699ec1cfb5bfee223ntrscom_--
+
+--_000_c732531a12314ea699ec1cfb5bfee223ntrscom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; gtmoatp@ntrs.com
+Disposition: automatic-action/MDN-sent-automatically; deleted
+X-MSExch-Correlation-Key: 9lsMCK3KAEGpsPQQdQcyaw==
+Original-Message-ID: <2fea4ede-2f61-36d8-1834-b220b8b7c188@yahoo.com>
+X-Display-Name: gtmoatp
+
+
+--_000_c732531a12314ea699ec1cfb5bfee223ntrscom_--

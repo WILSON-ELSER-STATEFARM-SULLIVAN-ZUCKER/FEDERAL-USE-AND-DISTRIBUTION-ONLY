@@ -1,0 +1,224 @@
+From - Thu Apr 21 12:20:17 2022
+X-Account-Key: account1
+X-UIDL: AJr5ByU6NqNrYl/rYQJtGP/AG9o
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.40.73
+ by atlas215.free.mail.bf1.yahoo.com with HTTPS; Wed, 20 Apr 2022 11:15:44 +0000
+Return-Path: <HGonzalez@euronext.com>
+X-Originating-Ip: [40.107.11.62]
+Received-SPF: pass (domain of euronext.com designates 40.107.11.62 as permitted sender)
+Authentication-Results: atlas215.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@euronext.com header.s=selector1;
+ dkim=pass header.i=@euronext.com header.s=selector1;
+ spf=pass smtp.mailfrom=euronext.com;
+ dmarc=pass(p=REJECT) header.from=euronext.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 20 Apr 2022 11:15:44 +0000
+X-YMailISG: Yxhw4oQWLDsHcnBkw1Scp64l.1z08qidrhcr2pSn46yG8EdM
+ FUzbd4F5Wcj6X9kh1gBVoChEKsCveK6PKhvShOz63QVRF4TMDMvwQ0yrFU_z
+ xpbdYcNnnVZskR6pA21_YEPwwYvn4TnM7Vq6TyxZYaYJ1yYz3n1uWk9Bu7ZZ
+ q4jeRxMX2IFQxXF1IkJORBXjcqhiFCgiiIHpeT2dDqpavqJmSKlrs9gnqJ_u
+ Q7Pct.WeM3oRzT8sKbMLvsEN0e2E4GRjhdXtY0duxbu27PxMRF4I3DEpS3o1
+ RGTKViMQAZtHVQSUpuVYKQwJZXFTrS9FWnJqXHmsfPIEaahEKTkVNSHyOhup
+ W1kDzDffV6BcMlFp2V1b68Dwk4YCLDbnQrJbUstUKowWSD6.x6.ypOGZ9jFB
+ wfDDzOjExVJb4R7WmOw2y1LZGnWeCDM.ekFY9bqr8BWaw9BD3SqTeIsmnYSk
+ 9DA_Q3UXmx4xPl1EaKZpnkBSoSv0CZ82FxlEyCguHJtub1i2_pB72Ey1GVoW
+ BVw3Fko4t7X0DgV6uFVyQzEVGwSP1ENwM9LTu4eixE6BIErabLa36gHctyxs
+ WVjqih7aIbFKLyPUYt7LvGBreS5GbFr0PrzqJxUu27cKCjl25Glm00QNN8js
+ J2tCGHKGyTZ9JoEFsnzHhNZB3xmYPlfNEotVIcCmCeVXtaA42YTrL33_r7ar
+ m5K6f0JXHK.t9zcYwC6pGWImIsn3wsNe6CCjQ3dmT4OXl0oPAe2QLenbHtQ9
+ jYjrTaetKPivCj6BBBjVgQoWN9GQPnhOv65ThNFQF0yyLUw7JmUC5wt5D.zs
+ gEdnr.9_JMAuGNf8L8KtQAcOFtHNhMn.YVoGHylJHfNPNVt0B265uQU6IDlJ
+ _MRkfhI1GWYaQWNiaVrTcPumdWrxCSon5TB2_Di1hZfIzl.BEwKu6ItJYrGw
+ V1xYONUksLXqrDPdOe8Na3m.kbHGCTU0aV9zM_uzIR.mXCDd6zEneWzZcNAJ
+ 5HovSWTGff.Ow5orpScQtuBqm8wYM8jRMsCXJnkctJTMLH2ZbktiAFj5FQdn
+ yOi10_QwK1.bK2doOOG5k177ftq5CJweSHw.tz96eCajBRY6RZjuMnyIhMFU
+ 014WifUWXI176bYOIdl7wYQ_C_Xnj_NyTGhY1eG66wkS_GpNnoOw.J6meoKH
+ 2ZCl6KxKaB37kgpHpGL2xyFGAxadoYYVA70X.xAUxEu0UjpOXp3qS9vfNB9T
+ 6.roo.uD7baNBmB0.QZx3JjH1bgJ3Z9ALgMNWVnz4ywyN7OckK7GlwFKHX80
+ a7GBIdHOTbBmIEx1vKvxEebazs00OCS0WyjPOkB2YBgRwiqUMT04WU_pI9WX
+ woYplhUwkIjsENih8NcjQw28WCcgKi7IIrZPJ06zVy7GzqzqVMLy
+Received: from 40.107.11.62 (EHLO GBR01-CWL-obe.outbound.protection.outlook.com)
+ by 10.197.40.73 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 20 Apr 2022 11:15:44 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=euronext.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=AP1GSbJOpsLtGmKMmWXtTIq16Mw7OBG0AlsY4FMJQYk=;
+ b=Mn2Ou79qna9tq+dRo5LRv3J7tbVyjjUpeBN1Wtq/dLcfFN7HQuRiVdvwxZhOO81FZ78WLYu8cPHJzor03BZjJGDwdWg8AR8YZ1SZf8Uslm9/Tp1DWMDi8EGo4Evo168shvy1jtS+Z0w6GcgM3883/9i5U7YWx/SDu/ah6Ug335RLtpgfen3a974/O/5oLcz+HG4PcJNfJjSuyU8uU0kNRtEVdmwtreM5nobMjS9ciNcEwj7GPrVY0ukdeXBHN6FdzP/hu6Wg08SaMG7L0ogAn7WT9LoL5hvAy/vxXqjRhDvyo5Yj6mU1qXe8Hc8LFe4mtX0S5xgKRZKqrmCTSR+Big==
+Received: from LO2P265CA0442.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:e::22) by
+ LO2P123MB3998.GBRP123.PROD.OUTLOOK.COM (2603:10a6:600:17d::7) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.5186.14; Wed, 20 Apr 2022 11:15:42 +0000
+Received: from LO2GBR01FT042.eop-gbr01.prod.protection.outlook.com
+ (2603:10a6:600:e:cafe::a9) by LO2P265CA0442.outlook.office365.com
+ (2603:10a6:600:e::22) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5186.14 via Frontend
+ Transport; Wed, 20 Apr 2022 11:15:42 +0000
+X-MS-Exchange-Authentication-Results: spf=pass (sender IP is 212.197.236.153)
+ smtp.mailfrom=euronext.com; dkim=pass (signature was verified)
+ header.d=euronext.com;dmarc=pass action=none header.from=euronext.com;
+Received: from smtpe.euronext.com (212.197.236.153) by
+ LO2GBR01FT042.mail.protection.outlook.com (10.152.42.169) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.5164.19 via Frontend Transport; Wed, 20 Apr 2022 11:15:42 +0000
+Received: from OPDEUEXM13.oad.exch.int (172.26.66.80) by
+ opzeuexe10v.oad.exch.int (172.26.96.13) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id
+ 15.1.2375.24; Wed, 20 Apr 2022 13:15:41 +0200
+Received: from OPDEUEXM13.oad.exch.int (172.26.66.80) by
+ OPDEUEXM13.oad.exch.int (172.26.66.80) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.2375.18; Wed, 20 Apr 2022 13:15:41 +0200
+Received: from opzeuexe10v.oad.exch.int (172.26.96.13) by
+ OPDEUEXM13.oad.exch.int (172.26.66.80) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.2375.18 via Frontend Transport; Wed, 20 Apr 2022 13:15:41 +0200
+Received: from GBR01-CWL-obe.outbound.protection.outlook.com (104.47.20.53) by
+ smtpe.euronext.com (212.197.236.153) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.1.2375.24; Wed, 20 Apr 2022 13:15:41 +0200
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=UxpX6+kjlA9ZUxsK2TX1oowzw8AHdZHtd72qY4F2BGFr+QZfRjpvS5pYwl6Ot69u/bxy5mOfW935/WiSeJDMcz+7lwOV+nqxf7t8ets3uBYeqbyjNinFW+ul6pLAlo30s/hb/otNqKvPeQhI96+c4UaK0hd2McPaCqEDsDyOA/XrH2SuAlcn9uMKn4gipKrVG9/ozlTFZI0lDn/h9VRiQi2CjC5ROkk+PJU38/VNBlEB6GylUcALZYZ3FPpu9Xr5a+hrdcc38KqalqrU5tPkl4WZFOaqqpro59MWtLroltSx0x6tFKlrRORTz0KmnEtEtAooFA5Zwj+g+u1ieGjvQA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=AP1GSbJOpsLtGmKMmWXtTIq16Mw7OBG0AlsY4FMJQYk=;
+ b=PU2ArwRxF4GlnI2ynk3RNk3aPGBQtH5q+Z9w4fV+ToBq5p7RyHfZniMO8BceidoJauZhoouUKSCo9n8KDc/Xg+/XrUUpVf+k7ug6+QodVg3N6uOZPW+VPDpbMBHmM2B9cjwJeJ/hlIOjBawiUlA8v/ws26YMoKK8gz2mJqfxjS3yWgTNg5/7Q2ZK5vLjsOsJDfemtUoyBRgdI8q4df+2x0XBfBYhMNh6xix/MaTLzstXzcPyuN6+6HiQ3A7ji9KEAl0ijBmfnGpFBckv5EOAcrAVh8vjYwPgcBC/LNcHgAUu/5N03R+iQXSEtoe/tTNgZG+9hMcIQhD9MtfZAiJVeg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=euronext.com; dmarc=pass action=none header.from=euronext.com;
+ dkim=pass header.d=euronext.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=euronext.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=AP1GSbJOpsLtGmKMmWXtTIq16Mw7OBG0AlsY4FMJQYk=;
+ b=Mn2Ou79qna9tq+dRo5LRv3J7tbVyjjUpeBN1Wtq/dLcfFN7HQuRiVdvwxZhOO81FZ78WLYu8cPHJzor03BZjJGDwdWg8AR8YZ1SZf8Uslm9/Tp1DWMDi8EGo4Evo168shvy1jtS+Z0w6GcgM3883/9i5U7YWx/SDu/ah6Ug335RLtpgfen3a974/O/5oLcz+HG4PcJNfJjSuyU8uU0kNRtEVdmwtreM5nobMjS9ciNcEwj7GPrVY0ukdeXBHN6FdzP/hu6Wg08SaMG7L0ogAn7WT9LoL5hvAy/vxXqjRhDvyo5Yj6mU1qXe8Hc8LFe4mtX0S5xgKRZKqrmCTSR+Big==
+Received: from LO2P123MB6127.GBRP123.PROD.OUTLOOK.COM (2603:10a6:600:25b::8)
+ by CWLP123MB3492.GBRP123.PROD.OUTLOOK.COM (2603:10a6:400:69::10) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5164.25; Wed, 20 Apr
+ 2022 11:15:41 +0000
+Received: from LO2P123MB6127.GBRP123.PROD.OUTLOOK.COM
+ ([fe80::e48d:eab4:e932:564d]) by LO2P123MB6127.GBRP123.PROD.OUTLOOK.COM
+ ([fe80::e48d:eab4:e932:564d%6]) with mapi id 15.20.5164.025; Wed, 20 Apr 2022
+ 11:15:41 +0000
+From: Henry Gonzalez <HGonzalez@euronext.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: ** RSS LINK TO DEBATE: ONE STATE FARM PLAZA AND MORGAN STANLEY
+ [par-id]
+Thread-Topic: ** RSS LINK TO DEBATE: ONE STATE FARM PLAZA AND MORGAN STANLEY
+ [par-id]
+Thread-Index: AQHYVEUuqtGxpBP35kSCrS/0GTMdI6z4p1Nz
+Importance: high
+X-Priority: 1
+Date: Wed, 20 Apr 2022 11:15:40 +0000
+Message-ID: <LO2P123MB61279009033C68E577FD64CDD9F59@LO2P123MB6127.GBRP123.PROD.OUTLOOK.COM>
+In-Reply-To: <40f000a1-33f7-e3d2-373f-6a7345fc50f6@yahoo.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=euronext.com;
+X-MS-Office365-Filtering-Correlation-Id: 484d454b-3962-46af-0f33-08da22bf1bde
+x-ms-traffictypediagnostic:
+	CWLP123MB3492:EE_|LO2GBR01FT042:EE_|LO2P123MB3998:EE_
+X-Microsoft-Antispam-PRVS:
+	<LO2P123MB39988C01D31E3740C65BC719D9F59@LO2P123MB3998.GBRP123.PROD.OUTLOOK.COM>
+X-MS-Exchange-SenderADCheck: 1
+X-MS-Exchange-AntiSpam-Relay: 0
+X-Microsoft-Antispam-Untrusted: BCL:0;
+X-Microsoft-Antispam-Message-Info-Original:
+ aQDqmtuXJ2l6BNSP2lO6CLQE4GtRvcuW4wV3N9G+8flvisMIAkmFHEUHQHc22sWE4nv2OanpbY8AQfA2LT18DxYi1CfdYcjGOwVlFeiktACEpDuxtANSTl43rwDxkdE9XyoaeDRHeYqSnjbtRwDKs2jPJy9v11ru/dOf2vYeNS9+Y6Ecf7p8rOhSHatszDYniJYgWqOpzVZYt15JRlVelr76a8o3OxWxm3NiTeCZ4a9arrO/kBvvykA0pYlTzLojglvLUqZhZ0dc58lDsqoGWZwA52/KGgyPgAzqr9cIMMUI3GiqgQns3F/+vz8UptY43BPxjNMyc6bsZBfbgECHKfCn8MQOWwBn/xOA4J3F9cHIFL42c2EkZqU3h1H3AZVBSQi8Ri4SLB9DdO1dRUpsJ0g7Rxnqbeqm2ircrJxpfiSlHS9PBFMnbJaroVRcC7SXvi5xs3ia0Hud1kqfQ1vG1w==
+X-Forefront-Antispam-Report-Untrusted:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:LO2P123MB6127.GBRP123.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230001)(4636009)(366004)(186003)(7696005)(508600001)(55236004)(86362001)(2906002)(621065003)(73894004)(8936002)(52536014)(6506007)(26005)(38070700005)(76116006)(4270600006)(316002)(38100700002)(6916009)(71200400001)(33656002)(66946007)(122000001)(8676002)(9686003)(55016003)(66446008)(66476007)(64756008)(66556008);DIR:OUT;SFP:1101;
+Content-Type: multipart/report;
+	boundary="_000_LO2P123MB61279009033C68E577FD64CDD9F59LO2P123MB6127GBRP_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CWLP123MB3492
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Transport-CrossTenantHeadersStripped:
+ LO2GBR01FT042.eop-gbr01.prod.protection.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id-Prvs:
+	5e863243-a706-41f3-637c-08da22bf1acd
+X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam-Message-Info:
+	qsOiE6kaW16ibjE1+7G54zpUa6M1gtlCcEGKySP+MM4aFZOBaRhzUGbtpjbl7d3uU3bRgOCbC816R2rgm6/MQYhHblDnIvi1f22p0ApdKndEzpK5ki0VarJhAR9VvHoUpStdMeh62clGVECfJ9ugF4IGW27HoV/DnHfZI15PIV1gugb+DqJ0ugq1tPwbWcDMw19Cl4lbQPzVvc9M7bRg2JCy5KETAFzv7oNIief3IBnBw+s3KSJ36xh6gVm7COITliA42sv1LgiEA5PtS2DHRy/Ps89H2RSiPpQNIu3/c3q+s8YJGhfJmClOL2tGuJtrJ4L3Zh5WXTrrb2AHnqy2UMtmS1Dbk1XuTh+vrGeeqLE4cf28jlHoWuF5ncPYLfRibadtRBmiypSFSuZqqPUcdhNliVEfWoVroy1qCqN9Lk6pUudeXHAJsHNC0J4J6kzS486ulNiSbmEaDy3glbyOB2ambO7cbtbxwrr8K9Nl0lW+93B005sNQkK44Bi5Gmn+DVprOvEAYzzBcDk87iIlaOO6grY0x65v1H8woxmh+/YfefMURm+g3nj4gMQ6nS9FUH9vMtWNX/CoTLGfcfuBPG1JTG6VpQMPqdJONqBUZZKHC7uQn6tqFapkO4jD5M24b8jG8I9QpHCCVnZe7kHUkUne59Gc3mBFCQYhPGSonh1RL+f/WvhIuG7N7wwWXfkgHiAZUUPK1inqK7Fk9fIFIQ==
+X-Forefront-Antispam-Report:
+	CIP:212.197.236.153;CTRY:FR;LANG:en;SCL:1;SRV:;IPV:CAL;SFV:NSPM;H:smtpe.euronext.com;PTR:InfoDomainNonexistent;CAT:NONE;SFS:(13230001)(4636009)(36840700001)(46966006)(40470700004)(83380400001)(6506007)(5660300002)(9686003)(2906002)(33656002)(8936002)(336012)(26005)(47076005)(508600001)(40460700003)(86362001)(186003)(52536014)(7696005)(316002)(36860700001)(82310400005)(6916009)(81166007)(356005)(70586007)(8676002)(70206006)(55016003)(36900700001);DIR:OUT;SFP:1101;
+X-OriginatorOrg: euronext.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 20 Apr 2022 11:15:42.7200
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 484d454b-3962-46af-0f33-08da22bf1bde
+X-MS-Exchange-CrossTenant-Id: 315b1ee5-c224-498b-871e-c140611d6d07
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=315b1ee5-c224-498b-871e-c140611d6d07;Ip=[212.197.236.153];Helo=[smtpe.euronext.com]
+X-MS-Exchange-CrossTenant-AuthSource:
+	LO2GBR01FT042.eop-gbr01.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: LO2P123MB3998
+Content-Length: 1985
+
+--_000_LO2P123MB61279009033C68E577FD64CDD9F59LO2P123MB6127GBRP_
+Content-Type: multipart/alternative;
+	boundary="_002_LO2P123MB61279009033C68E577FD64CDD9F59LO2P123MB6127GBRP_"
+
+--_002_LO2P123MB61279009033C68E577FD64CDD9F59LO2P123MB6127GBRP_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Henry Gonzalez
+   Subject: ** RSS LINK TO DEBATE: ONE STATE FARM PLAZA AND MORGAN STANLEY =
+[par-id]
+   Sent: Tuesday, April 19, 2022 11:13:00 PM (UTC+00:00) Monrovia, Reykjavi=
+k
+
+ was read on Wednesday, April 20, 2022 11:15:25 AM (UTC+00:00) Monrovia, Re=
+ykjavik.
+
+--_002_LO2P123MB61279009033C68E577FD64CDD9F59LO2P123MB6127GBRP_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Henry Gonzalez<br>
+&nbsp;&nbsp; Subject: ** RSS LINK TO DEBATE: ONE STATE FARM PLAZA AND MORGA=
+N STANLEY [par-id]<br>
+&nbsp;&nbsp; Sent: Tuesday, April 19, 2022 11:13:00 PM (UTC+00:00) Monrovia=
+, Reykjavik<br>
+<br>
+&nbsp;was read on Wednesday, April 20, 2022 11:15:25 AM (UTC+00:00) Monrovi=
+a, Reykjavik.</div>
+</span></font>
+</body>
+</html>
+
+--_002_LO2P123MB61279009033C68E577FD64CDD9F59LO2P123MB6127GBRP_--
+
+--_000_LO2P123MB61279009033C68E577FD64CDD9F59LO2P123MB6127GBRP_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; HGonzalez@euronext.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: j51gRda1/EagaCMArb+kwQ==
+X-Display-Name: Henry Gonzalez
+
+
+--_000_LO2P123MB61279009033C68E577FD64CDD9F59LO2P123MB6127GBRP_--
