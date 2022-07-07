@@ -1,4 +1,6 @@
-#### THIS PAGE IS BEING MONITORED BY SEVERAL DEPARTMENTS AS PART OF A FEDERAL BANK INVESTIGATION.
+#### THIS PAGE IS BEING MONITORED BY SEVERAL DEPARTMENTS AS PART OF A FEDERAL BANK AND SECURITIES FRAUD INVESTIGATION.
+#### NOTWITHSTANDING THE US. DEPT OF JUSTICE.
+
 [Ref.: El Dorado Task Force](https://www.justice.gov/opa/pr/hsbc-holdings-plc-and-hsbc-bank-usa-na-admit-anti-money-laundering-and-sanctions-violations)<br>
 [Ref.: El Dorado Task Force - August 29 2012](https://www.fbi.gov/wanted/wcc/luis-ferreira)<br>
 
