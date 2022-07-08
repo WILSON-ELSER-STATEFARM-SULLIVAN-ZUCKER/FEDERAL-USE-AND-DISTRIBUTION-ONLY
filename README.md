@@ -31,6 +31,178 @@ THIS REPORT WAS ALSO OBSTRUCED - WHILE IN TRANSIT TO THE DEPARTMENTS WHERE APPLI
 ![image](https://user-images.githubusercontent.com/108204659/177884550-5fac5c64-ab6d-483e-af6d-a8242ae018ee.png)
 
 
+USC 18 TITLE 18- SECTION 1512 - PREVENTING COMMUNICATION TO A LAW ENFORCEMENT OFFICER OR JUDGE.txt
+> https://support.nysba.org/attachments/token/sWoZTvp3jCzQBDpiHj8pRGrhV/?name=NOTICE+TO+SECURITIES+AND+EXCHANGE+-+NOVEMBER+13TH+2021.png
+
+
+USC 18.1512 - Tampering with a witness, victim, or an informant
+(a)
+(1)Whoever kills or attempts to kill another person, with intent to—
+(A)prevent the attendance or testimony of any person in an official proceeding;
+(B)prevent the production of a record, document, or other object, in an official proceeding; or
+(C)prevent the communication by any person to a law enforcement officer or judge of the United States of information 
+
+relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, parole, 
+
+or release pending judicial proceedings;
+shall be punished as provided in paragraph (3).
+(2)Whoever uses physical force or the threat of physical force against any person, or attempts to do so, with intent to—
+(A)influence, delay, or prevent the testimony of any person in an official proceeding;
+(B)cause or induce any person to—
+(i)withhold testimony, or withhold a record, document, or other object, from an official proceeding;
+(ii)alter, destroy, mutilate, or conceal an object with intent to impair the integrity or availability of the object for 
+
+use in an official proceeding;
+(iii)evade legal process summoning that person to appear as a witness, or to produce a record, document, or other object, 
+
+in an official proceeding; or
+(iv)be absent from an official proceeding to which that person has been summoned by legal process; or
+(C)hinder, delay, or prevent the communication to a law enforcement officer or judge of the United States of information 
+
+relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, 
+
+supervised release, parole, or release pending judicial proceedings;
+shall be punished as provided in paragraph (3).
+(3)The punishment for an offense under this subsection is—
+(A)in the case of a killing, the punishment provided in sections 1111 and 1112;
+(B)in the case of—
+(i)an attempt to murder; or
+(ii)the use or attempted use of physical force against any person;
+imprisonment for not more than 30 years; and
+(C)in the case of the threat of use of physical force against any person, imprisonment for not more than 20 years.
+(b)Whoever knowingly uses intimidation, threatens, or corruptly persuades another person, or attempts to do so, or engages 
+
+in misleading conduct toward another person, with intent to—
+(1)influence, delay, or prevent the testimony of any person in an official proceeding;
+(2)cause or induce any person to—
+(A)withhold testimony, or withhold a record, document, or other object, from an official proceeding;
+(B)alter, destroy, mutilate, or conceal an object with intent to impair the object’s integrity or availability for use in an official proceeding;
+(C)evade legal process summoning that person to appear as a witness, or to produce a record, document, or other object, in 
+
+an official proceeding; or
+(D)be absent from an official proceeding to which such person has been summoned by legal process; or
+(3)hinder, delay, or prevent the communication to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation?[1] 
+
+supervised release,,[1] parole, or release pending judicial proceedings;
+shall be fined under this title or imprisoned not more than 20 years, or both.
+(c)Whoever corruptly—
+(1)alters, destroys, mutilates, or conceals a record, document, or other object, or attempts to do so, with the intent to 
+
+impair the object’s integrity or availability for use in an official proceeding; or
+(2)otherwise obstructs, influences, or impedes any official proceeding, or attempts to do so,
+shall be fined under this title or imprisoned not more than 20 years, or both.
+(d)Whoever intentionally harasses another person and thereby hinders, delays, prevents, or dissuades any person from—
+(1)attending or testifying in an official proceeding;
+(2)reporting to a law enforcement officer or judge of the United States the commission or possible commission of a Federal 
+
+offense or a violation of conditions of probation?1 supervised release,,1 parole, or release pending judicial proceedings;
+(3)arresting or seeking the arrest of another person in connection with a Federal offense; or
+(4)causing a criminal prosecution, or a parole or probation revocation proceeding, to be sought or instituted, or assisting 
+
+in such prosecution or proceeding;
+or attempts to do so, shall be fined under this title or imprisoned not more than 3 years, or both.
+(e)In a prosecution for an offense under this section, it is an affirmative defense, as to which the defendant has the burden of proof by a preponderance of the evidence, that the conduct consisted solely of lawful conduct and that the 
+
+defendant’s sole intention was to encourage, induce, or cause the other person to testify truthfully.
+(f)For the purposes of this section—
+(1)an official proceeding need not be pending or about to be instituted at the time of the offense; and
+(2)the testimony, or the record, document, or other object need not be admissible in evidence or free of a claim of 
+
+privilege.
+(g)In a prosecution for an offense under this section, no state of mind need be proved with respect to the circumstance—
+(1)that the official proceeding before a judge, court, magistrate judge, grand jury, or government agency is before a judge or court of the United States, a United States magistrate judge, a bankruptcy judge, a Federal grand jury, or a Federal 
+
+Government agency; or
+(2)that the judge is a judge of the United States or that the law enforcement officer is an officer or employee of the 
+
+Federal Government or a person authorized to act for or on behalf of the Federal Government or serving the Federal 
+Government as an adviser or consultant.
+(h)There is extraterritorial Federal jurisdiction over an offense under this section.
+(i)A prosecution under this section or section 1503 may be brought in the district in which the official proceeding (whether or not pending or about to be instituted) was intended to be affected or in the district in which the conduct constituting the alleged offense occurred.
+(j)If the offense under this section occurs in connection with a trial of a criminal case, the maximum term of imprisonment 
+
+which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.
+(k)Whoever conspires to commit any offense under this section shall be subject to the same penalties as those prescribed for the offense the commission of which was the object of the conspiracy.
+
+
+
+https://p19.zdusercontent.com/attachment/2434074/ONbQ6pgTKks3c7ZOi7ogr5Tmw?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..3SjoQz4kWEi0rs9s2TaiEQ.vqh9vZOliebGAA7r_IAD3893gc7TngmluyELeyK6hlmM24B-N0MOgudGHR1hynRx9KVZzI8Uvd1qs3AOfI-LlkTYh2vJJXFeP4a8f2u5bWyX29wD9KaAUqHgDIIItlYCuSnUh0SYnKBzOksD2nS3r33QdlhvO42yNCiFNYXSImfoXQWqRqOfka--aYE-EqRRc5IMcu-kHuJQcECfIwvtib0UzjoDJVW06oJxo4ky43kwZRRf8aNwFa1iotqh3LxmBd-zobcKVlx5UTPeO6K_9ZMS5K3Z8avS5jSyDpKDnRs.m7JFjFS10LZZ6MM9I2WaSw
+
+ASSETS WERE MOVED FROM HSBC TO JP MORGAN WITH INTENT, WHILE THEY WATCHED ME 24/7 WITHOUT CONSENT
+-- I HAVE BEEN MOVING FROM HOTEL TO HOTEL FOR THE LAST YEAR.
+
+LOAN DOCKET 50074 - SECTION 1.4 -- INDEMNITY [ FILED DOCKET 312, NYSCEF 153974/2020 ]
+
+https://p19.zdusercontent.com/attachment/2434074/bRuZFokaqoqfgjc3xm4nD7Kbl?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..rj4zRlhnEynh5xC5tRAsdw.Akdv3TBc3QL15x7Svb5XF0K2c2lBcBfPyZLDaPg_PZVBj3S69mGtub9499SNJ74R8D76QZeOTL4-WrNgdTSfMQYXQy6wXPDbNwGF5hWVkLpgL8tydYFlPjXCmIpLEZQJqPoANQvJqKwnyD1RRsZkLfvkfw_Dcs0lKp3f8R4t-vxhNXheMkjefym37BE1YFG2ENmdgH_nzZjwe-pIKg5u0U9QLB7jpwbsEmS2m9KjA1ZtXH23MXXmrpl0aqfU5EFjZFc2uSlq2PQ5IMyyTS_zfVpQxUuHXxXg8EN0gxr-GN8.oQ1y0ciEygiKjcBxj9UjOQ
+
+
+
+[ MULTIPLE DWELLING LAW ]
+" VIOLATION SHALL BE DEEMED TO EXIST IN THE RESPECTIVE PREMISES OF EACH RESIDENT IN THE OF THE MULTIPLE DWELLING "
+
+https://p19.zdusercontent.com/attachment/2434074/8rbRQgVwJiGq3SGb6uIEsoGtK?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..K6J2ULKdIHHBx-zQOLpglg._AJoI_e3EmI8H7sGgLNVKy2C_EyHtNAb7FwNCJBqZNBx884x235cF6iVlAYSpGqcvX7yLFRtXBy-ChEW1nZkEqgV4f-V-Fg5OjnAsqYxLF-Pe2xBftkhkIGUDxgv5D8dOV3aHHVIK47WttG2VqVAXI5JBwti-hPF75wl-F6fDOh12qW2wX9Rwgw_ImJ3IPuGbEi52AzKc4Ups4H6yQ3-K06wPhZJjEb9t7pBAIqDP6VTZJQm784MYXs1EuVKqKv45lri7frMeZ2rWknN3zTi84zulFTdO0JLzPhyyviKUcA.YVZRL6uopA2xoxo5Z0g_0g
+
+
+
+
+https://p19.zdusercontent.com/attachment/2434074/uwSPB9MeN0sX9yCIpaJ5LMB5q?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..oLI-sr6rVXQadNEVBJWSEA.Ngi9SXK3B5PgxbdPgf3ckSMOMao5Iz4d2z4Ps7aSvQtRKDKoU0fM_AqBz-wpDUmxSwY6iDwuFmsOmCxfr39Cz0P5S3QZNw1wsEQNpaXXlmy7nTtBmzU6ZYCO4ltyeq2fNKE7yonX7zb4E2JgzP2nxS3bPvU38izJxSw_2PWelHgOfvwQRT54rddQKiU_BDzjpcivfrBE2qGrR9n0xOB9QMt9BIHqwObdFUJQ8PVAkkLqguC8UAO5IJVXKJGeqCOfvIWcLS15RdtiLZey-GAmyAithpHb5a8o2CUIfLHAgCQ._K2fJ4EXrRbSo9Lqvy7E0g
+
+
+
+https://p19.zdusercontent.com/attachment/2434074/AYudhpqVy5YzILECrrdqtYsDy?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..nOxmXbOvQZhADrGwCKLmRw.WEw5YfrAtg8unWagIHaxV9saUh6qWBNn-SADb1r3UxoBl61YY2fZsf68u2xhPCbmlG_QNl772EFppalHUuwCqQGTlMWqUJB2we3mkr95OV4jyIdRuXS4A-xm1jsvqpHXc76YJq3l1Li5_lymyzwI7uryDFHU5wHohAjRY6c1N0LeB6SxBwr_gmmBJ24aLcCD3C8iRgVG3HPhVzEsMM8Zp6vOWsdd0P-lcnGEsTVzb45weGg3IzQaIujIr54lviBQyZ5UWAgqVpw-JJQpdjBaehkhQg3Xh6Tfdiz4AkXa7xU.jXgsCJZx6rRTEQxRRHVkjw
+
+https://p19.zdusercontent.com/attachment/2434074/uXmPQ38BhOoS81BORcN189epx?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..n4U1r1-tCk7t8cNgh9l6qA.02kR4RvYtLmbEC2P_3GfDG-tUSVdn6pgvny8OS0l_ZMOHL2jcezbnENLMSFh_CNstpOmDaqfoGMr8FWmisP6slmqPzi2U2ZKN2kAFFusE2mGYWB5jNNEnpdC-bd-Ow3WyYU3vflrPTD9WeUhEOdqoxc5PeCVxR6sjcUmA66NxwCHVWLYKygvrIEdyTkzBbnR61Hkh6CulGiTVBvJPk5NHXDo1d_TaOZqKHDtlbRxCRpleIwObZne4tRdIfDe5IE0lSjgjQkgph5OSMNiC9_2QEC-FoaClgJU0OdL36vrzMw.R88r1lKgxCZfE7W9bu9aug
+
+
+https://p19.zdusercontent.com/attachment/2434074/M2hlv45SVnHpSrWTNDuNYRmxl?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..S7yNlZ0mN5HiQiGGBLM73A.25SArygzhrF8LF4nA0IfEmdMPSZXt4bFllgiUVO8ZFOY7khexBtnjk9_jeNDukOcRIIsPR6VjT-2oQuMkRQbkqEDUhLJcTzFajpOf66EQKMTJZyR0NxOVPQm6rgjAqOubENq-9RT2NFenseWU25b8soJfqUJopB7sG0c1LJP-QQIk8H76vyFYA6UVm6sofzoSG9dHSTL3RUZTDEia0xUnnj66XturYId3uNRusYChWgtCE0K6CpWR3_Dvav291hEvMM8Ie7mQ6cSH8DCKXhymf6cFTNGOIF6gLfcuiyis-w.FYY9DAufaZkkghSdyGptJA
+
+https://p19.zdusercontent.com/attachment/2434074/mlWG3uUj3n19hbg5MKEXJUFgp?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..TOGbWTBvbrYpIlmg9T0-Cw.hHOxQ2gpUui30mCRbddQnHEZn_Zt9JKYVG8hCCyIuhqpPXjGAk32GdJGmSNcuTV2npbYcQSOx1VGXUjKYtQtxuNbdhJCH_OV0HUmks8G4i35Q67sLhSMp6Dw-ShyhgU91yyngJV1qzVX8J5FzAJg3x0JtFx9hyFYRTaDXOrszE1gDIajfrbaSkilm4ATWLYp5ert99e1IlPDf5o98g1bSgVZGLt5gSEKVH9h4ymCC36YGj170kviC-Dc28FARWz2EXSvoVGByxkYAdfe8fVfO70FE95g3J7EvCWslr3dqGw.sxuBmVikIEuhtXsDBYiSmA
+
+
+
+https://p19.zdusercontent.com/attachment/2434074/8rbRQgVwJiGq3SGb6uIEsoGtK?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..K6J2ULKdIHHBx-zQOLpglg._AJoI_e3EmI8H7sGgLNVKy2C_EyHtNAb7FwNCJBqZNBx884x235cF6iVlAYSpGqcvX7yLFRtXBy-ChEW1nZkEqgV4f-V-Fg5OjnAsqYxLF-Pe2xBftkhkIGUDxgv5D8dOV3aHHVIK47WttG2VqVAXI5JBwti-hPF75wl-F6fDOh12qW2wX9Rwgw_ImJ3IPuGbEi52AzKc4Ups4H6yQ3-K06wPhZJjEb9t7pBAIqDP6VTZJQm784MYXs1EuVKqKv45lri7frMeZ2rWknN3zTi84zulFTdO0JLzPhyyviKUcA.YVZRL6uopA2xoxo5Z0g_0g
+
+
+https://p19.zdusercontent.com/attachment/2434074/bRuZFokaqoqfgjc3xm4nD7Kbl?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..rj4zRlhnEynh5xC5tRAsdw.Akdv3TBc3QL15x7Svb5XF0K2c2lBcBfPyZLDaPg_PZVBj3S69mGtub9499SNJ74R8D76QZeOTL4-WrNgdTSfMQYXQy6wXPDbNwGF5hWVkLpgL8tydYFlPjXCmIpLEZQJqPoANQvJqKwnyD1RRsZkLfvkfw_Dcs0lKp3f8R4t-vxhNXheMkjefym37BE1YFG2ENmdgH_nzZjwe-pIKg5u0U9QLB7jpwbsEmS2m9KjA1ZtXH23MXXmrpl0aqfU5EFjZFc2uSlq2PQ5IMyyTS_zfVpQxUuHXxXg8EN0gxr-GN8.oQ1y0ciEygiKjcBxj9UjOQ
+
+
+
+https://p19.zdusercontent.com/attachment/2434074/bRuZFokaqoqfgjc3xm4nD7Kbl?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..rj4zRlhnEynh5xC5tRAsdw.Akdv3TBc3QL15x7Svb5XF0K2c2lBcBfPyZLDaPg_PZVBj3S69mGtub9499SNJ74R8D76QZeOTL4-WrNgdTSfMQYXQy6wXPDbNwGF5hWVkLpgL8tydYFlPjXCmIpLEZQJqPoANQvJqKwnyD1RRsZkLfvkfw_Dcs0lKp3f8R4t-vxhNXheMkjefym37BE1YFG2ENmdgH_nzZjwe-pIKg5u0U9QLB7jpwbsEmS2m9KjA1ZtXH23MXXmrpl0aqfU5EFjZFc2uSlq2PQ5IMyyTS_zfVpQxUuHXxXg8EN0gxr-GN8.oQ1y0ciEygiKjcBxj9UjOQ
+
+
+
+https://p19.zdusercontent.com/attachment/2434074/bRuZFokaqoqfgjc3xm4nD7Kbl?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..rj4zRlhnEynh5xC5tRAsdw.Akdv3TBc3QL15x7Svb5XF0K2c2lBcBfPyZLDaPg_PZVBj3S69mGtub9499SNJ74R8D76QZeOTL4-WrNgdTSfMQYXQy6wXPDbNwGF5hWVkLpgL8tydYFlPjXCmIpLEZQJqPoANQvJqKwnyD1RRsZkLfvkfw_Dcs0lKp3f8R4t-vxhNXheMkjefym37BE1YFG2ENmdgH_nzZjwe-pIKg5u0U9QLB7jpwbsEmS2m9KjA1ZtXH23MXXmrpl0aqfU5EFjZFc2uSlq2PQ5IMyyTS_zfVpQxUuHXxXg8EN0gxr-GN8.oQ1y0ciEygiKjcBxj9UjOQ
+
+
+https://p19.zdusercontent.com/attachment/2434074/MJ5xEG1bkHzqj0rY1zESVUgQb?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..t44VVxJ2EqeSYiPGTggD2Q.mr-QvRE4hq65-igubtudoe_PB8Os6IqLmx8cnfe18MSOaoW38_T7woQNJPwA8Gpig0Dx9DeaKztNvggaeBjaHC4eGYEQ-Y6K-frhikrMvn0yWgYLJjNkIoN5uy5S61EOqy9hJFwhHj2N0jYnBLAmzUQgASbBn_AIeMGMW9rU1AAUaLjKiJU2d_Y03zeQy8GTpoQidLKh7Ym88uG4ylclisDqKmC9HnIBXW1_t5AkBiU9yXgtmmlKu0TKXrPfev8Xe9z9p2W-nvgQRlR737tGbi-If8uDFjTKU2_Q0rvh5-Q.bXIbpP9_XcrY90OUJjK8Yg
+
+
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH TO STATE FARM LIFE INSURANCE COMPANY - INCLUDING THEIR TAX RISKS AS IMPLIED
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+EXHIBIT(S)  - AC0  (Motion #001)
+ACRIS Detailed Document Information (2019000021408)2019010800475001
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ze6a1KA9akRV9TGfXXJT/g==
+EXHIBIT(S)  - AC1  (Motion #001)
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw==
+EXHIBIT(S)  - AC2  (Motion #001)
+ACRIS Detailed Document Information (2020000155421)2020052000291002
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw==
+EXHIBIT(S)  - AC3  (Motion #001)
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
+EXHIBIT(S)  - AC4  (Motion #001)
+ACRIS Detailed Document Information (2020000155423)2020052000291004
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==
+EXHIBIT(S)  - ACR  (Motion #002)
+ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
+
+
+--- THAT IS UNLAWFUL INCOME
+https://support.nysba.org/attachments/token/ONbQ6pgTKks3c7ZOi7ogr5Tmw/?name=image0.jpeg
+
+
 
 
 >> THESE IN THE TO:  ARE THE LINES OF COMMUNICATIONS THEY DISCLOSED.
