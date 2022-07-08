@@ -8017,3 +8017,13 @@ CERTIFICATION, Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002<br>
 <br>[153974_2020_Sullivan_Properties_L_P_v_Baris_Dincer_EXHIBIT_S__344.pdf](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/9065115/153974_2020_Sullivan_Properties_L_P_v_Baris_Dincer_EXHIBIT_S__344.pdf)
 
 	
+THE ZUCKER ENTERPRISES, filed 09/23/2020 to get another $600,000.00 from NYC during the pandemic while keeping me occupied with NYSCEF 153974/2020.
+— I already informed all 15 of them, the Judge, and your own attorneys who are copied here to message Mr Sullivan Properties LP ( Zucker Enterprises LLC ) I already had that ownership structure in case I found something like this. 
+
+— faxed all relevant documents to the Judge, Clerk, as referenced in the matter of 153974/2020 as well.
+
+https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=HD6/wXvlOxflJUlQyXqedQ==
+
+Supplement: 
+
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/111.xps?raw=true
