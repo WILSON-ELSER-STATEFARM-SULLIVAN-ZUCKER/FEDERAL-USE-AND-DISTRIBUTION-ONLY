@@ -46,13 +46,26 @@ THE TAX COMMISSION OF THE CITY OF NEW YORK, AND THE COMMISSIONER OF FINANCE OF T
 
 THIS REPORT WAS ALSO OBSTRUCED - WHILE IN TRANSIT TO THE DEPARTMENTS WHERE APPLICABLE<br>
 
+[VOICEMAIL FROM GENERAL COUNSELOR OF MANHATTAN SKYLINE MANAGEMENT CORP.](https://support.nysba.org/attachments/token/IC0wkjtvvpbslRI5FmvzN5eV7/?name=voicemail+917-843-3456.mp3)
+
+<br><br>
+### THREATENING AND IMPEDING A FEDERAL INVESTIGATION OF BANK AND SECURITIES FRAUD, AND SLOWING THE RELEASE OF INFORMATION BY UNLAWFUL RESTRAINT, WILLFULLY AND KNOWINGLY IS NOT SOMETHING THAT IS EXEMPT FOR FEDERAL AGENTS AND NON-FEDERAL PERSONS.
+[VOICEMAIL FROM PAUL REGAN, GENERAL COUNSELOR OF MANHATTAN SKYLINE MANAGEMENT CORP.](https://support.nysba.org/attachments/token/IC0wkjtvvpbslRI5FmvzN5eV7/?name=voicemail+917-843-3456.mp3)
+<br><br>
 ### BANK INVESTIGATION
 [VOICEMAIL FROM THEIR FRAUD DEPT. IN RESPONSE TO RECEIPT OF THE INFORMATION BY MR. KILKENNY](https://support.nysba.org/attachments/token/Sr0PKDdRavjlpFkIt7jc95QLq/?name=voicemail-218-CHASE+BANK.m4a)
-
-
+<br><br>
+[VOICEMAIL:: FROM THE BANK FRAUD DEPT. AT CHASE BANK](https://support.nysba.org/attachments/token/YNvrvCEnT6nrcydcPwB6lBXnO/?name=voicemail-215-CHASE+BANK.m4a)
+<br><br>
+[VOICEMAIL:: FROM JP MORGAN CHASE-FRAUD INVESTIGATIONS DEPARTMENT](https://support.nysba.org/attachments/token/1vZon2Sk7PB6esmpj3zVHUJja/?name=voicemail-222-JPM-CHASE.m4a)
+<br><br>
+[VOICEMAIL:: FROM CHASE BANK-FRAUD INVESTIGATIONS DEPARTMENT](https://support.nysba.org/attachments/token/OjDtdOSzaoQEpaoYABSwvHPXV/?name=voicemail-218-CHASE+BANK.m4a)
 
 ### SECURITIES FRAUD INVESTIGATION
 [VOICEMAIL FROM THE SECURITIES REGULATORS](https://support.nysba.org/attachments/token/6tdqvD6K1AyrccbjgJ2MBK7GT/?name=voicemail-214-Finra.m4a)
+<br><br>
+[VOICEMAIL FROM THE SECURITIES REGULATORS](https://support.nysba.org/attachments/token/4BDa9lAjkbEe66TEBUZaTZYlR/?name=voicemail-217-FINRA+2.m4a)
+
 
 
 ![image](https://user-images.githubusercontent.com/108204659/177884161-999f6aed-886b-4490-9968-99bbd76ee5d5.png)
@@ -69,14 +82,12 @@ USC 18 TITLE 18- SECTION 1512 - PREVENTING COMMUNICATION TO A LAW ENFORCEMENT OF
 
 USC 18.1512 - Tampering with a witness, victim, or an informant
 (a)
-(1)Whoever kills or attempts to kill another person, with intent to—
-(A)prevent the attendance or testimony of any person in an official proceeding;
-(B)prevent the production of a record, document, or other object, in an official proceeding; or
-(C)prevent the communication by any person to a law enforcement officer or judge of the United States of information 
+(1)Whoever kills or attempts to kill another person, with intent to—<br>
+(A)prevent the attendance or testimony of any person in an official proceeding;<br>
+(B)prevent the production of a record, document, or other object, in an official proceeding; or<br>
+(C)prevent the communication by any person to a law enforcement officer or judge of the United States of information <br>
 
-relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, parole, 
-
-or release pending judicial proceedings;
+relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, parole, or release pending judicial proceedings;<br>
 shall be punished as provided in paragraph (3).
 (2)Whoever uses physical force or the threat of physical force against any person, or attempts to do so, with intent to—
 (A)influence, delay, or prevent the testimony of any person in an official proceeding;
@@ -89,58 +100,40 @@ use in an official proceeding;
 
 in an official proceeding; or
 (iv)be absent from an official proceeding to which that person has been summoned by legal process; or
-(C)hinder, delay, or prevent the communication to a law enforcement officer or judge of the United States of information 
-
-relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, 
-
-supervised release, parole, or release pending judicial proceedings;
-shall be punished as provided in paragraph (3).
-(3)The punishment for an offense under this subsection is—
-(A)in the case of a killing, the punishment provided in sections 1111 and 1112;
-(B)in the case of—
-(i)an attempt to murder; or
+(C)hinder, delay, or prevent the communication to a law enforcement officer or judge of the United States of information  relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, supervised release, parole, or release pending judicial proceedings; shall be punished as provided in paragraph (3).
+(3)The punishment for an offense under this subsection is—<br>
+(A)in the case of a killing, the punishment provided in sections 1111 and 1112;<br>
+(B)in the case of—<br>
+(i)an attempt to murder; or<br>
+<br>
+<br>
+<br>
 (ii)the use or attempted use of physical force against any person;
 imprisonment for not more than 30 years; and
 (C)in the case of the threat of use of physical force against any person, imprisonment for not more than 20 years.
-(b)Whoever knowingly uses intimidation, threatens, or corruptly persuades another person, or attempts to do so, or engages 
-
-in misleading conduct toward another person, with intent to—
-(1)influence, delay, or prevent the testimony of any person in an official proceeding;
-(2)cause or induce any person to—
-(A)withhold testimony, or withhold a record, document, or other object, from an official proceeding;
-(B)alter, destroy, mutilate, or conceal an object with intent to impair the object’s integrity or availability for use in an official proceeding;
-(C)evade legal process summoning that person to appear as a witness, or to produce a record, document, or other object, in 
-
-an official proceeding; or
-(D)be absent from an official proceeding to which such person has been summoned by legal process; or
-(3)hinder, delay, or prevent the communication to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation?[1] 
-
-supervised release,,[1] parole, or release pending judicial proceedings;
+(b)Whoever knowingly uses intimidation, threatens, or corruptly persuades another person, or attempts to do so, or engages in misleading conduct toward another person, with intent to—<br>
+(1)influence, delay, or prevent the testimony of any person in an official proceeding;<br>
+(2)cause or induce any person to—<br>
+(A)withhold testimony, or withhold a record, document, or other object, from an official proceeding;<br>
+(B)alter, destroy, mutilate, or conceal an object with intent to impair the object’s integrity or availability for use in an official proceeding;<br>
+(C)evade legal process summoning that person to appear as a witness, or to produce a record, document, or other object, in an official proceeding; or<br>
+(D)be absent from an official proceeding to which such person has been summoned by legal process; or<br>
+(3)hinder, delay, or prevent the communication to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation?[1] supervised release,,[1] parole, or release pending judicial proceedings;
 shall be fined under this title or imprisoned not more than 20 years, or both.
 (c)Whoever corruptly—
-(1)alters, destroys, mutilates, or conceals a record, document, or other object, or attempts to do so, with the intent to 
-
-impair the object’s integrity or availability for use in an official proceeding; or
+(1)alters, destroys, mutilates, or conceals a record, document, or other object, or attempts to do so, with the intent to  impair the object’s integrity or availability for use in an official proceeding; or
 (2)otherwise obstructs, influences, or impedes any official proceeding, or attempts to do so,
 shall be fined under this title or imprisoned not more than 20 years, or both.
 (d)Whoever intentionally harasses another person and thereby hinders, delays, prevents, or dissuades any person from—
 (1)attending or testifying in an official proceeding;
-(2)reporting to a law enforcement officer or judge of the United States the commission or possible commission of a Federal 
-
-offense or a violation of conditions of probation?1 supervised release,,1 parole, or release pending judicial proceedings;
+(2)reporting to a law enforcement officer or judge of the United States the commission or possible commission of a Federal offense or a violation of conditions of probation?1 supervised release,,1 parole, or release pending judicial proceedings;
 (3)arresting or seeking the arrest of another person in connection with a Federal offense; or
-(4)causing a criminal prosecution, or a parole or probation revocation proceeding, to be sought or instituted, or assisting 
-
-in such prosecution or proceeding;
+(4)causing a criminal prosecution, or a parole or probation revocation proceeding, to be sought or instituted, or assisting  in such prosecution or proceeding;
 or attempts to do so, shall be fined under this title or imprisoned not more than 3 years, or both.
-(e)In a prosecution for an offense under this section, it is an affirmative defense, as to which the defendant has the burden of proof by a preponderance of the evidence, that the conduct consisted solely of lawful conduct and that the 
-
-defendant’s sole intention was to encourage, induce, or cause the other person to testify truthfully.
+(e)In a prosecution for an offense under this section, it is an affirmative defense, as to which the defendant has the burden of proof by a preponderance of the evidence, that the conduct consisted solely of lawful conduct and that the defendant’s sole intention was to encourage, induce, or cause the other person to testify truthfully.
 (f)For the purposes of this section—
 (1)an official proceeding need not be pending or about to be instituted at the time of the offense; and
-(2)the testimony, or the record, document, or other object need not be admissible in evidence or free of a claim of 
-
-privilege.
+(2)the testimony, or the record, document, or other object need not be admissible in evidence or free of a claim of privilege.
 (g)In a prosecution for an offense under this section, no state of mind need be proved with respect to the circumstance—
 (1)that the official proceeding before a judge, court, magistrate judge, grand jury, or government agency is before a judge or court of the United States, a United States magistrate judge, a bankruptcy judge, a Federal grand jury, or a Federal 
 
