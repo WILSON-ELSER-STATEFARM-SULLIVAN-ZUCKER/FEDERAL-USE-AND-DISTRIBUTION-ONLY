@@ -12,7 +12,7 @@ NO COMPLAINTS HAVE BEEN FILED IN MY BUILDING<br>
 <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AgwH2omenQPCvT0OYOE3Rg==><br>
 
 
-### ACCESSORIES
+### ACCESSORIES TO THIS OTHER FILING
 
 HALE DINCER <+15168841083@tmomail.net>, SHARI LASKOWITZ <slaskowitz@ingramllp.com>,<br> 
 SHARI LASKOWITZ <+13478801899@tmomail.net> , HALE DINCER <hidincer@aol.com> <br>
@@ -21,6 +21,24 @@ DAPHNE DINCER <DAPHNE.DINCER@GMAIL.COM>, ASHLEY HUMPHRIES <ASHLEY.HUMPHRIES@WILS
 CORY WEISS <CWEISS@INGRAMLLP.COM>, ANA LOPEZ <LEGALASST@MSKYLINE.COM>, <br>
 DONALD ZUCKER <ADMINISTRATOR@MSKYLINE.COM>, STEPHEN O'CONNEL <SGO2107@COLUMBIA.EDU>, <br>
 *** CHECK THAT THREAD AND GET BACK TO ME AS WELL PLEASE.
+While dealing with their business in Brooklyn, New York. <br>
+— Kept me pre-occupied without cause to take care of their other business without my opinion or any reveal as to what they really do for a living.<br>
+
+For example:
+
+>> Hon. Nancy T. Sunshine, Kings County Clerk <br>
+         and Clerk of the Supreme Court <br>
+
+<https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=HD6/wXvlOxflJUlQyXqedQ==><br>
+
+     case number:          400842/2020<br>
+     Filed:                        09/23/2020<br>
+     *** KINGS COUNTY *** <br>
+
+Zucker Enterprises LLC <br>
+             - v. - 
+THE TAX COMMISSION OF THE CITY OF NEW YORK, AND THE COMMISSIONER OF FINANCE OF THE CITY OF NEW YORK
+
 
 >> 6.24.2020 email - ASHLEY.HUMPHRIES@WILSONELSER.COM
 
