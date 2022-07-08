@@ -11,8 +11,12 @@ NO COMPLAINTS HAVE BEEN FILED IN MY BUILDING<br>
 - PER DEPARTMENT OF BUILDINGS RECORD CONTRARY TO THOSE "COMPLAINTS" WHICH ARE UN-TRUE.<br>
 <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AgwH2omenQPCvT0OYOE3Rg==><br>
 
-HALE DINCER <+15168841083@tmomail.net>, slaskowitz@ingramllp.com <slaskowitz@ingramllp.com>,<br> 
-<br>shari laskowitz <+13478801899@tmomail.net> , hale dincer <hidincer@aol.com> <br>
+HALE DINCER <+15168841083@tmomail.net>, SHARI LASKOWITZ <slaskowitz@ingramllp.com>,<br> 
+SHARI LASKOWITZ <+13478801899@tmomail.net> , HALE DINCER <hidincer@aol.com> <br>
+PAUL REGAN <legal@mskyline.com>, LAURIE ZUCKER <lzucker@mskyline.com>, <br>
+DAPHNE DINCER <DAPHNE.DINCER@GMAIL.COM>, ASHLEY HUMPHRIES <ASHLEY.HUMPHRIES@WILSONESLER.COM>, <br>
+CORY WEISS <CWEISS@INGRAMLLP.COM>, ANA LOPEZ <LEGALASST@MSKYLINE.COM>, <br>
+DONALD ZUCKER <ADMINISTRATOR@MSKYLINE.COM>, STEPHEN O'CONNEL <SGO2107@COLUMBIA.EDU>, <br>
 *** CHECK THAT THREAD AND GET BACK TO ME AS WELL PLEASE.
 
 >> 6.24.2020 email - ASHLEY.HUMPHRIES@WILSONELSER.COM
