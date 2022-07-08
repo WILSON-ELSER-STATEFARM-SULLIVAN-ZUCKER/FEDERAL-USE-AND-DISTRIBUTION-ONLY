@@ -8027,3 +8027,94 @@ https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=HD6/wXvlOxflJUl
 Supplement: 
 
 https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/111.xps?raw=true
+	
+	--
+---
+USC 18.225, 18.21, 18.2
+ CONFIRMED.
+ -- UNLAWFUL RENTS "FRIVOLOUS INCOME" IS REPORTED IN ALL SIX BUILDINGS USED AS A GUARANTEE TO STATE FARM TO OBTAIN A LOAN FOR $6,000,000.00
+ -- 18.215, 18.2 - STATE FARM DIRECTORS FILED THEIR BONUS PAYMENTS WITH THE SECURITIES AND EXCHANGE COMMISSION FOR A "SUCCESSFUL MERGER"
+ ------ IN FACT, WERE TRYING TO KEEP AL THE "DIRTY" FILES IN CIK FILER 93715, WHICH IS MOST LIKELY WHY MR. DAVID MOORE DID NOT USE THE CORRECT SEC FILER NUMBER IN HIS PETITION.
+ ------ ALREADY DISTRIBUTED TO ALL RELEVANT PARTIES EARLIER, MAYBE THEY DIDN'T CATCH THAT EITHER.
+
+
+ 307 EXHIBIT(S)  - OPP  (Motion #1)
+Dincer, B. (Pro Hac / Pro Se) Processed
+PLAINTIFF DOES NOT HAVE A CERTIFICATE OF OCCUPANCY FOR THIS PROPERTY
+Filed: 08/09/2020 Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rjL6yoW3Mt2U6UigWCM9XQ==
+Received: 08/09/2020
+
+ 308 EXHIBIT(S)  - 503  (Motion #1)
+Dincer, B. (Pro Hac / Pro Se) Processed
+TAX MAP BLOCK 503 - LOT 8 [GIS.NYC.GOV]
+Filed: 08/09/2020 Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==
+Received: 08/09/2020
+
+ 309 EXHIBIT(S)  - no1  (Motion #1)
+Dincer, B. (Pro Hac / Pro Se) Processed
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH Filed: 08/09/2020
+Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+Received: 08/09/2020
+
+ 310 EXHIBIT(S)  - AC0  (Motion #1)
+Dincer, B. (Pro Hac / Pro Se) Processed
+ACRIS Detailed Document Information (2019000021408)2019010800475001
+Filed: 08/09/2020 Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ze6a1KA9akRV9TGfXXJT/g==
+Received: 08/09/2020
+
+ 311 EXHIBIT(S)  - AC1  (Motion #1)
+Dincer, B. (Pro Hac / Pro Se) Processed
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+Filed: 08/09/2020 Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw==
+Received: 08/09/2020
+
+ 312 EXHIBIT(S)  - AC2  (Motion #1)
+Dincer, B. (Pro Hac / Pro Se) Processed
+ACRIS Detailed Document Information (2020000155421)2020052000291002
+Filed: 08/09/2020 Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw==
+Received: 08/09/2020
+ 313 EXHIBIT(S)  - AC3  (Motion #1)
+Dincer, B. (Pro Hac / Pro Se) Processed
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+Filed: 08/09/2020 Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
+Received: 08/09/2020
+ 314 EXHIBIT(S)  - AC4  (Motion #1)
+Dincer, B. (Pro Hac / Pro Se) Processed
+ACRIS Detailed Document Information (2020000155423)2020052000291004
+Filed: 08/09/2020 Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==
+Received: 08/09/2020
+ 315 EXHIBIT(S)  - ACR  (Motion #002)
+Dincer, B. (Pro Hac / Pro Se) Processed
+ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH - https://a836-acris.nyc.gov/
+Filed: 08/09/2020 Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
+Received: 08/09/2020
+ 316 EXHIBIT(S)  - Bu0
+Dincer, B. (Pro Hac / Pro Se) Processed
+COMPLAINT #14585819 (7/25/2020) @BBB
+Filed: 08/09/2020 Confirmation Notice
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7Ry3LAoVfWOLjSXhyJZ94A==
+Received: 08/09/2020
+
+https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JjKiWNUTBeipcESQfFiwVQ==
+
+Section 203(f) of the Advisers Act permits the Commission to sanction any person who, at the time of the misconduct, was associated with an investment adviser, if the Commission finds that the sanction is in the public interest and the person has been convicted of any offense specified in Section 203(e)(2) within ten years of the commencement of proceedings. 15 U.S.C. Ã?Â§ 80b3(e)(2),(f).
+
+https://www.sec.gov/alj/aljdec/2015/id747ce.pdf
+conspiracy to commit securities fraud, in violation of 18 U.S.C. Ã?Â§ 371;
+conspiracy to commit wire fraud, in violation of 18 U.S.C. Ã?Â§ 1349;
+securities fraud, in violation of 15 U.S.C. Ã?Â§Ã?Â§ 78j(b), 78ff, and 17 CFR Ã?Â§ 240.10b-5;
+wire fraud, in violation of 18 U.S.C. Ã?Â§ 1343;
+and investment adviser fraud, in violation of 15 U.S.C. Ã?Â§Ã?Â§ 80b-6 and 80b-17. OIP at 2;
