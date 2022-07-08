@@ -20,12 +20,12 @@ PAUL REGAN <legal@mskyline.com>, LAURIE ZUCKER <lzucker@mskyline.com>, <br>
 DAPHNE DINCER <DAPHNE.DINCER@GMAIL.COM>, ASHLEY HUMPHRIES <ASHLEY.HUMPHRIES@WILSONESLER.COM>, <br>
 CORY WEISS <CWEISS@INGRAMLLP.COM>, ANA LOPEZ <LEGALASST@MSKYLINE.COM>, <br>
 DONALD ZUCKER <ADMINISTRATOR@MSKYLINE.COM>, STEPHEN O'CONNEL <SGO2107@COLUMBIA.EDU>, <br>
-
+<br>
 [VOICEMAIL FROM PAUL REGAN: AFFIRM THE THREAT](https://support.nysba.org/attachments/token/TQXA7meSdnDIBt5SuKAuW0imP/?name=voicemail+917-843-3456.mp3)
 *** CHECK THAT THREAD AND GET BACK TO ME AS WELL PLEASE.
 While dealing with their business in Brooklyn, New York. <br>
 — Kept me pre-occupied without cause to take care of their other business without my opinion or any reveal as to what they really do for a living.<br>
-
+<br>
 For example:
 
 >> Hon. Nancy T. Sunshine, Kings County Clerk <br>
@@ -44,7 +44,10 @@ THE TAX COMMISSION OF THE CITY OF NEW YORK, AND THE COMMISSIONER OF FINANCE OF T
 
 >> 6.24.2020 email - ASHLEY.HUMPHRIES@WILSONELSER.COM
 
-THIS REPORT WAS ALSO OBSTRUCED - WHILE IN TRANSIT TO THE DEPARTMENTS WHERE APPLICABLE
+THIS REPORT WAS ALSO OBSTRUCED - WHILE IN TRANSIT TO THE DEPARTMENTS WHERE APPLICABLE<br>
+
+### BANK INVESTIGATION
+[VOICEMAIL FROM THEIR FRAUD DEPT. IN RESPONSE TO RECEIPT OF THE INFORMATION BY MR. KILKENNY](https://support.nysba.org/attachments/token/Sr0PKDdRavjlpFkIt7jc95QLq/?name=voicemail-218-CHASE+BANK.m4a)
 
 ![image](https://user-images.githubusercontent.com/108204659/177884161-999f6aed-886b-4490-9968-99bbd76ee5d5.png)
 
