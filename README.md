@@ -9085,3 +9085,53 @@ EXHIBIT(S) - $%$
 
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sw8P_PLUS_dvJCX1uFTbPUT8L7A==
 
+
+sp:    2020.06.23 REQUEST TO APPEARANCE AFFIRMED
+-- AND WITH ALL DUE RESPECT FOR THE COURTS AND ITS PROCEEDINGS, ALBEIT CORRUPT.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sTDsNNcA6I3uRoTFh0RXNw==>
+""
+sp:    AN UNLAWFUL RESTRAINT
+-- EX-PARTE COMMUNICATION?
+-- CONTINUES TO HARASS THE COURTS, IMPEDE AN INVESTIGATION AND DISSEMINATION OF INFORMATION TO THE FEDERAL REGULATORS
+-- AS REFERENCED IN THE LETTER OF OBSTRUCTION - DOCKET 399 ALSO REFERENCED ANOTHER ENTITY OF STATE FARM THAT IS NOT A
+-- CORPORATION THAT I KNOW EXISTS, AND TO THE BEST OF MY KNOWLEDGE WAS TO MISLEAD FURTHER TO THE FACTS.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=BYhg9CRk6U6lOInehZOwZQ==>
+""
+sp:    2020.08.10 - EMAIL TO SHARI, NOTICE TO STATE FARM, A PUBLICLY TRADED MUTUAL FUND
+-- WAS OBSTRUCTED UNDER CIK FILER 93715 WHICH NO LONGER EXISTS
+-- CAUSED FOR A FAILURE TO REPORT MATERIAL INFORMATION BY A PUBLICLY TRADED AUDIT FIRM.
+-- CAUSED FOR CIK FILER TO "RANDOML CEASE TO EXIST" AND "AUTOMATICALLY MERGE" INTO CIK FILER 1516523.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=H4jMXghoLMU1ozmlj4VYHg==>
+""
+sp:    2020.08.10 - RESPONSE FROM SHARI REQUESTING AN EMAIL IN RESPONSE TO THIS
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=n_PLUS_CvSQR36fqPKko6L47FFQ==>
+""
+sp:    2020.08.10 -  A LETTER AFFIRMING THEIR VIOLATIONS ARE FILED
+    - USC TITLE 18.225, USC 18.21, USC 18.4, USC 18.3, USC18.2
+""   
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==>
+""
+sp:    ANNEXED
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sw8P_PLUS_dvJCX1uFTbPUT8L7A==>
+""
+sp:    NOTICE OF SECONDARY RELIEF PROVIDED AS COURTESY (PRO SE LITIGANT) WAS NOT ORDERED.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zKlc12hNNQ3mulFoxilt8g==>
+""
+sp:    LEASE PROVISIONS IN THE MEMORANDUM OF LAW (PRELIMINARY) STATEMENTS
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=6a66vTf7kki3b0YIbAYBQA==>
+""
+sp:    2020.08.11 - LETTER AND HOSPITAL STICKER AFTER SUSTAINING AN INJURY FROM THE UNREPAIRED WINDOW
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mjjeGZ6gy4aiXQA/zboiwg==>
+""
+sp:    2020.08.11 - LETTER (DELIVERED) SLASKOWITZ@MSKYLINE.COM
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pElufxUbj5UakQ/uOR4VzQ==>
+""
+sp: EMAIL TO WMCKENZI@NYCOURTS.GOV
