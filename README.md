@@ -8146,3 +8146,942 @@ conspiracy to commit wire fraud, in violation of 18 U.S.C. Ã?Â§ 1349;
 securities fraud, in violation of 15 U.S.C. Ã?Â§Ã?Â§ 78j(b), 78ff, and 17 CFR Ã?Â§ 240.10b-5;
 wire fraud, in violation of 18 U.S.C. Ã?Â§ 1343;
 and investment adviser fraud, in violation of 15 U.S.C. Ã?Â§Ã?Â§ 80b-6 and 80b-17. OIP at 2;
+
+
+
+RE:     18 U.S. Code § 1512 - Tampering with a witness-
+
+go look that one up misses wilson.
+-------- Forwarded Message --------
+Subject: 	sp: 2020.08.10 - EMAIL TO SHARI, NOTICE TO STATE FARM, A PUBLICLY TRADED MUTUAL FUND
+Date: 	Sat, 9 Jul 2022 16:33:12 -0500
+From: 	B D2022 <ms60710444266@yahoo.com>
+To: 	head office <headoffice@icmpmusic.com>, bdincer66@icloud.com <bdincer66@icloud.com>
+
+
+Subject: VIOLATION OF CIVIL RIGHTS, PROCEDURE, ET. AL.             NYSCEF 153974/2020
+
+##### Nyscef <nyscef@nycourts.gov>;                              [INFORMATION ONLY:     PROCEEDINGS IN NYSCEF MATTER 153974/2020]
+
+##### WILLIAM MCKENZIE <wmckenzi@nycourts.gov>;                 [ CLERK IN THE MATTER OF NYSCEF 153974/2020 ]
+
+##### WILLIAM MCKENZIE <wmckenzie@nycourts.gov>;                [ CLERK IN THE MATTER OF NYSCEF 153974/2020 ]
+
+##### NYSCEF PROCESS HD <oca_hd_processor@nycourts.gov>,         [ PROCESSOR IN THE MATTER OF NYSCEF 153974/2020 ]
+
+##### NYSCEF RESOURCE CENTER <efile@nycourts.gov>                [ PROCESSOR IN THE MATTER OF NYSCEF 153974/2020 ]
+
+##### LZUCKER@MSKYLINE.COM <lzucker@mskyline.com>;                [ DIRECT EXECUTIVE OF THE SULLIVAN PROPERTIES NYSCEF 153974/2020]
+
+##### SHARI LASKOWITZ <slaskowitz@ingramllp.com>;                [ ATTORNEY & EXECUTIVE OF THE SULLIVAN PROPERTIES  NYSCEF 153974/2020]
+
+
+
+####################################
+####################################
+LOCATION 2 MEMBERS: SULLIVAN        #
+####################################
+####################################
+
+##########################################################################################################
+LOCATION 2 MEMBERS: SULLIVAN GROUP - PARTICIPATED DIRECTED DURING THE PROCEEDINGS IN  NYSCEF 153974/2020 #
+##########################################################################################################
+
+    DISTRIBUTION LIST         <ADMINISTRATION@MSKYLINE.COM>,
+    DISTRIBUTION LIST         <administrator@mskyline.com>,
+    ANDRES REYNOSO             <AREYNOSO@mskyline.com>,
+    CAROL BLOOM             <cbloom@mskyline.com>,
+    DONALD ZUCKER             <DZUCKER@MSKYLINE.COM>,
+    UNKNOWN PERSON             <EDevine@mskyline.com>,
+    JOSEPH GIAMBOI             <jgiamboi@mskyline.com>,
+    JOSEPH GIAMBOI             <joseph.giamboi@brooklaw.edu>,
+    LATOYA BRITTON             <LBRITTON@MSKYLINE.COM>,
+    BROKER/REALTOR             <leftbank@mskylinerentals.com>,
+    PAUL REGAN                 <legal@mskyline.com>,
+    ANA LOPEZ                 <legalasst@mskyline.com>,
+    LAURIE ZUCKER             <lzucker@mskyline.com>,
+    DISTRIBUTION LIST         <MGMTADMIN@mskyline.com>,
+    UNKNOWN PERSON             <MVredjian@mskyline.com>,
+    PAUL REGAN                 <PREGAN@MSKYLINE.COM>,
+    SHARI LASKOWITZ         <slaskowitz@mskyline.com>,
+    SHIKENA MELTON             <smelton@mskyline.com>,
+    BROKER/REALTOR             <SULLIVANMEWS@MSKYLINERENTALS.COM>,
+    UNKNOWN / LISTSERV         <Super@sullivanmews.com>,
+    THOMAS ESCHMANN         <TEschmann@mskyline.com>,
+
+
+XXXXX     A RESULT OF THEIR OBSTRUCTION AND GROSS NEGLIGENCE OF MY RIGHTS AND PRIVACY, NOTWITHSTANDING THE
+        $6,000,000.00 LOAN THEY OBTAINED USING FALSE AND MISLEADING INFORMATION FILED WITH THE
+        NY DEPT OF FINANCE WHICH WAS USED TO OBTAIN THE LOAN FROM STATE FARM IN BLOOMINGTON ILLINOIS
+       
+            [ 50074 EST ++ ] 90849565 -
+
+#########    ANOTHER PETITION FILED ON 9/23/2020 WHILE MY VIOLATION AND RIGHTS WERE BEING VIOLATED.
+#########    FILER 400842/2020 isaac@shermantax.com <isaac@shermantax.com>,
+
+#########################################################################################################
+LOCATION 3 MEMBERS: WILSON ELSER THAT PARTICIPATED DIRECTED DURING THE PROCEEDINGS IN  NYSCEF 153974/2020
+#########################################################################################################
+
+SHARI LASKOWITZ <slaskowitz@INGRAMLLP.com>,
+Ashley V. Humphries <ashley.humphries@wilsonelser.com>,
+SHARI LASKOWITZ <+13478801899@tmomail.net>,
+CORY WEISS <cweiss@INGRAMLLP.com>,
+
+###############################################################################################################
+###############################################################################################################
+###############################################################################################################
+
+ACCESSORIES AND assistance IN NYSCEF 153974/2020
+their DEPLORABLE CONDUCT WHILE DISTRIBUTING MY UNCONSENTED VIDEOS.
+    
+#    ACCESSORIES AT LOCATION 1.A, LOCATION 1.B, AND LOCATION 1.C
+#    HAVE ALSO IMPEDED MY JOB SEARCHES, THINGS LIKE THAT -- ALWAYS STARING AT THE WRONG LAPTOP, AND WRONG APT.
+#    ROAM FREE. AND WATCH THOSE IMPORTED PRODIGIES FROM HONG KONG, AND OTHER PARTS OF THE WORLD.
+#    EVEN SOUTH KOREA.
+
+###############################################################################################################
+###############################################################################################################
+
+**** THAT INFORMATION YOU NEED TO VERIFY STARTS HERE: *
+**** Lewisohn Hall, 2970 Broadway, New York, NY 10027, United States of America*
+**** GPS (40.8084317, -73.9631634)*
+
+###############################################################################################################
+###############################################################################################################
+#####    STEPHEN O'CONNELL <sgo2107@columbia.edu>,
+#####     AMBER GRIFFITHS <ag2943@columbia.edu>,
+#####    MARLYN DELVA <mmt22@columbia.edu>,
+#####    ALAN J. MORRISON <ajm157@columbia.edu>,
+#####    SARA E. EDE <see2119@columbia.edu>,
+
+
+
+###############################################################################################################
+###############################################################################################################
+## IMPEDING AND OBSTRUCTION OF SECURITIES FRAUD AND STOCK MANIPULATION DURING A FEDERAL INVESTIGATION.
+
+DEC 22 2021 EMAIL - REGARDING CIK FILER 93715, CIK FILER 1516523, AND TICKER STFGX, THE DAY AFTER THOSE TICKERS
+ LOST NEARLY $1 BILLION DOLLARS IN MARKET CAPITALIZATION --- DID NOTHING OTHER THAN DUCK.
+    -----   
+    KEPT THAT INFORMATION INTERNAL AND ALSO TURNED MY EMAIL OFF TO FURTHER HINDER AND IMPEDE
+    A MATERIAL RELEASE OF INFORMATION TO THE SECURITIES AND EXCHANGE COMMISSION,
+    AND OTHER REGULATORS,
+    
+    NOTWITHSTANDING THE FEDERAL TRADE COMMISSION,
+    FEDERAL DEPOSIT INSURANCE CORPORATION, AND
+    THE FINANCIAL INDUSTRY REGULATORY AUTHORITY -- BECAUSE OF THE INVASION OF PRIVACY CHARGES? CIVIL RIGHTS?
+    
+    --- THOSE WHOLE LIFE AND TERM LIFE POLICY HOLDERS OF STATE FARM LIFE INSURANCE COMPANY ARE STILL AT RISK.
+
+########DEC 22 2021 EMAIL                          ##############################################################
+#####
+#####    WILLIAM MCKENZIE <wmckenzi@nycourts.gov>,
+#####    STEPHEN O'CONNELL <sgo2107@columbia.edu>,
+#####     LAURIE ZUCKER <lzucker@mskyline.com>;   
+#####     PAUL REGAN <legal@mskyline.com>,
+###############################################################################################################
+###############################################################################################################
+
+
+#     ALL OF THESE EMAILS WERE DEACTIVATED, WILLFULLY TO IMPEDE, AND OBSTRUCT THE INTERVENTION OF REGULATORS.
+#    SEE ALSO, NYSCEF 153974/2020 DOCKET 420 -- THEY EVEN ASKED ME IN A LETTER.
+
+
+    AND THEN I WAS TOLD "ONLY" STEPHEN O'CONNELL <sgo2107@columbia.edu>
+    HAD THE ABILITY TO TURN IT BACK ON BY THE COLUMBIA UNIVERSITY INFORMATION TECHNOLOGY DESK. "CUIT"
+
+    BDINCER211@BLOOMBERG.NET
+    
+    BDINCER1768@BLOOMBERG.NET
+    
+    BDINCER1738@BLOOMBERG.NET
+               
+    B.DINCER@COLUMBIA.EDU
+           
+    BD2561@COLUMBIA.EDU
+               
+>> KEYWORD FOR DISCOVERY:    "SPJKHTF" OR "xmas" OR "bg" AND TRUST ME, this sgo character --- will lie
+>> do anything to keep me at BAY, not a good idea - especially after my assitance with S&P and other
+    
+    agencies in the past - for free.
+
+###############################################################################################################
+**** THAT INFORMATION YOU NEED TO VERIFY STARTS HERE: *
+**** Lewisohn Hall, 2970 Broadway, New York, NY 10027, United States of America*
+**** GPS (40.8084317, -73.9631634)*
+###############################################################################################################
+###############################################################################################################
+###############################################################################################################
+#    FURTHER DISTRIBUTED AS OF RECENT.
+
+Dean's Discipline - SCCS <conduct-admin@columbia.edu>,
+DISTRIBUTION LIST  <gsdeanofstudents@columbia.edu>,
+DISTRIBUTION LIST  <gssceboard@columbia.edu>,
+DISTRIBUTION LIST  <gsorientation@columbia.edu>,
+DISTRIBUTION LIST  <gs-admit@columbia.edu>,
+DISTRIBUTION LIST  <gshealthandwellness@columbia.edu>,
+DISTRIBUTION LIST  <gsscelections@columbia.edu>,
+DISTRIBUTION LIST  <gs-housing@columbia.edu>,
+DISTRIBUTION LIST  <gsstudyabroad@columbia.edu>,
+DISTRIBUTION LIST  <gsdosreception@columbia.edu>,
+DISTRIBUTION LIST  <gsba@lists.columbia.edu>,
+
+###############################################################################################################
+###############################################################################################################
+###############################################################################################################
+
+    #####      Ricki Roer <ricki.roer@wilsonelser.com>;    
+        [ ACCESSORY TO WILSON ELSER, ATTORNEY & REPRESENTATIVE OF THE SULLIVAN PROPERTIES,
+        [ NEW YORK REGIONAL MANAGER OF THEIR PURPORTED ATTORNEYS ]
+       
+    ##### Ashley V. Humphries <ashley.humphries@wilsonelser.com>;   
+    
+    [ ATTORNEY & COUNSELOR OF THE SULLIVAN PROPERTIES LP IN 153974/2020 - <VIDEO.MOV> BY AND BETWEEN COUNSELORS ]
+    
+    [ ACCESSORIES TO ASHLEY - COMMUNAL AT 150 EAST 42ND STREET NEW YORK, NY, 10017 ]
+
+        ##### Corrine Shea <corrine.shea@wilsonelser.com>;                        [ ACCESSORY TO ASHLEY ]
+        ##### Jennifer M. Provost <jennifer.provost@wilsonelser.com>;            [ ACCESSORY TO ASHLEY ]
+        ##### Yana Siegel <yana.siegel@wilsonelser.com>;                        [ ACCESSORY TO ASHLEY ]
+        ##### Andrea Shiffman <andrea.shiffman@wilsonelser.com>;                [ ACCESSORY TO ASHLEY ]
+        ##### Debra Tama <debra.tama@wilsonelser.com>;                             [ ACCESSORY TO ASHLEY ]
+        ##### Lois K. Ottombrino <lois.ottombrino@wilsonelser.com>;                 [ ACCESSORY TO ASHLEY ]
+        ##### Suzanne S. Swanson <suzanne.swanson@wilsonelser.com>;                 [ ACCESSORY TO ASHLEY ]
+        ##### Urvashi Sinha <urvashi.sinha@wilsonelser.com>;                        [ ACCESSORY TO ASHLEY ]
+        ##### Angelique Sabia-Candero <angelique.sabia-candero@wilsonelser.com>;    [ ACCESSORY TO ASHLEY ]
+        ##### Aviva Stein <aviva.stein@wilsonelser.com>;                            [ ACCESSORY TO ASHLEY ]
+        ##### Carole Nimaroff <carole.nimaroff@wilsonelser.com>;                    [ ACCESSORY TO ASHLEY ]
+        ##### Jennifer L. Sciales <jennifer.sciales@wilsonelser.com>;                [ ACCESSORY TO ASHLEY ]
+        ##### Kathleen A. Mullins <kathleen.mullins@wilsonelser.com>;                 [ ACCESSORY TO ASHLEY ]
+        ##### Judy C. Selmeci <judy.selmeci@wilsonelser.com>;                         [ ACCESSORY TO ASHLEY ]
+        ##### Grace E. Song <grace.song@wilsonelser.com>;                             [ ACCESSORY TO ASHLEY ]
+        ##### Stacey L. Seltzer <stacey.seltzer@wilsonelser.com>;                     [ ACCESSORY TO ASHLEY ]
+        ##### Elizabeth Scoditti <elizabeth.scoditti@wilsonelser.com>;                [ ACCESSORY TO ASHLEY ]
+        ##### Roger R. Gottilla <roger.gottilla@wilsonelser.com>;             [ ACCESSORY TO WILSON ELSER, FINANCE DEPT. ]
+        ##### Daniel F. Flores <daniel.flores@wilsonelser.com>;             [ ACCESSORY TO WILSON ELSER, FINANCE DEPT. ]
+        ##### Amy Hanrahan <amy.hanrahan@wilsonelser.com>,                    [ ACCESSORY TO WILSON ELSER, FINANCE DEPT. ]
+
+
+## I HAVE BEEN STAYING IN HOTEL FOR THE LAST TWO YEARS, NAMELY USING HOTELS TONIGHT, AND HOTEL.COM
+    travelerresolutions@expediagroup.com <travelerresolutions@expediagroup.com>,
+    IR@expedia.com <IR@expedia.com>,
+
+
+USC TITLE 18.2, USC TITLE 18.3, USC TITLE 18.4
+--- VERIFIED BY THE WILLFUL PARTICIPATION BY THE ZUCKERS AND THEIR COUNSELORS WITHOUT OBJECTION OR IMMEDIATE DISCLOSURE OF A FELONY.
+---    CONTINUE TO PETITION AND IN THE YEAR 2021, AS SEEN IN ANOTHER PETITION FILED IN KINGS OBO "THE ZUCKER ENTERPRISES LLC"
+---    ALSO FILED BY SHARI LASKOWITZ.
+
+
+RE: NYSCEF 153974/2020
+
+
+ANNEX 1
+*** This is how my apartment was prior to the destruction of my window DURING THE COVID-19 PANDEMIC.
+***    THEY DID NOT BILL ME FOR THE WINDOW- JUST BOARDED IT UP SO THEY CAN FOCUS ON THE OTHER WINDOW.
+***    THE WINDOW WITH MY LAPTOP IN CLEAR VIEW.
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_kWzvcMNYwh1vSzxEQ0KgA==>
+
+ANNEX 2
+USC 18.2, USC 18.3, USC 18.4
+*** VERIFIES WILLFUL PARTICIPATION BY THE ZUCKERS AND THEIR COUNSELORS.
+*** Assuming Plaintiff will also attempt to hold me liable for this - INSTRUCTION BY EMAIL.
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kcafC1ZCZe7O0svvLqskNQ==>
+
+
+ANNEX 3
+***    air conditioner was manually removed, at the request of management - unsure as to where they stored
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qMm9mJ9dbDlcHvBnMLfvog==>
+
+
+ANNEX 4
+***    satellite view - red dot is the camera - blue dot IS MY UNIT.
+*** 111 REAR SULLIVAN STREET, NEW YORK, NY, 10012
+*** ONLY TWO COMPLAINTS I SEE FILED FOR THAT BUILDING [ CODE 45 ]
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=F/I1t3cRJDka6WAmy5ZAoQ==>
+
+
+ANNEX 5
+***    WMCKENZI@NYCOURTS.GOV WILL SELECTIVELY ACCEPT ELECTRONIC REQUESTS
+***    AND ALSO "UNLAWFULLY RESTRAINS" AND OBSTRUCTS MY TIME AND WHILE THEY PETITION TO OBTAIN ANOTHER $600,000.00
+***    IN FACT ALSO VIOLATED USC 18.215, AND AS ACCESSORIES DURING THOSE PROCEEDINGS FURTHERS THEIR STACK OF CHARGES.
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mZWLqGBfdMHiv27H9DGhrA==>
+
+
+
+########################################################################################################################################################
+###################################
+LOCATION 1 MEMBERS: LEWISHON HALL--
+###################################
+
+
+**** THAT INFORMATION YOU NEED TO VERIFY STARTS HERE: *
+**** Lewisohn Hall, 2970 Broadway, New York, NY 10027, United States of America*
+**** GPS (40.8084317, -73.9631634)*
+
+
+###############################################################################################################
+###############################################################################################################
+###############################################################################################################
+
+EXHIBIT(S)  - b/1  (Motion #1)
+This is how my apartment was prior to the destruction of my window and the Panndemic and Mass Exodus
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_kWzvcMNYwh1vSzxEQ0KgA==
+
+EXHIBIT(S)  - b/1  (Motion #1)
+18.2, 18.3, 18.4
+--- VERIFIES WILLFUL PARTICIPATION BY THE ZUCKERS AND THEIR COUNSELORS.
+
+Assuming Plaintiff will also attempt to hold me liable for this - they instructed that I manually
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kcafC1ZCZe7O0svvLqskNQ==
+
+EXHIBIT(S)  - b/1  (Motion #1)
+air conditioner was manually removed, at the request of management - unsure as to where they stored
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qMm9mJ9dbDlcHvBnMLfvog==
+
+
+EXHIBIT(S)  - B/3  (Motion #1)
+satellite view - red dot is the camera - blue dot
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=F/I1t3cRJDka6WAmy5ZAoQ==
+
+
+EXHIBIT(S)  - S8  (Motion #2)
+DINCER RESPONSES [153974/2020]- WMCKENZI@NYCOURTS.GOV WILL SELECTIVELY ACCEPT ELECTRONIC REQUESTS AND ALSO "UNLAWFULLY RESTRAINS" AND OBSTRUCTS MY TIME.
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mZWLqGBfdMHiv27H9DGhrA==
+
+
+
+######    VIDEO.MOV AND HOSTED INTERNET VIDEO SUBSCRIBERS.
+ANNE BRANDON <ajbrandon@gmail.com>,
+ANNE BRANDON CALIFORNIA <anne@thehighlandpartners.com>,
+
+
+
+STATE FARM
+
+JANNA UNDERWOOD <Janna.Underwood@STATEFARM.COM>,  ,  Points <hiltonhonors@points-mail.com>, Hilton Hotels & Resorts <hiltonhonors@hilton.com>, hiltonhonorsde@hilton.com <hiltonhonorsde@hilton.com>, hiltonhonorsita@hilton.com <hiltonhonorsita@hilton.com>, PS-MS-STUDENTS@lists.columbia.edu, Ivylinecapital Info <info@ivylinecapital.com>,  , +15163224896@tmomail.net, KINGS COUNTY TAX MATTERS <TaxEfiled@law.nyc.gov>
+
+
+#######
+travelerresolutions@expediagroup.com <travelerresolutions@expediagroup.com>,
+
+
+EXHIBIT(S)  - b/1  (Motion #001)
+This is how my apartment was prior to the destruction of my window and the Panndemic and Mass Exodus
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_kWzvcMNYwh1vSzxEQ0KgA==
+EXHIBIT(S)  - b/1  (Motion #001)
+Assuming Plaintiff will also attempt to hold me liable for this - they instructed that I manually pl ... show more
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kcafC1ZCZe7O0svvLqskNQ==
+EXHIBIT(S)  - b/1  (Motion #001)
+air conditioner was manually removed, at the request of management - unsure as to where they stored ... show more
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qMm9mJ9dbDlcHvBnMLfvog==
+EXHIBIT(S)  - B/3  (Motion #001)
+satellite view - red dot is the camera - blue dot
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=F/I1t3cRJDka6WAmy5ZAoQ==
+EXHIBIT(S)  - S8  (Motion #002)
+DINCER RESPONSES [153974/2020]- WMCKENZI@NYCOURTS.GOV WILL SELECTIVELY ACCEPT ELECTRONIC REQUESTS AND ALSO "UNLAWFULLY RESTRAINS" AND OBSTRUCTS MY TIME.
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mZWLqGBfdMHiv27H9DGhrA==
+
+
+On Thursday, July 7, 2022 at 06:32:04 PM GMT-5, B D2022 <ms60710444266@yahoo.com> wrote:
+
+
+Hon. Nancy T. Sunshine, Kings County Clerk <br>
+       and Clerk of the Supreme Court <br>
+https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=HD6/wXvlOxflJUlQyXqedQ==<br>
+
+   case number:          400842/2020<br>
+   Filed:                        09/23/2020<br>
+   *** KINGS COUNTY *** <br>
+
+Zucker Enterprises LLC <br>
+           - v. - <br>
+THE TAX COMMISSION OF THE CITY OF NEW YORK, AND <br><br>
+THE COMMISSIONER OF FINANCE OF THE CITY OF NEW YORK
+<br>
+
+deposits were unlawful and moved from HSBC to JP MORGAN as referenced in NYSCEF 153974/2020<br>[DOCKET 166[(https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==)<br>
+
+
+re: video.mov distribution and obstruction of justice.<br>
+under 18 U.S. Code § 1512 - Tampering with a witness, victim, or an informant<br>
+[FILED: NEW YORK COUNTY CLERK 06/05/2020 01:58 PM INDEX NO. 153974/2020](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Dh6CccrtpsxJlvBthb8nEA==)<br>
+tel: 510-682-9510<br>
+email: legal@mskyline.com<br>
+email: legalasst@mskyline.com<br>
+email: ajbrandon@gmail.com<br>
+email: smelton@mskyline.com<br>
+email: JGiamboi@mskyline.com<br>
+email: LZucker@mskyline.com<br>
+email: CWeiss@ingramllp.com<br>
+email: administrator@mskyline.com<br>
+email: slaskowitz@ingramllp.com<br>
+tel: 212-907-9600<br>
+I had to reach out to my old buddies - so be careful with your home and personal devices.<br>
+
+On 7/7/2022 2:48 PM, B D2022 wrote:
+121-5857-- I told you....
+
+
+THEY ARE FUGITIVES.
+
+- Effectively continue to lie and avoid prosecution.
+
+
+
+#### THIS PAGE IS BEING MONITORED BY THE DEPT. OF JUSTICE
+####AS WELL AS SECURITIES & BANK REGULATORS AS WELL.
+
+**** THAT INFORMATION YOU NEED TO VERIFY STARTS HERE: *
+**** Lewisohn Hall, 2970 Broadway, New York, NY 10027, United States of America*
+*GPS (40.8084317, -73.9631634)*
+
+WHICH IS WHY I AM HERE.
+*-- THEY ARE PEEPING TOMS, AID AND ABET TO THOSE FELONIES COMMITTED BY *
+*THE ZUCKER ENTERPRISES.*
+
+
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER
+
+>> 6.24.2020 email - ASHLEY.HUMPHRIES@WILSONELSER.COM
+THIS PAGE IS BEING MONITORED BY SEVERAL DEPARTMENTS AS PART OF A FEDERAL BANK AND SECURITIES FRAUD INVESTIGATION.
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER
+
+
+>> AFTER THE LEASES WERE TRANSFERRED TO STATE FARM, AND NO I DIDN'T FOLLOW HER.
+- people go to PRISON FOR THAT TYPE OF BEHAVIOR THOUGH.
+
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH TO STATE FARM LIFE INSURANCE COMPANY - INCLUDING THEIR TAX RISKS AS IMPLIED
+
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH TO STATE FARM LIFE INSURANCE COMPANY
+- INCLUDING THEIR TAX RISKS AS IMPLIED
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==>
+
+ACRIS Detailed Document Information (2019000021408)2019010800475001
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ze6a1KA9akRV9TGfXXJT/g==>
+
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw==>
+
+ACRIS Detailed Document Information (2020000155421)2020052000291002
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw==>
+
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==>
+
+ACRIS Detailed Document Information (2020000155423)2020052000291004
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==>
+
+ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==>
+
+
+###################################################################################################################################
+DISTRIBUTION OF THOSE UNCONSENTED VIDEOS OF THE INTERIOR OF MY APARTMENT - ARE A GROSS VIOLATION OF THE CONSTITUTION AND MY PRIVACY
+-- IS GUARANTEED TIME IN PRISON - IN ADDITION TO THE FINES AS IMPLIED FOR USC TITLE 18.4, 18.3, 18.2 AND BY ALL HER ACCESSORIES
+-- LOCATED AT 150 EAST 42nd STREET, NEW YORK, NY, 10017 ---- were afraid I WAS GOING TO FILE A SUIT AND KEEP ME LIMITED TO FUNDS
+-- BECAUSE THEN, I CAN;T FILE ANYTHING IN CIVIL COURT AND SUE THEM PROPER - FOR WASTING MY TIME AND KEEPING ME OCCUPIED WITH
+-- THIS MATERIAL INFORMATION TO ASSIST IN THE DISCLOSURE AND TO ASSIST [ DOCKET 420 ] WITH STATE FARM LIFE INSURANCE COMPANY
+-- NOT TO DESTROY THEM TO OBTAIN A LOAN FOR $6 MILLION DOLLARS, THEN OBSTRUCT ME TO PETITION THE NYC DEPT OF TAXATION FOR
+-- ANOTHER $600 THOUSAND DOLLARS IN ANOTHER VENUE. THIS WAS ALL KNOWN BY THE LOCATION 1.A MEMBERS - AT ALL TIMES - EVEN DEC 22, 21.
+###################################################################################################################################
+
+**** THAT INFORMATION YOU NEED TO VERIFY STARTS HERE: *
+**** Lewisohn Hall, 2970 Broadway, New York, NY 10027, United States of America*
+**** GPS (40.8084317, -73.9631634)*
+
+EMAILS, AND PHONE CALLS BY AND BETWEEN THE ZUCKERS, AND THE WILSON AND ELSER FIRM ARE GOING TO BE DISCOVERED, IF NOT ALREADY ARCHIVED.
+
+sp:    6.24.2020
+--    ASHLEY.HUMPHRIES@WILSONELSER.COM
+--     DISTRIBUTED THOSE unconsented <VIDEO.MOV> FILES WITHOUT MY CONSENT
+--     VIOLATION OF PRIVACY AND CIVIL RIGHTS - ESPECIALLY WITHOUT BEING A "WANTED" CRIMINAL OR A "PERSON OF INTEREST" IN A FEDERAL INVESTIGATION.
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ANDSuLFWlbjttGxgjUXGAw==
+
+
+sp:    6.25.2020
+--    ASHLEY.HUMPHRIES@WILSONELSER.COM
+--     DISTRIBUTED THOSE unconsented <VIDEO.MOV> FILES WITHOUT MY CONSENT
+--     VIOLATION OF PRIVACY AND CIVIL RIGHTS - ESPECIALLY WITHOUT BEING A "WANTED" CRIMINAL OR A "PERSON OF INTEREST" IN A FEDERAL INVESTIGATION.
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ph76T77EGjUtofiKDKCOoA==>
+
+
+sp:    6.27.2020
+--    ASHLEY.HUMPHRIES@WILSONELSER.COM
+--     DISTRIBUTED THOSE unconsented <VIDEO.MOV> FILES WITHOUT MY CONSENT
+--     VIOLATION OF PRIVACY AND CIVIL RIGHTS - ESPECIALLY WITHOUT BEING A "WANTED" CRIMINAL OR A "PERSON OF INTEREST" IN A FEDERAL INVESTIGATION.
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=x9RFyUAiwcmGbb6y8R306w==>
+
+
+sp:     6.27.2020
+--    ASHLEY.HUMPHRIES@WILSONELSER.COM
+--     DISTRIBUTED THOSE unconsented <VIDEO.MOV> FILES WITHOUT MY CONSENT
+--     VIOLATION OF PRIVACY AND CIVIL RIGHTS - ESPECIALLY WITHOUT BEING A "WANTED" CRIMINAL OR A "PERSON OF INTEREST" IN A FEDERAL INVESTIGATION.
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=hxv_PLUS_e1_PLUS_miua_PLUS_MYiCxhv_PLUS_XQ==>
+
+
+sp:     6.27.2020
+--    ASHLEY.HUMPHRIES@WILSONELSER.COM  
+--     DISTRIBUTED THOSE unconsented <VIDEO.MOV> FILES WITHOUT MY CONSENT
+--     VIOLATION OF PRIVACY AND CIVIL RIGHTS
+-- ESPECIALLY WITHOUT BEING A "WANTED" CRIMINAL OR A "PERSON OF INTEREST" IN A FEDERAL INVESTIGATION.
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=382TNrNKjw28ce0sCmTN9g==>
+
+
+sp:     6.28.2020
+--    ASHLEY.HUMPHRIES@WILSONELSER.COM  
+--     DISTRIBUTED THOSE unconsented <VIDEO.MOV> FILES WITHOUT MY CONSENT
+--     VIOLATION OF PRIVACY AND CIVIL RIGHTS - ESPECIALLY WITHOUT BEING A "WANTED" CRIMINAL OR A "PERSON OF INTEREST" IN A FEDERAL INVESTIGATION.
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UQzt9l/yhPj2jXV6Xk9JEA==>
+
+
+sp:    6.29.2020
+--    ASHLEY.HUMPHRIES@WILSONELSER.COM  
+--     DISTRIBUTED THOSE unconsented <VIDEO.MOV> FILES WITHOUT MY CONSENT
+--     VIOLATION OF PRIVACY AND CIVIL RIGHTS - ESPECIALLY WITHOUT BEING A "WANTED" CRIMINAL OR A "PERSON OF INTEREST" IN A FEDERAL INVESTIGATION.
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ZWQqfKHMbUj/LLDfoydj1g==>
+
+
+sp:    6.30.2020
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bJO1Rhql6hYHUqwyBXgpGQ==>
+
+
+sp:    7.2.2020 surveillance video photographs,
+--- WHAT APPEARS LIKE BLACK AND WHITE "ONLY" PHOTOGRAPH FROM A BIRTH CENTER
+--- LIKE A SONOGRAM OR A VIDEO THAT IS "EDITABLE" AND CAN BE ZOOMED INTO LIKE A SLINKY.
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=beoPSi5TWTAsiW/5XVap2w==>
+
+
+sp:    7.2.2020 surveillance video photographs, INTO THE THRESHOLD OF MY ENTRYWAY…
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=thOx3vHzDXJ1LG9IEQ962g==>
+
+sp:    7.3.2020 surveillance video photographs, A VIEW OF THE COURTYARD AND CHILDREN
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=95qV/5SZ/JLyUXzmCTpzrA==>
+
+
+sp:    7.3.2020 surveillance video photographs, A VIEW OF THE COURTYARD AND CHILDREN
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JxfYNYNM64O3GvWBB39vDQ==>
+
+
+###################################################################################################################################
+###################################################################################################################################
+
+sp:    NYSCEF Criminal Court Information
+- THE COURT WOULD NOT RESTRAIN THEM FROM VIDEOTAPING
+-- SO I CUT THE ETHERNET CORD TO THEIR CAMERA WAS WAS RESTRAINED AND OBSTRUCTED - after being provoked for SEVERAL MONTHS
+-- REQUESTING NICELY THAT THEY REMOVE THE CAMERAS - during the HEIGHT OF THE COVID-19 PANDEMIC.
+-- YOU COULD NOT EVEN GET A HAIRCUT, LET ALONE FIND A PLACE TO LIVE.
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=g3G/uVrDZNeOAh9/cIVZMQ==>
+
+
+photographs- VIOLATION OF PRIVACY
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fC4jf3UUfVL4Nxd1UZFe7w==>
+
+
+sp:    7.16.2020 surveillance video photographs, INTO THE THRESHOLD OF MY DOORWAY
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rwJsp5trwCp8p5UEfE1zJg==>
+
+
+sp:    CERTIFICATE OF OCCUPANCY FOR 111 SULLIVAN STREET REAR, NEW YORK, NEW YORK 10012
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JjKiWNUTBeipcESQfFiwVQ==>
+
+
+sp:    CERTIFICATE OF OCCUPANCY FOR 111 SULLIVAN STREET, NEW YORK, NEW YORK 10012
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Wx2R9sKfno_PLUS_ol5jFakV9g==>
+
+
+Miwako Messer (AFFIDAVIT) IS REPORTED AS A 25 YEAR AFFILIATE OF THE PLAINTIFF
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=72GIYXnN1f/CSjCYtDxKUw==>
+
+
+Affidavit of Miwako Messer SHOULD BE CONSIDERED AS WELL ORCHESTRATED BY OTHER PERSONS OF INTEREST
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=G5D0bfOIy4SeSXS47aSWbw==>
+
+NO COMPLAINTS HAVE BEEN FILED IN MY BUILDING - PER DEPARTMENT OF BUILDINGS RECORD CONTRARY TO THOSE "COMPLAINTS"
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AgwH2omenQPCvT0OYOE3Rg==>
+
+
+property report (see also: Miwa and Teschman)
+Assignment to Zucker 0526, OWNERS AND DIRECTORS- CONTRARY TO THE DEED FILED
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Oioy2FAQ_PLUS_uuEatGhmc4JnA==>
+
+
+see also: MEWS schedule of assignments to Zucker  ROBERT ESNARD, THOMAS ESCHMANN, SULLIVAN PROPERTIES LLC
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=eWSv56qXzYyHjq8kJphooQ==>
+
+###################################################################################################################################
+---
+
+
+2020.06 - NOTICE OF WINDOW STILL UNREPAIRED- THEY WERE FOCUSING ON THE OTHER WINDOW - WITH A CAMERA POINTED AT MY LAPTOP AND BED
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=6YSEKbWaYH5TQs6wn7Tz/g==
+EXHIBIT(S) - @8
+
+
+sp:    2020.06 - APPLICATION SUBMITTED TO HARVARD UNIVERSITY
+--    (JOHN. F KENNEDY SCHOOL OF GOVERNMENT)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=hok8HxzDKC5Gygg5mGEmUg==>
+
+
+sp:    2020.06 - ADMITTED AND ENROLLED AT HARVARD UNIVERSITY
+--    (JOHN. F KENNEDY SCHOOL OF GOVERNMENT) -- WITH A SIX-YEAR OPTION TO COMPLETE THE PROGRAM.
+--     IN FACT A GRADUATE LEVEL PROGRAM. "LEADERSHIP DURING UNCERTAIN TIMES"
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rLrkE03EpMhCXhS4sXkBbQ==>
+
+
+sp:    2020.06 - ADMITTED AND ENROLLED AT HARVARD UNIVERSITY
+-- (JOHN. F KENNEDY SCHOOL OF GOVERNMENT) FOR $1.10 (ONE DOLLAR AND TEN CENTS)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_wlpqs6hRnqFLQWseKBaUA==>
+
+
+
+sp:    2020.06.03 -- LOOK AT THIS SERIES HERE AND LET ME KNOW IF MY CIVIL RIGHTS WERE VIOLATED.
+--    2020.06.03 - NOTICE TO PLAINTIFF (PAUL REGAN & CO) TO STOP HARASSING ME
+-- WARNED THEM ABOUT THE IMPLIED RISK:
+-- Why don't you just tack on the 9 billion dollars NYC is in the hole while you're at it?
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TxAa7cNVIHKtnJU/ni/zvg==>
+
+sp:    2020.06.05 - LETTER ADDRESSED TO DINCER WITH AN ATTACHMENT.
+-- ASSERTS PARTICIPATION AND A VIOLATION OF USC TITLE 18.4, USC 18.3, USC 18.2
+-- WILLFULLY AND KNOWINGLY VIOLATED MY CIVIL RIGHTS, VIOLATED MY PRIVACY BY ALL PARITICIPANTS AT ALL TIMES.
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9vG6CoErQ06XLPWGwdqPng==>
+
+###################################################################################################################################
+
+sp:    2020.06.06 - LETTER TO SHARI LASKOWITZ IN RESPONSE TO FURTHER HARASSMENT
+-- TYPICALLY TO LEAVE ME ALONE WAS NEVER UNDERSTOOD,
+-- IN THE DESCRIPTION OF THE DOCKETS I FILED, AND NOTES TO THE JUDGE AND CLERK - EFILED.
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Z5Qy9kwlnqym0Pj5PU1CA==>
+
+
+
+sp:    2020.06.09 - ADNAN (SERVANT) REPRESENTS A VENTILATOR FAN AS A SPEAKER TO INCITE
+--    AN UNLAWFUL ARREST AND FURTHER IMPEDE A TIMELY RELEASE OF MATERIAL INFORMATION TO FEDERAL REGULATORS.
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zEdIF90lp8Cr0xLE1Cq38A==>
+
+
+
+sp:    2020.06.09 - PAUL REGAN (GENERAL COUNSEL) ATTEMPTS TO INCITE AN UNLAWFUL ARREST AND
+-- FURTHER IMPEDE A TIMELY RELEASE OF MATERIAL INFORMATION TO FEDERAL REGULATORS.
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=s3A3QFmc/KymzE0H5QErmw==>
+
+
+sp:    2020.06.10 - DINCER RESPONSE TO COUNSEL - (GENERAL COUNSEL) UNLAWFUL ARREST
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=dPSZ03Y2rT27NQYagFWM_PLUS_Q==>
+
+sp:    2020.06.10 - NOTICE TO MEWS ON 07.25.2020 -- TYPICALLY TO LEAVE ME ALONE.
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=c8HUQarPJ58Ilx4Kl1iGCw==>
+
+sp:    2020.06.10 - PETITIONER'S REQUEST TO REMOVE VENTILATOR AND A "BREACH OF THE LAW"
+--    ATTEMPTED TO HAVE ME ARRESTED FOR THAT.
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=FtSnIr2dgFXmrQ5/yD27Vw==>
+
+
+sp:    2020.06.14 - 1146AM NO PERMIT FOR WORKERS ON THE ROOF (111 SULLIVAN REAR)
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=yHFo9LckqZufbbXWmyVEzw==>
+
+
+EXHIBIT(S) - $10 ORDERED BY HAGGLER FOR A "BOND"
+sp: 2020.06.16 - LETTER TO INGRAM - REQUESTING WINDOW REPAIR-THERE IS DAMAGES
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Zvb4zKCBfGJSlO_PLUS_eiuryuQ==>
+
+##############################################################################################
+##############################################################################################
+
+OPERATIONS DIRECTOR- ALOPEZ@MSKYLINE.COM""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=uJd46HaWdvejXPqCaw0U0A==>
+
+"SECONDARY RELIEF HEREIN: DISMISS ALL CLAIMS (SUPPLEMENTS)NY CPLR § 1003"
+
+---
+
+sp:    2020.01.28
+-- PAUL REGAN (COUNSEL TO MEWS) LETTER put me "ON NOTICE"
+-- (NYPD) MEANING HE CAN STARE AT THE INTERIOR OF MY UNIT AT WILL IF I AM NOT A CRIMINAL
+    ANNEXED NYSCEF 153974/2020
+-- USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2, 18.215, ETC...
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2oJ03Bv6rzNxwm21n3_PLUS_ioQ==>
+
+###################################################################################################################################
+--- THE DIRECTORS, AND GENERAL COUNSELORS OF SULLIVAN
+-- USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+    obo SULLIVAN PROPERTIES LP,
+        SULLIVAN PROPERTIES LLC,
+        SULLIVAN GP LLC,
+        MANHATTAN SKYLINE MANAGEMENT CORP.
+    
+    DEED:    101 WEST 55TH STREET, NEW YORK, NY, 10019
+    
+###################################################################################################################################
+
+ANNEXED NYSCEF 153974/2020        DOCKET 309
+-- USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=572E8gahZUO1KFthrfiyFQ==>
+""
+ANNEXED NYSCEF 153974/2020        DOCKET 310
+-- USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OomxeuQk70qNjWWKb40STQ==>
+""
+ANNEXED NYSCEF 153974/2020        DOCKET 311
+-- USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=tBNPPEezUTFc5hbuiEzdUQ==>
+""
+ANNEXED NYSCEF 153974/2020        DOCKET 312
+-- USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qE8ZW1H9E96HdWGe_PLUS_HUFMw==>
+""
+ANNEXED NYSCEF 153974/2020        DOCKET 313
+-- USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=dFo3h601PGsx5OdVHKce6w==>
+""
+ANNEXED NYSCEF 153974/2020         DOCKET 314
+-- USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rKf0ePhveTNiSdMV/Ff6qQ==>
+""
+ANNEXED NYSCEF 153974/2020         DOCKET 315
+-- USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+""
+sp:    NOTICE TO LAURIE ZUCKER,
+    obo SULLIVAN PROPERTIES LP, SULLIVAN PROPERTIES LLC, SULLIVAN GP LLC, MANHATTAN SKYLINE MANAGEMENT CORP.
+    101 WEST 55TH STREET, NEW YORK, NY, 10019
+    
+    AND THE COUNSELORS AT:    
+    150 EAST 42ND STREET, NEW YORK, NY, 10017
+""   
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8MNtA==>
+""
+ANNEXED NYSCEF 153974/2020
+- USC TITLE 18.215, 18.21, 18.4, 18.3, 18.2
+sp:    ASSIGNMENTS OF LEASES AND RENTS 
+- USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IY8iDH_PLUS_UpVanEtcRioef3A==>
+""
+ANNEXED
+sp:    Digital Tax Map - New York City Department of Finance
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=eE_PLUS_6vTJd2LbCuTiN42PbQw==>
+""
+ANNEXED
+sp:  CERTIFICATE OF OCCUPANCY FOR REAR (DCP 1077252)  
+-- USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ZOCFS3HH2UeHQe8j2tXJoQ==>
+""
+ANNEXED
+sp:  CERTIFICATE OF OCCUPANCY FOR FRONT (DCP 1077252)
+-- USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xqRfxyWgjHfS_PLUS_BIgF1mcGA==>
+""
+ANNEXED
+sp:  DEPARTMENT OF BUILDINGS REPORTS FOR (DCP 1077251/1077252)
+--    USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9akTYffEMVNdORAXTNTMtQ==>
+""
+sp:  FALSE ADVERTISING (SEE ALSO: _COLUMBIA_AFFIRMATION_643 DOCKET I SHARED WITH THE "COLUMBIA LAW GROUP" ON LINKED IN.
+--    WERE PROBABLY DIRECTED OTHERWISE, WITH SOME FARFETCHED EXCUSE.
+--    SEE ALSO: CUBAN MISSILE CRISES.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DwrQqC1h3ZVkpAESBverLw==>
+""
+sp:  2020.06.17 efiling with NYSCEF  
+--    FAX 2124019146
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5WN6okjo9pR8CzVanU9z3w==>
+""
+sp:  2020.06.22 REQUEST TO APPEAR BY PLAINTIFF
+-- AT-WILL AS-NEEDED PROCEEDINGS ARE A VIOLATION OF MY CIVIL RIGHTS,
+-- CONSITITUTIONAL RIGHTS TO A FAIR TRIAL, OR A TRIAL AT ALL
+-- WHICH WAS GROSSLY OBSTRUCTED AND KNOWN BY ALL COUNSELORS AS REFERENCED IN THOSE EMAILS YOU ALREADY HAVE ACCESS TO
+-- SGO2107@COLUMBIA.EDU, ET. AL ---> continue to keep me with limited resources, funds, etc. to buy themselves more time to avoid prosecution
+-- even at the cost of a registered investment adviser and their dignity.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qhjjPjzuwUgwWnZcfiIluA==>
+""
+###################################################################################################################################
+###################################################################################################################################
+""
+sp: 2020.06.23 REQUEST TO APPEARANCE AFFIRMED
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sTDsNNcA6I3uRoTFh0RXNw==>
+###################################################################################################################################
+###################################################################################################################################
+sp: AN UNLAWFUL ARREST
+-- EX-PARTE COMMUNICATION
+-- CONTINUES TO HARASS THE COURTS, AND
+-- IMPEDE MYSELF FOR WORKING WITH FEDERAL REGULATORY AUTHORITIES
+-- AS REFERENCED IN THE LETTER OF OBSTRUCTION AND AS OF CURRENT - CONTINUES
+-- JUST CHECK THOSE HOTEL RECEIPTS AND LET ME KNOW OTHERWISE - AFTER REVIEWING THE VOICEMAIL
+-- FROM PAUL REGAN THREATENING TO FOLLOW MY FATHER TO 'the end of the world...'
+-- so i went to that HOTEL, 144 WASHINGTON STREET, NEW YORK, NY
+-- SAME NUMBER OF UNITS IN THE COLLECTION OF 6 PROPERTIES USED AS A GUARANTEE TO OBTAIN A $6 MILLION DOLLAR LOAN FROM STATE FARM LIFE INSURANCE COMPANY.
+-- WOULD NOT PERMIT ME TO FILE A CHANGE IN CAPTION TO ADD THEM TO THE CASE THEN - AND OBSTRUCTED THE MATERIAL INFORMATION ABOUT THEIR "GROSS INCOME"
+-- FILED FOR ALL 6 PROPERTIES IN THE NYC ACRIS SYSTEM FOR THE PUBLIC TO UNDERSTAND AS WELL, NOTWITHSTANDING THEIR POLICY HOLDERS AND INVESTORS OF STFGX, STFBX, SFITX, SFBDX.
+-- COLLECTIVELY LOST NEARLY $1 BILLION DOLLARS IN A SINGLE TRADING SESSION ON DECEMBER 21, 2021
+-- AFTER I PROVIDED THE STATE FARM CIK 1516523 PROMOTERS OF THE "MATERIAL CORPORATE ACTION" ON DECEMBER 18, 2021.
+-- WAS MANIPULATED, AND TO THE BEST OF MY UNDERSTANDING SHARED BETWEEN THOSE AS REFERENCED ABOVE IN THE DEC 22, 2021 THREAD.
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=BYhg9CRk6U6lOInehZOwZQ==>
+###################################################################################################################################
+###################################################################################################################################
+sp: 2020.08.10 - EMAIL TO SHARI
+-- NOTICE TO STATE FARM, A PUBLICLY TRADED MUTUAL FUND
+-- WAS OBSTRUCTED THEN UNDER CIK FILER 93715
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=H4jMXghoLMU1ozmlj4VYHg==>
+###################################################################################################################################
+###################################################################################################################################
+sp: 2020.08.10 - RESPONSE FROM SHARI REQUESTING INFORMATION - AND HARASSMENT OF MY TIME.
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=n_PLUS_CvSQR36fqPKko6L47FFQ==>
+
+###################################################################################################################################
+sp: 2020.08.10 - OFFER ATTACHED (SHARI) LETTER OF OBSTRUCTION "PLEASE DO NOT CONTACT THE REGULATORS OR STATE FARM"
+-- WHICH I ALREADY DID ON 8/8/2020
+-- LETTER AFFIRMS - USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2, AND
+-- IMPEDING A FEDERAL SECURITIES AND BANK INVESTIGATION IN NYSCEF 153974/2020
+
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==
+
+###################################################################################################################################
+sp: 2020.08.11
+--     LETTER AND HOSPITAL STICKER AFTER SUSTAINING AN INJURY FROM THE UNREPAIRED WINDOW.
+--    NOT A PRIORITY - THEY LIKED THE OTHER WINDOW.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mjjeGZ6gy4aiXQA/zboiwg==>
+
+###################################################################################################################################
+--    NOT A PRIORITY - THEY LIKED THE OTHER WINDOW.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pElufxUbj5UakQ/uOR4VzQ==>
+
+###################################################################################################################################
+sp: EMAIL TO WMCKENZI@NYCOURTS.GOV
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=A11tvYP5hhvT2rSQheEU/w==>
+
+
+"sp: 97 SULLIVAN STREET WAS DROPPED FROM THE SCHEDULE OF PROPERTIES TRANSFERRED
+--    FOR SOME REASON - DID NOT HAVE TIME TO ASSESS THIS DUE THE OBSTRUCTIONS
+--     UNLAWFUL RESTRAINTS OF MY TIME
+--    THE VIOLATIONS OF MY CIVIL RIGHTS and PRIVACY THROUGHOUT THESE PROCEEDINGS.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=E94ff9uQZ6/90RDJEnWSNw==>
+""
+sp:    DUE PROCESS PER THE HONORABLE SHLOMO HAGLER, J.S.C.
+--    this is the essence of corruption and in a NEW YORK SUPREME COURT, NYSCEF MATTER 153974/2020
+--     the counselors of Columbia University all of a sudden forgot how to do a web-search?
+--     There is no EXEMPTION for that - upon discovery of the Cuban Missile Crises
+--     A TOP RANKED IVY LEAGUE INSITUTION IN AMERICA HAS FORGOTTEN
+-- HOW TO ACCESS A COURT DOCKER IN THEIR OWN STATE--
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=MRI5KsH3gsrBIEC3pc/ZuQ==>
+""
+sp:    2020.07.17 AFFIRMS DEFENDANT HAS PROVIDED A GOOD FAITH RESPONSE (GENERAL)
+-- AS REQUESTED PRIOR TO JULY 2ND, 2020
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=MRI5KsH3gsrBIEC3pc/ZuQ==>
+""
+sp:    2020.07.20 VERIFIES DEFENDANT HAS ACCESS TO ELECTRONICALLY FILED DOCUMENTS
+-- SERVICE THEREAFTER IS UNDERSTOOD AS "ELECTRONICALLY RECEIVED BY ALL PARTICIPANTS AND THEIR ATTORNEYS
+-- APPARENTLY HAVE READ A DIFFERENT VERSION OF PROCEDURE, AND IN A THIRD WORLD COUNTRY WOULD BE SHUNNED.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=GSg2nG5CaHeGPVjbY1wyWQ==>
+""
+sp:    GOOD AND PROPER SERVICE
+-- MANDATORY E-FILING PROTOCOLS OF THE NEW YORK SUPREME COURT SYSTEM.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JwzTulQKXTDAmfd7fOGSjg==>
+""
+sp:    2020.06.23 REQUEST TO APPEARANCE AFFIRMED
+-- AND WITH ALL DUE RESPECT FOR THE COURTS AND ITS PROCEEDINGS, ALBEIT CORRUPT.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sTDsNNcA6I3uRoTFh0RXNw==>
+""
+sp:    AN UNLAWFUL RESTRAINT
+-- EX-PARTE COMMUNICATION?
+-- CONTINUES TO HARASS THE COURTS, IMPEDE AN INVESTIGATION AND DISSEMINATION OF INFORMATION TO THE FEDERAL REGULATORS
+-- AS REFERENCED IN THE LETTER OF OBSTRUCTION - DOCKET 399 ALSO REFERENCED ANOTHER ENTITY OF STATE FARM THAT IS NOT A
+-- CORPORATION THAT I KNOW EXISTS, AND TO THE BEST OF MY KNOWLEDGE WAS TO MISLEAD FURTHER TO THE FACTS.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=BYhg9CRk6U6lOInehZOwZQ==>
+""
+sp:    2020.08.10 - EMAIL TO SHARI, NOTICE TO STATE FARM, A PUBLICLY TRADED MUTUAL FUND
+-- WAS OBSTRUCTED UNDER CIK FILER 93715 WHICH NO LONGER EXISTS
+-- CAUSED FOR A FAILURE TO REPORT MATERIAL INFORMATION BY A PUBLICLY TRADED AUDIT FIRM.
+-- CAUSED FOR CIK FILER TO "RANDOML CEASE TO EXIST" AND "AUTOMATICALLY MERGE" INTO CIK FILER 1516523.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=H4jMXghoLMU1ozmlj4VYHg==>
+""
+sp:    2020.08.10 - RESPONSE FROM SHARI REQUESTING AN EMAIL IN RESPONSE TO THIS
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=n_PLUS_CvSQR36fqPKko6L47FFQ==>
+""
+sp:    2020.08.10 -  A LETTER AFFIRMING THEIR VIOLATIONS ARE FILED
+    - USC TITLE 18.225, USC 18.21, USC 18.4, USC 18.3, USC18.2
+""   
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==>
+""
+sp:    ANNEXED
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sw8P_PLUS_dvJCX1uFTbPUT8L7A==>
+""
+sp:    NOTICE OF SECONDARY RELIEF PROVIDED AS COURTESY (PRO SE LITIGANT) WAS NOT ORDERED.
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zKlc12hNNQ3mulFoxilt8g==>
+""
+sp:    LEASE PROVISIONS IN THE MEMORANDUM OF LAW (PRELIMINARY) STATEMENTS
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=6a66vTf7kki3b0YIbAYBQA==>
+""
+sp:    2020.08.11 - LETTER AND HOSPITAL STICKER AFTER SUSTAINING AN INJURY FROM THE UNREPAIRED WINDOW
+""
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mjjeGZ6gy4aiXQA/zboiwg==>
+""
+sp:    2020.08.11 - LETTER (DELIVERED) SLASKOWITZ@MSKYLINE.COM
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pElufxUbj5UakQ/uOR4VzQ==>
+""
+sp: EMAIL TO WMCKENZI@NYCOURTS.GOV
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=A11tvYP5hhvT2rSQheEU/w==>
+""
+sp: 97 SULLIVAN STREET WAS DROPPED FROM THE SCHEDULE OF PROPERTIES TRANSFERRED FOR SOME REASON
+- DID NOT HAVE TIME TO ASSESS THIS DUE THE OBSTRUCTIONS AND UNLAWFUL RESTRAINTS OF MY TIME
+AS SEEN IN THE VIOLATIONS OF MY CIVIL RIGHTS THROUGHOUT THESE PROCEEDINGS
+"
+
+---
+OPERATIONS DIRECTOR- ALOPEZ@MSKYLINE.COM
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=uJd46HaWdvejXPqCaw0U0A==>
+
+EXHIBIT(S) - $%$
+"SECONDARY RELIEF HEREIN: DISMISS ALL CLAIMS (SUPPLEMENTS)NY CPLR § 1003
+"\
+
+---
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sw8P_PLUS_dvJCX1uFTbPUT8L7A==
+
