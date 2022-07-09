@@ -14,6 +14,712 @@ NO COMPLAINTS HAVE BEEN FILED IN MY BUILDING<br>
 - PER DEPARTMENT OF BUILDINGS RECORD CONTRARY TO THOSE "COMPLAINTS" WHICH ARE UN-TRUE.<br>
 <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AgwH2omenQPCvT0OYOE3Rg==><br>
 
+---
+
+AUTOMATIC CHARGES - THOSE VIDEO.MOV DISTRIBUTIONS WERE ANNEXED IN NYSCEF 153974 2020
+
+
+
+§ 250.60 Dissemination of an unlawful surveillance image in the first degree.
+
+ 
+
+A person is guilty of dissemination of an unlawful surveillance image in the first
+
+degree when:
+
+1. He or she, with knowledge of the unlawful conduct by which an image or images
+
+of the sexual or other intimate parts of another person or persons were obtained and
+
+such unlawful conduct would satisfy the essential elements of the crime of unlawful
+
+surveillance in the first or second degree, as defined, respectively, in section
+
+250.50 or 250.45 of this article, sells or publishes such image or images; or
+
+2. Having created a surveillance image in violation of section 250.45 or 250.50 of
+
+this article, or in violation of the law in any other jurisdiction which includes
+
+all of the essential elements of either such crime, or having acted as an accomplice
+
+to such crime, or acting as an agent to the person who committed such crime, he or
+
+she intentionally disseminates such unlawfully created image; or
+
+3. He or she commits the crime of dissemination of an unlawful surveillance image
+
+in the second degree and has been previously convicted within the past ten years of
+
+dissemination of an unlawful surveillance image in the first or second degree.
+
+ 
+
+Dissemination of an unlawful surveillance image in the first degree is a class E
+
+felony.
+
+ 
+1 question:
+do you see any other WINDOWS that are being pointed at by ANY CAMERA…
+and also about 3 feet INTO my doorway?
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NvtIUa5jls0V4/OF7/XlGg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Lngso0WNLftWLKYEefK/1g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Lngso0WNLftWLKYEefK/1g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Lngso0WNLftWLKYEefK/1g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Lngso0WNLftWLKYEefK/1g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bXBaW2kDQDla5S7so80SWQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=eBNPxpSr6MPq4D6vZlHhFw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=afk_PLUS_APpOl2QvqQsHkLKRzQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=s4pVOpSOZBIzM2sgaTdRbw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XPryqv5meaV7bzTN56trNg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7MTKIiZbuHxIsfAB_PLUS_NCbhQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=a381V1elefjBsYvNcJNF_PLUS_g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vHZxloVck876_PLUS_Ia2LIFPcQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=KTL0yzgVgcS6EcWzXNocTQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cve65PXNBCtdxjJFkfwUnw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=z2F2ttm8P0R5cJjBcSGnfg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VSsX7GwaPDSiYc0MUlD5qw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rwJsp5trwCp8p5UEfE1zJg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fC4jf3UUfVL4Nxd1UZFe7w==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=g3G/uVrDZNeOAh9/cIVZMQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JxfYNYNM64O3GvWBB39vDQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=95qV/5SZ/JLyUXzmCTpzrA==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=thOx3vHzDXJ1LG9IEQ962g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=beoPSi5TWTAsiW/5XVap2w==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jm1IylJSTPOfy12gVXgMlw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VQw/ASQ6kIMGlirWBZM8zA==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=upAzS2FC6bICOGxa73ptdg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zXega0sLahw5fVuBTVtpnw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UAXjpRh1KO2_PLUS_8KsdF1TuQA==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=yMXQNekW7te0QA5jjAvP2w==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XkdNmKBghAAqMUItDdrwxA==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cWLErrXbEw5qtOLVeWU/7g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DnmjCPN_PLUS_DIIELjZFua7gWQ==
+
+…
+
+ 
+
+From: ms60710444266 [mailto:ms60710444266@yahoo.com]
+Sent: Monday, February 07, 2022 1:30 AM
+To: REDACTED
+Cc: 'cweiss@ingramllp.com'; 'MICHAEL CAPOZZI (mcapozzi@ingramllp.com)'; 'MOLLY WEISS'; 'slaskowitz@ingramllp.com'; 'ADMINISTRATION@MSKYLINE.COM (ADMINISTRATION@MSKYLINE.COM)'; 'MANHATTAN SKYLINE, LLC. (ADMINISTRATOR@MSKYLINE.COM)'; anne@thehighlandpartners.com; 'ANDRES REYNOSO (AREYNOSO@mskyline.com)'; 'DONALD ZUCKER (DZUCKER@MSKYLINE.COM)'; 'JOSEPH GIAMBOI (jgiamboi@mskyline.com)'; 'ZUCKER ORGANIZATION (jgiamboi@mskyline.com)'; 'Joseph Giamboi, ESQ (joseph.giamboi@brooklaw.edu)'; 'LATOYA BRITTON (LBRITTON@MSKYLINE.COM)'; 'MSKYLINE BROKER (leftbank@mskylinerentals.com)'; 'LEGAL@MSKYLINE.COM'; 'LEGALASST@MSKYLINE.COM'; 'LZUCKER@MSKYLINE.COM'
+Subject: FW: PLUS... : https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NvtIUa5jls0V4/OF7/XlGg==
+Importance: High
+Sensitivity: Private
+
+ 
+
+§ 250.60 Dissemination of an unlawful surveillance image in the first degree.
+
+ 
+
+A person is guilty of dissemination of an unlawful surveillance image in the first
+
+degree when:
+
+1. He or she, with knowledge of the unlawful conduct by which an image or images
+
+of the sexual or other intimate parts of another person or persons were obtained and
+
+such unlawful conduct would satisfy the essential elements of the crime of unlawful
+
+surveillance in the first or second degree, as defined, respectively, in section
+
+250.50 or 250.45 of this article, sells or publishes such image or images; or
+
+2. Having created a surveillance image in violation of section 250.45 or 250.50 of
+
+this article, or in violation of the law in any other jurisdiction which includes
+
+all of the essential elements of either such crime, or having acted as an accomplice
+
+to such crime, or acting as an agent to the person who committed such crime, he or
+
+she intentionally disseminates such unlawfully created image; or
+
+3. He or she commits the crime of dissemination of an unlawful surveillance image
+
+in the second degree and has been previously convicted within the past ten years of
+
+dissemination of an unlawful surveillance image in the first or second degree.
+
+ 
+
+Dissemination of an unlawful surveillance image in the first degree is a class E felony.
+
+ 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NvtIUa5jls0V4/OF7/XlGg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Lngso0WNLftWLKYEefK/1g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Lngso0WNLftWLKYEefK/1g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Lngso0WNLftWLKYEefK/1g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Lngso0WNLftWLKYEefK/1g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bXBaW2kDQDla5S7so80SWQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=eBNPxpSr6MPq4D6vZlHhFw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=afk_PLUS_APpOl2QvqQsHkLKRzQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=s4pVOpSOZBIzM2sgaTdRbw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XPryqv5meaV7bzTN56trNg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7MTKIiZbuHxIsfAB_PLUS_NCbhQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=a381V1elefjBsYvNcJNF_PLUS_g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vHZxloVck876_PLUS_Ia2LIFPcQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=KTL0yzgVgcS6EcWzXNocTQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cve65PXNBCtdxjJFkfwUnw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=z2F2ttm8P0R5cJjBcSGnfg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VSsX7GwaPDSiYc0MUlD5qw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rwJsp5trwCp8p5UEfE1zJg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fC4jf3UUfVL4Nxd1UZFe7w==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=g3G/uVrDZNeOAh9/cIVZMQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JxfYNYNM64O3GvWBB39vDQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=95qV/5SZ/JLyUXzmCTpzrA==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=thOx3vHzDXJ1LG9IEQ962g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=beoPSi5TWTAsiW/5XVap2w==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jm1IylJSTPOfy12gVXgMlw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VQw/ASQ6kIMGlirWBZM8zA==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=upAzS2FC6bICOGxa73ptdg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zXega0sLahw5fVuBTVtpnw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UAXjpRh1KO2_PLUS_8KsdF1TuQA==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=yMXQNekW7te0QA5jjAvP2w==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XkdNmKBghAAqMUItDdrwxA==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cWLErrXbEw5qtOLVeWU/7g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DnmjCPN_PLUS_DIIELjZFua7gWQ==
+
+ 
+
+ 
+
+From: BO FREEMAN [mailto:bscpgroupholdingsllc@gmail.com]
+Sent: Monday, February 07, 2022 1:27 AM
+To: REDACTED
+Cc: 'cweiss@ingramllp.com'; 'MICHAEL CAPOZZI (mcapozzi@ingramllp.com)'; 'MOLLY WEISS'; 'slaskowitz@ingramllp.com'; 'ADMINISTRATION@MSKYLINE.COM (ADMINISTRATION@MSKYLINE.COM)'; 'MANHATTAN SKYLINE, LLC. (ADMINISTRATOR@MSKYLINE.COM)'; anne@thehighlandpartners.com; 'ANDRES REYNOSO (AREYNOSO@mskyline.com)'; 'DONALD ZUCKER (DZUCKER@MSKYLINE.COM)'; 'JOSEPH GIAMBOI (jgiamboi@mskyline.com)'; 'ZUCKER ORGANIZATION (jgiamboi@mskyline.com)'; 'Joseph Giamboi, ESQ (joseph.giamboi@brooklaw.edu)'; 'LATOYA BRITTON (LBRITTON@MSKYLINE.COM)'; 'MSKYLINE BROKER (leftbank@mskylinerentals.com)'; 'LEGAL@MSKYLINE.COM'; 'LEGALASST@MSKYLINE.COM'; 'LZUCKER@MSKYLINE.COM'; 'ANA LOPEZ (MGMTADMIN@mskyline.com)'; 'PREGAN@MSKYLINE.COM'; 'SHIKENA MELTON (SMELTON@mskyline.com)'; 'MANHATTAN SKYLINE MANAGEMENT CORP. (Super@sullivanmews.com)'; 'teschmann@mskyline.com'
+Subject: FW: PLUS... : https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NvtIUa5jls0V4/OF7/XlGg==
+Importance: High
+Sensitivity: Private
+
+ 
+
+ 
+
+From: ms60710444266 [mailto:ms60710444266@yahoo.com]
+Sent: Monday, February 07, 2022 1:17 AM
+Cc: REDACTED
+Subject: PLUS... : https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NvtIUa5jls0V4/OF7/XlGg==
+Importance: High
+Sensitivity: Private
+
+ 
+
+§ 250.60 Dissemination of an unlawful surveillance image in the first degree.
+
+ 
+
+A person is guilty of dissemination of an unlawful surveillance image in the first
+
+degree when:
+
+1. He or she, with knowledge of the unlawful conduct by which an image or images
+
+of the sexual or other intimate parts of another person or persons were obtained and
+
+such unlawful conduct would satisfy the essential elements of the crime of unlawful
+
+surveillance in the first or second degree, as defined, respectively, in section
+
+250.50 or 250.45 of this article, sells or publishes such image or images; or
+
+2. Having created a surveillance image in violation of section 250.45 or 250.50 of
+
+this article, or in violation of the law in any other jurisdiction which includes
+
+all of the essential elements of either such crime, or having acted as an accomplice
+
+to such crime, or acting as an agent to the person who committed such crime, he or
+
+she intentionally disseminates such unlawfully created image; or
+
+3. He or she commits the crime of dissemination of an unlawful surveillance image
+
+in the second degree and has been previously convicted within the past ten years of
+
+dissemination of an unlawful surveillance image in the first or second degree.
+
+ 
+
+Dissemination of an unlawful surveillance image in the first degree is a class E
+
+felony.
+
+ 
+
+From: BO FREEMAN [mailto:bscpgroupholdingsllc@gmail.com]
+Subject: FW: https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NvtIUa5jls0V4/OF7/XlGg==
+Importance: High
+Sensitivity: Private
+
+ 
+
+BALANCE ON MAY 31 - 2020
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=I/WSXq_PLUS_jFtPFDT9gA1n6dg==
+
+^^
+
+CHECK ALSO:: AUTOPAYMENT DOCKET 64…
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vMB0J4qaYgauPBeEMLIOXA==
+
+^^
+
+RENT STATEMENT FOR APRIL FLAT.
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ewwxg8z5wECGtkuHHm8O9A==
+
+^^
+
+ILLEGAL FEES – UNLAWFULLY BILLED.   $8106.21
+
+^^
+
+IT GOES ON LIKE THAT…
+
+ 
+
+ 
+
+THANK GOD I MOVED OUT OF THERE, BUT THEY STILL HAVE POSSESSION OF MY VIDEOS, TAPES, AND OTHER THINGS … LIKE THE INTIMIATE EVENINGS AND ALL ILLEGALLY AQUIRED WITHOUT MY CONSENT VIDEOTAPED ME INSIDE OF MY APARTMENT.
+
+THOSE CREDITS ON THEIR ACCOUNT, AUTOPAYMENT CONFIRMED… LIKE I SIAD THEY HAVE ANOTHER 6000 LEASES AND A LONG HISTORY DEALING WITH STATE FARM IN ILLINOIS TO SECURE A $6MM LOAN AT THE COST OF HARASSMENT AND MY PRIVACY??
+
+ 
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gnDUubovkEvZEkExbLHgfg==
+
+^^
+
+p.s. RULES FOR UNLAWFUL FEES.
+
+ 
+
+IN THEIR CONTRACT…
+
+-          THEY CANT BILL ME FOR THEIR LEGAL FEES ARBITRARILY, OR AT ALL.
+
+-          NOT UNLESS I ELECT TO THEIR SERVICES… AND THERE IS NO CHECKBOX FOR “DO YOU CONSENT TO THEIR COUNSEL”
+
+-          HENCE, ILLEGALLY THEN NOT REFUND THE MONEY BACK.
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gnDUubovkEvZEkExbLHgfg==
+
+ 
+
+           
+
+1.      THEY HAVE 6000 OTHER LEASES, PURPORTEDLY;
+
+2.      HAVE CLAIMED THEY HAVE EMPTY BUILDINGS THAT COMPLAIN ARBITRARILYABOUT ME; AND
+
+3.      SO THEY CAN CONDUCT AN “INSPECTION” OF MY APARTMENT… OF ALL PLACES AT-WILL…
+
+ 
+
+WHICH MEANS FOR CREDITWORTHINESS… INTELLIGENCE…
+
+ 
+
+WHAT THEY SAY IS WORTH LESS THAN THE $2 PRO I BOUGHT AS  HIGH-LEVEL “DEVELOPER” – MORTGAGE SCAMMER ACTUALLY.
+
+ 
+
+– STILL TRYING TO FIGURE OUT WHO IS HOLDING WHAT, BUT I DID LOAD THEIR ENTITIES IN THE REPO FROM THE NY STATE DEPT OF CORPORATIONS: LOCATED AT 101 WEST 55TH STREET, NEW YORK, NY, 10019. NOT AS REPRESENTED IN THEIR LEASES EITHER.
+
+ 
+
+EXHIBIT(S)  - PLT
+
+644_9-a - Nonconsensual Dissemination OF VIDEO [SEE ALSO LINK TO VIDEO ON PUBLIC DOMAIN.]
+
+ 
+
+EXHIBIT(S)  - 870
+
+nys870a Civil Rights Law
+
+ 
+
+EXHIBIT(S)  - 414  (Motion #001)
+
+https://www1.nyc.gov/assets/fdny/downloads/pdf/about/fdny-rules.pdf
+
+ 
+
+EXHIBIT(S)  - DOB  (Motion #001)
+
+DOB PUBLIC RECORDS ON FILE - PUBLIC RECORDS
+
+ 
+
+EXHIBIT(S)  - OPP  (Motion #001)
+
+PLAINTIFF DOES NOT HAVE A CERTIFICATE OF OCCUPANCY FOR THIS PROPERTY
+
+ 
+
+EXHIBIT(S)  - 503  (Motion #001)
+
+TAX MAP BLOCK 503 - LOT 8 [GIS.NYC.GOV]
+
+ 
+
+EXHIBIT(S)  - no1  (Motion #001)
+
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH https://a836-acris.nyc.gov/DS/DocumentSearch/Documen ... show more
+
+ 
+
+EXHIBIT(S)  - AC0  (Motion #001)
+
+ACRIS Detailed Document Information (2019000021408)2019010800475001
+
+ 
+
+EXHIBIT(S)  - AC1  (Motion #001)
+
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+
+ 
+
+EXHIBIT(S)  - AC2  (Motion #001)
+
+ACRIS Detailed Document Information (2020000155421)2020052000291002
+
+ 
+
+EXHIBIT(S)  - AC3  (Motion #001)
+
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+
+ 
+
+EXHIBIT(S)  - AC4  (Motion #001)
+
+ACRIS Detailed Document Information (2020000155423)2020052000291004
+
+ 
+
+EXHIBIT(S)  - ACR  (Motion #002)
+
+ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH - https://a836-acris.nyc.gov/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ITEM 1. – FRAUD. AND FOR SERVICE, ADDRESSED ME AS JUST “111 SULLIVAN STREET” WHICH I DO NOT OWN, AND NEVER WILL IN THE RJI.
+
+ ![l0u5mH28tfqemuTy](https://user-images.githubusercontent.com/108204659/178125139-7df7fa96-3ab6-42d2-a479-17f17f871e41.jpg)
+
+
+ 
+
+ 
+
+ 
+
+ALSO, FRAUD. SEE ALSO HIS CLAIM TO THE AIR CONDITIONER AND THEIR CONCIERGE SERVICES.
+
+![image](https://user-images.githubusercontent.com/108204659/178125140-68160d95-b7aa-4235-8b41-ecd74fffc352.png)
+
+ 
+
+ 
+
+PLUS, THEY TAMPERED WITH THE HOSTED VIDEOS (WHICH WERE NOT CONSENTED TO EITHER) AND CONVERTED THEM INTO A VIDEO.MOV FILE (ALSO WITHOUT CONSENT)…
+
+ -          NOT AFTER DEALING WITH THEIR MINIONS FOR 9 MONTHS, AND OFFERED TO SETTLE- OUT OF COURT.
+
+ PLUS, THEY TRY TO MAKE MY LIFE DIFFICULT AS WELL WHILE I PREPARE THESE COMMENCEMENT DOCUMENTS SO PLEASE... I CONTACT SOME OLD FRIENDS ALSO.
+ 
+ ![090CzurpbdktGagp](https://user-images.githubusercontent.com/108204659/178125147-fdd1cb87-ff63-4de8-89d7-adce41ed9bf8.jpg)
+
+
+ 
+
+ENJOY YOUR WEEK.
+
+ 
+
+ 
+
+ 
+
+ 
+
+SEE ALSO DOCKET 293 – I THINK IT MIGHT BE THEM – one these jane/john does at 150 east 42nd….
+
+    For cause, let me know if you have an opinion after filming the playground and myself distribution photographs on your telephones…
+
+ 
+
+Without consent.
+
+  
+
+   
+
+GTG
+
+ 
+
+ 
+
+From: ms60710444266 [mailto:ms60710444266@yahoo.com]
+Sent: Sunday, February 06, 2022 11:04 PM
+To: 'cweiss@ingramllp.com'; 'MICHAEL CAPOZZI (mcapozzi@ingramllp.com)'; 'MOLLY WEISS'; 'slaskowitz@ingramllp.com'; 'ADMINISTRATION@MSKYLINE.COM (ADMINISTRATION@MSKYLINE.COM)'; 'MANHATTAN SKYLINE, LLC. (ADMINISTRATOR@MSKYLINE.COM)'; anne@thehighlandpartners.com; 'ANDRES REYNOSO (AREYNOSO@mskyline.com)'; 'DONALD ZUCKER (DZUCKER@MSKYLINE.COM)'; 'JOSEPH GIAMBOI (jgiamboi@mskyline.com)'; 'ZUCKER ORGANIZATION (jgiamboi@mskyline.com)'; 'Joseph Giamboi, ESQ (joseph.giamboi@brooklaw.edu)'; 'LATOYA BRITTON (LBRITTON@MSKYLINE.COM)'; 'MSKYLINE BROKER (leftbank@mskylinerentals.com)'; 'LEGAL@MSKYLINE.COM'; 'LEGALASST@MSKYLINE.COM'; 'LZUCKER@MSKYLINE.COM'; 'ANA LOPEZ (MGMTADMIN@mskyline.com)'; 'PREGAN@MSKYLINE.COM'; 'SHIKENA MELTON (SMELTON@mskyline.com)'; 'MANHATTAN SKYLINE MANAGEMENT CORP. (Super@sullivanmews.com)'; 'teschmann@mskyline.com'; kidsprivacy@viacomcbs.com
+Cc: andrea.shiffman@wilsonelser.com; angel.vitiello@wilsonelser.com; angelique.sabia-candero@wilsonelser.com; ashley.humphries@wilsonelser.com; aviva.stein@wilsonelser.com; carole.nimaroff@wilsonelser.com; corrine.shea@wilsonelser.com; daniel.flores@wilsonelser.com; debra.tama@wilsonelser.com; elizabeth.scoditti@wilsonelser.com; ellyn.wilder@wilsonelser.com; erin.zecca@wilsonelser.com; grace.song@wilsonelser.com; jennifer.provost@wilsonelser.com; jennifer.sciales@wilsonelser.com; judy.selmeci@wilsonelser.com; kathleen.mullins@wilsonelser.com; lauren.zink@wilsonelser.com; lois.ottombrino@wilsonelser.com; lori.semlies@wilsonelser.com; meghan.rigney@wilsonelser.com; patricia.wik@wilsonelser.com; RICKI.ROER@WILSONELSER.COM; roger.gottilla@wilsonelser.com; stacey.seltzer@wilsonelser.com; suzanne.swanson@wilsonelser.com; urvashi.sinha@wilsonelser.com; yana.siegel@wilsonelser.com
+Subject: RE: https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NvtIUa5jls0V4/OF7/XlGg==
+Importance: High
+Sensitivity: Private
+
+ 
+
+See also email on August 7TH …
+
+      
+
+Looks like the other CAMERAS point TO THE FLOOR…
+
+ 
+
+ 
+
+SEE ALSO THE FINE IN 2015, FOR STATE FARM…
+
+ 
+
+AND USE THE LINKS BELOW TO SEE WHY THEY HAD A REAL EMERGENCY IN MAY TO ENTER THE PREMISES AS WELL..
+
+ 
+
+VERY CAREFULLY ADDRESSED FOR AN IMMEDIATELY FAILURE ON SERVICE BTW… BUT THEY LEFT ALL THIS INFORMATION OUT THERE… LIKE THE STILL SHOTS IN THE ATTACHED DOCKET AS WELL…
+
+ 
+
+ 
+
+ 
+
+Document
+
+EXHIBIT(S)  - GF1
+
+2020.06.16 - GOOD FAITH ATTEMPT TO TIMELY FILE
+
+ 
+
+EXHIBIT(S)  - EFF
+
+NOTICE OF EFILING APPROVAL
+
+ 
+
+EXHIBIT(S)  - PLT
+
+644_9-a - Nonconsensual Dissemination OF VIDEO [SEE ALSO LINK TO VIDEO ON PUBLIC DOMAIN.]
+
+ 
+
+EXHIBIT(S)  - 870
+
+nys870a Civil Rights Law
+
+ 
+
+EXHIBIT(S)  - 414  (Motion #001)
+
+https://www1.nyc.gov/assets/fdny/downloads/pdf/about/fdny-rules.pdf
+
+ 
+
+EXHIBIT(S)  - DOB  (Motion #001)
+
+DOB PUBLIC RECORDS ON FILE - PUBLIC RECORDS
+
+ 
+
+EXHIBIT(S)  - OPP  (Motion #001)
+
+PLAINTIFF DOES NOT HAVE A CERTIFICATE OF OCCUPANCY FOR THIS PROPERTY
+
+ 
+
+EXHIBIT(S)  - 503  (Motion #001)
+
+TAX MAP BLOCK 503 - LOT 8 [GIS.NYC.GOV]
+
+ 
+
+EXHIBIT(S)  - no1  (Motion #001)
+
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH https://a836-acris.nyc.gov/DS/DocumentSearch/Documen ... show more
+
+ 
+
+EXHIBIT(S)  - AC0  (Motion #001)
+
+ACRIS Detailed Document Information (2019000021408)2019010800475001
+
+ 
+
+EXHIBIT(S)  - AC1  (Motion #001)
+
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+
+ 
+
+EXHIBIT(S)  - AC2  (Motion #001)
+
+ACRIS Detailed Document Information (2020000155421)2020052000291002
+
+ 
+
+EXHIBIT(S)  - AC3  (Motion #001)
+
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+
+ 
+
+EXHIBIT(S)  - AC4  (Motion #001)
+
+ACRIS Detailed Document Information (2020000155423)2020052000291004
+
+ 
+
+EXHIBIT(S)  - ACR  (Motion #002)
+
+ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH - https://a836-acris.nyc.gov/
+
+ 
+
+ 
+
+ 
+
+From: ms60710444266 [mailto:ms60710444266@yahoo.com]
+Sent: Sunday, February 06, 2022 10:38 PM
+To: 'cweiss@ingramllp.com'; 'MICHAEL CAPOZZI (mcapozzi@ingramllp.com)'; 'MOLLY WEISS'; 'slaskowitz@ingramllp.com'; 'ADMINISTRATION@MSKYLINE.COM (ADMINISTRATION@MSKYLINE.COM)'; 'MANHATTAN SKYLINE, LLC. (ADMINISTRATOR@MSKYLINE.COM)'; anne@thehighlandpartners.com; 'ANDRES REYNOSO (AREYNOSO@mskyline.com)'; 'DONALD ZUCKER (DZUCKER@MSKYLINE.COM)'; 'JOSEPH GIAMBOI (jgiamboi@mskyline.com)'; 'ZUCKER ORGANIZATION (jgiamboi@mskyline.com)'; 'Joseph Giamboi, ESQ (joseph.giamboi@brooklaw.edu)'; 'LATOYA BRITTON (LBRITTON@MSKYLINE.COM)'; 'MSKYLINE BROKER (leftbank@mskylinerentals.com)'; 'LEGAL@MSKYLINE.COM'; 'LEGALASST@MSKYLINE.COM'; 'LZUCKER@MSKYLINE.COM'; 'ANA LOPEZ (MGMTADMIN@mskyline.com)'; 'PREGAN@MSKYLINE.COM'; 'SHIKENA MELTON (SMELTON@mskyline.com)'; 'MANHATTAN SKYLINE MANAGEMENT CORP. (Super@sullivanmews.com)'; 'teschmann@mskyline.com'; kidsprivacy@viacomcbs.com
+Cc: andrea.shiffman@wilsonelser.com; angel.vitiello@wilsonelser.com; angelique.sabia-candero@wilsonelser.com; ashley.humphries@wilsonelser.com; aviva.stein@wilsonelser.com; carole.nimaroff@wilsonelser.com; corrine.shea@wilsonelser.com; daniel.flores@wilsonelser.com; debra.tama@wilsonelser.com; elizabeth.scoditti@wilsonelser.com; ellyn.wilder@wilsonelser.com; erin.zecca@wilsonelser.com; grace.song@wilsonelser.com; jennifer.provost@wilsonelser.com; jennifer.sciales@wilsonelser.com; judy.selmeci@wilsonelser.com; kathleen.mullins@wilsonelser.com; lauren.zink@wilsonelser.com; lois.ottombrino@wilsonelser.com; lori.semlies@wilsonelser.com; meghan.rigney@wilsonelser.com; patricia.wik@wilsonelser.com; RICKI.ROER@WILSONELSER.COM; roger.gottilla@wilsonelser.com; stacey.seltzer@wilsonelser.com; suzanne.swanson@wilsonelser.com; urvashi.sinha@wilsonelser.com; yana.siegel@wilsonelser.com
+Subject: https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NvtIUa5jls0V4/OF7/XlGg==
+Importance: High
+Sensitivity: Private
+
+ 
+
+WHAT PART OF YOU’RE ARE NOT ALLOWED TO FILM INSIDE OF MY APARTMENT DO YOU NOT UNDERSTAND?
+
+-         NOW PLEASE, CHANCE ME ON YOUR OTHER FINANCIAL AGENDA…
+
+ 
+
+LIKE THE ONE IN THE SUBJECT LINE…
+
+2020.07.03 - CEASE AND DESIST SENT TO PARTIES (TO BE LEFT ALONE)
+	
+
+Filed: 08/09/2020
+
+ 
+	
+
+Received: 08/09/2020
+1 question:
+do you see any other WINDOWS that are being pointed at by ANY CAMERA…
+and also about 3 feet INTO my doorway?
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NvtIUa5jls0V4/OF7/XlGg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Lngso0WNLftWLKYEefK/1g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Lngso0WNLftWLKYEefK/1g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Lngso0WNLftWLKYEefK/1g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Lngso0WNLftWLKYEefK/1g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bXBaW2kDQDla5S7so80SWQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=eBNPxpSr6MPq4D6vZlHhFw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=afk_PLUS_APpOl2QvqQsHkLKRzQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=s4pVOpSOZBIzM2sgaTdRbw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XPryqv5meaV7bzTN56trNg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7MTKIiZbuHxIsfAB_PLUS_NCbhQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=a381V1elefjBsYvNcJNF_PLUS_g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vHZxloVck876_PLUS_Ia2LIFPcQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=KTL0yzgVgcS6EcWzXNocTQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cve65PXNBCtdxjJFkfwUnw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=z2F2ttm8P0R5cJjBcSGnfg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VSsX7GwaPDSiYc0MUlD5qw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rwJsp5trwCp8p5UEfE1zJg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fC4jf3UUfVL4Nxd1UZFe7w==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=g3G/uVrDZNeOAh9/cIVZMQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JxfYNYNM64O3GvWBB39vDQ==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=95qV/5SZ/JLyUXzmCTpzrA==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=thOx3vHzDXJ1LG9IEQ962g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=beoPSi5TWTAsiW/5XVap2w==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jm1IylJSTPOfy12gVXgMlw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VQw/ASQ6kIMGlirWBZM8zA==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=upAzS2FC6bICOGxa73ptdg==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zXega0sLahw5fVuBTVtpnw==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UAXjpRh1KO2_PLUS_8KsdF1TuQA==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=yMXQNekW7te0QA5jjAvP2w==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XkdNmKBghAAqMUItDdrwxA==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cWLErrXbEw5qtOLVeWU/7g==
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DnmjCPN_PLUS_DIIELjZFua7gWQ==
+
+ 
+![YWJ40J39inx2RdPH](https://user-images.githubusercontent.com/108204659/178125156-f5320482-cada-4820-86b6-7d76ed160d02.jpg)
+
+ 
+
+From: ms60710444266 [mailto:ms60710444266@yahoo.com]
+Sent: Sunday, February 06, 2022 9:21 PM
+To: LEXUS DIAMONDS (BSCPGROUPHOLDINGSLLC@GMAIL.COM)
+Cc: HAGGLERS MCKENZIE MILTON
+Subject: 2020 07 26 - WINDOW NOT REPAIRED. CAMERA IS WORKING. ON 2020 08 07 DOCKET 300
+Importance: High
+Sensitivity: Private
+
+ 
+
+ 303 
+	
+
+EXHIBIT(S)  - PLT
+	
+
+Dincer, B. (Pro Hac / Pro Se)
+	
+
+Processed
+
+644_9-a - Nonconsensual Dissemination OF VIDEO [SEE ALSO LINK TO VIDEO ON PUBLIC DOMAIN.]
+	
+
+Filed: 08/07/2020
+	
+
+Confirmation Notice
+
+ 
+	
+
+Received: 08/07/2020
+	
+
+ 
+
+
 
 ### ACCESSORIES TO THIS OTHER FILING
 
