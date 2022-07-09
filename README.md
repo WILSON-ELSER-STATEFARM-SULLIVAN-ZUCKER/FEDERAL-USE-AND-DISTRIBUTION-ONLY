@@ -353,72 +353,151 @@ EXHIBIT(S)  - 414  (Motion #001)
 https://www1.nyc.gov/assets/fdny/downloads/pdf/about/fdny-rules.pdf
 
  
-
-EXHIBIT(S)  - DOB  (Motion #001)
-
-DOB PUBLIC RECORDS ON FILE - PUBLIC RECORDS
-
- 
-
-EXHIBIT(S)  - OPP  (Motion #001)
-
-PLAINTIFF DOES NOT HAVE A CERTIFICATE OF OCCUPANCY FOR THIS PROPERTY
-
- 
-
-EXHIBIT(S)  - 503  (Motion #001)
-
-TAX MAP BLOCK 503 - LOT 8 [GIS.NYC.GOV]
-
- 
-
-EXHIBIT(S)  - no1  (Motion #001)
-
-PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH https://a836-acris.nyc.gov/DS/DocumentSearch/Documen ... show more
-
- 
-
-EXHIBIT(S)  - AC0  (Motion #001)
-
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH TO STATE FARM LIFE INSURANCE COMPANY - INCLUDING THEIR TAX RISKS AS IMPLIED
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+EXHIBIT(S)  - AC0  (Motion #001)
 ACRIS Detailed Document Information (2019000021408)2019010800475001
-
- 
-
-EXHIBIT(S)  - AC1  (Motion #001)
-
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ze6a1KA9akRV9TGfXXJT/g==
+EXHIBIT(S)  - AC1  (Motion #001)
 ACRIS Detailed Document Information (2020000155422)2020052000291003
-
- 
-
-EXHIBIT(S)  - AC2  (Motion #001)
-
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw==
+EXHIBIT(S)  - AC2  (Motion #001)
 ACRIS Detailed Document Information (2020000155421)2020052000291002
-
- 
-
-EXHIBIT(S)  - AC3  (Motion #001)
-
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw==
+EXHIBIT(S)  - AC3  (Motion #001)
 ACRIS Detailed Document Information (2020000155422)2020052000291003
-
- 
-
-EXHIBIT(S)  - AC4  (Motion #001)
-
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
+EXHIBIT(S)  - AC4  (Motion #001)
 ACRIS Detailed Document Information (2020000155423)2020052000291004
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==
+EXHIBIT(S)  - ACR  (Motion #002)
+ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
+EXHIBIT(S)  - Bu0
+COMPLAINT #14585819 (7/25/2020) @BBB
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7Ry3LAoVfWOLjSXhyJZ94A==
 
- 
+![image](https://user-images.githubusercontent.com/108204659/178125212-07136ed7-0851-4a5b-bd76-71127b84a245.png)
 
-EXHIBIT(S)  - ACR  (Motion #002)
+LOOK HOW QUICKLY THEY MOVE ONCE I FILE THEIR CERTIFICATES OF OCCUPANCY AND THE LOAN DOCKETS - 50074 EST ++
 
-ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH - https://a836-acris.nyc.gov/
 
- 
+ 252 	EXHIBIT(S)  - 3  (Motion #001)
+	7.2.2020 surveillance video photographs, INTO THE THRESHOLD OF MY ENTRYWAY…
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=thOx3vHzDXJ1LG9IEQ962g==
+ 253 	EXHIBIT(S)  - 4  (Motion #001)
+	7.3.2020 surveillance video photographs, A VIEW OF THE COURTYARD AND CHILDREN
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=95qV/5SZ/JLyUXzmCTpzrA==
+ 254 	EXHIBIT(S)  - 5  (Motion #001)
+	7.3.2020 surveillance video photographs, A VIEW OF THE COURTYARD AND CHILDREN
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JxfYNYNM64O3GvWBB39vDQ==
+ 255 	EXHIBIT(S)  - 6  (Motion #001)
+	NYSCEF Criminal Court Information- THE COURT WOULD NOT RESTRAIN THEM FROM VIDEOTAPING -- SO I CUT THE ETHERNET CORD TO THEIR CAMERA
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=g3G/uVrDZNeOAh9/cIVZMQ==
+ 256 	EXHIBIT(S)  - 7  (Motion #001)
+	photographs- VIOLATION OF PRIVACY
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fC4jf3UUfVL4Nxd1UZFe7w==
+ 257 	EXHIBIT(S)  - 8  (Motion #001)
+	7.16.2020 surveillance video photographs, INTO THE THRESHOLD OF MY DOORWAY
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rwJsp5trwCp8p5UEfE1zJg==
+	
+ 260 	EXHIBIT(S)  - 1  (Motion #001)
+	6.24.2020 email - ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ANDSuLFWlbjttGxgjUXGAw==
+ 261 	EXHIBIT(S)  - 2  (Motion #001)
+	6.25.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ph76T77EGjUtofiKDKCOoA==
+ 262 	EXHIBIT(S)  - 3  (Motion #001)
+	6.27.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=x9RFyUAiwcmGbb6y8R306w==
+ 263 	EXHIBIT(S)  - 4  (Motion #001)
+	6.27.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=hxv_PLUS_e1_PLUS_miua_PLUS_MYiCxhv_PLUS_XQ==
+ 264 	EXHIBIT(S)  - 5  (Motion #001)
+	6.27.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=382TNrNKjw28ce0sCmTN9g==
+ 265 	EXHIBIT(S)  - 6  (Motion #001)
+	6.28.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UQzt9l/yhPj2jXV6Xk9JEA==
+ 266 	EXHIBIT(S)  - 7  (Motion #001)
+	6.29.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ZWQqfKHMbUj/LLDfoydj1g==
+ 267 	EXHIBIT(S)  - 8  (Motion #001)
+	6.30.2020 email
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bJO1Rhql6hYHUqwyBXgpGQ==
+	
+ 269 	EXHIBIT(S)  - 10  (Motion #001)
+	7.2.2020 email>>> Please check the security tapes so that Daniel can call the police. AT-WILL WOULD ACCESS THE VIDEOS OF THE INSIDE OF MY APARTMENT WITHOUT MY CONSENT
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=c3iexOlBwsgc1lnMJ2_PLUS_AqQ==
+ 271 	EXHIBIT(S)  - 12  (Motion #001)
+	7.3.2020 email>> ASHLEY.HUMPHRIES@WILSONELSER.COM ADVISING SLASKOWITZ@INGRAMLLP.COM TO "AMEND THE PLEADINGS"
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=F1T3GQPA3JiqxIK2SAiFUA==
+ 272 	EXHIBIT(S)  - 13  (Motion #001)
+	7.6.2020 email: A VIDEO OF ME "DRILLING" INSIDE OF MY APARTMENT - THEY HAD CAMERAS HIDDEN INSIDE OF MY UNIT.
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ==
+ 273 	EXHIBIT(S)  - 14  (Motion #001)
+	7.8.2020 email- I DO NOT BELIEVE THAT RISPOLI IS A PERSON, AND IS SOLELY A SHARED GMAIL ADDRESS 
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7vHZoZGbRwlNTahls8hD3Q==
+ 274 	EXHIBIT(S)  - 15  (Motion #001)
+	7.9.2020 email- ADNAN AND COMPANY SHARING VIDEO.MOV FILES OF MYSELF --- WITHOUT CONSENT AND OF THE INTERIOR OF MY UNIT
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ndQB8gALGU_PLUS_ZRe/UpIHq8w==
+ 275 	EXHIBIT(S)  - 16  (Motion #001)
+	7.10.2020 email- 
+	DISCUSSING MY RCN INTERNET ACCESS 
+	- AS I WAS CONSTANTLY OBSTRUCTED AND WATCHED HAVING DISCOVERED THEIR TAX EVASION AS REFERENCED IN THE LETTER TO THE JUDGE
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/MNTbzbeJeYX5SFLx8HIOQ==
+ 276 	EXHIBIT(S)  - 17  (Motion #001)
+	7.10.2020 email
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jlUSIyDZ8AfpucKIYKjKAA==
+ 277 	EXHIBIT(S)  - 18  (Motion #001)
+	7.20.2020 email- ANOTHER VIDEO OF THE INTERIOR OF MY APARTMENT -- "DRILLING IN MY APARTMENT" -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5uMb/ORklCen4NaSEt6oFg==
+ 278 	EXHIBIT(S)  - 19  (Motion #001)
+	7.13.2020 email-- "DRILLING AGAIN"
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=lDLoFkNRscczP1V/nBuk7w==
+ 279 	EXHIBIT(S)  - 20  (Motion #001)
+	7.13.2020 email-- EGF=BB=BF >> WHATEVER THAT MEANS
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=iWY5IIGARuHLsy3J5jW19A==
+ 280 	EXHIBIT(S)  - 21  (Motion #001)
+	7.13.2020 email- "A VIDEO OF ME DRILLING WHILE BLASTING MUSIC" APPARENTLY HAD AUDIO TO GET THE FULL EFFECT? NOT SURE
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=d0b4DYrn2ZxAvb40N3GPuA==
+ 281 	EXHIBIT(S)  - 22  (Motion #001)
+	7.16.2020 email- SLAMMING MY DOOR - MUST HAVE ALSO HAD SOME TYPE OF MOTION SENSOR OR SOMETHING - NO IDEA.
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oWA115SJVpBVPCjpJVWtrA==
+ 282 	EXHIBIT(S)  - 23  (Motion #001)
+	7.17.2020 email - MUST HAVE ALSO HAD SOME TYPE OF MOTION SENSOR OR SOMETHING - NO IDEA.
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=0YqjzSsL7aGkq9VDInYt3w==
+ 283 	EXHIBIT(S)  - 24  (Motion #001)
+	7.18.2020 email- THERE ARE NO 311 COMPLAINTS FILED - AS REFERENCED EARLIER
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Y7EtiPnMgUKzQwUDtuD58g==
+ 284 	EXHIBIT(S)  - 25  (Motion #001)
+	NYPD notification- YES THEY CAME, I SAID HELLO - AND THEY LEFT BECAUSE I WAS PROBABLY LOOKING UP THOSE ACRIS FILES I ANNEXED 
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JEUzgyTyVWc5ktdnFDXMNg==
+ 285 	EXHIBIT(S)  - 26  (Motion #001)
+	7.18.2020 email- APPARENTLY THE RESIDENTS ALSO HAD THE ABILITY TO CHECK THOSE TAPES AT WILL - WHICH IS ILLEGAL AND A VIOLATION OF PRIVACY FILED AND PROCESSED IN NYSCEF MATTER 153974/2020
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HbnFLHB3tyjhEWAYb6mOPw==
+ 286 	EXHIBIT(S)  - 27  (Motion #001)
+	7.18.2020 email<Video.mov> DISTRIBUTION CONTINUES WITHOUT CONSENT - I FILED MY GRIEVANCES WITH THE COURTS AND THIS WAS NOT DIRECTED TO THE POLICE - I ASSUME THE CLERK ALSO HAD A FETISH
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YvkihzM1cwANtAvbUwWX_PLUS_g==
+ 287 	EXHIBIT(S)  - 28  (Motion #001)
+	7.19.2020 email- MORE DOCUMENTED VIOLATION OF PRIVACY - FILIMING THE INTERIOR OF MY UNIT WITHOUT CONSENT
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1BkpTQ==
+ 288 	EXHIBIT(S)  - 29  (Motion #001)
+	7.19.2020 email- MORE DOCUMENTED VIOLATION OF PRIVACY - FILIMING THE INTERIOR OF MY UNIT WITHOUT CONSENT
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YGRsoOyDJuc93MrOnwh5Jw==
+ 289 	EXHIBIT(S)  - 30  (Motion #001)
+	7.22.2020 email- MORE DOCUMENTED VIOLATION OF PRIVACY - FILIMING THE INTERIOR OF MY UNIT WITHOUT CONSENT
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=84wdx4RhX5LEi0sISXetBw==
+ 291 	EXHIBIT(S)  - 32  (Motion #001)
+	7.27.2020 email- DOCUMENTED LISTENING TO MUSIC AS WELL - APPARENTLY THEY ALSO NEEDED TO LISTEN IN LIGHT OF THEIR 18.225, 18.21 I DISCOVED
+	https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=KPYJ_PLUS_1TxTFGXr5ADND4pwQ==
+	
+![image](https://user-images.githubusercontent.com/108204659/178125234-03e5da96-c49e-45b9-a16b-c52c8eb00a92.png)
+	
+	
+![image](https://user-images.githubusercontent.com/108204659/178125229-47d09c41-891c-4550-99e2-496ee511165d.png)
 
- 
-
- 
-
- 
+![image](https://user-images.githubusercontent.com/108204659/178125222-4547bc26-a110-4b44-9aae-04cf0e4bfc3c.png)
 
  
 
