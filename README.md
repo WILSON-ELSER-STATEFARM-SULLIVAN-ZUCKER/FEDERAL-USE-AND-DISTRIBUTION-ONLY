@@ -67,7 +67,7 @@ I PROVIDED THEM THIS INFORMATION
 LOCATION 1.B
 
 *** Lewisohn Hall, 2970 Broadway, New York, NY 10027, United States of America
-
+  
 GPS (40.8084317, -73.9631634)
 
 
