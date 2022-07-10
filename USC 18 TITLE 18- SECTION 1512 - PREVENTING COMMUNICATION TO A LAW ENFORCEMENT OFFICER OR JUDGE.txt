@@ -1,6 +1,6 @@
 https://www.law.cornell.edu/uscode/text/18/1512
 
-18 U.S. Code § 1512 - Tampering with a witness, victim, or an informant
+USC 18.1512 - Tampering with a witness, victim, or an informant
 (a)
 (1)Whoever kills or attempts to kill another person, with intent to—
 (A)prevent the attendance or testimony of any person in an official proceeding;
