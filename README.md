@@ -9183,3 +9183,5 @@ sp: EMAIL TO WMCKENZI@NYCOURTS.GOV<br>
 <br>
 sp: EMAIL TO LEGAL@MSKYLINE.COM<br>
 [CONFIDENTIAL GROUP BLOG ROOM NUMBER 2 LINK](https://youtu.be/pzhD2MyeIbY?t=1940](https://www.youtube.com/watch?v=pzhD2MyeIbY&t=1940)
+	
+[also, its pronounced... bureauaaeauru](https://m.facebook.com/story.php?story_fbid=pfbid0346jdDK7FhdbV12FGbR3CTuMLrFWj5KRMQWCmFGtd2k7Uhfi3EuFjU1pawE3u2PYal&id=506822379&sfnsn=mo)
