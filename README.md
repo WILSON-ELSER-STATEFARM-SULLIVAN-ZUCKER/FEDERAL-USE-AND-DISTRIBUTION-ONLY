@@ -9195,3 +9195,30 @@ sp: EMAIL TO LEGAL@MSKYLINE.COM<br>
 [CONFIDENTIAL GROUP BLOG ROOM NUMBER 2 LINK](https://youtu.be/pzhD2MyeIbY?t=1940](https://www.youtube.com/watch?v=pzhD2MyeIbY&t=1940)
 	
 [also, its pronounced... bureauaaeauru](https://m.facebook.com/story.php?story_fbid=pfbid0346jdDK7FhdbV12FGbR3CTuMLrFWj5KRMQWCmFGtd2k7Uhfi3EuFjU1pawE3u2PYal&id=506822379&sfnsn=mo)
+
+
+
+
+AFTER EFFECTS OF THOSE WHO DIDN'T PARTICIPATE - like their children, for example.
+
+https://www.youtube.com/watch?v=pzhD2MyeIbY&t=1940
+
+-- also have been grossly neglected and sacrificed as seen in this proceeding here: 
+
+FROM: STATE FARM LIFE INSURANCE COMPANY 
+TO: THE ZUCKER ORGANIZATION
+
+ONLY TO PROTECT THEIR $6,000,000.00 NOTE AND $500 MILLION IN TAXES EVADED
+
+A SHORT TERM ENAGEMENT WITH 30-YEAR TERMS AND OTHER SEVERE CONSEQUENCES
+
+
+
+
+EVEN THEIR COUNSELORS HAVE AVOIDED TO THE RISKS AND TAX RISKS
+
+- AS IMPLIED -
+
+HELD BY THE WHOLE LIFE POLICY HOLDERS AND INVESTORS OF STATE FARM
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
