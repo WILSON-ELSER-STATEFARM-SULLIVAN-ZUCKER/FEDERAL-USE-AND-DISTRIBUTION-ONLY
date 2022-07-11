@@ -397,6 +397,9 @@ This message, including any attachments, may contain confidential information in
 <br>[153974_2020_Sullivan_Properties_L_P_v_Baris_Dincer_EXHIBIT_S__373 - MY VIDEOS WERE HOSTED ON THE INTERNET without consent as well.](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/9065071/153974_2020_Sullivan_Properties_L_P_v_Baris_Dincer_EXHIBIT_S__373.-.MY.VIDEOS.WERE.HOSTED.ON.THE.INTERNET.pdf)
 
 
+![image](https://user-images.githubusercontent.com/108204659/178368662-c5484e21-d8e3-42b1-bf3c-d3489d82b79f.png)
+
+
 ##### PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH TO STATE FARM LIFE INSURANCE COMPANY TO PROTECT THEIR INVESTMENT - A SHORT TERM INVESTMENT WITH 30-YEAR TERMS.
 *** INCLUDING THEIR TAX RISKS AS IMPLIED
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
