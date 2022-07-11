@@ -6080,6 +6080,9 @@ Subject: Fwd:Fwd:Fwd:Fwd:Fwd:Fwd:STATE FARM - BLOOMINGTON » Northern Trust Comp
                                                                    Recent News | More »
                                 41)                 Northern Funds: 497 2019/07/02          EDG     07/2019  
 
+![image](https://user-images.githubusercontent.com/108204659/178367794-e3c398b8-1f0a-4686-9e3a-3e927090dfe3.png)
+
+
                                            
 
 
