@@ -1,0 +1,92 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\User>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : GSLEX
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Wireless LAN adapter h1:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 3165
+   Physical Address. . . . . . . . . : 3C-F8-62-AD-72-C1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 192.168.128.118(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Tuesday, July 12, 2022 2:47:06 PM
+   Lease Expires . . . . . . . . . . : Tuesday, July 12, 2022 3:47:05 PM
+   Default Gateway . . . . . . . . . : 192.168.128.176
+   DHCP Server . . . . . . . . . . . : 192.168.128.176
+   DNS Servers . . . . . . . . . . . : 192.168.128.176
+   NetBIOS over Tcpip. . . . . . . . : Disabled
+
+Tunnel adapter isatap.{6C4E0DEE-39D4-4689-BE19-382596084F46}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+C:\Users\User>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : GSLEX
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Wireless LAN adapter h1:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 3165
+   Physical Address. . . . . . . . . : 3C-F8-62-AD-72-C1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 172.20.10.14(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.240
+   Lease Obtained. . . . . . . . . . : Tuesday, July 12, 2022 2:57:17 PM
+   Lease Expires . . . . . . . . . . : Wednesday, July 13, 2022 2:42:52 PM
+   Default Gateway . . . . . . . . . : 172.20.10.1
+   DHCP Server . . . . . . . . . . . : 172.20.10.1
+   DNS Servers . . . . . . . . . . . : 172.20.10.1
+   NetBIOS over Tcpip. . . . . . . . : Disabled
+
+Tunnel adapter isatap.{6C4E0DEE-39D4-4689-BE19-382596084F46}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+C:\Users\User>
