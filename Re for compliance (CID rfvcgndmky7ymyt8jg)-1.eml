@@ -1,0 +1,87 @@
+From - Tue May  3 01:54:46 2022
+X-Account-Key: account1
+X-UIDL: AN+NSAkKZY/JYnDPyQzFiC8PGXQ
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.150.77
+ by atlas221.free.mail.ne1.yahoo.com with HTTPS; Tue, 3 May 2022 06:46:33 +0000
+Return-Path: <noreply@dowjones.com>
+X-Originating-Ip: [205.203.136.134]
+Received-SPF: pass (domain of dowjones.com designates 205.203.136.134 as permitted sender)
+Authentication-Results: atlas221.free.mail.ne1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=dowjones.com;
+ dmarc=pass(p=NONE,sp=REJECT) header.from=dowjones.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 3 May 2022 06:46:33 +0000
+X-YMailISG: 7Nk8qBoWLDtFsQdrt_4SuNEeSbOmSn1ww8A1VGNHIyCLi2mJ
+ .rvotJBC3taP1V5cUZt1_9mY3lJaeDkPh0rwFZVXFlf3o8PggfmSICXgmWgb
+ LoeffQak7hbWY0WTmCdXBwYIjPEiq750VXrev0ztPZiRW2N0ZdvymXDdyj6l
+ tMT5s8xgQB.LsRWuNEj84R0ZfaZpgW_ObX0LjrNCb96HTHw6wexbY5bGsdLy
+ wGzxpEvcqGpjb54rIqn6YtUfekXnF3lmS_XBWeotBhEXRlZScvF8XXw4TH4S
+ CszWwQD9DvcIrWZ5dQLoz6vvpeq2nQe0HhBN1PrKyKPBj3.SLh2ggs4VC6Bo
+ YYmKbT6BDMn50O6ZiAedNjbFZ0GNnZ5yBPZ.of6xR_3xL7MRbWgxwFqMTt9_
+ Oj8vVNNIop.IM7p94Vuy0B3.bOWXZ5O4aP1ibY0.Y6pWWQbr5CI1tD1FYYpt
+ nlk2ZQ.0L879LNTMC_tD1yd8EBxgHDc0LJSx16ZMnyKgvvW9Al8CkDHQRCjJ
+ r_NPek6ADUIMUD4Y0qzYKKZuYxPvuKwlDyKql2EYqJYYXHNreu3YRRJkoxfm
+ x8Q4wxz4T.milltbJYnd_meLShD9fZ2DMh6sli.QBxv7ydzf8C8prmA5r3jc
+ sm.yiakYSwCUvVqt0s8T9tGCrseCTfCtXn9d6n29TyImPfljQVlAGx6jsw7P
+ K_OxDXkiXedyNuLmoEwe.7Y2lkHyR0AMt.4YWOW_FA8Fb8cGtmvAniIYW.gS
+ VaeaAXID.BIFlH37TNyYivVq9eeuf8d0eKaxcY46vAEKEpJI0UtDe_ehlwk7
+ ANdJQ1ibfzTAq13p.68O6q92IEeOdd0xbWxHPXT5RmsrWX2GOyVU6E1X5all
+ ZDXMU_qAPz_xM4Xxwb.9Sho5Hyq9atG6t1LR.sWHPdkIGPmEmp7W6cw5a6ok
+ RJtdn_BDLvCLzBwLLTziGugFxCs84_7dP6PL2eoYKm11_uMhuZK4bvDXt7.L
+ erg.8MSlMZOON6rRz6dlLib47CRNoqS8Uub1zGWnZGKG.cJQX8tj6en_YPUG
+ .lcVZ_nxbA1i9w3MJ64OCRvGIWdT_7eXxEphD6WQOvlgxLaiV38HMo0Njpii
+ Z7bxOHPw
+Received: from 205.203.136.134 (EHLO secinmr02.dowjones.com)
+ by 10.217.150.77 with SMTP;
+ Tue, 03 May 2022 06:46:33 +0000
+Received: from unknown (HELO DEN158GIC074) ([104.251.193.145])
+  by secinmr02.dowjones.net with ESMTP; 03 May 2022 02:46:32 -0400
+Date: Tue, 3 May 2022 02:46:32 -0400
+Content-Type: multipart/alternative;
+ boundary="------------Boundary-00=_K5OAowFSswOOLz5umala"
+From: "noreply@dowjones.com" <noreply@dowjones.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: RE: for compliance (CID:rfvcgndmky7ymyt8jg)
+Importance: Normal
+X-Priority: 3 (Normal)
+Priority: Normal
+Message-ID: <6270CFC8.036231.02330@DEN158GIC074.caas.local>
+mime-version: 1.0
+Content-Length: 1673
+
+This is a multi-part message in MIME format.
+
+--------------Boundary-00=_K5OAowFSswOOLz5umala
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+VGhhbmsgeW91IGZvciBjb250YWN0aW5nIHRoZSBEb3cgSm9uZXMgTWVtYmVyIFNlcnZpY2Vz
+IFRlYW0uIFdlIGhhdmUgcmVjZWl2ZWQgeW91ciBlbWFpbC4gQSBtZW1iZXIgb2YgdGhlIGN1
+c3RvbWVyIHNlcnZpY2UgdGVhbSB3aWxsIHJlc3BvbmQgdG8geW91ciBpbnF1aXJ5IGFzIHNv
+b24gYXMgcG9zc2libGUuDQoNClJlZ2FyZHMsDQpEb3cgSm9uZXMgQ3VzdG9tZXIgU2Vydmlj
+ZQ0KDQpUaGlzIGUtbWFpbCBtZXNzYWdlIHdhcyBzZW50IGZyb20gYSBub3RpZmljYXRpb24t
+b25seSBhZGRyZXNzIHRoYXQgY2Fubm90IGFjY2VwdCBpbmNvbWluZyBlLW1haWwuIFBsZWFz
+ZSBkbyBub3QgcmVwbHkgdG8gdGhpcyBtZXNzYWdlLg==
+
+--------------Boundary-00=_K5OAowFSswOOLz5umala
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+PGh0bWwgZGF0YS1sdC1pbnN0YWxsZWQ9InRydWUiPg0KICA8aGVhZD4NCiAgICA8bWV0YSBo
+dHRwLWVxdWl2PSJjb250ZW50LXR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD1V
+VEYtOCI+DQogIDwvaGVhZD4NCiAgDQo8Ym9keSBzcGVsbGNoZWNrPSJmYWxzZSIgZGF0YS1n
+cmFtbT0iZmFsc2UiPg0KDQo8UCBjbGFzcz1Nc29Ob3JtYWw+VGhhbmsgeW91IGZvciBjb250
+YWN0aW5nIHRoZSBEb3cgSm9uZXMgTWVtYmVyIFNlcnZpY2VzIFRlYW0uIFdlIGhhdmUgcmVj
+ZWl2ZWQgeW91ciBlbWFpbC4gQSBtZW1iZXIgb2YgdGhlIGN1c3RvbWVyIHNlcnZpY2UgdGVh
+bSB3aWxsIHJlc3BvbmQgdG8geW91ciBpbnF1aXJ5IGFzIHNvb24gYXMgcG9zc2libGUuPGJy
+Pg0KUmVnYXJkcyw8YnI+DQpEb3cgSm9uZXMgQ3VzdG9tZXIgU2VydmljZTxicj4NClRoaXMg
+ZS1tYWlsIG1lc3NhZ2Ugd2FzIHNlbnQgZnJvbSBhIG5vdGlmaWNhdGlvbi1vbmx5IGFkZHJl
+c3MgdGhhdCBjYW5ub3QgYWNjZXB0IGluY29taW5nIGUtbWFpbC4gUGxlYXNlIGRvIG5vdCBy
+ZXBseSB0byB0aGlzIG1lc3NhZ2UuPC9wPg0KDQo8L2JvZHk+DQo8L2h0bWw+
+
+--------------Boundary-00=_K5OAowFSswOOLz5umala--

@@ -1,0 +1,83 @@
+From - Wed Apr 20 04:12:55 2022
+X-Account-Key: account1
+X-UIDL: AEABXpsZJIzIYl+BoguoYJn+In8
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.32.201
+ by atlas302.free.mail.bf1.yahoo.com with HTTPS; Wed, 20 Apr 2022 03:44:34 +0000
+Return-Path: <6462563609@mms.att.net>
+X-Originating-Ip: [166.216.149.6]
+Received-SPF: pass (domain of mms.att.net designates 166.216.149.6 as permitted sender)
+Authentication-Results: atlas302.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@mms.att.net header.s=EMG20171113;
+ spf=pass smtp.mailfrom=mms.att.net;
+ dmarc=unknown header.from=mms.att.net;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 20 Apr 2022 03:44:34 +0000
+X-YMailISG: ULvG1fQWLDtoXjqxoOZhJMPEARbvfQLi_MhswcvbWQvSpUS0
+ bp4s7EscAJu_t.qfw8SFX66tUeGSUwGecKasTNnEundq5LBXivfJgHGjNeIa
+ 2SIFkXa1x2bYa_XBcBccZmFiojBVmdUYmQrf5cs7H24Y_J6TO8QwDJLCNlqY
+ .93CaMpwIthtyhDTOYjsWveWYjl_9dQKHFkmql8Ill1NM1Kyaxu4nlm_hmgD
+ Xc4.7TObyVW_PaJ.dd1xgGioBnrC_GKcSFzXkfkrWD0yT6zHvNc4XCYs1pm2
+ MGffPNAfrcfcLzAqgmyF_qfofxPFbobBew3uVHKEWkW5CNDlyw2lTlKjkgzZ
+ QOH3CttLN14EEWbKuEbs.AlaytF97Gbkp6kuqlMqwDxCbxk8n7hzBc3IxyiO
+ 9tYGomUogbtai0UOOXRibolk0FYgMBbvKljAdlVwPWb2qyIAjDbpVa.5sZ6w
+ dzqRU7C3Xcu.kLWYi9gZalqvlhJrfJDr0ZfPN_P0SIoMNHvjBCELQHDKKCUq
+ GcvzfWsr70NkfsQqGZxT4g7XlAX.bexzFsv.o3npLp8CIn.jy9_0ZAzSrL4p
+ yHn6GifEFM95I1tnuu02xyrh8Mo1pfEKf8aO.Kg4wuQWC223ueq6XRkpE.tl
+ SVbMFHowCtUva_Y_nOr_FVbl30I1jm5o6qVgwM8Qz4N96m0q5xBIAxLPl8gF
+ .kulba8a7wph8VjD7YX3Fvzzf3QgjBjghM513RxngV41HXZikmdcwmjx1PWu
+ BVTjPC_NVvz1lvcfcNx_4xMuDjYHHMYErm153qf4Nk_w3KkmlI_dHwrYqv2g
+ DTyr6hMX6CQ1NGcblhICeXt26.CTtOazCVlph6vH3wv8lrVX6Z3GO72pSmKa
+ Hj_sj.2GYhqNv2qKH2klXe4AZK8tdf22BHyJDdgQrP23QB9LwAVXSHDoK_hp
+ b9BdN2ZB8dLzCoDhuy5EfRpxquMerQ89hmGWeierVo3bRN17GgoFaPGCGrgj
+ XZxmjPL03uEujzJjPoyqpYda0lqhv5vVPVrkzUXy1pCuCZX5lnj6drMEn_d9
+ YZaxVVf58IFtuxcMqrTAa.ue4BfHWXUOvIdf_9jdwTbLwkMWhfmdFxZMEelH
+ IMnvViYCFdxglv2EjdOmQ0ERejVjbKCk66oloLm7..2CoAGkKgmTatrbhWdO
+ TyjI64MgMj4gWx.PKm6TllEtpEB8TiLE5pQGvR4R.ozH8XDqdSrJjZBvo2Z1
+ DTbEG83m
+Received: from 166.216.149.6 (EHLO alpemg-mtmta03.wnsnet.attws.com)
+ by 10.197.32.201 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 20 Apr 2022 03:44:34 +0000
+Received: from zwhp1ammsc01nfe002.wnsnet.whp1a.tci.att.com ([107.78.102.28])
+	by bizsmtp with ESMTP
+	id h1GanNyafRZeqh1Gcns7m4; Tue, 19 Apr 2022 23:44:34 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mms.att.net;
+	s=EMG20171113; t=1650426274;
+	bh=nZ71gk6YgWhk+gYLdTfxNRN2hGuSwAHvmEtmoXvMfrQ=;
+	h=In-Reply-To:To:Subject:From:Date;
+	b=CsfZEUHkotdKxAfkDUbOIp8I5vqt7BMPa2ERD1jy9Ik4pVIUDPU9cDQRSPJjI/9rL
+	 yWPiQTimA9BfFu1ktxVTzNRtTWPPjQBpnLlhzqO/cGrwmrgDrvTrYvFDfPjdARNyZf
+	 1hrYPrVoxHVt6xgcuR/8gubNPshl3YqEzzcgMvp9bsV2zQqCSY5YEjiumJVOyNxdlK
+	 qX1y5jzdHsrrXpLRe9i5VDywqkfPqOPXSwCCR9gn40ljDvj6KGBRtBR8P2SzVPPHEQ
+	 HsfT79qLzsZ9soCp0a0Luipsds0oSx+HvQYBm4DxMtVCQID+9aAjkNEgxdP+5loSz2
+	 ZHnZki5FHeBVQ==
+Message-ID: <h1GanNyafRZeqh1Gcns7m4@txt.att.net>
+In-Reply-To: 725459785.89973891.1650426274062.JavaMail.nems@zwhp1ammsc01nfe002
+X-Mms-Message-Type: m-send-req
+X-Mms-Transaction-Id: 1650426270-76
+X-Mms-MMS-Version: 1.2
+To: ms60710444266@yahoo.com
+Subject: individual 6507985   PRIYA DARSINI RAHURAM - CRD FIRM NUMBER
+ 8209[FILED].pdf
+From: 6462563609@mms.att.net
+Date: Wed, 20 Apr 2022 03:44:34 +0000 (UTC)
+X-Mms-Sender-Visibility: Show
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_89973890_870200461.1650426274062"
+MIME-Version: 1.0
+X-CMAE-Envelope: MS4xfGqy5PZ0fw+X4fPSewyg5xZvzBp+UXYhmpVmhDB9QLehAqbzAe/mWhzylgwZ6YzoubP/XnvtW3ZjbGuJG6xIbXmjLASpvCXUJ7Q6rMJB/upshmCK0U4b
+ Z+JOEb8us9ZHX/lNDrUfYrFa83/blqiSE+eyDzpOn2LY975b2G+onP1Uleagqw7T8ugrIYevZ+6TuL42peiz36O2KiU4hG/t2I4LPImqs4vGC8h7/dYQsBOW
+Content-Length: 410
+
+------=_Part_89973890_870200461.1650426274062
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: Attachment; Filename=text_0.txt; Charset=UTF-8
+Content-ID: 0
+Content-Location: text_0.txt
+Content-Transfer-Encoding: BASE64
+
+aHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9saW5rL3RyYWNrP3VyaT11cm46YWFpZDpzY2RzOlVT
+OmU4YTkxYjQ3LThiYWYtMzM5ZS1iM2IxLWEzMGEzNzRhYzFlNg==
+------=_Part_89973890_870200461.1650426274062--

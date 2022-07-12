@@ -1,0 +1,83 @@
+From - Wed Apr 20 04:12:59 2022
+X-Account-Key: account1
+X-UIDL: AJ+4dKw2SoPVYl+DiQmoqASP3YY
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.35.48
+ by atlas304.free.mail.gq1.yahoo.com with HTTPS; Wed, 20 Apr 2022 03:53:50 +0000
+Return-Path: <6462563609@mms.att.net>
+X-Originating-Ip: [166.216.149.7]
+Received-SPF: pass (domain of mms.att.net designates 166.216.149.7 as permitted sender)
+Authentication-Results: atlas304.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@mms.att.net header.s=EMG20171113;
+ spf=pass smtp.mailfrom=mms.att.net;
+ dmarc=unknown header.from=mms.att.net;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 20 Apr 2022 03:53:50 +0000
+X-YMailISG: POGweX8WLDuvQAcYeCAiTYNz8sRyll57E_SQKEx5R2DJAn5t
+ 89UZqPIlCb.C2PkbgmK99wpniUHFnS3GKtl1tNKAlBWUDJyeKKtjsiOANDih
+ YBZVn9McR9TiGQLWI20BA1BKz8Cc5ILt29xjWcjtwks2MFZrmxWfMvKcaSST
+ GMhs8GN1BLaVyLzKdfGD1hwLmm6IHnl_Y0et2.AY7Nub0UuYqygY5CV7XMtX
+ .YfzQ5rmtxGn0DMYUOjt118y61MXTwqHARXIaYbVtZwJvr0oiCzx84nxD.Af
+ ceRBogGEEM3duTIZR9zWirG02pDt2lenIjhZ1xi.dSYt1i4hORPjeX7A0ME1
+ ijmcDlVmhDepGVP0.PqkjvPPd.tMIhDtCwrJ53EFFBqeKBEOLs36r5x0vpGZ
+ gXmRO2IkDm0MGhw1vOlf1xd1LjOsMK1cxjgm2MJReeiuwQXe3COxHz32jWFT
+ OI2O.ptNisjBBTSzpXo69r.9PrIsu2ybByBQpry0z95ZLamAIbfFAYz4K98g
+ qOxN7r8cRYw2..Vx2EYXC44j9xm1rFYlXq1ikcOw6b0rSIoPb0Ufzw261OXj
+ f0W9k9cX9PEBv9LkyIiGONkQqW3jJ9LJ6PPMeK0OWlQ_3uYgO2TDPWJKB.tx
+ 7lj0Kalmqx5Kcnil390k0CyG38LPyZsj7xmLnD8jL0nm7dPnQyCwGemTORBU
+ 1IL0UngG.Qh0JSB0uiDS3TXy5VwQbeRKVFdE8t2K1E5Ch6rbAcGbQDjXUvQ4
+ 45bIJ6uFzrcSE9fba3ed.zyGAZsyl.oN8RO4pHl6E0z_zjR4eqzDvrI8._A8
+ G6zZPpXQZXTJRBGrmR6ieXiJX4GZjMl7R0z.4jNie1d68ocACQcVVo26AWvr
+ WKVD2ha_vRVpdhTPx411OU2r0E09BAxKx_RDbNYASXeDWO32mL_md0dy7j5P
+ CTJAweJHc40PqysYBxDRGPkiRAPUsuLvkdqQVTxxA5V.6KqiuWw502sb3dad
+ Juqx7Jam.49jaGhyam1AeZ3hrsW1L_5p6Sr2GdsB_E5_svuDJLuMsRpudhYW
+ TjDqUmxf5Akr8zOrT5zMBvB_X9ONgwtclqF.fQ3gqz7PX8g50rY95ZN_znAU
+ Wn5hF9fambL6RnuW_orM28zJOgWE2kdorRFVZAoUquhIWVWoiqTh0IRvqW.k
+ 0dk8wOqaLTj4L3RAGImIa8i2D2hG.TLdhr6jXSNcPEui4eHxVWwQVDc.8y2r
+ TifS31R0Ouw3
+Received: from 166.216.149.7 (EHLO alpemg-mtmta04.wnsnet.attws.com)
+ by 10.253.35.48 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 20 Apr 2022 03:53:50 +0000
+Received: from zdll2bmmsc01nfe001.wnsnet.dll2b.tci.att.com ([107.78.102.28])
+	by bizsmtp with ESMTP
+	id h1PZnEFTVBkeSh1PZnxsim; Tue, 19 Apr 2022 23:53:49 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mms.att.net;
+	s=EMG20171113; t=1650426829;
+	bh=/X5Hnx+Ah5EYJ3drYyUR0UMXy6yyp31s27nYCLOpLYM=;
+	h=In-Reply-To:To:Subject:From:Date;
+	b=BflNmGL+ymwRx/fK0UVOcsKdq+1pieZOd43jRQFPoQWFcKoFXdM1Kn9zauJX598/B
+	 ItkaJOTqTvkUZ4YY4NNPD0s1lgWfcmIio6Xc9XLFPsY0XVojkXLwgHjlRPNRhZGDqp
+	 rCIkZ8dsPvBobt29KpkFmVzNfRRYpeOwgBmS6Dw3tJK1jQUPkzmqbaYvxVRbtFcvg4
+	 yyQdp6ARoxmMar0X4FhewcUilY32Aox/V5IyMhP/173RXoAapiWSER431zWkoJlHOB
+	 YPJzD3sz2jYkev63lJPe+LcqEiGHQ6xfe/Pt0fjvoxgipQpaiImhoRDiu1H6Wkqmaj
+	 yYjLec6fadm8Q==
+Message-ID: <h1PZnEFTVBkeSh1PZnxsim@txt.att.net>
+In-Reply-To: 2063728185.89226193.1650426829810.JavaMail.nems@zdll2bmmsc01nfe001
+X-Mms-Message-Type: m-send-req
+X-Mms-Transaction-Id: 1650426826-89
+X-Mms-MMS-Version: 1.2
+To: ms60710444266@yahoo.com
+Subject: https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:4438785b-f1ab-36b7-
+ 9826-dce952a9fae1
+From: 6462563609@mms.att.net
+Date: Wed, 20 Apr 2022 03:53:49 +0000 (UTC)
+X-Mms-Sender-Visibility: Show
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_89226192_661698447.1650426829810"
+MIME-Version: 1.0
+X-CMAE-Envelope: MS4xfBIOahhYrjyYqe1xLVxI1UxJ7QG88hWkY5rmen41QWtEEIerBWsSuTph2iNjLY/36LZf3D9/KFjsiAxDXffZ8PH/Tb4cXJNj37hB+wU6iNrKaL7JeP/U
+ zs/nEmwULk2bju6oBuRrQWCgYPuxJXWJM9dBzI4JCFUFtfEvRL1K/sVYU9ITyheQQEmdXmkL40VuDIVC6I8J3+pl8DdAJCn0sl2z2wapybw/XQw4O/8KtRox
+Content-Length: 410
+
+------=_Part_89226192_661698447.1650426829810
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: Attachment; Filename=text_0.txt; Charset=UTF-8
+Content-ID: 0
+Content-Location: text_0.txt
+Content-Transfer-Encoding: BASE64
+
+aHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9saW5rL3RyYWNrP3VyaT11cm46YWFpZDpzY2RzOlVT
+OjQ0Mzg3ODViLWYxYWItMzZiNy05ODI2LWRjZTk1MmE5ZmFlMQ==
+------=_Part_89226192_661698447.1650426829810--

@@ -1,0 +1,91 @@
+From - Sun May  8 05:27:06 2022
+X-Account-Key: account1
+X-UIDL: AHeQRtEXzRQ1YneYzQRo6FX8wYU
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.35.9
+ by atlas211.free.mail.bf1.yahoo.com with HTTPS; Sun, 8 May 2022 10:17:49 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.204]
+Received-SPF: pass (domain of github.com designates 192.30.252.204 as permitted sender)
+Authentication-Results: atlas211.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sun, 8 May 2022 10:17:49 +0000
+X-YMailAVSC: OknmFWM3bBt1i_HE5PSfGGO1R7Q1Hr2BuxlHVlkpxDAxXGk
+ QLKIPMRZj.Xs7FhFunaRA76.PACUffwyyF3DMsCS.JDzENDAUaSZaEuPqTKa
+ X4qONTgUFz5Up9IbONiEBT1vAdD3gJKOkktvlucOxUnbkLCcN4.v2WLxoHPf
+ 9ybwUpkcWvaLXy5GLJH6NBA8.w_UEiJbysmAuyi4iJmFX.BkLPFc8MenoMFX
+ pVU1C5t8tP6pyFYE_ZlTOIPA92TLvdkR3EzzIBThE.rrV8FLBOI20ovm8RJo
+ NVhVdcrE3siD.CNYaIyQoTUE55jIgaKEsVMGX2md_innJx2WktiEMqPgbSg-
+ -
+X-YMailISG: pdd7L.4WLDuk1yACvEcJCazTniHzPXCbeuQYPKukJlIHHnPv
+ 1KRRnqvNO8nWdAhtWRphH8FXvRnggb0M46IFYzm.Ww5xzW.Dw8HmBCVSdPBP
+ r_SSI5.Zt3nFVTgnihYgjhZKUC_Nsv6TC6rRyQic46Mkq76ljlm2pmYKtxUE
+ m87mCduWENBRbDLTbDeMMy8B.Dl88Q2RyAjC.cjw4gqZ8CY628UZ1AFdqnP4
+ O50FhyErzIJ1JlEgjURGoqZ_.WscHXto4zFsrLANb_6xNoIJnvJM6srbgtC5
+ BtzQKltOSLTAGYGEG74vA3hXcZuRoDzmh3xHyMZkUEPOHC5e548BS7IILvS6
+ s4HmkMwumefgn2ZnnwhzVNpbBU.gTwpX7fE.dSFwSzU4n9nVlCE.KN1h51FC
+ 6XkYho7C6A3QsjM3sh2DINYlUdy3v38ZCaCo47l8c2CVcN65cvQYTe46f.nH
+ sJ0vZ.pSM7eu7pHg9dRvmMzRuGviXP.EBIyWCNLfUsyrBC_4XntF6LSgZf9o
+ Sb6Kefyyp1EfKbu5olfVPfZ.DTGWTZP7AqCIsu0j_5jWjfuftlNY22ViYzcp
+ vXK4z0yKMZ0RmazDGx8bN.MqegEvRe9t4YUa25MI4z6Tz5Wx.3u3GKJVuJNH
+ ND6ddEXQvB1f6Bvd68hNVTyv5swnnjbMx8nU9vroavwdFCtcv78iUykHbiJu
+ fDcRlC3ebOUyqPLkNSHGafgtic3xOxVlKxJcUCqWcxuWVaSSP46MrXytHr.e
+ T0w5y3dlQOF4X4GMnkwaYaHPVVTH9R52sDYxTyG8ftgD7qCFq84l8aYe6ppI
+ DIq_PWpbUOkmwz6I8y27eansavgnF4vpQZhEUlo1DwA6ia4N1HJ1s3Xv1r7a
+ 8AsF8FTsW5e12zWwmLi_44yNaGE4cLsDyCOmW3wJH2rhW9YXPHU7kZzv5MQE
+ RutYZlpeP_TBbarwd7xHPGFHsPiDHxlriX2JXxCF_pRez1s0C_cLAcKu9NNW
+ II735z2NSgp_EHgj02TKgv_kxTA2IfDxJCAJtgttGrdAjc.OsGlf9pYQDfTf
+ 873Ul14FOR5ni1NtRz_K6S76rZ2SJQC5N4qy.bTRyNs1cWyoe.kGHG_DlBWC
+ JWWcof19xttgm4JEXmZCCFQTWT4yHFq5T614htp5ieybpu3XM4XrTkTMkxJx
+ Rhtp
+Received: from 192.30.252.204 (EHLO smtp.github.com)
+ by 10.197.35.9 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sun, 08 May 2022 10:17:49 +0000
+Received: from github.com (hubbernetes-node-ec53738.ac4-iad.github.net [10.52.201.76])
+	by smtp.github.com (Postfix) with ESMTPA id BD6EE5200AB;
+	Sun,  8 May 2022 03:17:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1652005068;
+	bh=LMhnvoCsbeydfLgZ36k+ZFtmKF9u5X2oxDUrAJr3oHM=;
+	h=Date:From:To:Subject:From;
+	b=J6VOO5oq332dxA8eAPH6hVGAsJ+hLhtr0/74i6HcIHWAFf76zhT8xb78m4aL3uXsh
+	 /DP1ymVHpTxcYVTfcNMyJr3UlSjTNPdV9MNRtSFOi0TTB1sjbqtfaGluD9AG9TyUEO
+	 KP/HOlZoFTlii4/xva1ynSP+61R2cASOTqzXsX24=
+Date: Sun, 08 May 2022 03:17:48 -0700
+From: "DINCER & CO." <noreply@github.com>
+To: info@kpmg.com, 
+ MS60710444266@YAHOO.COM
+Message-ID: <BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/push/refs/heads/REQUEST-TO-BAR/3e03ec-d1d73d@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER] d1d73d: JUST LOOKING FOR AN
+ OPINION, OTHER THAN A ZUCKER -...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: MOV DISTRIBUTIONS ANNEXED
+X-GitHub-Recipient-Address: info@kpmg.com,MS60710444266@YAHOO.COM
+X-Auto-Response-Suppress: All
+Content-Length: 582
+
+  Branch: refs/heads/REQUEST-TO-BAR
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER
+  Commit: d1d73d4ae0feb68c961ad1d8f203cfccf0301b27
+      https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/d1d73d4ae0feb68c961ad1d8f203cfccf0301b27
+  Author: DINCER & CO <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-05-08 (Sun, 08 May 2022)
+
+  Changed paths:
+    M README.md
+
+  Log Message:
+  -----------
+  JUST LOOKING FOR AN OPINION, OTHER THAN A ZUCKER - IF THIS IS CONSIDERED "TRANSPARENCY"
+
+AND BY ONE OF ITS 3 PROMOTING BROKERS...
+
+
