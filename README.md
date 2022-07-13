@@ -3,6 +3,51 @@
 400828/2020 thru 400842/2020
 *** FILED WHILE I WAS BEING KEPT "PRE-OCCUPIED WHILE THEY OBTAIN A $6 MILLION DOLLAR LOAN FROM STATE FARM LIFE INSURANCE COMPANY"
 
+---
+
+## unlawful restraint
+
+----- Forwarded Message -----
+From: "Bo Dincer" <bd2561@columbia.edu>
+To: "b-dincer66@outlook.com" <b-dincer66@outlook.com>, "Bo Dincer" <BO.DINCER@yahoo.com>
+Cc:
+Sent: Tue, Aug 4, 2020 at 7:37 AM
+Subject: check NYSCEF: FW: 153974/2020 Sullivan Properties L.P. v. Ba
+---------- Forwarded message ---------
+From: William McKenzie <wmckenzi@nycourts.gov>
+Date: Mon, Jun 22, 2020 at 2:34 PM
+Subject: RE: FW: 153974/2020 Sullivan Properties L.P. v. Baris Dincer - TELEPHONIC ORAL ARGUMENT ON TEMPORARY RESTRAINING ORDER JUNE 23, 2020 AT 12PM
+To: Bo Dincer <bd2561@columbia.edu>, Laskowitz, Shari <slaskowitz@ingramllp.com>
+Cc: Bo Dincer <BO.DINCER@yahoo.com>
+
+
+Dear Mr. Dincer,
+ 
+Thank you for your email.  Attendance is mandatory.
+ 
+Take due notice thereof.
+ 
+Sincerely,
+ 
+William McKenzie
+Part Clerk to the Honorable Shlomo S. Hagler, J.S.C.
+New York Supreme Court, Civil Branch – Part 17
+60 Centre Street, Room 335
+New York, New York 10007
+(646) 386-3283 (Part 17)
+
+
+--
+
+On Mon, Jun 22, 2020, 1:13 PM Laskowitz, Shari <slaskowitz@ingramllp.com> wrote:
+Mr. Dincer: Per the email below, the court has scheduled a telephonic court appearance for tomorrow at 12PM. As soon as I am provided  with the call-in information, I will forward that to you as well.
+ 
+ Shari S. Laskowitz | Of Counsel
+
+[<wmckenzi@nycourts>, <slaskowitz@ingramllp.com>](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/commit/49f3d3e4f8fef0c140b5efeb2c1c631d32c8be77)
+
+--
+---
 https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=HD6/wXvlOxflJUlQyXqedQ==
 
 https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/raw/770684e0481346064f725428e5432ecc7a098ab7/THIS%20IS%20THE%20ESSENCE%20OF%20OBSTRUCTION%20MY%20FRIENDS.gif
