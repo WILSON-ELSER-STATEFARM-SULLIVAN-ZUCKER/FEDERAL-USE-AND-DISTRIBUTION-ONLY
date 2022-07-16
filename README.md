@@ -5,7 +5,18 @@
 
 ---
 
-## unlawful restraint
+those hotels and cameras will show you the path to the FELONS who tracked me, UNAUTHORIZED ENTRIES.
+*** INDEXED THE FIRST 14 TO GET YOU A HEAD START...
+
+![image](https://user-images.githubusercontent.com/108204659/179366648-41c9069f-4f59-4628-90bf-e12ca7139bf9.png)
+
+THANK YOU FOR UNDERSTANDING, WITHOUT CONSENT - AND A PROMPT REFUND IN THE PRIOR AS WELL.
+
+
+
+## unlawful restraint - includes monetary resources WHICH PRECLUDE ME FROM PROVIDING THESE DOCUMENTS TO LAW ENFORCEMENT AS WELL.
+
+*** so keep pinping that IP ladies and gentleman... nobody's watching.
 
 ----- Forwarded Message -----
 From: "Bo Dincer" <bd2561@columbia.edu>
