@@ -64,6 +64,10 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFi
 <br>
 ACRIS Detailed Document Information (2020000155422)2020052000291003<br>
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==<br>
+<br>USC 18.225 VERIFIED <br><br>
+https://a836-acris.nyc.gov/DS/DocumentG%C3%A9aich/DocumcM%C2%B1egeView?doc_id=2020052000291003
+<br>
+https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=2020052000291003
 <br>
 ACRIS Detailed Document Information (2020000155423)2020052000291004<br>
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==<br>
