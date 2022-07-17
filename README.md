@@ -5,6 +5,10 @@
 
 # THE ZUCKER ENTITIES
 
+** if they are filing in other counties - after NY SUPREME COURT MATTER 153974.2020 --- they must be EXEMPT FROM LAW-
+<br><br>
+###  which is a VIOLATION OF THE SHERMAN ANTITRUST ACT, KNOWN BY ALL COUNSELORS INVOLVED.
+
 1.	ZUCKER ENTERPRISES L.L.C.<br>
 	DOS ID: 2635378<br>
 <br>
