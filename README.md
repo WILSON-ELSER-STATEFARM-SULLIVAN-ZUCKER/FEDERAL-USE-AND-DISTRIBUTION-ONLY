@@ -74,6 +74,9 @@ https://a836-acris.nyc.gov/DS/DocumentG%C3%A9aich/DocumcM%C2%B1egeView?doc_id=20
 <br>
 https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=2020052000291003
 <br>
+<br>USC TITLE 18.225 VIOLATION -- ANNEXED AS WELL - BENEFITTED BY ALL ZUCKER CORPORATIONS, DIRECTORS, AND COUNSELORS ABOVE....<br>
+https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=2020052000291003<br>
+<br><br>
 ACRIS Detailed Document Information (2020000155423)2020052000291004<br>
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==<br>
 
