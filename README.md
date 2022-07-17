@@ -5,14 +5,87 @@
 
 # THE ZUCKER ENTITIES
 
+1.	ZUCKER ENTERPRISES L.L.C.<br>
+	DOS ID: 2635378<br>
+<br>
+2.	ZUCKER ENTERPRISES, L.P.<br>
+	DOS ID: 2190395<br><br><br>
+3.	...
+<br><br>
+## DIRECTORS OF THE ZUCKER ENTITIES
+
+1.	DONALD ZUCKER
+2.	LAURIE ZUCKER
+3.	PAUL REGAN
+4.	THOMAS ESCHMANN
+5.	ROBERT ESNARD (DEED)
+6.	JOSEPH GIAMBOI
+7.	TRAVIS POWERS (BROKER), UNIVERSITY OF WISCONSIN
+8.	
+9.	...
+<br><br>
+## ATTORNEYS OF THE ZUCKER ENTITIES IN NYSCEF MATTER 153974/2020
+1.	SHARI LASKOWITZ
+2.	PAUL REGAN
+3.	ASHLEY HUMPHRIES
+4.	...
+
 [FILED THEIR USC TITLE 18.21 VIOLATIONS WITH THE NYC/NY FINANCE REGISTER](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/files/9128355/NYC.DEPT.OF.FINANCE.-.PUBLIC.RECORD.-.SATISFIED.USC.TITLE.18.21.VIOLATED.pdf)
+<br>
+#### VERIFIES VIOLATIONS OF USC TITLE 18.21, USC TITLE 18.4, 18.3, 18.2<br>
+*** VIOLATED USC TITLE 18.1962, VIOLATED USC TITLE 18.1963<br>
+<br>
+[ TITLE 18.21, USC TITLE 18.4, 18.3, 18.2 --- VIOLATED USC TITLE 18.1962, VIOLATED USC TITLE 18.1963 ](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/files/9128365/USC.18.21.USC.18.2.USC.18.215.USC.18.1962.OPTIMIZED22.pdf)
+<br>
+
+# FILED THEIR PARICIPATION AND WILFULL VIOLATION OF USC TITLE 18.225 IN NYSCEF 153974/2020
+
+<pre>
+Title 18 - Crimes and Criminal Procedure
+Part I: §1962 - §1963
+§ 1962 - Prohibited activities
+	(a) It shall be unlawful for any person who has received any income derived, directly or indirectly, from a pattern of racketeering activity or through collection of an unlawful debt in which such person has participated as a principal within the meaning of section 2, title 18, United States Code, to use or invest, directly or indirectly, any part of such income, or the proceeds of such income, in acquisition of any interest in, or the establishment or operation of, any enterprise which is engaged in, or the activities of which affect, interstate or foreign commerce. A purchase of securities on the open market for purposes of investment, and without the intention of controlling or participating in the control of the issuer, or of assisting another to do so, shall not be unlawful under this subsection if the securities of the issuer held by the purchaser, the members of his immediate family, and his or their accomplices in any pattern or racketeering activity or the collection of an unlawful debt after such purchase do not amount in the aggregate to one percent of the outstanding securities of any one class, and do not confer, either in law or in fact, the power to elect one or more directors of the issuer.
+	(b) It shall be unlawful for any person through a pattern of racketeering activity or through collection of an unlawful debt to acquire or maintain, directly or indirectly, any interest in or control of any enterprise which is engaged in, or the activities of which affect, interstate or foreign commerce.
+	(c) It shall be unlawful for any person employed by or associated with any enterprise engaged in, or the activities of which affect, interstate or foreign commerce, to conduct or participate, directly or indirectly, in the conduct of such enterprise's affairs through a pattern of racketeering activity or collection of unlawful debt.
+	(d) It shall be unlawful for any person to conspire to violate any of the provisions of subsection (a), (b), or (c) of this section.
+	
+</pre>
+
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH TO STATE FARM LIFE INSURANCE COMPANY - INCLUDING THEIR TAX RISKS AS IMPLIED<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==<br>
+<br>
+ACRIS Detailed Document Information (2019000021408)2019010800475001<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ze6a1KA9akRV9TGfXXJT/g==<br>
+<br>
+ACRIS Detailed Document Information (2020000155422)2020052000291003<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw==<br>
+<br>
+ACRIS Detailed Document Information (2020000155421)2020052000291002<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw==<br>
+<br>
+ACRIS Detailed Document Information (2020000155422)2020052000291003<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==<br>
+<br>
+ACRIS Detailed Document Information (2020000155423)2020052000291004<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==<br>
+
+<br>
+ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==<br>
+
+<br>
+COMPLAINT #14585819 (7/25/2020) @BBB
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7Ry3LAoVfWOLjSXhyJZ94A==<br>
+
+<br>
+LETTER OF OBSTRUCTION, ON BEHALF OF THE ZUCKER ENTERPRISES BY ONE OF THEIR SEVERAL ATTORNEYS REQUESTED I "NOT CONTACT THE FTC, OR STATE FARM..."<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==<br>
 
 
-ZUCKER ENTERPRISES L.L.C.
-DOS ID: 2635378
 
-ZUCKER ENTERPRISES, L.P.
-DOS ID: 2190395
+
+![image](https://user-images.githubusercontent.com/108204659/179420767-38e27714-9fa1-45fd-9cd2-505be0124543.png)
+
 
 # RECEIPTS
 
