@@ -1,5 +1,12 @@
 #### THIS PAGE IS BEING MONITORED BY SEVERAL DEPARTMENTS AS PART OF A FEDERAL BANK AND [SECURITIES FRAUD INVESTIGATION.](https://www.youtube.com/watch?v=0EnOhpMRgwg)
 
+[WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_FEDERAL-USE-AND-DISTRIBUTION-ONLY](https://saaze2311prdsra.blob.core.windows.net/clean/63e7e5c65409ed1182e5000d3a98e815/Re%20[location]%201253%20EST%20AUGUST%204TH%20CONFIRMATION.pdf)
+
+
+![917-378-3467 to 1-855-5324 on JULY 10 2022 conv time 329 seconds](https://user-images.githubusercontent.com/108204659/180380159-358d521a-a71f-4d95-ab09-fc92d3369190.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/108204659/180001548-82cc2b9f-c769-402c-897d-6c5853af053d.png)
 
 
